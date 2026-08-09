@@ -1,5 +1,7 @@
 # Mon Manuel de Français
 
+**Live: <https://tywatson95.github.io/mon-manuel-de-francais/>**
+
 An interactive French textbook, **A1 → B2**, browsable by topic. Grammar lessons, vocabulary
 flashcards, a searchable conjugator for 254 verbs, four kinds of exercise, text-to-speech, and
 accent-insensitive global search.
@@ -101,12 +103,18 @@ and optionally `impf`, `subj`, `ps`, `ppr`, `impr`. Extra flags: `refl` (pronomi
 
 ---
 
-## Deploying to GitHub Pages
+## Deploying
 
-Serve from the branch root — there is no build step:
+Already set up — **every push to `main` publishes the site automatically.**
 
-1. Push this folder to a public repo (suggested name `mon-manuel-de-francais`).
-2. **Settings → Pages → Source: Deploy from a branch**, branch `main`, folder `/ (root)`.
+`.github/workflows/deploy.yml` runs `node tools/build-index.js` first. That script
+validates the content and regenerates `manifest.json` and `search-index.json`, so the
+live navigation and search are always in step with the lesson files — and if it finds a
+problem (a lesson missing its "L'essentiel" box, a missing Récap express, a duplicate verb
+id), the deploy stops and the old site stays up.
+
+Progress and history are under the repo's **Actions** tab. You can also re-run a deploy by
+hand there with **Run workflow**, without pushing anything.
 
 Routing uses hashes (`#/l/tm-a2-imparfait`), so every URL survives static hosting without
 redirect rules, and the site works from a project subpath (`/mon-manuel-de-francais/`) as well as
