@@ -1,0 +1,166 @@
+{
+  "id": "ph-b2-mise-en-relief",
+  "group": "phrase",
+  "level": "B2",
+  "order": 410,
+  "title": "La mise en relief",
+  "summary": "C’est… qui, ce qui… c’est : mettre un mot sous le projecteur.",
+  "essentiel": [
+    "[fr]**C’est** X **qui**…[/fr] met en valeur le **sujet** · [fr]**C’est** X **que**…[/fr] met en valeur le **complément**.",
+    "[fr]**Ce qui / ce que**… **c’est**…[/fr] annonce l’élément important à la fin.",
+    "Le français ne peut pas accentuer un mot par la voix comme l’anglais : il le déplace."
+  ],
+  "regle": "En anglais, on peut insister en appuyant sur un mot : *I said that.* Le français n’a pas cette liberté — son accent tombe toujours en fin de groupe. Pour insister, il **restructure la phrase**.\n\n**1 · [fr]C’est… qui / que[/fr].**\n[fr]**C’est Marie qui** a téléphoné.[/fr] ((it was Marie who called — not someone else))\n[fr]**C’est ce livre que** je cherchais.[/fr] ((this is the book I was looking for))\n\nLe verbe s’accorde avec l’élément mis en relief : [fr]C’est **moi qui** ai raison.[/fr] · [fr]Ce sont **eux qui** décident.[/fr]\n\n**2 · [fr]Ce qui / ce que… c’est[/fr].** On annonce, puis on révèle.\n[fr]**Ce qui** m’étonne, **c’est** son calme.[/fr]\n[fr]**Ce que** je veux, **c’est** une réponse claire.[/fr]\n[fr]**Ce dont** j’ai besoin, **c’est** de temps.[/fr]\n\n**3 · La reprise pronominale.** Très fréquente à l’oral :\n[fr]**Moi**, je pense que…[/fr] · [fr]Ce film, je **l’**ai adoré.[/fr] · [fr]Paris, j’**y** vais souvent.[/fr]\n\n**4 · [fr]quant à[/fr] et [fr]en ce qui concerne[/fr]** — les formules de l’écrit :\n[fr]**Quant à** la question du budget, elle reste ouverte.[/fr]",
+  "exemples": [
+    {
+      "fr": "C’est toi qui as commencé !",
+      "en": "You’re the one who started it!"
+    },
+    {
+      "fr": "Ce n’est pas moi qui l’ai dit.",
+      "en": "I’m not the one who said it."
+    },
+    {
+      "fr": "Ce qui compte, c’est le résultat.",
+      "en": "What matters is the result."
+    },
+    {
+      "fr": "Ce dont nous manquons, c’est de moyens.",
+      "en": "What we lack is resources."
+    },
+    {
+      "fr": "Quant aux délais, ils seront respectés.",
+      "en": "As for the deadlines, they will be met."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les structures de mise en relief",
+      "collapsed": false,
+      "headers": [
+        "Structure",
+        "Ce qu’elle met en valeur",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "c’est… qui",
+          "le sujet",
+          "C’est lui **qui** décide."
+        ],
+        [
+          "c’est… que",
+          "le complément",
+          "C’est ce projet **que** je préfère."
+        ],
+        [
+          "ce qui… c’est",
+          "une idée sujet",
+          "Ce qui m’intéresse, c’est l’histoire."
+        ],
+        [
+          "ce que… c’est",
+          "une idée complément",
+          "Ce que j’aime, c’est marcher."
+        ],
+        [
+          "ce dont… c’est",
+          "un complément en *de*",
+          "Ce dont je rêve, c’est du silence."
+        ],
+        [
+          "quant à",
+          "un thème (écrit)",
+          "Quant à lui, il a refusé."
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la structure correcte.",
+      "items": [
+        {
+          "q": "Mettre « Paul » en valeur : « Paul a cassé le vase. »",
+          "options": [
+            "C’est Paul qui a cassé le vase.",
+            "C’est Paul que a cassé le vase.",
+            "Ce qui Paul a cassé le vase."
+          ],
+          "answer": 0,
+          "why": "Sujet mis en relief → [fr]qui[/fr]."
+        },
+        {
+          "q": "Mettre « ce livre » en valeur : « Je veux ce livre. »",
+          "options": [
+            "C’est ce livre qui je veux.",
+            "C’est ce livre que je veux.",
+            "Ce qui je veux, c’est ce livre."
+          ],
+          "answer": 1,
+          "why": "Complément → [fr]que[/fr]."
+        },
+        {
+          "q": "« C’est nous qui ___ raison. »",
+          "options": [
+            "a",
+            "avons",
+            "ont"
+          ],
+          "answer": 1,
+          "why": "Le verbe s’accorde avec l’élément mis en relief."
+        },
+        {
+          "q": "« ___ j’ai besoin, c’est d’un peu de calme. »",
+          "options": [
+            "Ce qui",
+            "Ce que",
+            "Ce dont"
+          ],
+          "answer": 2,
+          "why": "[fr]avoir besoin **de**[/fr]."
+        },
+        {
+          "q": "« ___ me dérange, c’est le bruit. »",
+          "options": [
+            "Ce qui",
+            "Ce que",
+            "Ce dont"
+          ],
+          "answer": 0,
+          "why": "Sujet de [fr]dérange[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Reconstruis la phrase mise en relief.",
+      "items": [
+        {
+          "tokens": [
+            "C’est",
+            "elle",
+            "qui",
+            "a",
+            "tout",
+            "organisé"
+          ],
+          "answer": "C’est elle qui a tout organisé"
+        },
+        {
+          "tokens": [
+            "Ce",
+            "que",
+            "je",
+            "préfère,",
+            "c’est",
+            "le",
+            "silence"
+          ],
+          "answer": "Ce que je préfère, c’est le silence"
+        }
+      ]
+    }
+  ]
+}

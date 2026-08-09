@@ -1,0 +1,183 @@
+{
+  "id": "co-b1-cause",
+  "group": "connecteurs",
+  "level": "B1",
+  "order": 310,
+  "title": "La cause : nuancer",
+  "summary": "Puisque, étant donné que, en raison de — chaque nuance a son mot.",
+  "essentiel": [
+    "[fr]**puisque**[/fr] : la cause est **déjà connue** de l’interlocuteur — [fr]Puisque tu insistes…[/fr]",
+    "[fr]**étant donné que**, **vu que**[/fr] : cause objective, souvent écrite.",
+    "[fr]**en raison de**[/fr] + nom : registre administratif, neutre."
+  ],
+  "regle": "À B1, on ne se contente plus de [fr]parce que[/fr]. Chaque connecteur de cause apporte une nuance.\n\n**[fr]puisque[/fr] — la cause évidente ou déjà partagée.**\n[fr]**Puisque** tu es là, aide-moi.[/fr] ((since you’re here — we both know it))\nC’est le seul qui contient une idée d’argument : *given that you already know this*.\n\n**[fr]étant donné que[/fr] / [fr]vu que[/fr] — la cause objective, factuelle.**\n[fr]**Étant donné que** les résultats sont mauvais, nous changeons de méthode.[/fr]\n[fr]vu que[/fr] est le même sens en plus familier.\n\n**[fr]en raison de[/fr] / [fr]du fait de[/fr] + nom — le registre administratif.**\n[fr]Le service est interrompu **en raison de** travaux.[/fr]\n\n**[fr]faute de[/fr] — la cause négative : parce qu’il manque quelque chose.**\n[fr]Le projet a été abandonné **faute de** moyens.[/fr]\n\n**[fr]sous prétexte que[/fr] — une cause que le locuteur juge fausse.**\n[fr]Il a refusé **sous prétexte qu’**il était occupé.[/fr]\n\n**Attention à [fr]car[/fr] et [fr]parce que[/fr] au début d’un paragraphe** : ni l’un ni l’autre ne s’emploie pour ouvrir un texte. Utilise [fr]en effet[/fr] pour justifier après coup.",
+  "exemples": [
+    {
+      "fr": "Puisque vous connaissez déjà le dossier, je serai bref.",
+      "en": "Since you already know the file, I’ll be brief."
+    },
+    {
+      "fr": "Étant donné que le budget est limité, nous devons choisir.",
+      "en": "Given that the budget is limited, we have to choose."
+    },
+    {
+      "fr": "La réunion est reportée en raison d’un imprévu.",
+      "en": "The meeting is postponed due to an unforeseen event."
+    },
+    {
+      "fr": "Faute de preuves, l’affaire a été classée.",
+      "en": "For lack of evidence, the case was closed."
+    },
+    {
+      "fr": "Il est parti tôt, sous prétexte qu’il avait un rendez-vous.",
+      "en": "He left early, on the pretext that he had an appointment."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Choisir son connecteur de cause",
+      "collapsed": false,
+      "headers": [
+        "Connecteur",
+        "Suivi de",
+        "Nuance"
+      ],
+      "rows": [
+        [
+          "parce que",
+          "une phrase",
+          "neutre, réponse à *pourquoi*"
+        ],
+        [
+          "car",
+          "une phrase",
+          "écrit, jamais en tête"
+        ],
+        [
+          "comme",
+          "une phrase",
+          "cause en première position"
+        ],
+        [
+          "puisque",
+          "une phrase",
+          "cause déjà connue"
+        ],
+        [
+          "étant donné que",
+          "une phrase",
+          "objectif, formel"
+        ],
+        [
+          "en raison de",
+          "un nom",
+          "administratif"
+        ],
+        [
+          "grâce à",
+          "un nom",
+          "résultat positif"
+        ],
+        [
+          "à cause de",
+          "un nom",
+          "résultat négatif"
+        ],
+        [
+          "faute de",
+          "un nom",
+          "manque"
+        ],
+        [
+          "sous prétexte que",
+          "une phrase",
+          "cause jugée fausse"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel connecteur convient ?",
+      "items": [
+        {
+          "q": "___ tu es déjà au courant, je ne répète pas.",
+          "options": [
+            "Parce que",
+            "Puisque",
+            "À cause de"
+          ],
+          "answer": 1,
+          "why": "La cause est connue de l’interlocuteur."
+        },
+        {
+          "q": "Le train est supprimé ___ la grève.",
+          "options": [
+            "puisque",
+            "en raison de",
+            "faute de"
+          ],
+          "answer": 1,
+          "why": "+ nom, registre administratif."
+        },
+        {
+          "q": "Le concert est annulé ___ spectateurs.",
+          "options": [
+            "faute de",
+            "grâce à",
+            "puisque"
+          ],
+          "answer": 0,
+          "why": "Il en manque → [fr]faute de[/fr]."
+        },
+        {
+          "q": "Il n’est pas venu ___ il était malade. (écrit soigné)",
+          "options": [
+            "car",
+            "comme",
+            "à cause de"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "___ la situation est urgente, nous agissons aujourd’hui.",
+          "options": [
+            "Étant donné que",
+            "Grâce à",
+            "Faute de"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le connecteur à ce qui le suit.",
+      "labelLeft": "Connecteur",
+      "labelRight": "Suivi de",
+      "pairs": [
+        [
+          "parce que",
+          "une phrase complète"
+        ],
+        [
+          "à cause de",
+          "un nom"
+        ],
+        [
+          "grâce à",
+          "un nom (positif)"
+        ],
+        [
+          "puisque",
+          "une phrase déjà connue"
+        ],
+        [
+          "faute de",
+          "un nom manquant"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "cm-a2-medecin",
+  "group": "communication",
+  "level": "A2",
+  "order": 220,
+  "title": "Chez le médecin",
+  "summary": "Décrire un symptôme, comprendre une ordonnance.",
+  "essentiel": [
+    "[fr]**J’ai mal à…**[/fr] + partie du corps : [fr]j’ai mal **à la** tête, **au** ventre, **aux** dents[/fr].",
+    "[fr]Je suis malade · J’ai de la fièvre · Je tousse · Je me sens fatigué.[/fr]",
+    "[fr]une ordonnance[/fr] ((prescription)) · [fr]un médicament[/fr] · [fr]une pharmacie[/fr]."
+  ],
+  "regle": "**Dire où on a mal.** La structure est [fr]avoir mal à[/fr] + article contracté.\n[fr]J’ai mal **à la** gorge · **au** dos · **à l’**oreille · **aux** jambes[/fr]\n\n**Décrire les symptômes.**\n[fr]Je suis malade. · J’ai de la fièvre. · Je tousse. · J’ai le nez qui coule. · J’ai des courbatures. · Je me sens faible. · Ça me démange.[/fr]\n\n**Situer dans le temps.**\n[fr]Ça a commencé hier. · J’ai mal depuis trois jours. · Ça va et ça vient.[/fr]\n\n**Ce que dit le médecin.**\n[fr]Qu’est-ce qui ne va pas ? · Où avez-vous mal ? · Depuis quand ? · Vous prenez des médicaments ? · Vous êtes allergique à quelque chose ? · Je vous prescris un antibiotique. · Reposez-vous bien.[/fr]\n\n**À la pharmacie.**\n[fr]J’ai une ordonnance. · Vous avez quelque chose contre le mal de gorge ? · C’est remboursé ?[/fr]\n\n**Les urgences.** Le numéro européen est le **112** ; le SAMU est le **15**.",
+  "exemples": [
+    {
+      "fr": "Bonjour docteur, j’ai mal à la gorge depuis trois jours.",
+      "en": "Hello doctor, I’ve had a sore throat for three days."
+    },
+    {
+      "fr": "J’ai de la fièvre et je tousse beaucoup.",
+      "en": "I have a fever and I’m coughing a lot."
+    },
+    {
+      "fr": "Vous êtes allergique à un médicament ?",
+      "en": "Are you allergic to any medication?"
+    },
+    {
+      "fr": "Je vous prescris un sirop et du repos.",
+      "en": "I’m prescribing you a syrup and rest."
+    },
+    {
+      "fr": "Vous avez quelque chose contre le mal de tête ?",
+      "en": "Do you have something for a headache?"
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : consultation",
+    "lines": [
+      {
+        "who": "Médecin",
+        "fr": "Bonjour, qu’est-ce qui ne va pas ?",
+        "en": "Hello, what’s wrong?"
+      },
+      {
+        "who": "Patiente",
+        "fr": "J’ai mal au ventre depuis hier soir.",
+        "en": "I’ve had stomach ache since last night."
+      },
+      {
+        "who": "Médecin",
+        "fr": "Vous avez de la fièvre ?",
+        "en": "Do you have a temperature?"
+      },
+      {
+        "who": "Patiente",
+        "fr": "Un peu, 38 ce matin. Et je me sens très fatiguée.",
+        "en": "A bit, 38 this morning. And I feel very tired."
+      },
+      {
+        "who": "Médecin",
+        "fr": "Vous avez mangé quelque chose d’inhabituel ?",
+        "en": "Have you eaten anything unusual?"
+      },
+      {
+        "who": "Patiente",
+        "fr": "Des fruits de mer avant-hier, oui.",
+        "en": "Seafood the day before yesterday, yes."
+      }
+    ],
+    "check": {
+      "q": "Depuis quand la patiente a-t-elle mal ?",
+      "options": [
+        "Depuis hier soir.",
+        "Depuis ce matin.",
+        "Depuis avant-hier."
+      ],
+      "answer": 0
+    }
+  },
+  "culture": {
+    "icon": "💊",
+    "title": "La pharmacie, premier réflexe",
+    "text": "En France, on va souvent à la pharmacie **avant** le médecin. Le pharmacien peut conseiller et vendre beaucoup de traitements sans ordonnance. La croix verte lumineuse signale les pharmacies ; celle de garde est affichée sur la vitrine."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Complète avec à la, au, à l’ ou aux.",
+      "items": [
+        {
+          "before": "J’ai mal ",
+          "after": " tête.",
+          "answer": "à la"
+        },
+        {
+          "before": "Il a mal ",
+          "after": " dos.",
+          "answer": "au"
+        },
+        {
+          "before": "Elle a mal ",
+          "after": " oreilles.",
+          "answer": "aux"
+        },
+        {
+          "before": "Tu as mal ",
+          "after": " estomac ?",
+          "answer": "à l’"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Que dire ?",
+      "items": [
+        {
+          "q": "Tu as 39 de température :",
+          "options": [
+            "J’ai de la fièvre.",
+            "J’ai froid.",
+            "J’ai mal aux dents."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Le médecin te donne un papier pour la pharmacie :",
+          "options": [
+            "une ordonnance",
+            "un ticket",
+            "une facture"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tu veux un médicament sans voir le médecin :",
+          "options": [
+            "Vous avez quelque chose contre… ?",
+            "Je voudrais une ordonnance.",
+            "Où est l’hôpital ?"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Le numéro du SAMU est le…",
+          "options": [
+            "15",
+            "18",
+            "17"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

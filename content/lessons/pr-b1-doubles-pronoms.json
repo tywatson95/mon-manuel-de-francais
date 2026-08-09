@@ -1,0 +1,168 @@
+{
+  "id": "pr-b1-doubles-pronoms",
+  "group": "pronoms",
+  "level": "B1",
+  "order": 340,
+  "title": "Les doubles pronoms",
+  "summary": "Deux pronoms dans la même phrase : l’ordre est fixe.",
+  "essentiel": [
+    "L’ordre standard : **me/te/se/nous/vous → le/la/les → lui/leur → y → en**.",
+    "[fr]Je **le lui** donne. · Tu **m’en** parles. · Il **y en** a.[/fr]",
+    "À l’**impératif affirmatif**, l’ordre change : verbe + **COD** + **COI** : [fr]Donne-**le-moi** ![/fr]"
+  ],
+  "regle": "Quand deux pronoms se rencontrent, leur ordre ne dépend pas du sens mais d’une **grille fixe**.\n\n**Devant le verbe :**\n\nL’ordre est : **1** me, te, se, nous, vous · **2** le, la, les · **3** lui, leur · **4** y · **5** en.\n\n[fr]Il **me le** donne.[/fr] ((1 + 2))\n[fr]Je **le lui** ai dit.[/fr] ((2 + 3))\n[fr]Il y **en** a trois.[/fr] ((4 + 5))\n\nLa règle pratique : **les personnes 1 et 2 passent devant ; à la 3e personne, le COD passe devant le COI.**\n\n**À l’impératif affirmatif**, tout s’inverse et les pronoms passent derrière, reliés par des traits d’union :\n[fr]Donne-**le-moi** ![/fr] · [fr]Dis-**le-lui** ![/fr] · [fr]Va-t’**en** ![/fr]\n[fr]me[/fr] devient [fr]moi[/fr] et [fr]te[/fr] devient [fr]toi[/fr] en position finale.\n\nÀ l’impératif **négatif**, on revient à l’ordre normal : [fr]Ne **me le** donne pas ![/fr]",
+  "exemples": [
+    {
+      "fr": "Ce livre, je te le prête volontiers.",
+      "en": "This book, I’ll gladly lend it to you."
+    },
+    {
+      "fr": "Elle le leur a expliqué deux fois.",
+      "en": "She explained it to them twice."
+    },
+    {
+      "fr": "Des places ? Il y en a encore.",
+      "en": "Seats? There are still some."
+    },
+    {
+      "fr": "Donne-la-moi, s’il te plaît.",
+      "en": "Give it to me, please."
+    },
+    {
+      "fr": "Ne me les rends pas maintenant.",
+      "en": "Don’t give them back to me now."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "La grille d’ordre",
+      "collapsed": false,
+      "headers": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "rows": [
+        [
+          "me, te, se",
+          "le, la",
+          "lui",
+          "y",
+          "en"
+        ],
+        [
+          "nous, vous",
+          "les",
+          "leur",
+          "",
+          ""
+        ],
+        [
+          "*(personnes)*",
+          "*(COD)*",
+          "*(COI)*",
+          "*(lieu)*",
+          "*(quantité)*"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel est le bon ordre ?",
+      "items": [
+        {
+          "q": "Je (le / lui) ai donné.",
+          "options": [
+            "Je le lui ai donné.",
+            "Je lui le ai donné.",
+            "Je l’ai lui donné."
+          ],
+          "answer": 0,
+          "why": "À la 3e personne, le COD passe avant le COI."
+        },
+        {
+          "q": "Il (me / en) a parlé.",
+          "options": [
+            "Il en m’a parlé.",
+            "Il m’en a parlé.",
+            "Il me en a parlé."
+          ],
+          "answer": 1,
+          "why": "[fr]en[/fr] est toujours le dernier ; [fr]me[/fr] s’élide."
+        },
+        {
+          "q": "(à l’impératif) Donne le livre à moi.",
+          "options": [
+            "Donne-moi-le !",
+            "Donne-le-moi !",
+            "Me le donne !"
+          ],
+          "answer": 1,
+          "why": "Impératif affirmatif : COD puis COI, et [fr]me[/fr] devient [fr]moi[/fr]."
+        },
+        {
+          "q": "Ne (me / le) dis pas.",
+          "options": [
+            "Ne me le dis pas.",
+            "Ne le me dis pas.",
+            "Ne dis-le-moi pas."
+          ],
+          "answer": 0,
+          "why": "À la négation, l’ordre normal revient."
+        },
+        {
+          "q": "Des pommes ? Il (y / en) a.",
+          "options": [
+            "Il en y a.",
+            "Il y en a.",
+            "Il y a en."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets les mots dans l’ordre.",
+      "items": [
+        {
+          "tokens": [
+            "Je",
+            "vais",
+            "te",
+            "le",
+            "montrer"
+          ],
+          "answer": "Je vais te le montrer"
+        },
+        {
+          "tokens": [
+            "Elle",
+            "ne",
+            "nous",
+            "en",
+            "a",
+            "pas",
+            "parlé"
+          ],
+          "answer": "Elle ne nous en a pas parlé"
+        },
+        {
+          "tokens": [
+            "Ne",
+            "le",
+            "leur",
+            "dis",
+            "pas"
+          ],
+          "answer": "Ne le leur dis pas",
+          "why": "À la négation, on garde l’ordre normal : COD avant COI."
+        }
+      ]
+    }
+  ]
+}

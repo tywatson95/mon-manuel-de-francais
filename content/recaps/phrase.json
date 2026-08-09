@@ -1,0 +1,64 @@
+{
+  "id": "phrase",
+  "title": "Récap express — La phrase",
+  "level": "B1",
+  "summary": "Questionner, nier, rapporter, supposer, mettre en relief.",
+  "blocks": [
+    {
+      "level": "A1",
+      "title": "Questionner",
+      "points": [
+        "Trois registres : **intonation** ([fr]Tu viens ?[/fr]) → **est-ce que** → **inversion** ([fr]Viens-tu ?[/fr])",
+        "[fr]-t-[/fr] de liaison : [fr]A-**t**-il compris ?[/fr]",
+        "Mots : [fr]qui, que/quoi, où, quand, comment, combien, pourquoi, quel(le)(s)[/fr]",
+        "[fr]quel[/fr] s’accorde avec le nom qu’il accompagne."
+      ]
+    },
+    {
+      "level": "A1",
+      "title": "Nier et présenter",
+      "points": [
+        "[fr]ne[/fr] + verbe conjugué + [fr]pas[/fr] — au passé composé, autour de l’**auxiliaire**",
+        "[fr]**c’est** + article[/fr] ([fr]C’est un médecin[/fr]) / [fr]**il est** + adjectif ou métier nu[/fr] ([fr]Il est médecin[/fr])",
+        "[fr]il y a[/fr] est invariable ; + durée = *ago*."
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Les autres négations",
+      "points": [
+        "[fr]ne… plus / jamais / rien / personne / pas encore / ni… ni / aucun / que[/fr]",
+        "Au passé composé : [fr]rien[/fr] **avant** le participe, [fr]personne[/fr] **après**.",
+        "[fr]ne… que[/fr] n’est **pas** une négation : c’est *only*, et l’article ne change pas.",
+        "On ne cumule jamais [fr]pas[/fr] avec une autre négation."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Accord du participe",
+      "points": [
+        "**être** → accord avec le **sujet**",
+        "**avoir** → accord avec le **COD seulement s’il est placé avant**",
+        "Pronominaux : accord si le pronom est **COD** ([fr]elle s’est lavée[/fr]), pas s’il est COI ([fr]ils se sont parlé[/fr])."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Passif et si",
+      "points": [
+        "Passif = [fr]être[/fr] + participe accordé, agent avec [fr]par[/fr] (ou [fr]de[/fr] pour les sentiments)",
+        "[fr]si + présent → futur[/fr] · [fr]si + imparfait → conditionnel présent[/fr] · [fr]si + plus-que-parfait → conditionnel passé[/fr]",
+        "**Jamais de futur ni de conditionnel après [fr]si[/fr]** : « les si n’aiment pas les -rais »."
+      ]
+    },
+    {
+      "level": "B2",
+      "title": "Mettre en relief et éviter le passif",
+      "points": [
+        "[fr]C’est X **qui**…[/fr] (sujet) · [fr]C’est X **que**…[/fr] (complément)",
+        "[fr]Ce qui / ce que / ce dont…, **c’est**…[/fr]",
+        "Le français préfère [fr]**on**[/fr] ([fr]On m’a volé mon vélo[/fr]), [fr]**se faire** + inf.[/fr] ([fr]il s’est fait renvoyer[/fr]) et le **passif pronominal** ([fr]ça se vend bien[/fr])."
+      ]
+    }
+  ]
+}

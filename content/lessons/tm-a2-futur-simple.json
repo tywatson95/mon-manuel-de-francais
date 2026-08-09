@@ -1,0 +1,217 @@
+{
+  "id": "tm-a2-futur-simple",
+  "group": "temps-modes",
+  "level": "A2",
+  "order": 250,
+  "title": "Le futur simple",
+  "summary": "L’infinitif + les terminaisons d’avoir : le futur de l’écrit et des promesses.",
+  "essentiel": [
+    "Infinitif + **-ai, -as, -a, -ons, -ez, -ont** : [fr]je parler**ai**[/fr].",
+    "Les verbes en [fr]-re[/fr] perdent leur [fr]e[/fr] : [fr]prendre → je prendr**ai**[/fr].",
+    "Une dizaine de radicaux irréguliers à apprendre : [fr]j’**irai**, je **serai**, j’**aurai**, je **ferai**…[/fr]"
+  ],
+  "regle": "Le **futur simple** ((simple future)) sert aux prévisions, aux promesses, aux programmes officiels et à l’écrit.\n\nLa formation est facile : on part de l’**infinitif complet** et on ajoute les terminaisons — qui sont exactement les formes du verbe [fr]avoir[/fr] au présent ([fr]ai, as, a, (av)ons, (av)ez, ont[/fr]).\n\n[fr]parler → je parler**ai** · finir → je finir**ai** · prendre → je prendr**ai**[/fr]\n\n**Futur proche ou futur simple ?** Les deux sont corrects. À l’oral, le futur proche domine. Le futur simple sonne plus formel, plus distant, plus « écrit » :\n[fr]Je vais t’appeler ce soir.[/fr] ((casual, concrete))\n[fr]Nous vous répondrons dans les meilleurs délais.[/fr] ((formal))",
+  "exemples": [
+    {
+      "fr": "Demain, il fera beau sur toute la France.",
+      "en": "Tomorrow the weather will be fine across France."
+    },
+    {
+      "fr": "Je t’écrirai dès mon arrivée.",
+      "en": "I’ll write to you as soon as I arrive."
+    },
+    {
+      "fr": "Nous partirons à six heures précises.",
+      "en": "We will leave at six sharp."
+    },
+    {
+      "fr": "Tu verras, ce n’est pas difficile.",
+      "en": "You’ll see, it isn’t difficult."
+    },
+    {
+      "fr": "Quand j’aurai le temps, je viendrai te voir.",
+      "en": "When I have time, I’ll come and see you."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir les radicaux irréguliers",
+      "collapsed": true,
+      "headers": [
+        "Infinitif",
+        "Radical du futur",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "être",
+          "ser-",
+          "je serai"
+        ],
+        [
+          "avoir",
+          "aur-",
+          "j’aurai"
+        ],
+        [
+          "aller",
+          "ir-",
+          "j’irai"
+        ],
+        [
+          "faire",
+          "fer-",
+          "je ferai"
+        ],
+        [
+          "venir",
+          "viendr-",
+          "je viendrai"
+        ],
+        [
+          "tenir",
+          "tiendr-",
+          "je tiendrai"
+        ],
+        [
+          "voir",
+          "verr-",
+          "je verrai"
+        ],
+        [
+          "envoyer",
+          "enverr-",
+          "j’enverrai"
+        ],
+        [
+          "pouvoir",
+          "pourr-",
+          "je pourrai"
+        ],
+        [
+          "vouloir",
+          "voudr-",
+          "je voudrai"
+        ],
+        [
+          "devoir",
+          "devr-",
+          "je devrai"
+        ],
+        [
+          "savoir",
+          "saur-",
+          "je saurai"
+        ],
+        [
+          "recevoir",
+          "recevr-",
+          "je recevrai"
+        ],
+        [
+          "falloir",
+          "faudr-",
+          "il faudra"
+        ],
+        [
+          "pleuvoir",
+          "pleuvr-",
+          "il pleuvra"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "⏳",
+    "title": "Quand + futur",
+    "text": "Là où l’anglais dit *when I have time*, le français met les **deux** verbes au futur : [fr]Quand j’**aurai** le temps, je **viendrai**.[/fr] Même chose après [fr]dès que[/fr] et [fr]aussitôt que[/fr]."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets le verbe au futur simple.",
+      "items": [
+        {
+          "before": "Demain, je ",
+          "after": " à Marseille. (partir)",
+          "answer": "partirai"
+        },
+        {
+          "before": "Nous ",
+          "after": " le résultat lundi. (savoir)",
+          "answer": "saurons",
+          "why": "Radical irrégulier : [fr]saur-[/fr]."
+        },
+        {
+          "before": "Tu ",
+          "after": " bientôt ta réponse. (avoir)",
+          "answer": "auras",
+          "why": "Radical irrégulier : [fr]aur-[/fr]."
+        },
+        {
+          "before": "Ils ",
+          "after": " à la gare à midi. (être)",
+          "answer": "seront",
+          "why": "Radical irrégulier : [fr]ser-[/fr]."
+        },
+        {
+          "before": "Quand il ",
+          "after": " , nous mangerons. (venir)",
+          "answer": "viendra",
+          "why": "Après [fr]quand[/fr], le français met le futur."
+        },
+        {
+          "before": "Vous ",
+          "after": " ce livre. (aimer)",
+          "answer": "aimerez"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Futur proche ou futur simple ?",
+      "items": [
+        {
+          "q": "(SMS à un ami) « Attends, j’___ dans cinq minutes. »",
+          "options": [
+            "arriverai",
+            "vais arriver",
+            "arrive"
+          ],
+          "answer": 1,
+          "why": "Conversation, action immédiate → futur proche."
+        },
+        {
+          "q": "(lettre officielle) « Nous vous ___ notre réponse. »",
+          "options": [
+            "allons envoyer",
+            "enverrons",
+            "envoyons"
+          ],
+          "answer": 1,
+          "why": "Registre formel écrit → futur simple."
+        },
+        {
+          "q": "Quelle forme est correcte ?",
+          "options": [
+            "je ferai",
+            "je faisrai",
+            "je ferrai"
+          ],
+          "answer": 0,
+          "why": "Radical [fr]fer-[/fr] + [fr]-ai[/fr]."
+        },
+        {
+          "q": "« Dès que tu ___ , appelle-moi. »",
+          "options": [
+            "arrives",
+            "arriveras",
+            "es arrivé"
+          ],
+          "answer": 1,
+          "why": "Après [fr]dès que[/fr], le futur est obligatoire en français."
+        }
+      ]
+    }
+  ]
+}

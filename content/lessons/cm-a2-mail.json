@@ -1,0 +1,139 @@
+{
+  "id": "cm-a2-mail",
+  "group": "communication",
+  "level": "A2",
+  "order": 240,
+  "title": "Écrire un mail simple",
+  "summary": "Ouvrir, dire, fermer — et la formule de politesse obligatoire.",
+  "essentiel": [
+    "Ouverture : [fr]Bonjour,[/fr] ((neutre)) · [fr]Madame, Monsieur,[/fr] ((inconnu)) · [fr]Salut,[/fr] ((ami)).",
+    "Clôture : [fr]Cordialement[/fr] ((standard professionnel)) · [fr]Bien à vous[/fr] · [fr]Bises[/fr] ((ami)).",
+    "Un mail français **finit toujours** par une formule — jamais brutalement."
+  ],
+  "regle": "Le mail français est plus formel que le mail anglophone. Il commence par une formule, se termine par une autre, et évite la brusquerie.\n\n**L’ouverture.**\n[fr]Madame, Monsieur,[/fr] → destinataire inconnu\n[fr]Bonjour Madame Martin,[/fr] → connu, professionnel\n[fr]Bonjour,[/fr] → collègue, neutre — le plus courant aujourd’hui\n[fr]Salut Paul,[/fr] → ami\n\n**Le corps.** Une phrase d’introduction, puis le message.\n[fr]Je vous écris au sujet de… · Suite à notre conversation… · Je me permets de vous contacter pour…[/fr]\n\n**Demander.**\n[fr]Pourriez-vous m’envoyer… ? · Serait-il possible de… ? · Je vous serais reconnaissant de…[/fr]\n\n**La clôture — jamais facultative.**\n[fr]Cordialement,[/fr] → le standard professionnel\n[fr]Bien cordialement, · Bien à vous,[/fr] → un peu plus chaleureux\n[fr]Je vous remercie par avance.[/fr] → avant la formule\n[fr]Bises, · À bientôt,[/fr] → amis\n\n**Ce qu’il ne faut pas faire :** terminer par [fr]Merci[/fr] seul, ou par rien du tout. Pour un francophone, un mail sans formule finale paraît sec.",
+  "exemples": [
+    {
+      "fr": "Bonjour, je vous écris au sujet de ma commande n° 4521.",
+      "en": "Hello, I am writing about my order no. 4521."
+    },
+    {
+      "fr": "Pourriez-vous me confirmer la date de livraison ?",
+      "en": "Could you confirm the delivery date?"
+    },
+    {
+      "fr": "Je vous remercie par avance.",
+      "en": "Thank you in advance."
+    },
+    {
+      "fr": "Cordialement, Arno Grobler",
+      "en": "Kind regards, Arno Grobler"
+    },
+    {
+      "fr": "Salut Léa, tu es libre jeudi ? Bises !",
+      "en": "Hi Léa, are you free on Thursday? Kisses!"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Choisir son registre",
+      "collapsed": false,
+      "headers": [
+        "Situation",
+        "Ouverture",
+        "Clôture"
+      ],
+      "rows": [
+        [
+          "inconnu, administratif",
+          "Madame, Monsieur,",
+          "Cordialement,"
+        ],
+        [
+          "client, fournisseur",
+          "Bonjour Madame X,",
+          "Bien cordialement,"
+        ],
+        [
+          "collègue",
+          "Bonjour,",
+          "Cordialement, / Bonne journée,"
+        ],
+        [
+          "ami",
+          "Salut Paul,",
+          "Bises, / À bientôt,"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "✉️",
+    "title": "« Cordialement » est un mot magique",
+    "text": "Il est neutre, poli, et fonctionne dans presque tous les contextes professionnels. Les formules très longues du courrier papier ([fr]Je vous prie d’agréer, Madame, l’expression de mes salutations distinguées[/fr]) restent réservées aux lettres officielles."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle formule choisir ?",
+      "items": [
+        {
+          "q": "Mail à une administration inconnue :",
+          "options": [
+            "Salut,",
+            "Madame, Monsieur,",
+            "Coucou,"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Fin d’un mail professionnel neutre :",
+          "options": [
+            "Merci",
+            "Cordialement,",
+            "Bises"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Mail à un ami proche :",
+          "options": [
+            "Madame, Monsieur,",
+            "Salut Paul,",
+            "Je vous prie d’agréer…"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Que manque-t-il à un mail qui finit par « Merci. » seul ?",
+          "options": [
+            "une formule de politesse finale",
+            "une signature",
+            "rien"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets les éléments du mail dans l’ordre.",
+      "items": [
+        {
+          "tokens": [
+            "Bonjour,",
+            "Je",
+            "vous",
+            "écris",
+            "au",
+            "sujet",
+            "de",
+            "ma",
+            "commande.",
+            "Cordialement,"
+          ],
+          "answer": "Bonjour, Je vous écris au sujet de ma commande. Cordialement,"
+        }
+      ]
+    }
+  ]
+}

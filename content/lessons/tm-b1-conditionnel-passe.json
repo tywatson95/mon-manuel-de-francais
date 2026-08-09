@@ -1,0 +1,139 @@
+{
+  "id": "tm-b1-conditionnel-passe",
+  "group": "temps-modes",
+  "level": "B1",
+  "order": 350,
+  "title": "Le conditionnel passé et le regret",
+  "summary": "J’aurais dû : dire ce qui aurait pu se passer, et ne s’est pas passé.",
+  "essentiel": [
+    "Auxiliaire au **conditionnel présent** + participe passé : [fr]j’**aurais** fait[/fr], [fr]je **serais** venu[/fr].",
+    "Il exprime le **regret**, le **reproche**, ou une **information non confirmée**.",
+    "Trois formules à connaître : [fr]j’aurais dû[/fr], [fr]j’aurais pu[/fr], [fr]j’aurais voulu[/fr]."
+  ],
+  "regle": "Le **conditionnel passé** parle d’une chose qui **n’a pas eu lieu**.\n\n[fr]J’**aurais aimé** venir, mais je n’ai pas pu.[/fr]\n\n**Le regret et le reproche.** C’est son emploi le plus utile, avec trois verbes :\n[fr]J’**aurais dû** partir plus tôt.[/fr] ((I should have left earlier))\n[fr]Tu **aurais pu** me prévenir ![/fr] ((you could have told me!))\n[fr]Nous **aurions voulu** rester.[/fr] ((we would have liked to stay))\n\n**L’information non confirmée.** La presse l’utilise beaucoup :\n[fr]L’incendie **aurait été** provoqué par un court-circuit.[/fr] ((reportedly caused by))\n\n**Dans les phrases avec si.** C’est la deuxième moitié de l’hypothèse irréelle du passé :\n[fr]Si j’avais su, je **serais resté**.[/fr]",
+  "exemples": [
+    {
+      "fr": "J’aurais dû t’écouter.",
+      "en": "I should have listened to you."
+    },
+    {
+      "fr": "Tu aurais pu me téléphoner !",
+      "en": "You could have called me!"
+    },
+    {
+      "fr": "Elle serait partie sans rien dire.",
+      "en": "She apparently left without saying anything."
+    },
+    {
+      "fr": "À ta place, j’aurais accepté.",
+      "en": "In your shoes, I would have accepted."
+    },
+    {
+      "fr": "Nous aurions aimé vous rencontrer.",
+      "en": "We would have liked to meet you."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les trois formules du regret",
+      "collapsed": false,
+      "headers": [
+        "Formule",
+        "Sens",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "j’aurais dû + inf.",
+          "I should have",
+          "J’aurais dû réserver."
+        ],
+        [
+          "j’aurais pu + inf.",
+          "I could have",
+          "Tu aurais pu essayer."
+        ],
+        [
+          "j’aurais voulu / aimé + inf.",
+          "I would have liked to",
+          "J’aurais aimé être là."
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "📰",
+    "title": "Le conditionnel du journaliste",
+    "text": "Quand un média n’a pas de confirmation officielle, il passe au conditionnel : [fr]Le suspect **aurait** quitté le pays.[/fr] Cela signifie « selon nos informations, sans certitude ». C’est un usage typiquement français, très visible dans la presse."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets le verbe au conditionnel passé.",
+      "items": [
+        {
+          "before": "Tu ",
+          "after": " me prévenir ! (pouvoir)",
+          "answer": "aurais pu"
+        },
+        {
+          "before": "Nous ",
+          "after": " rester plus longtemps. (aimer)",
+          "answer": "aurions aimé"
+        },
+        {
+          "before": "Elle ",
+          "after": " plus tôt, mais son train a eu du retard. (arriver)",
+          "answer": "serait arrivée",
+          "why": "[fr]arriver[/fr] prend [fr]être[/fr] ; le participe s’accorde."
+        },
+        {
+          "before": "Je ",
+          "after": " faire attention. (devoir)",
+          "answer": "aurais dû"
+        },
+        {
+          "before": "Ils ",
+          "after": " avant la pluie. (partir)",
+          "answer": "seraient partis"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Que signifie la phrase ?",
+      "items": [
+        {
+          "q": "« J’aurais dû partir plus tôt. »",
+          "options": [
+            "Je regrette de ne pas être parti plus tôt.",
+            "Je vais partir plus tôt.",
+            "Je pars plus tôt."
+          ],
+          "answer": 0,
+          "why": "[fr]aurais dû[/fr] exprime le regret d’une chose non faite."
+        },
+        {
+          "q": "« Le ministre aurait démissionné. »",
+          "options": [
+            "C’est confirmé.",
+            "C’est une information non confirmée.",
+            "Il va démissionner."
+          ],
+          "answer": 1,
+          "why": "Conditionnel journalistique : prudence de la source."
+        },
+        {
+          "q": "« Tu aurais pu m’aider ! » exprime…",
+          "options": [
+            "un reproche",
+            "une invitation",
+            "une promesse"
+          ],
+          "answer": 0,
+          "why": "On reproche une aide qui n’est pas venue."
+        }
+      ]
+    }
+  ]
+}

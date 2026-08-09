@@ -1,0 +1,148 @@
+{
+  "id": "ph-a1-questions",
+  "group": "phrase",
+  "level": "A1",
+  "order": 110,
+  "title": "Poser une question : trois façons",
+  "summary": "Intonation, est-ce que, inversion — de la plus simple à la plus formelle.",
+  "essentiel": [
+    "**Intonation** : même phrase, voix qui monte. [fr]Tu viens ?[/fr] — oral, très courant.",
+    "**Est-ce que** devant la phrase : [fr]Est-ce que tu viens ?[/fr] — neutre, toujours correct.",
+    "**Inversion** verbe-sujet : [fr]Viens-tu ?[/fr] — écrit et formel."
+  ],
+  "regle": "Le français a trois registres pour une même question. Le sens ne change pas — c’est le niveau de langue qui change.\n\n**1 · L’intonation.** On garde l’ordre normal et on monte la voix.\n[fr]Tu as faim ?[/fr] · [fr]Vous partez demain ?[/fr]\nC’est la forme la plus fréquente à l’oral. Elle ne s’écrit pas dans un texte soigné.\n\n**2 · [fr]Est-ce que[/fr].** On l’ajoute devant la phrase, sans rien changer d’autre.\n[fr]**Est-ce que** tu as faim ?[/fr]\nDevant une voyelle : [fr]**Est-ce qu’**il vient ?[/fr]\nC’est la forme la plus sûre : elle passe partout.\n\n**3 · L’inversion.** Le verbe passe devant le pronom sujet, avec un trait d’union.\n[fr]As-tu faim ? · Partez-vous demain ?[/fr]\n\nDeux détails techniques :\n- Si le verbe finit par une voyelle à la 3e personne, on ajoute un **-t-** de liaison : [fr]A-**t**-il faim ? · Parle-**t**-elle français ?[/fr]\n- Avec un nom sujet, on le garde devant et on ajoute le pronom : [fr]**Marie vient-elle** ?[/fr]",
+  "exemples": [
+    {
+      "fr": "Tu habites ici ?",
+      "en": "Do you live here?"
+    },
+    {
+      "fr": "Est-ce que vous parlez anglais ?",
+      "en": "Do you speak English?"
+    },
+    {
+      "fr": "Avez-vous une réservation ?",
+      "en": "Do you have a reservation?"
+    },
+    {
+      "fr": "A-t-il compris la question ?",
+      "en": "Did he understand the question?"
+    },
+    {
+      "fr": "Le train part-il à l’heure ?",
+      "en": "Does the train leave on time?"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les trois registres",
+      "collapsed": false,
+      "headers": [
+        "Forme",
+        "Exemple",
+        "Registre"
+      ],
+      "rows": [
+        [
+          "intonation",
+          "Tu viens ?",
+          "familier, oral"
+        ],
+        [
+          "est-ce que",
+          "Est-ce que tu viens ?",
+          "standard, partout"
+        ],
+        [
+          "inversion",
+          "Viens-tu ?",
+          "soutenu, écrit"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "🎚️",
+    "title": "Choisir son registre",
+    "text": "Un serveur vous demandera [fr]Vous avez choisi ?[/fr] (intonation). Un formulaire écrira [fr]Souhaitez-vous recevoir nos offres ?[/fr] (inversion). Utiliser l’inversion entre amis sonne pompeux ; l’utiliser dans une lettre officielle est attendu."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle forme est correcte ?",
+      "items": [
+        {
+          "q": "Inversion de « Il aime le café ».",
+          "options": [
+            "Aime-il le café ?",
+            "Aime-t-il le café ?",
+            "Il aime-t-il le café ?"
+          ],
+          "answer": 1,
+          "why": "Le [fr]-t-[/fr] de liaison sépare deux voyelles."
+        },
+        {
+          "q": "Est-ce que + « Elle est prête ».",
+          "options": [
+            "Est-ce qu’elle est prête ?",
+            "Est-ce que elle est prête ?",
+            "Est-elle-ce que prête ?"
+          ],
+          "answer": 0,
+          "why": "[fr]que[/fr] s’élide devant une voyelle."
+        },
+        {
+          "q": "Forme la plus formelle :",
+          "options": [
+            "Tu viens ?",
+            "Est-ce que tu viens ?",
+            "Viens-tu ?"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Inversion avec un nom sujet : « Marie part demain. »",
+          "options": [
+            "Part Marie demain ?",
+            "Marie part-elle demain ?",
+            "Marie-t-elle part demain ?"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Reconstruis la question.",
+      "items": [
+        {
+          "tokens": [
+            "Est-ce",
+            "que",
+            "vous",
+            "avez",
+            "du",
+            "pain"
+          ],
+          "answer": "Est-ce que vous avez du pain"
+        },
+        {
+          "tokens": [
+            "Parlez-",
+            "vous",
+            "français"
+          ],
+          "answer": "Parlez- vous français"
+        },
+        {
+          "tokens": [
+            "A-t-",
+            "il",
+            "téléphoné"
+          ],
+          "answer": "A-t- il téléphoné"
+        }
+      ]
+    }
+  ]
+}

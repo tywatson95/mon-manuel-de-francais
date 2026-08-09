@@ -1,0 +1,248 @@
+{
+  "id": "voc-b1-argent",
+  "title": "Argent & consommation",
+  "level": "B1",
+  "order": 460,
+  "summary": "Gérer, dépenser, comparer.",
+  "items": [
+    {
+      "fr": "un budget",
+      "ipa": "byd.ʒɛ",
+      "en": "a budget",
+      "ex": "Mon budget est serré."
+    },
+    {
+      "fr": "un revenu",
+      "ipa": "ʁə.və.ny",
+      "en": "an income",
+      "ex": "Un revenu régulier."
+    },
+    {
+      "fr": "une dépense",
+      "ipa": "de.pɑ̃s",
+      "en": "an expense",
+      "ex": "Réduire ses dépenses."
+    },
+    {
+      "fr": "économiser",
+      "ipa": "e.kɔ.nɔ.mi.ze",
+      "en": "to save",
+      "ex": "J’économise pour un voyage."
+    },
+    {
+      "fr": "des économies (f)",
+      "ipa": "e.kɔ.nɔ.mi",
+      "en": "savings",
+      "ex": "J’ai quelques économies."
+    },
+    {
+      "fr": "un prêt",
+      "ipa": "pʁɛ",
+      "en": "a loan",
+      "ex": "Un prêt sur vingt ans."
+    },
+    {
+      "fr": "emprunter",
+      "ipa": "ɑ̃.pʁœ̃.te",
+      "en": "to borrow",
+      "ex": "J’ai emprunté à la banque."
+    },
+    {
+      "fr": "rembourser",
+      "ipa": "ʁɑ̃.buʁ.se",
+      "en": "to repay",
+      "ex": "Je rembourse chaque mois."
+    },
+    {
+      "fr": "une dette",
+      "ipa": "dɛt",
+      "en": "a debt",
+      "ex": "Des dettes importantes."
+    },
+    {
+      "fr": "un crédit",
+      "ipa": "kʁe.di",
+      "en": "credit",
+      "ex": "Un crédit à la consommation."
+    },
+    {
+      "fr": "un taux",
+      "ipa": "to",
+      "en": "a rate",
+      "ex": "Un taux d’intérêt bas."
+    },
+    {
+      "fr": "une facture",
+      "ipa": "fak.tyʁ",
+      "en": "a bill",
+      "ex": "La facture est salée."
+    },
+    {
+      "fr": "le pouvoir d’achat",
+      "ipa": "pu.vwaʁ da.ʃa",
+      "en": "purchasing power",
+      "ex": "Le pouvoir d’achat baisse."
+    },
+    {
+      "fr": "l’inflation (f)",
+      "ipa": "ɛ̃.fla.sjɔ̃",
+      "en": "inflation",
+      "ex": "L’inflation ralentit."
+    },
+    {
+      "fr": "cher, chère",
+      "ipa": "ʃɛʁ",
+      "en": "expensive",
+      "ex": "C’est trop cher pour moi."
+    },
+    {
+      "fr": "bon marché",
+      "ipa": "bɔ̃ maʁ.ʃe",
+      "en": "cheap",
+      "ex": "Un produit bon marché."
+    },
+    {
+      "fr": "une promotion",
+      "ipa": "pʁɔ.mo.sjɔ̃",
+      "en": "a special offer",
+      "ex": "Une promotion sur les fruits."
+    },
+    {
+      "fr": "une réduction",
+      "ipa": "ʁe.dyk.sjɔ̃",
+      "en": "a discount",
+      "ex": "Une réduction de 20 %."
+    },
+    {
+      "fr": "les soldes (m)",
+      "ipa": "sɔld",
+      "en": "the sales",
+      "ex": "Les soldes d’hiver."
+    },
+    {
+      "fr": "une garantie",
+      "ipa": "ɡa.ʁɑ̃.ti",
+      "en": "a warranty",
+      "ex": "Deux ans de garantie."
+    },
+    {
+      "fr": "un(e) consommateur(trice)",
+      "ipa": "kɔ̃.sɔ.ma.tœʁ",
+      "en": "a consumer",
+      "ex": "Les consommateurs sont exigeants."
+    },
+    {
+      "fr": "la consommation",
+      "ipa": "kɔ̃.sɔ.ma.sjɔ̃",
+      "en": "consumption",
+      "ex": "Réduire sa consommation."
+    },
+    {
+      "fr": "la surconsommation",
+      "ipa": "syʁ",
+      "en": "overconsumption",
+      "ex": "La surconsommation pose problème."
+    },
+    {
+      "fr": "un achat",
+      "ipa": "a.ʃa",
+      "en": "a purchase",
+      "ex": "Un achat impulsif."
+    },
+    {
+      "fr": "comparer",
+      "ipa": "kɔ̃.pa.ʁe",
+      "en": "to compare",
+      "ex": "Comparez les prix."
+    },
+    {
+      "fr": "un devis",
+      "ipa": "də.vi",
+      "en": "a quote",
+      "ex": "Demandez un devis."
+    },
+    {
+      "fr": "la qualité",
+      "ipa": "ka.li.te",
+      "en": "quality",
+      "ex": "Un bon rapport qualité-prix."
+    },
+    {
+      "fr": "d’occasion",
+      "ipa": "dɔ.ka.zjɔ̃",
+      "en": "second-hand",
+      "ex": "Une voiture d’occasion."
+    },
+    {
+      "fr": "neuf, neuve",
+      "ipa": "nœf",
+      "en": "brand new",
+      "ex": "Un appareil neuf."
+    },
+    {
+      "fr": "gaspiller",
+      "ipa": "ɡas.pi.je",
+      "en": "to waste",
+      "ex": "Ne gaspille pas ton argent."
+    },
+    {
+      "fr": "se serrer la ceinture",
+      "ipa": "sɛ̃.tyʁ",
+      "en": "to tighten one’s belt",
+      "ex": "Il faut se serrer la ceinture."
+    },
+    {
+      "fr": "être fauché(e)",
+      "ipa": "fo.ʃe",
+      "en": "to be broke",
+      "ex": "Je suis fauché ce mois-ci."
+    },
+    {
+      "fr": "un placement",
+      "ipa": "plas.mɑ̃",
+      "en": "an investment",
+      "ex": "Un placement sûr."
+    },
+    {
+      "fr": "une épargne",
+      "ipa": "e.paʁɲ",
+      "en": "savings",
+      "ex": "Un livret d’épargne."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "« Un bon rapport qualité-prix » signifie…",
+          "options": [
+            "c’est cher",
+            "c’est bien pour le prix",
+            "c’est gratuit"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Être fauché » est…",
+          "options": [
+            "familier pour « sans argent »",
+            "soutenu pour « riche »",
+            "un terme bancaire"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« D’occasion » veut dire…",
+          "options": [
+            "neuf",
+            "déjà utilisé",
+            "en promotion"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

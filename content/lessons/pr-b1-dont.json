@@ -1,0 +1,169 @@
+{
+  "id": "pr-b1-dont",
+  "group": "pronoms",
+  "level": "B1",
+  "order": 310,
+  "title": "Le pronom relatif dont",
+  "summary": "Le relatif de « de » — celui qui débloque la phrase complexe.",
+  "essentiel": [
+    "[fr]dont[/fr] remplace un complément introduit par **de**.",
+    "Trois cas : verbe + de ([fr]parler **de**[/fr]), nom + de ([fr]le prix **de**[/fr]), adjectif + de ([fr]fier **de**[/fr]).",
+    "Après [fr]dont[/fr], l’ordre est **sujet + verbe** — jamais de possessif en plus."
+  ],
+  "regle": "Dès qu’une phrase contient [fr]de[/fr], le relatif est [fr]dont[/fr].\n\n**Cas 1 — le verbe se construit avec [fr]de[/fr].**\n[fr]Je te parle **d’un film**.[/fr] → [fr]le film **dont** je te parle[/fr]\nVerbes concernés : [fr]parler de, avoir besoin de, se souvenir de, s’occuper de, rêver de, avoir envie de, être content de[/fr].\n\n**Cas 2 — le nom se construit avec [fr]de[/fr].**\n[fr]Je connais l’auteur **de ce livre**.[/fr] → [fr]le livre **dont** je connais l’auteur[/fr]\n\n**Cas 3 — la possession.**\n[fr]Un homme **dont** la femme est médecin.[/fr] ((a man whose wife is a doctor))\n\n**L’erreur classique.** En anglais on dit *whose wife*. En français, le possessif disparaît : on écrit [fr]dont **la** femme[/fr] et non « dont sa femme ».\n\n**Le piège de l’ordre.** Après [fr]dont[/fr], on ne met pas de pronom qui reprend le complément :\n[fr]le livre **dont** j’ai besoin[/fr] — et non « dont j’en ai besoin ».",
+  "exemples": [
+    {
+      "fr": "C’est le livre dont je t’ai parlé.",
+      "en": "It’s the book I told you about."
+    },
+    {
+      "fr": "Voilà l’outil dont j’ai besoin.",
+      "en": "Here’s the tool I need."
+    },
+    {
+      "fr": "Une entreprise dont le siège est à Lyon.",
+      "en": "A company whose head office is in Lyon."
+    },
+    {
+      "fr": "C’est une expérience dont je me souviens très bien.",
+      "en": "It’s an experience I remember very well."
+    },
+    {
+      "fr": "Il a un frère dont il est très fier.",
+      "en": "He has a brother he is very proud of."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Qui, que, dont, où : le tableau de décision",
+      "collapsed": false,
+      "headers": [
+        "Le mot remplacé est…",
+        "Relatif",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "sujet",
+          "qui",
+          "la femme **qui** parle"
+        ],
+        [
+          "COD",
+          "que",
+          "la femme **que** je vois"
+        ],
+        [
+          "complément avec **de**",
+          "dont",
+          "la femme **dont** je parle"
+        ],
+        [
+          "lieu ou moment",
+          "où",
+          "la ville **où** je vis"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel relatif ?",
+      "items": [
+        {
+          "q": "C’est un sujet ___ tout le monde parle.",
+          "options": [
+            "que",
+            "dont",
+            "où"
+          ],
+          "answer": 1,
+          "why": "[fr]parler **de**[/fr] → [fr]dont[/fr]."
+        },
+        {
+          "q": "C’est un sujet ___ tout le monde connaît.",
+          "options": [
+            "que",
+            "dont",
+            "qui"
+          ],
+          "answer": 0,
+          "why": "[fr]connaître[/fr] est direct → [fr]que[/fr]."
+        },
+        {
+          "q": "Une maison ___ le toit est rouge.",
+          "options": [
+            "que",
+            "dont",
+            "où"
+          ],
+          "answer": 1,
+          "why": "Possession → [fr]dont[/fr]."
+        },
+        {
+          "q": "La personne ___ je m’occupe est âgée.",
+          "options": [
+            "que",
+            "dont",
+            "qui"
+          ],
+          "answer": 1,
+          "why": "[fr]s’occuper **de**[/fr] → [fr]dont[/fr]."
+        },
+        {
+          "q": "Le résultat ___ je suis fier.",
+          "options": [
+            "que",
+            "dont",
+            "où"
+          ],
+          "answer": 1,
+          "why": "[fr]fier **de**[/fr] → [fr]dont[/fr]."
+        },
+        {
+          "q": "Choisis la phrase correcte.",
+          "options": [
+            "Le livre dont j’en ai besoin.",
+            "Le livre dont j’ai besoin.",
+            "Le livre que j’ai besoin."
+          ],
+          "answer": 1,
+          "why": "Pas de [fr]en[/fr] après [fr]dont[/fr] : il ferait double emploi."
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Reconstruis la phrase.",
+      "items": [
+        {
+          "tokens": [
+            "Voici",
+            "la",
+            "photo",
+            "dont",
+            "je",
+            "t’ai",
+            "parlé"
+          ],
+          "answer": "Voici la photo dont je t’ai parlé"
+        },
+        {
+          "tokens": [
+            "C’est",
+            "un",
+            "ami",
+            "dont",
+            "la",
+            "sœur",
+            "habite",
+            "à",
+            "Nice"
+          ],
+          "answer": "C’est un ami dont la sœur habite à Nice"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "tm-b1-participe-present",
+  "group": "temps-modes",
+  "level": "B1",
+  "order": 360,
+  "title": "Participe présent ou gérondif ?",
+  "summary": "Deux formes en -ant, deux rôles très différents.",
+  "essentiel": [
+    "**Gérondif** = [fr]**en** + -ant[/fr]. Même sujet que la phrase : [fr]Il lit **en mangeant**.[/fr]",
+    "**Participe présent** = [fr]-ant[/fr] seul. Il remplace une relative : [fr]les étudiants **parlant** français[/fr] = *qui parlent*.",
+    "Le participe présent est **invariable** ; ne le confonds pas avec l’adjectif verbal, qui s’accorde."
+  ],
+  "regle": "Les deux formes se ressemblent, mais ne font pas le même travail.\n\n**Le gérondif** ([fr]en -ant[/fr]) répond à *quand ?*, *comment ?*, *à quelle condition ?* Son sujet est obligatoirement celui du verbe principal.\n[fr]**En sortant**, ferme la porte.[/fr]\n\n**Le participe présent** ([fr]-ant[/fr] seul) remplace une proposition relative ou une cause. On le trouve surtout à l’écrit.\n[fr]Les personnes **souhaitant** participer doivent s’inscrire.[/fr] = *qui souhaitent participer*\n[fr]**Ayant** peu de temps, il a pris un taxi.[/fr] = *comme il avait peu de temps*\n\n**Le piège : l’adjectif verbal.** Certaines formes en [fr]-ant[/fr] sont devenues de vrais adjectifs. Ils s’accordent — et changent parfois d’orthographe.\n[fr]un travail **fatigant**[/fr] ((adjective)) contre [fr]**en fatiguant** les enfants[/fr] ((verb))\n[fr]une élève **négligente**[/fr] contre [fr]**négligeant** ses devoirs[/fr]",
+  "exemples": [
+    {
+      "fr": "Les candidats ayant réussi l’écrit passeront l’oral.",
+      "en": "Candidates who have passed the written test will take the oral."
+    },
+    {
+      "fr": "En arrivant, j’ai tout de suite compris.",
+      "en": "On arriving, I understood immediately."
+    },
+    {
+      "fr": "C’est une histoire fatigante.",
+      "en": "It’s a tiring story."
+    },
+    {
+      "fr": "Ne voulant pas déranger, elle est repartie.",
+      "en": "Not wanting to disturb, she left again."
+    },
+    {
+      "fr": "Il a répondu en souriant.",
+      "en": "He answered with a smile."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Adjectif verbal : les orthographes qui changent",
+      "collapsed": true,
+      "headers": [
+        "Verbe",
+        "Participe présent",
+        "Adjectif verbal"
+      ],
+      "rows": [
+        [
+          "fatiguer",
+          "fatiguant",
+          "fatigant"
+        ],
+        [
+          "négliger",
+          "négligeant",
+          "négligent"
+        ],
+        [
+          "provoquer",
+          "provoquant",
+          "provocant"
+        ],
+        [
+          "communiquer",
+          "communiquant",
+          "communicant"
+        ],
+        [
+          "différer",
+          "différant",
+          "différent"
+        ],
+        [
+          "précéder",
+          "précédant",
+          "précédent"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Gérondif, participe présent ou adjectif ?",
+      "items": [
+        {
+          "q": "« Les passagers ___ pour Lyon sont priés d’embarquer. »",
+          "options": [
+            "partant",
+            "en partant",
+            "partants"
+          ],
+          "answer": 0,
+          "why": "Il remplace [fr]qui partent[/fr] → participe présent, invariable."
+        },
+        {
+          "q": "« Il s’est endormi ___ la télévision. »",
+          "options": [
+            "regardant",
+            "en regardant",
+            "regardante"
+          ],
+          "answer": 1,
+          "why": "Deux actions simultanées, même sujet → gérondif."
+        },
+        {
+          "q": "« C’est une journée très ___ . »",
+          "options": [
+            "fatiguant",
+            "fatigante",
+            "en fatiguant"
+          ],
+          "answer": 1,
+          "why": "Ici c’est un adjectif : il s’accorde et perd le [fr]u[/fr]."
+        },
+        {
+          "q": "« ___ pas la réponse, il s’est tu. »",
+          "options": [
+            "Sachant",
+            "En sachant",
+            "Ne sachant"
+          ],
+          "answer": 2,
+          "why": "Cause + négation : [fr]ne sachant pas[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe la forme à sa fonction.",
+      "labelLeft": "Forme",
+      "labelRight": "Fonction",
+      "pairs": [
+        [
+          "en marchant",
+          "simultanéité (gérondif)"
+        ],
+        [
+          "les gens habitant ici",
+          "= qui habitent (participe présent)"
+        ],
+        [
+          "un bruit courant",
+          "adjectif verbal"
+        ],
+        [
+          "en économisant",
+          "condition (gérondif)"
+        ]
+      ]
+    }
+  ]
+}

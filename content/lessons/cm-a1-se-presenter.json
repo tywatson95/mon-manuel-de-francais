@@ -1,0 +1,185 @@
+{
+  "id": "cm-a1-se-presenter",
+  "group": "communication",
+  "level": "A1",
+  "order": 120,
+  "title": "Se présenter",
+  "summary": "Nom, âge, nationalité, métier : les cinq phrases de départ.",
+  "essentiel": [
+    "[fr]Je m’appelle…[/fr] · [fr]J’ai … ans.[/fr] · [fr]Je suis…[/fr] ((nationalité, métier — sans article))",
+    "[fr]J’habite à + ville[/fr] · [fr]en / au / aux + pays[/fr].",
+    "La nationalité prend une **minuscule** : [fr]je suis français[/fr]."
+  ],
+  "regle": "**Le nom.** [fr]Je m’appelle Arno Grobler.[/fr] · [fr]Moi, c’est Arno.[/fr] ((informal))\n\n**L’âge.** On **a** un âge : [fr]J’ai trente-deux ans.[/fr] Le mot [fr]ans[/fr] ne se supprime jamais.\n\n**La nationalité et le métier — sans article.**\n[fr]Je suis sud-africain. · Je suis ingénieur.[/fr]\nMinuscule pour l’adjectif ([fr]je suis français[/fr]), majuscule pour le nom ([fr]un Français[/fr]).\n\n**Le lieu.** [fr]J’habite **à** Paris[/fr] ((city)).\nPour les pays, la préposition dépend du genre :\n[fr]**en** France, **en** Belgique[/fr] ((feminine, or starting with a vowel))\n[fr]**au** Portugal, **au** Canada[/fr] ((masculine))\n[fr]**aux** États-Unis, **aux** Pays-Bas[/fr] ((plural))\n\n**Présenter quelqu’un d’autre.**\n[fr]Je vous présente ma collègue, Sarah.[/fr] → [fr]Enchanté(e).[/fr]",
+  "exemples": [
+    {
+      "fr": "Bonjour, je m’appelle Arno et j’ai trente-deux ans.",
+      "en": "Hello, my name is Arno and I’m thirty-two."
+    },
+    {
+      "fr": "Je suis sud-africain, mais j’habite en France.",
+      "en": "I’m South African, but I live in France."
+    },
+    {
+      "fr": "Je travaille comme consultant.",
+      "en": "I work as a consultant."
+    },
+    {
+      "fr": "Je vous présente mon frère, Pierre.",
+      "en": "This is my brother, Pierre."
+    },
+    {
+      "fr": "Enchantée de faire votre connaissance.",
+      "en": "Pleased to meet you."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "À, en, au, aux",
+      "collapsed": false,
+      "headers": [
+        "Type",
+        "Préposition",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "ville",
+          "à",
+          "à Lyon, à Durban"
+        ],
+        [
+          "pays féminin",
+          "en",
+          "en France, en Italie"
+        ],
+        [
+          "pays commençant par une voyelle",
+          "en",
+          "en Angola, en Iran"
+        ],
+        [
+          "pays masculin",
+          "au",
+          "au Maroc, au Japon"
+        ],
+        [
+          "pays pluriel",
+          "aux",
+          "aux États-Unis, aux Pays-Bas"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : premier jour",
+    "lines": [
+      {
+        "who": "Sarah",
+        "fr": "Bonjour, vous êtes nouveau ici ?",
+        "en": "Hello, are you new here?"
+      },
+      {
+        "who": "Arno",
+        "fr": "Oui, je m’appelle Arno. Je commence aujourd’hui.",
+        "en": "Yes, my name is Arno. I start today."
+      },
+      {
+        "who": "Sarah",
+        "fr": "Enchantée, moi c’est Sarah. Vous venez d’où ?",
+        "en": "Nice to meet you, I’m Sarah. Where are you from?"
+      },
+      {
+        "who": "Arno",
+        "fr": "D’Afrique du Sud, de Durban.",
+        "en": "From South Africa, from Durban."
+      },
+      {
+        "who": "Sarah",
+        "fr": "Et vous habitez à Paris maintenant ?",
+        "en": "And you live in Paris now?"
+      },
+      {
+        "who": "Arno",
+        "fr": "Oui, depuis deux mois. Je suis consultant.",
+        "en": "Yes, for two months. I’m a consultant."
+      }
+    ],
+    "check": {
+      "q": "Pourquoi Arno dit « je suis consultant » sans article ?",
+      "options": [
+        "Après « être », les métiers n’ont pas d’article.",
+        "C’est une faute.",
+        "Parce que c’est masculin."
+      ],
+      "answer": 0
+    }
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Complète avec à, en, au ou aux.",
+      "items": [
+        {
+          "before": "J’habite ",
+          "after": " Bruxelles.",
+          "answer": "à"
+        },
+        {
+          "before": "Elle travaille ",
+          "after": " Espagne.",
+          "answer": "en"
+        },
+        {
+          "before": "Il est né ",
+          "after": " Sénégal.",
+          "answer": "au"
+        },
+        {
+          "before": "Nous allons ",
+          "after": " Pays-Bas.",
+          "answer": "aux"
+        },
+        {
+          "before": "Ils vivent ",
+          "after": " Australie.",
+          "answer": "en"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la phrase correcte.",
+      "items": [
+        {
+          "q": "Comment dire « I am 30 » ?",
+          "options": [
+            "Je suis trente.",
+            "J’ai trente ans.",
+            "Je suis trente ans."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Comment dire « I am a teacher » ?",
+          "options": [
+            "Je suis un professeur.",
+            "Je suis professeur.",
+            "J’ai professeur."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Quelle phrase est correctement écrite ?",
+          "options": [
+            "Je suis Français.",
+            "Je suis français.",
+            "Je suis un français."
+          ],
+          "answer": 1,
+          "why": "L’adjectif de nationalité prend une minuscule."
+        }
+      ]
+    }
+  ]
+}

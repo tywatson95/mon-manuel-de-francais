@@ -1,0 +1,190 @@
+{
+  "id": "tm-a1-imperatif",
+  "group": "temps-modes",
+  "level": "A1",
+  "order": 160,
+  "title": "L’impératif",
+  "summary": "Donner un ordre, un conseil, une recette — sans pronom sujet.",
+  "essentiel": [
+    "Trois formes seulement : [fr]tu[/fr], [fr]nous[/fr], [fr]vous[/fr] — et **on enlève le pronom sujet**.",
+    "Les verbes en [fr]-er[/fr] perdent le [fr]-s[/fr] du [fr]tu[/fr] : [fr]tu parles → **Parle !**[/fr]",
+    "À la négation : [fr]**Ne** parle **pas** ![/fr]"
+  ],
+  "regle": "L’**impératif** ((imperative)) sert à demander, ordonner, conseiller, ou expliquer une recette.\n\nOn part du présent et on supprime le pronom :\n[fr]tu écoutes → **Écoute !**[/fr]\n[fr]nous écoutons → **Écoutons !**[/fr]\n[fr]vous écoutez → **Écoutez !**[/fr]\n\nAttention au [fr]-s[/fr] : les verbes en [fr]-er[/fr] (et [fr]aller[/fr], [fr]ouvrir[/fr]) le perdent à la forme [fr]tu[/fr]. Mais il revient devant [fr]y[/fr] ou [fr]en[/fr] pour faciliter la prononciation : [fr]Vas-y ! Manges-en ![/fr]\n\nQuatre verbes sont irréguliers : [fr]être[/fr] → [fr]sois, soyons, soyez[/fr] · [fr]avoir[/fr] → [fr]aie, ayons, ayez[/fr] · [fr]savoir[/fr] → [fr]sache…[/fr] · [fr]vouloir[/fr] → [fr]veuillez[/fr] (très poli).",
+  "exemples": [
+    {
+      "fr": "Écoute bien !",
+      "en": "Listen carefully!"
+    },
+    {
+      "fr": "Tournez à droite après la boulangerie.",
+      "en": "Turn right after the bakery."
+    },
+    {
+      "fr": "Allons-y !",
+      "en": "Let’s go!"
+    },
+    {
+      "fr": "Ne parle pas si vite, s’il te plaît.",
+      "en": "Don’t speak so fast, please."
+    },
+    {
+      "fr": "Sois patient, ça va venir.",
+      "en": "Be patient, it will come."
+    },
+    {
+      "fr": "Veuillez patienter quelques instants.",
+      "en": "Please wait a few moments."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les formes de base",
+      "collapsed": false,
+      "headers": [
+        "Verbe",
+        "tu",
+        "nous",
+        "vous"
+      ],
+      "rows": [
+        [
+          "parler",
+          "Parle !",
+          "Parlons !",
+          "Parlez !"
+        ],
+        [
+          "finir",
+          "Finis !",
+          "Finissons !",
+          "Finissez !"
+        ],
+        [
+          "attendre",
+          "Attends !",
+          "Attendons !",
+          "Attendez !"
+        ],
+        [
+          "aller",
+          "Va !",
+          "Allons !",
+          "Allez !"
+        ],
+        [
+          "être",
+          "Sois !",
+          "Soyons !",
+          "Soyez !"
+        ],
+        [
+          "avoir",
+          "Aie !",
+          "Ayons !",
+          "Ayez !"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "🍳",
+    "title": "L’impératif des recettes",
+    "text": "Les recettes françaises sont écrites à l’impératif [fr]vous[/fr] ou à l’infinitif : [fr]Mélangez les œufs[/fr] ou [fr]Mélanger les œufs[/fr]. Les deux sont corrects — l’infinitif fait plus « livre de cuisine »."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "(à un ami) ___ la porte, s’il te plaît.",
+          "options": [
+            "Ferme",
+            "Fermes",
+            "Fermez"
+          ],
+          "answer": 0,
+          "why": "Verbe en [fr]-er[/fr] : pas de [fr]-s[/fr] à la forme [fr]tu[/fr]."
+        },
+        {
+          "q": "(à un client) ___ ici, s’il vous plaît.",
+          "options": [
+            "Attends",
+            "Attendez",
+            "Attendons"
+          ],
+          "answer": 1,
+          "why": "Avec [fr]vous[/fr], on garde la terminaison [fr]-ez[/fr]."
+        },
+        {
+          "q": "Comment dire « Let’s eat! » ?",
+          "options": [
+            "Mangez !",
+            "Mangeons !",
+            "Manges !"
+          ],
+          "answer": 1,
+          "why": "La forme [fr]nous[/fr] traduit *let’s…*"
+        },
+        {
+          "q": "___ patient, ça arrive.",
+          "options": [
+            "Es",
+            "Sois",
+            "Sers"
+          ],
+          "answer": 1,
+          "why": "[fr]être[/fr] est irrégulier : [fr]sois[/fr]."
+        },
+        {
+          "q": "Comment dire « Don’t forget! » (à un ami) ?",
+          "options": [
+            "N’oublie pas !",
+            "Oublie ne pas !",
+            "Ne pas oublie !"
+          ],
+          "answer": 0,
+          "why": "[fr]ne[/fr] + verbe + [fr]pas[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets l’ordre dans la phrase.",
+      "items": [
+        {
+          "tokens": [
+            "Prenez",
+            "la",
+            "première",
+            "rue",
+            "à",
+            "gauche"
+          ],
+          "answer": "Prenez la première rue à gauche"
+        },
+        {
+          "tokens": [
+            "Ne",
+            "fais",
+            "pas",
+            "de",
+            "bruit"
+          ],
+          "answer": "Ne fais pas de bruit"
+        },
+        {
+          "tokens": [
+            "Allons",
+            "au",
+            "restaurant",
+            "ce",
+            "soir"
+          ],
+          "answer": "Allons au restaurant ce soir"
+        }
+      ]
+    }
+  ]
+}

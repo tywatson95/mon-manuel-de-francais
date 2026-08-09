@@ -1,0 +1,133 @@
+{
+  "id": "pr-b1-ce-qui-ce-que",
+  "group": "pronoms",
+  "level": "B1",
+  "order": 330,
+  "title": "Ce qui, ce que, ce dont",
+  "summary": "Le relatif sans antécédent : « what » en français.",
+  "essentiel": [
+    "[fr]**ce qui**[/fr] = sujet · [fr]**ce que**[/fr] = COD · [fr]**ce dont**[/fr] = complément en *de*.",
+    "Ils traduisent l’anglais *what* quand il n’y a pas de nom devant.",
+    "Dans la mise en relief : [fr]**Ce qui** m’énerve, **c’est** le bruit.[/fr]"
+  ],
+  "regle": "[fr]qui[/fr], [fr]que[/fr] et [fr]dont[/fr] ont besoin d’un nom devant eux. Quand ce nom n’existe pas — quand on parle d’une idée vague — on ajoute [fr]ce[/fr].\n\n[fr]Je ne comprends pas **ce que** tu dis.[/fr] ((what you say))\n[fr]**Ce qui** m’intéresse, c’est l’histoire.[/fr] ((what interests me))\n[fr]Voilà **ce dont** j’ai besoin.[/fr] ((what I need))\n\nLe choix suit exactement la même logique que [fr]qui / que / dont[/fr] : sujet, COD, ou complément en [fr]de[/fr].\n\n**Avec [fr]tout[/fr].** Très fréquent : [fr]**tout ce qui** brille[/fr], [fr]**tout ce que** je sais[/fr].\n\n**Pour reprendre une phrase entière.** [fr]ce qui[/fr] peut résumer ce qui précède :\n[fr]Il est arrivé en retard, **ce qui** a énervé tout le monde.[/fr]\n\n**La mise en relief.** C’est l’usage le plus utile à l’oral pour insister :\n[fr]**Ce que** je veux, **c’est** un peu de calme.[/fr]",
+  "exemples": [
+    {
+      "fr": "Dis-moi ce qui ne va pas.",
+      "en": "Tell me what’s wrong."
+    },
+    {
+      "fr": "Je n’ai pas entendu ce que tu as dit.",
+      "en": "I didn’t hear what you said."
+    },
+    {
+      "fr": "Ce dont il rêve, c’est de partir en Asie.",
+      "en": "What he dreams of is going to Asia."
+    },
+    {
+      "fr": "Tout ce qu’il dit est vrai.",
+      "en": "Everything he says is true."
+    },
+    {
+      "fr": "Elle a refusé, ce qui m’a surpris.",
+      "en": "She refused, which surprised me."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Ce qui, ce que ou ce dont ?",
+      "items": [
+        {
+          "q": "Je ne sais pas ___ se passe.",
+          "options": [
+            "ce qui",
+            "ce que",
+            "ce dont"
+          ],
+          "answer": 0,
+          "why": "Sujet de [fr]se passe[/fr]."
+        },
+        {
+          "q": "Montre-moi ___ tu as acheté.",
+          "options": [
+            "ce qui",
+            "ce que",
+            "ce dont"
+          ],
+          "answer": 1,
+          "why": "COD de [fr]as acheté[/fr]."
+        },
+        {
+          "q": "C’est exactement ___ j’avais besoin.",
+          "options": [
+            "ce qui",
+            "ce que",
+            "ce dont"
+          ],
+          "answer": 2,
+          "why": "[fr]avoir besoin **de**[/fr]."
+        },
+        {
+          "q": "___ me plaît, c’est sa simplicité.",
+          "options": [
+            "Ce qui",
+            "Ce que",
+            "Ce dont"
+          ],
+          "answer": 0,
+          "why": "Sujet de [fr]plaît[/fr]."
+        },
+        {
+          "q": "Il a tout mangé, ___ était surprenant.",
+          "options": [
+            "ce qui",
+            "ce que",
+            "qui"
+          ],
+          "answer": 0,
+          "why": "Reprise d’une phrase entière, en fonction sujet."
+        },
+        {
+          "q": "Je me souviens de tout ___ tu m’as raconté.",
+          "options": [
+            "ce qui",
+            "ce que",
+            "ce dont"
+          ],
+          "answer": 1,
+          "why": "[fr]raconter quelque chose[/fr] → COD."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "",
+          "after": " m’inquiète, c’est le silence.",
+          "answer": "Ce qui",
+          "alt": [
+            "ce qui"
+          ]
+        },
+        {
+          "before": "Je ne comprends pas ",
+          "after": " tu veux dire.",
+          "answer": "ce que"
+        },
+        {
+          "before": "Voilà ",
+          "after": " je te parlais hier.",
+          "answer": "ce dont"
+        },
+        {
+          "before": "Fais ",
+          "after": " tu veux.",
+          "answer": "ce que"
+        }
+      ]
+    }
+  ]
+}

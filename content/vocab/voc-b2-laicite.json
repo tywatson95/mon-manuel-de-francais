@@ -1,0 +1,242 @@
+{
+  "id": "voc-b2-laicite",
+  "title": "Laïcité, histoire & mode de vie",
+  "level": "B2",
+  "order": 610,
+  "summary": "Repères culturels et historiques indispensables.",
+  "items": [
+    {
+      "fr": "la laïcité",
+      "ipa": "la.i.si.te",
+      "en": "secularism",
+      "ex": "La laïcité sépare l’État et les cultes."
+    },
+    {
+      "fr": "la loi de 1905",
+      "ipa": "lwa",
+      "en": "the 1905 law",
+      "ex": "La loi de 1905 fonde la laïcité."
+    },
+    {
+      "fr": "un culte",
+      "ipa": "kylt",
+      "en": "a religion, form of worship",
+      "ex": "La liberté de culte est garantie."
+    },
+    {
+      "fr": "la liberté de conscience",
+      "ipa": "kɔ̃.sjɑ̃s",
+      "en": "freedom of conscience",
+      "ex": "La liberté de conscience est absolue."
+    },
+    {
+      "fr": "la neutralité",
+      "ipa": "nø.tʁa.li.te",
+      "en": "neutrality",
+      "ex": "La neutralité des agents publics."
+    },
+    {
+      "fr": "un signe religieux",
+      "ipa": "siɲ",
+      "en": "a religious symbol",
+      "ex": "Le port de signes religieux à l’école."
+    },
+    {
+      "fr": "une croyance",
+      "ipa": "kʁwa.jɑ̃s",
+      "en": "a belief",
+      "ex": "Le respect des croyances."
+    },
+    {
+      "fr": "athée",
+      "ipa": "a.te",
+      "en": "atheist",
+      "ex": "Une société largement athée."
+    },
+    {
+      "fr": "la République",
+      "ipa": "ʁe.py.blik",
+      "en": "the Republic",
+      "ex": "Les valeurs de la République."
+    },
+    {
+      "fr": "la devise",
+      "ipa": "də.viz",
+      "en": "the motto",
+      "ex": "« Liberté, Égalité, Fraternité »."
+    },
+    {
+      "fr": "la Révolution française",
+      "ipa": "ʁe.vɔ.ly.sjɔ̃",
+      "en": "the French Revolution",
+      "ex": "La Révolution française de 1789."
+    },
+    {
+      "fr": "l’Ancien Régime",
+      "ipa": "ɑ̃.sjɛ̃ ʁe.ʒim",
+      "en": "the Old Regime",
+      "ex": "La fin de l’Ancien Régime."
+    },
+    {
+      "fr": "les Lumières (f)",
+      "ipa": "ly.mjɛʁ",
+      "en": "the Enlightenment",
+      "ex": "Les philosophes des Lumières."
+    },
+    {
+      "fr": "la Déclaration des droits de l’homme",
+      "ipa": "de.kla.ʁa.sjɔ̃",
+      "en": "the Declaration of Rights",
+      "ex": "La Déclaration de 1789."
+    },
+    {
+      "fr": "un empire",
+      "ipa": "ɑ̃.piʁ",
+      "en": "an empire",
+      "ex": "Le Premier Empire."
+    },
+    {
+      "fr": "la colonisation",
+      "ipa": "kɔ.lɔ.ni.za.sjɔ̃",
+      "en": "colonisation",
+      "ex": "L’héritage de la colonisation."
+    },
+    {
+      "fr": "la décolonisation",
+      "ipa": "de.kɔ",
+      "en": "decolonisation",
+      "ex": "La décolonisation des années 1960."
+    },
+    {
+      "fr": "la Résistance",
+      "ipa": "ʁe.zis.tɑ̃s",
+      "en": "the Resistance",
+      "ex": "Les figures de la Résistance."
+    },
+    {
+      "fr": "l’Occupation (f)",
+      "ipa": "ɔ.ky.pa.sjɔ̃",
+      "en": "the Occupation",
+      "ex": "Sous l’Occupation."
+    },
+    {
+      "fr": "la Libération",
+      "ipa": "li.be.ʁa.sjɔ̃",
+      "en": "the Liberation",
+      "ex": "La Libération de Paris."
+    },
+    {
+      "fr": "Mai 68",
+      "ipa": "mɛ swa.sɑ̃t ɥit",
+      "en": "May 1968",
+      "ex": "Mai 68 a transformé la société."
+    },
+    {
+      "fr": "la mémoire",
+      "ipa": "me.mwaʁ",
+      "en": "remembrance",
+      "ex": "Le devoir de mémoire."
+    },
+    {
+      "fr": "un lieu de mémoire",
+      "ipa": "ljø",
+      "en": "a site of memory",
+      "ex": "Un lieu de mémoire national."
+    },
+    {
+      "fr": "le terroir",
+      "ipa": "te.ʁwaʁ",
+      "en": "local land and produce",
+      "ex": "Les produits du terroir."
+    },
+    {
+      "fr": "la gastronomie",
+      "ipa": "ɡas.tʁɔ.nɔ.mi",
+      "en": "gastronomy",
+      "ex": "La gastronomie française est classée à l’UNESCO."
+    },
+    {
+      "fr": "une appellation",
+      "ipa": "a.pe.la.sjɔ̃",
+      "en": "a designation of origin",
+      "ex": "Une appellation contrôlée."
+    },
+    {
+      "fr": "la mode",
+      "ipa": "mɔd",
+      "en": "fashion",
+      "ex": "Paris reste une capitale de la mode."
+    },
+    {
+      "fr": "la haute couture",
+      "ipa": "ot ku.tyʁ",
+      "en": "haute couture",
+      "ex": "Une maison de haute couture."
+    },
+    {
+      "fr": "le prêt-à-porter",
+      "ipa": "pʁɛ.ta.pɔʁ.te",
+      "en": "ready-to-wear",
+      "ex": "Le prêt-à-porter de luxe."
+    },
+    {
+      "fr": "une marque",
+      "ipa": "maʁk",
+      "en": "a brand",
+      "ex": "Une marque de luxe."
+    },
+    {
+      "fr": "le luxe",
+      "ipa": "lyks",
+      "en": "luxury",
+      "ex": "L’industrie du luxe."
+    },
+    {
+      "fr": "la fast fashion",
+      "ipa": "fast fa.ʃɔn",
+      "en": "fast fashion",
+      "ex": "La fast fashion est critiquée."
+    },
+    {
+      "fr": "l’art de vivre",
+      "ipa": "aʁ də vivʁ",
+      "en": "the art of living",
+      "ex": "Un certain art de vivre."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Repères.",
+      "items": [
+        {
+          "q": "La loi de 1905 institue…",
+          "options": [
+            "la séparation des Églises et de l’État",
+            "le droit de vote des femmes",
+            "l’école obligatoire"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "La devise de la République est…",
+          "options": [
+            "Liberté, Égalité, Fraternité",
+            "Travail, Famille, Patrie",
+            "Unité, Justice, Paix"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« La laïcité » garantit…",
+          "options": [
+            "l’absence de religion",
+            "la liberté de croire ou de ne pas croire",
+            "une religion d’État"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

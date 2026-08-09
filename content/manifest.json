@@ -1,0 +1,1129 @@
+{
+  "generated": "run `node tools/build-index.js` to refresh",
+  "lessons": [
+    {
+      "id": "cm-a1-saluer",
+      "title": "Saluer et prendre congé",
+      "summary": "Bonjour, au revoir — et le geste qui va avec.",
+      "group": "communication",
+      "level": "A1",
+      "order": 110
+    },
+    {
+      "id": "na-a1-genre",
+      "title": "Le genre des noms",
+      "summary": "Masculin ou féminin : les terminaisons qui donnent la réponse dans 80 % des cas.",
+      "group": "noms-adjectifs",
+      "level": "A1",
+      "order": 110
+    },
+    {
+      "id": "ph-a1-questions",
+      "title": "Poser une question : trois façons",
+      "summary": "Intonation, est-ce que, inversion — de la plus simple à la plus formelle.",
+      "group": "phrase",
+      "level": "A1",
+      "order": 110
+    },
+    {
+      "id": "pn-a1-alphabet",
+      "title": "L’alphabet et les accents",
+      "summary": "Épeler son nom, et comprendre à quoi servent les cinq accents.",
+      "group": "prononciation",
+      "level": "A1",
+      "order": 110
+    },
+    {
+      "id": "pr-a1-sujets",
+      "title": "Les pronoms sujets — tu ou vous ?",
+      "summary": "Qui fait l’action — et le choix social le plus délicat du français.",
+      "group": "pronoms",
+      "level": "A1",
+      "order": 110
+    },
+    {
+      "id": "tm-a1-present-etre-avoir",
+      "title": "Le présent : être, avoir, aller, faire",
+      "summary": "Les quatre verbes qui ouvrent presque toutes les phrases françaises.",
+      "group": "temps-modes",
+      "level": "A1",
+      "order": 110
+    },
+    {
+      "id": "cm-a1-se-presenter",
+      "title": "Se présenter",
+      "summary": "Nom, âge, nationalité, métier : les cinq phrases de départ.",
+      "group": "communication",
+      "level": "A1",
+      "order": 120
+    },
+    {
+      "id": "na-a1-pluriel",
+      "title": "Le pluriel des noms",
+      "summary": "Un -s qu’on écrit mais qu’on n’entend pas.",
+      "group": "noms-adjectifs",
+      "level": "A1",
+      "order": 120
+    },
+    {
+      "id": "ph-a1-mots-interrogatifs",
+      "title": "Les mots interrogatifs",
+      "summary": "Qui, que, où, quand, comment, combien, pourquoi, quel.",
+      "group": "phrase",
+      "level": "A1",
+      "order": 120
+    },
+    {
+      "id": "pn-a1-api",
+      "title": "Lire l’alphabet phonétique",
+      "summary": "Tous les symboles utilisés sur ce site, expliqués une fois pour toutes.",
+      "group": "prononciation",
+      "level": "A1",
+      "order": 120
+    },
+    {
+      "id": "pr-a1-toniques",
+      "title": "Les pronoms toniques",
+      "summary": "Moi, toi, lui : le pronom qu’on utilise seul, ou après une préposition.",
+      "group": "pronoms",
+      "level": "A1",
+      "order": 120
+    },
+    {
+      "id": "tm-a1-present-er",
+      "title": "Le présent des verbes en -er",
+      "summary": "Une seule terminaison à apprendre pour 90 % des verbes français.",
+      "group": "temps-modes",
+      "level": "A1",
+      "order": 120
+    },
+    {
+      "id": "cm-a1-cafe",
+      "title": "Au café : commander",
+      "summary": "Trois phrases suffisent pour être servi comme un habitué.",
+      "group": "communication",
+      "level": "A1",
+      "order": 130
+    },
+    {
+      "id": "na-a1-articles",
+      "title": "Les articles définis et indéfinis",
+      "summary": "Le, la, les / un, une, des : connu ou pas encore connu.",
+      "group": "noms-adjectifs",
+      "level": "A1",
+      "order": 130
+    },
+    {
+      "id": "ph-a1-negation",
+      "title": "La négation ne… pas",
+      "summary": "Deux mots qui entourent le verbe — et le « ne » qui disparaît à l’oral.",
+      "group": "phrase",
+      "level": "A1",
+      "order": 130
+    },
+    {
+      "id": "pn-a1-voyelles",
+      "title": "Les voyelles : les pièges de l’orthographe",
+      "summary": "Une lettre, plusieurs sons ; plusieurs lettres, un seul son.",
+      "group": "prononciation",
+      "level": "A1",
+      "order": 130
+    },
+    {
+      "id": "tm-a1-present-irreguliers",
+      "title": "Le présent : les irréguliers indispensables",
+      "summary": "Dix verbes qui ne suivent aucune règle — et qu’on utilise tous les jours.",
+      "group": "temps-modes",
+      "level": "A1",
+      "order": 130
+    },
+    {
+      "id": "cm-a1-direction",
+      "title": "Demander son chemin",
+      "summary": "Poser la question, et surtout comprendre la réponse.",
+      "group": "communication",
+      "level": "A1",
+      "order": 140
+    },
+    {
+      "id": "na-a1-partitifs",
+      "title": "Les articles partitifs et « de » après la négation",
+      "summary": "Du pain, de la salade : une quantité qu’on ne compte pas.",
+      "group": "noms-adjectifs",
+      "level": "A1",
+      "order": 140
+    },
+    {
+      "id": "ph-a1-cest-il-est",
+      "title": "C’est ou il est ?",
+      "summary": "La distinction qui décide entre « c’est un médecin » et « il est médecin ».",
+      "group": "phrase",
+      "level": "A1",
+      "order": 140
+    },
+    {
+      "id": "pn-a1-consonnes",
+      "title": "Les consonnes et les lettres muettes",
+      "summary": "Le h qu’on n’entend jamais, le r du fond de la gorge, et les finales silencieuses.",
+      "group": "prononciation",
+      "level": "A1",
+      "order": 140
+    },
+    {
+      "id": "tm-a1-pronominaux",
+      "title": "Les verbes pronominaux au présent",
+      "summary": "Se lever, se coucher : le verbe revient sur son sujet.",
+      "group": "temps-modes",
+      "level": "A1",
+      "order": 140
+    },
+    {
+      "id": "cm-a1-meteo",
+      "title": "Parler du temps qu’il fait",
+      "summary": "Il fait, il y a, il pleut — trois structures et le sujet de conversation universel.",
+      "group": "communication",
+      "level": "A1",
+      "order": 150
+    },
+    {
+      "id": "na-a1-adjectifs",
+      "title": "L’accord et la place de l’adjectif",
+      "summary": "L’adjectif s’accorde — et se place le plus souvent après le nom.",
+      "group": "noms-adjectifs",
+      "level": "A1",
+      "order": 150
+    },
+    {
+      "id": "ph-a1-il-y-a",
+      "title": "Il y a",
+      "summary": "Une seule forme pour dire « there is » et « there are ».",
+      "group": "phrase",
+      "level": "A1",
+      "order": 150
+    },
+    {
+      "id": "pn-a1-liaison",
+      "title": "La liaison : premier contact",
+      "summary": "Pourquoi « les amis » se dit « lé-zami ».",
+      "group": "prononciation",
+      "level": "A1",
+      "order": 150
+    },
+    {
+      "id": "tm-a1-futur-proche",
+      "title": "Le futur proche",
+      "summary": "Aller + infinitif : le futur le plus simple et le plus parlé.",
+      "group": "temps-modes",
+      "level": "A1",
+      "order": 150
+    },
+    {
+      "id": "cm-a1-inviter",
+      "title": "Inviter, accepter, refuser",
+      "summary": "Proposer quelque chose — et refuser sans blesser.",
+      "group": "communication",
+      "level": "A1",
+      "order": 160
+    },
+    {
+      "id": "na-a1-possessifs-demonstratifs",
+      "title": "Les adjectifs possessifs et démonstratifs",
+      "summary": "Mon, ma, mes / ce, cette, ces : à qui c’est, et lequel on montre.",
+      "group": "noms-adjectifs",
+      "level": "A1",
+      "order": 160
+    },
+    {
+      "id": "tm-a1-imperatif",
+      "title": "L’impératif",
+      "summary": "Donner un ordre, un conseil, une recette — sans pronom sujet.",
+      "group": "temps-modes",
+      "level": "A1",
+      "order": 160
+    },
+    {
+      "id": "na-a1-quantites",
+      "title": "Les expressions de quantité",
+      "summary": "Beaucoup de, un peu de, assez de — et toujours « de » tout seul.",
+      "group": "noms-adjectifs",
+      "level": "A1",
+      "order": 170
+    },
+    {
+      "id": "cm-a2-achats",
+      "title": "Faire des achats : tailles, essayage, retours",
+      "summary": "Acheter, essayer, changer d’avis — le vocabulaire du magasin.",
+      "group": "communication",
+      "level": "A2",
+      "order": 210
+    },
+    {
+      "id": "co-a2-chronologie",
+      "title": "Raconter dans l’ordre",
+      "summary": "D’abord, ensuite, puis, enfin : la colonne vertébrale d’un récit.",
+      "group": "connecteurs",
+      "level": "A2",
+      "order": 210
+    },
+    {
+      "id": "na-a2-comparatif",
+      "title": "Le comparatif et le superlatif",
+      "summary": "Plus, moins, aussi — et les deux irréguliers qui piègent tout le monde.",
+      "group": "noms-adjectifs",
+      "level": "A2",
+      "order": 210
+    },
+    {
+      "id": "ph-a2-negations",
+      "title": "Les autres négations",
+      "summary": "Plus, jamais, rien, personne : changer le deuxième mot change tout.",
+      "group": "phrase",
+      "level": "A2",
+      "order": 210
+    },
+    {
+      "id": "pn-a2-nasales",
+      "title": "Les voyelles nasales",
+      "summary": "Trois sons qui n’existent pas en anglais — et qui distinguent des mots entiers.",
+      "group": "prononciation",
+      "level": "A2",
+      "order": 210
+    },
+    {
+      "id": "pr-a2-cod",
+      "title": "Les pronoms COD",
+      "summary": "Le, la, les : remplacer la chose ou la personne directement touchée par le verbe.",
+      "group": "pronoms",
+      "level": "A2",
+      "order": 210
+    },
+    {
+      "id": "tm-a2-passe-compose-avoir",
+      "title": "Le passé composé avec avoir",
+      "summary": "Le temps du récit : ce qui s’est passé, une fois, et c’est fini.",
+      "group": "temps-modes",
+      "level": "A2",
+      "order": 210
+    },
+    {
+      "id": "cm-a2-medecin",
+      "title": "Chez le médecin",
+      "summary": "Décrire un symptôme, comprendre une ordonnance.",
+      "group": "communication",
+      "level": "A2",
+      "order": 220
+    },
+    {
+      "id": "co-a2-marqueurs-temps",
+      "title": "Depuis, il y a, pendant, dans",
+      "summary": "Quatre mots de temps que les anglophones confondent systématiquement.",
+      "group": "connecteurs",
+      "level": "A2",
+      "order": 220
+    },
+    {
+      "id": "ph-a2-discours-rapporte-present",
+      "title": "Le discours rapporté au présent",
+      "summary": "Répéter les mots de quelqu’un sans guillemets.",
+      "group": "phrase",
+      "level": "A2",
+      "order": 220
+    },
+    {
+      "id": "pn-a2-rythme",
+      "title": "Le rythme et l’accent du français",
+      "summary": "Pourquoi le français semble « plat » — et comment en profiter.",
+      "group": "prononciation",
+      "level": "A2",
+      "order": 220
+    },
+    {
+      "id": "pr-a2-coi",
+      "title": "Les pronoms COI",
+      "summary": "Lui, leur : quand le verbe passe par « à » avant d’atteindre la personne.",
+      "group": "pronoms",
+      "level": "A2",
+      "order": 220
+    },
+    {
+      "id": "tm-a2-passe-compose-etre",
+      "title": "Le passé composé avec être",
+      "summary": "Une petite famille de verbes prend « être » — et là, le participe s’accorde.",
+      "group": "temps-modes",
+      "level": "A2",
+      "order": 220
+    },
+    {
+      "id": "cm-a2-reserver",
+      "title": "Réserver un hébergement",
+      "summary": "Réserver, confirmer, signaler un problème à l’hôtel.",
+      "group": "communication",
+      "level": "A2",
+      "order": 230
+    },
+    {
+      "id": "co-a2-cause-simple",
+      "title": "Exprimer la cause simplement",
+      "summary": "Parce que, car, comme : dire pourquoi.",
+      "group": "connecteurs",
+      "level": "A2",
+      "order": 230
+    },
+    {
+      "id": "pr-a2-y-en",
+      "title": "Les pronoms y et en",
+      "summary": "Deux petits mots qui remplacent un lieu, une quantité, ou un complément en « de ».",
+      "group": "pronoms",
+      "level": "A2",
+      "order": 230
+    },
+    {
+      "id": "tm-a2-imparfait",
+      "title": "L’imparfait",
+      "summary": "Le décor du passé : les habitudes, les descriptions, ce qui durait.",
+      "group": "temps-modes",
+      "level": "A2",
+      "order": 230
+    },
+    {
+      "id": "cm-a2-mail",
+      "title": "Écrire un mail simple",
+      "summary": "Ouvrir, dire, fermer — et la formule de politesse obligatoire.",
+      "group": "communication",
+      "level": "A2",
+      "order": 240
+    },
+    {
+      "id": "pr-a2-relatifs-simples",
+      "title": "Les pronoms relatifs qui, que, où",
+      "summary": "Trois mots pour coller deux phrases en une seule.",
+      "group": "pronoms",
+      "level": "A2",
+      "order": 240
+    },
+    {
+      "id": "tm-a2-pc-vs-imparfait",
+      "title": "Passé composé ou imparfait ?",
+      "summary": "Le décor reste, l’action avance : la distinction qui fait tout basculer.",
+      "group": "temps-modes",
+      "level": "A2",
+      "order": 240
+    },
+    {
+      "id": "pr-a2-demonstratifs-possessifs",
+      "title": "Les pronoms démonstratifs et possessifs",
+      "summary": "Celui-ci, le mien : montrer et posséder sans répéter le nom.",
+      "group": "pronoms",
+      "level": "A2",
+      "order": 250
+    },
+    {
+      "id": "tm-a2-futur-simple",
+      "title": "Le futur simple",
+      "summary": "L’infinitif + les terminaisons d’avoir : le futur de l’écrit et des promesses.",
+      "group": "temps-modes",
+      "level": "A2",
+      "order": 250
+    },
+    {
+      "id": "pr-a2-indefinis",
+      "title": "Tout, quelques, chacun : les indéfinis",
+      "summary": "Dire « tout », « quelques-uns », « personne » sans se tromper d’accord.",
+      "group": "pronoms",
+      "level": "A2",
+      "order": 260
+    },
+    {
+      "id": "tm-a2-venir-de-etre-en-train",
+      "title": "Venir de, être en train de, aller",
+      "summary": "Trois expressions pour situer une action juste avant, pendant, ou juste après.",
+      "group": "temps-modes",
+      "level": "A2",
+      "order": 260
+    },
+    {
+      "id": "tm-a2-conditionnel-politesse",
+      "title": "Le conditionnel présent : politesse et conseil",
+      "summary": "Je voudrais, tu devrais, pourriez-vous : le temps qui adoucit tout.",
+      "group": "temps-modes",
+      "level": "A2",
+      "order": 270
+    },
+    {
+      "id": "tm-a2-subjonctif-figees",
+      "title": "Le subjonctif dans les expressions figées",
+      "summary": "Il faut que… : le subjonctif par la porte la plus utile.",
+      "group": "temps-modes",
+      "level": "A2",
+      "order": 280
+    },
+    {
+      "id": "tm-a2-gerondif",
+      "title": "Le gérondif",
+      "summary": "En + -ant : deux actions en même temps, ou la manière de faire.",
+      "group": "temps-modes",
+      "level": "A2",
+      "order": 290
+    },
+    {
+      "id": "cm-b1-se-plaindre",
+      "title": "Se plaindre et régler un problème",
+      "summary": "Exposer, demander réparation, monter le ton sans être agressif.",
+      "group": "communication",
+      "level": "B1",
+      "order": 310
+    },
+    {
+      "id": "co-b1-cause",
+      "title": "La cause : nuancer",
+      "summary": "Puisque, étant donné que, en raison de — chaque nuance a son mot.",
+      "group": "connecteurs",
+      "level": "B1",
+      "order": 310
+    },
+    {
+      "id": "na-b1-adjectifs-nuances",
+      "title": "Les adjectifs qui changent de sens selon leur place",
+      "summary": "Un grand homme n’est pas un homme grand.",
+      "group": "noms-adjectifs",
+      "level": "B1",
+      "order": 310
+    },
+    {
+      "id": "ph-b1-accord-participe",
+      "title": "L’accord du participe passé",
+      "summary": "Les trois règles — et celle qui piège même les Français.",
+      "group": "phrase",
+      "level": "B1",
+      "order": 310
+    },
+    {
+      "id": "pn-b1-liaisons-avancees",
+      "title": "Liaisons obligatoires, interdites, facultatives",
+      "summary": "Faire toutes les liaisons sonne aussi faux que n’en faire aucune.",
+      "group": "prononciation",
+      "level": "B1",
+      "order": 310
+    },
+    {
+      "id": "pr-b1-dont",
+      "title": "Le pronom relatif dont",
+      "summary": "Le relatif de « de » — celui qui débloque la phrase complexe.",
+      "group": "pronoms",
+      "level": "B1",
+      "order": 310
+    },
+    {
+      "id": "tm-b1-subjonctif-formation",
+      "title": "Le subjonctif présent : la formation",
+      "summary": "Une méthode, deux radicaux, sept irréguliers. Rien de plus.",
+      "group": "temps-modes",
+      "level": "B1",
+      "order": 310
+    },
+    {
+      "id": "cm-b1-opinion",
+      "title": "Donner et justifier son opinion",
+      "summary": "Dire ce qu’on pense, nuancer, et être en désaccord poliment.",
+      "group": "communication",
+      "level": "B1",
+      "order": 320
+    },
+    {
+      "id": "co-b1-consequence",
+      "title": "La conséquence",
+      "summary": "Donc, alors, si bien que, c’est pourquoi — dire ce qui en résulte.",
+      "group": "connecteurs",
+      "level": "B1",
+      "order": 320
+    },
+    {
+      "id": "ph-b1-passif",
+      "title": "La voix passive",
+      "summary": "Quand le complément devient sujet — et qui l’a fait devient secondaire.",
+      "group": "phrase",
+      "level": "B1",
+      "order": 320
+    },
+    {
+      "id": "pr-b1-lequel",
+      "title": "Lequel et ses contractions",
+      "summary": "Le relatif après une préposition — et le pronom interrogatif du choix.",
+      "group": "pronoms",
+      "level": "B1",
+      "order": 320
+    },
+    {
+      "id": "tm-b1-subjonctif-declencheurs",
+      "title": "Le subjonctif : les déclencheurs",
+      "summary": "Volonté, nécessité, sentiment, doute — quatre familles, et le réflexe est acquis.",
+      "group": "temps-modes",
+      "level": "B1",
+      "order": 320
+    },
+    {
+      "id": "cm-b1-lettre-formelle",
+      "title": "Écrire une lettre formelle",
+      "summary": "La structure attendue, du destinataire à la formule finale.",
+      "group": "communication",
+      "level": "B1",
+      "order": 330
+    },
+    {
+      "id": "co-b1-opposition",
+      "title": "L’opposition et la concession",
+      "summary": "Mais, pourtant, malgré, bien que : nuancer et contredire.",
+      "group": "connecteurs",
+      "level": "B1",
+      "order": 330
+    },
+    {
+      "id": "ph-b1-negations-avancees",
+      "title": "Ne… ni… ni, ne… aucun, ne… que",
+      "summary": "Nier deux choses, nier totalement, ou restreindre.",
+      "group": "phrase",
+      "level": "B1",
+      "order": 330
+    },
+    {
+      "id": "pr-b1-ce-qui-ce-que",
+      "title": "Ce qui, ce que, ce dont",
+      "summary": "Le relatif sans antécédent : « what » en français.",
+      "group": "pronoms",
+      "level": "B1",
+      "order": 330
+    },
+    {
+      "id": "tm-b1-indicatif-vs-subjonctif",
+      "title": "Je pense que / Je ne pense pas que",
+      "summary": "Le même verbe, deux modes : quand la négation change tout.",
+      "group": "temps-modes",
+      "level": "B1",
+      "order": 330
+    },
+    {
+      "id": "co-b1-temporelles",
+      "title": "Les propositions temporelles",
+      "summary": "Avant de, après, dès que, jusqu’à ce que — situer deux actions l’une par rapport à l’autre.",
+      "group": "connecteurs",
+      "level": "B1",
+      "order": 340
+    },
+    {
+      "id": "ph-b1-si",
+      "title": "Les phrases avec si",
+      "summary": "Trois combinaisons fixes — et jamais de futur après « si ».",
+      "group": "phrase",
+      "level": "B1",
+      "order": 340
+    },
+    {
+      "id": "pr-b1-doubles-pronoms",
+      "title": "Les doubles pronoms",
+      "summary": "Deux pronoms dans la même phrase : l’ordre est fixe.",
+      "group": "pronoms",
+      "level": "B1",
+      "order": 340
+    },
+    {
+      "id": "tm-b1-plus-que-parfait",
+      "title": "Le plus-que-parfait",
+      "summary": "Le passé du passé : ce qui s’était déjà produit avant.",
+      "group": "temps-modes",
+      "level": "B1",
+      "order": 340
+    },
+    {
+      "id": "co-b1-adverbes-ment",
+      "title": "Les adverbes en -ment",
+      "summary": "Fabriquer un adverbe à partir d’un adjectif — et savoir où le placer.",
+      "group": "connecteurs",
+      "level": "B1",
+      "order": 350
+    },
+    {
+      "id": "ph-b1-discours-rapporte-passe",
+      "title": "Le discours rapporté au passé",
+      "summary": "Quand le verbe introducteur recule, tout recule avec lui.",
+      "group": "phrase",
+      "level": "B1",
+      "order": 350
+    },
+    {
+      "id": "tm-b1-conditionnel-passe",
+      "title": "Le conditionnel passé et le regret",
+      "summary": "J’aurais dû : dire ce qui aurait pu se passer, et ne s’est pas passé.",
+      "group": "temps-modes",
+      "level": "B1",
+      "order": 350
+    },
+    {
+      "id": "tm-b1-participe-present",
+      "title": "Participe présent ou gérondif ?",
+      "summary": "Deux formes en -ant, deux rôles très différents.",
+      "group": "temps-modes",
+      "level": "B1",
+      "order": 360
+    },
+    {
+      "id": "cm-b2-debattre",
+      "title": "Débattre : prendre et garder la parole",
+      "summary": "Interrompre, se défendre, relancer — les mécaniques du débat français.",
+      "group": "communication",
+      "level": "B2",
+      "order": 410
+    },
+    {
+      "id": "co-b2-but",
+      "title": "Le but",
+      "summary": "Pour que, afin que, de peur que : dire dans quelle intention.",
+      "group": "connecteurs",
+      "level": "B2",
+      "order": 410
+    },
+    {
+      "id": "na-b2-nominalisation",
+      "title": "La nominalisation",
+      "summary": "Transformer un verbe en nom : le réflexe du style de presse et de l’essai.",
+      "group": "noms-adjectifs",
+      "level": "B2",
+      "order": 410
+    },
+    {
+      "id": "ph-b2-mise-en-relief",
+      "title": "La mise en relief",
+      "summary": "C’est… qui, ce qui… c’est : mettre un mot sous le projecteur.",
+      "group": "phrase",
+      "level": "B2",
+      "order": 410
+    },
+    {
+      "id": "pr-b2-relatifs-prepositions",
+      "title": "Relatifs avec préposition : maîtrise",
+      "summary": "Auquel, duquel, parmi lesquels — la précision de l’écrit soutenu.",
+      "group": "pronoms",
+      "level": "B2",
+      "order": 410
+    },
+    {
+      "id": "tm-b2-subjonctif-passe",
+      "title": "Le subjonctif passé",
+      "summary": "Le subjonctif quand l’action est déjà accomplie.",
+      "group": "temps-modes",
+      "level": "B2",
+      "order": 410
+    },
+    {
+      "id": "cm-b2-registres",
+      "title": "Les registres : familier, standard, soutenu",
+      "summary": "Le même sens, trois niveaux de langue — et savoir lequel utiliser.",
+      "group": "communication",
+      "level": "B2",
+      "order": 420
+    },
+    {
+      "id": "co-b2-hypothese",
+      "title": "L’hypothèse et la condition",
+      "summary": "À condition que, à moins que, au cas où — au-delà de « si ».",
+      "group": "connecteurs",
+      "level": "B2",
+      "order": 420
+    },
+    {
+      "id": "ph-b2-alternatives-passif",
+      "title": "Les alternatives au passif",
+      "summary": "On, se faire, le passif pronominal : ce que le français préfère au vrai passif.",
+      "group": "phrase",
+      "level": "B2",
+      "order": 420
+    },
+    {
+      "id": "tm-b2-futur-anterieur",
+      "title": "Le futur antérieur",
+      "summary": "Ce qui sera fini avant un autre moment du futur.",
+      "group": "temps-modes",
+      "level": "B2",
+      "order": 420
+    },
+    {
+      "id": "cm-b2-synthese",
+      "title": "Résumer et synthétiser un document",
+      "summary": "Restituer l’essentiel d’un texte avec ses propres mots — l’épreuve reine du B2.",
+      "group": "communication",
+      "level": "B2",
+      "order": 430
+    },
+    {
+      "id": "co-b2-argumentation",
+      "title": "Structurer une argumentation",
+      "summary": "Le plan dialectique et les connecteurs qui l’articulent.",
+      "group": "connecteurs",
+      "level": "B2",
+      "order": 430
+    },
+    {
+      "id": "tm-b2-passe-simple",
+      "title": "Le passé simple (reconnaissance)",
+      "summary": "Le temps des romans et des manuels d’histoire — à lire, pas à parler.",
+      "group": "temps-modes",
+      "level": "B2",
+      "order": 430
+    },
+    {
+      "id": "co-b2-conceder",
+      "title": "Concéder puis contrer",
+      "summary": "Certes… mais : la figure la plus utile du débat français.",
+      "group": "connecteurs",
+      "level": "B2",
+      "order": 440
+    },
+    {
+      "id": "tm-b2-concordance",
+      "title": "La concordance des temps",
+      "summary": "Quand la principale recule au passé, la subordonnée recule aussi.",
+      "group": "temps-modes",
+      "level": "B2",
+      "order": 440
+    },
+    {
+      "id": "tm-b2-subjonctif-vs-infinitif",
+      "title": "Subjonctif ou infinitif ?",
+      "summary": "Même sujet : infinitif. Sujet différent : subjonctif.",
+      "group": "temps-modes",
+      "level": "B2",
+      "order": 450
+    }
+  ],
+  "vocab": [
+    {
+      "id": "voc-a1-salutations",
+      "title": "Salutations & politesse",
+      "level": "A1",
+      "order": 110,
+      "count": 40
+    },
+    {
+      "id": "voc-a1-nombres",
+      "title": "Nombres, dates & heure",
+      "level": "A1",
+      "order": 120,
+      "count": 47
+    },
+    {
+      "id": "voc-a1-famille",
+      "title": "La famille",
+      "level": "A1",
+      "order": 130,
+      "count": 36
+    },
+    {
+      "id": "voc-a1-nationalites",
+      "title": "Nationalités & professions",
+      "level": "A1",
+      "order": 140,
+      "count": 36
+    },
+    {
+      "id": "voc-a1-decrire",
+      "title": "Décrire une personne",
+      "level": "A1",
+      "order": 150,
+      "count": 36
+    },
+    {
+      "id": "voc-a1-couleurs",
+      "title": "Les couleurs",
+      "level": "A1",
+      "order": 160,
+      "count": 22
+    },
+    {
+      "id": "voc-a1-nourriture",
+      "title": "Nourriture & boissons",
+      "level": "A1",
+      "order": 170,
+      "count": 40
+    },
+    {
+      "id": "voc-a1-restaurant",
+      "title": "Au café & au restaurant",
+      "level": "A1",
+      "order": 180,
+      "count": 36
+    },
+    {
+      "id": "voc-a1-maison",
+      "title": "Maison & meubles",
+      "level": "A1",
+      "order": 190,
+      "count": 37
+    },
+    {
+      "id": "voc-a1-ville",
+      "title": "La ville & les directions",
+      "level": "A1",
+      "order": 200,
+      "count": 38
+    },
+    {
+      "id": "voc-a1-vetements",
+      "title": "Vêtements & couleurs de base",
+      "level": "A1",
+      "order": 210,
+      "count": 36
+    },
+    {
+      "id": "voc-a2-voyage",
+      "title": "Voyage & transports",
+      "level": "A2",
+      "order": 210,
+      "count": 42
+    },
+    {
+      "id": "voc-a2-hotel",
+      "title": "Hôtels & vacances",
+      "level": "A2",
+      "order": 220,
+      "count": 38
+    },
+    {
+      "id": "voc-a1-meteo",
+      "title": "Météo & saisons",
+      "level": "A1",
+      "order": 220,
+      "count": 33
+    },
+    {
+      "id": "voc-a1-routine",
+      "title": "La journée & la routine",
+      "level": "A1",
+      "order": 230,
+      "count": 37
+    },
+    {
+      "id": "voc-a2-sante",
+      "title": "Santé & le corps",
+      "level": "A2",
+      "order": 230,
+      "count": 40
+    },
+    {
+      "id": "voc-a1-loisirs",
+      "title": "Loisirs & sports",
+      "level": "A1",
+      "order": 240,
+      "count": 38
+    },
+    {
+      "id": "voc-a2-travail",
+      "title": "Travail & métiers",
+      "level": "A2",
+      "order": 240,
+      "count": 38
+    },
+    {
+      "id": "voc-a2-education",
+      "title": "Études & vie étudiante",
+      "level": "A2",
+      "order": 250,
+      "count": 37
+    },
+    {
+      "id": "voc-a1-objets",
+      "title": "Objets du quotidien",
+      "level": "A1",
+      "order": 250,
+      "count": 36
+    },
+    {
+      "id": "voc-a2-cuisine",
+      "title": "Cuisine & recettes",
+      "level": "A2",
+      "order": 260,
+      "count": 38
+    },
+    {
+      "id": "voc-a2-logement",
+      "title": "Logement & déménagement",
+      "level": "A2",
+      "order": 270,
+      "count": 37
+    },
+    {
+      "id": "voc-a2-services",
+      "title": "Services du quotidien",
+      "level": "A2",
+      "order": 280,
+      "count": 35
+    },
+    {
+      "id": "voc-a2-sentiments",
+      "title": "Sentiments & réactions",
+      "level": "A2",
+      "order": 290,
+      "count": 39
+    },
+    {
+      "id": "voc-a2-fetes",
+      "title": "Fêtes & célébrations",
+      "level": "A2",
+      "order": 300,
+      "count": 36
+    },
+    {
+      "id": "voc-a2-medias",
+      "title": "Médias & technologie de base",
+      "level": "A2",
+      "order": 310,
+      "count": 36
+    },
+    {
+      "id": "voc-a2-environnement",
+      "title": "Environnement & phénomènes",
+      "level": "A2",
+      "order": 320,
+      "count": 36
+    },
+    {
+      "id": "voc-b1-candidature",
+      "title": "Candidature & entretien",
+      "level": "B1",
+      "order": 410,
+      "count": 34
+    },
+    {
+      "id": "voc-b1-presse",
+      "title": "Médias & presse",
+      "level": "B1",
+      "order": 420,
+      "count": 33
+    },
+    {
+      "id": "voc-b1-technologie",
+      "title": "Technologie & internet",
+      "level": "B1",
+      "order": 430,
+      "count": 32
+    },
+    {
+      "id": "voc-b1-incidents",
+      "title": "Incidents de voyage",
+      "level": "B1",
+      "order": 440,
+      "count": 32
+    },
+    {
+      "id": "voc-b1-relations",
+      "title": "Relations & sentiments nuancés",
+      "level": "B1",
+      "order": 450,
+      "count": 35
+    },
+    {
+      "id": "voc-b1-argent",
+      "title": "Argent & consommation",
+      "level": "B1",
+      "order": 460,
+      "count": 34
+    },
+    {
+      "id": "voc-b1-culture",
+      "title": "Cinéma, livres & musique",
+      "level": "B1",
+      "order": 470,
+      "count": 35
+    },
+    {
+      "id": "voc-b1-societe",
+      "title": "Société & engagement",
+      "level": "B1",
+      "order": 480,
+      "count": 33
+    },
+    {
+      "id": "voc-b1-sante-mode-vie",
+      "title": "Santé & mode de vie",
+      "level": "B1",
+      "order": 490,
+      "count": 32
+    },
+    {
+      "id": "voc-b2-politique",
+      "title": "Politique & institutions",
+      "level": "B2",
+      "order": 510,
+      "count": 35
+    },
+    {
+      "id": "voc-b2-economie",
+      "title": "Économie & entreprise",
+      "level": "B2",
+      "order": 520,
+      "count": 35
+    },
+    {
+      "id": "voc-b2-environnement",
+      "title": "Environnement & climat",
+      "level": "B2",
+      "order": 530,
+      "count": 34
+    },
+    {
+      "id": "voc-b2-justice",
+      "title": "Justice & droit",
+      "level": "B2",
+      "order": 540,
+      "count": 34
+    },
+    {
+      "id": "voc-b2-sciences",
+      "title": "Sciences & technologies",
+      "level": "B2",
+      "order": 550,
+      "count": 34
+    },
+    {
+      "id": "voc-b2-sante-medecine",
+      "title": "Santé & médecine",
+      "level": "B2",
+      "order": 560,
+      "count": 32
+    },
+    {
+      "id": "voc-b2-education",
+      "title": "Systèmes éducatifs",
+      "level": "B2",
+      "order": 570,
+      "count": 32
+    },
+    {
+      "id": "voc-b2-immigration",
+      "title": "Immigration & société",
+      "level": "B2",
+      "order": 580,
+      "count": 32
+    },
+    {
+      "id": "voc-b2-culture-arts",
+      "title": "Culture & arts",
+      "level": "B2",
+      "order": 590,
+      "count": 32
+    },
+    {
+      "id": "voc-b2-societe-famille",
+      "title": "Famille, démographie & mouvements sociaux",
+      "level": "B2",
+      "order": 600,
+      "count": 33
+    },
+    {
+      "id": "voc-b2-laicite",
+      "title": "Laïcité, histoire & mode de vie",
+      "level": "B2",
+      "order": 610,
+      "count": 33
+    }
+  ],
+  "verbCount": 254
+}

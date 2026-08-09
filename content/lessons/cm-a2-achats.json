@@ -1,0 +1,150 @@
+{
+  "id": "cm-a2-achats",
+  "group": "communication",
+  "level": "A2",
+  "order": 210,
+  "title": "Faire des achats : tailles, essayage, retours",
+  "summary": "Acheter, essayer, changer d’avis — le vocabulaire du magasin.",
+  "essentiel": [
+    "[fr]Je cherche… · Je fais du 40. · Je peux l’essayer ?[/fr]",
+    "[fr]une cabine d’essayage[/fr] · [fr]une caisse[/fr] · [fr]un ticket de caisse[/fr] ((receipt)).",
+    "Pour rendre : [fr]Je voudrais échanger / me faire rembourser.[/fr]"
+  ],
+  "regle": "**Entrer et chercher.**\n[fr]Bonjour, je cherche un manteau. · Je regarde, merci. · Vous avez ça en bleu ?[/fr]\n\n**La taille.** On dit [fr]faire du…[/fr] :\n[fr]Je fais du 40. · Vous faites quelle taille ? · Vous avez la taille au-dessus / en dessous ?[/fr]\nPour les chaussures : [fr]Je chausse du 42.[/fr]\n\n**Essayer.**\n[fr]Je peux l’essayer ? · Où sont les cabines ? · C’est un peu grand / serré / court.[/fr]\n\n**Payer.**\n[fr]Vous payez comment ? — Par carte. · Vous avez la monnaie ? · C’est en solde ? · Il y a une réduction ?[/fr]\n\n**Rendre ou échanger.** C’est la partie que les manuels oublient souvent.\n[fr]Je voudrais échanger cet article. · Est-ce que je peux me faire rembourser ? · Voici le ticket de caisse. · Il a un défaut. · Il ne me va pas.[/fr]\n\n**Attention au faux ami :** [fr]la monnaie[/fr] n’est pas *money* mais *change*. L’argent, c’est [fr]l’argent[/fr].",
+  "exemples": [
+    {
+      "fr": "Bonjour, je cherche une veste légère.",
+      "en": "Hello, I’m looking for a light jacket."
+    },
+    {
+      "fr": "Vous faites quelle taille ? — Je fais du 42.",
+      "en": "What size are you? — I’m a 42."
+    },
+    {
+      "fr": "Est-ce que je peux l’essayer ?",
+      "en": "Can I try it on?"
+    },
+    {
+      "fr": "C’est un peu serré, vous avez la taille au-dessus ?",
+      "en": "It’s a bit tight, do you have the next size up?"
+    },
+    {
+      "fr": "Je voudrais me faire rembourser, voici le ticket.",
+      "en": "I’d like a refund, here’s the receipt."
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : un échange",
+    "lines": [
+      {
+        "who": "Client",
+        "fr": "Bonjour, j’ai acheté ce pull la semaine dernière.",
+        "en": "Hello, I bought this jumper last week."
+      },
+      {
+        "who": "Vendeuse",
+        "fr": "Oui, il y a un problème ?",
+        "en": "Yes, is there a problem?"
+      },
+      {
+        "who": "Client",
+        "fr": "Il est trop petit. Je voudrais l’échanger.",
+        "en": "It’s too small. I’d like to exchange it."
+      },
+      {
+        "who": "Vendeuse",
+        "fr": "Vous avez le ticket de caisse ?",
+        "en": "Do you have the receipt?"
+      },
+      {
+        "who": "Client",
+        "fr": "Le voici. Vous l’avez en taille au-dessus ?",
+        "en": "Here it is. Do you have it in the next size up?"
+      },
+      {
+        "who": "Vendeuse",
+        "fr": "Je vais vérifier en réserve. Un instant.",
+        "en": "I’ll check in the stockroom. One moment."
+      }
+    ],
+    "check": {
+      "q": "Que demande la vendeuse en premier ?",
+      "options": [
+        "Le ticket de caisse.",
+        "La taille.",
+        "La carte bancaire."
+      ],
+      "answer": 0
+    }
+  },
+  "culture": {
+    "icon": "🏷️",
+    "title": "Les soldes ont des dates fixes",
+    "text": "En France, les **soldes** sont réglementées par l’État : deux périodes de quatre semaines par an, en janvier et en juin, aux mêmes dates pour tous les commerces. En dehors, un magasin peut faire des « promotions », mais pas des « soldes »."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que dire dans cette situation ?",
+      "items": [
+        {
+          "q": "Tu veux essayer un vêtement :",
+          "options": [
+            "Je peux l’essayer ?",
+            "Je fais du 40.",
+            "C’est combien ?"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Le pantalon est trop grand :",
+          "options": [
+            "Vous avez la taille en dessous ?",
+            "Vous avez la taille au-dessus ?",
+            "C’est en solde ?"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tu veux ton argent, pas un échange :",
+          "options": [
+            "Je voudrais l’échanger.",
+            "Je voudrais me faire rembourser.",
+            "Je voudrais essayer."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Vous avez la monnaie ? » veut dire…",
+          "options": [
+            "Avez-vous de l’argent ?",
+            "Avez-vous des pièces pour rendre ?",
+            "C’est gratuit ?"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "Je ",
+          "after": " du 38.",
+          "answer": "fais"
+        },
+        {
+          "before": "Où sont les ",
+          "after": " d’essayage ?",
+          "answer": "cabines"
+        },
+        {
+          "before": "Voici le ",
+          "after": " de caisse.",
+          "answer": "ticket"
+        }
+      ]
+    }
+  ]
+}

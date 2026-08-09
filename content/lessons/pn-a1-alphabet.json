@@ -1,0 +1,166 @@
+{
+  "id": "pn-a1-alphabet",
+  "group": "prononciation",
+  "level": "A1",
+  "order": 110,
+  "title": "L’alphabet et les accents",
+  "summary": "Épeler son nom, et comprendre à quoi servent les cinq accents.",
+  "essentiel": [
+    "26 lettres, comme en anglais — mais la prononciation change beaucoup.",
+    "Cinq signes : **é** aigu · **è** grave · **ê** circonflexe · **ë** tréma · **ç** cédille.",
+    "L’accent change souvent le **son**, parfois seulement le **sens** : [fr]a / à[/fr], [fr]ou / où[/fr]."
+  ],
+  "regle": "**Épeler.** On dit [fr]Comment ça s’écrit ?[/fr] et on épelle lettre par lettre. Les lettres à retenir en priorité, parce qu’elles piègent les anglophones :\n[fr]E[/fr] {{ø}} · [fr]I[/fr] {{i}} · [fr]G[/fr] {{ʒe}} · [fr]J[/fr] {{ʒi}} · [fr]Y[/fr] ((i grec)) · [fr]W[/fr] ((double vé))\n\n**Les accents.**\n- **é** ((accent aigu)) : le son {{e}}, bouche fermée — [fr]été, café, parlé[/fr]\n- **è** ((accent grave)) : le son {{ɛ}}, bouche ouverte — [fr]père, très, mère[/fr]\n- **ê** ((accent circonflexe)) : souvent le son {{ɛ}} ; il marque un **s disparu** — [fr]forêt[/fr] ((forest)), [fr]hôpital[/fr] ((hospital))\n- **ë, ï** ((tréma)) : les deux voyelles se prononcent séparément — [fr]Noël[/fr] {{nɔ.ɛl}}, [fr]maïs[/fr] {{ma.is}}\n- **ç** ((cédille)) : garde le son {{s}} devant a, o, u — [fr]ça, garçon, reçu[/fr]\n\n**L’accent qui distingue.** Sur [fr]a[/fr], [fr]ou[/fr] et [fr]la[/fr], l’accent grave ne change pas le son — il change le **mot**.\n[fr]il **a**[/fr] ((has)) contre [fr]**à** Paris[/fr] ((to))\n[fr]**ou**[/fr] ((or)) contre [fr]**où**[/fr] ((where))\n[fr]**la** porte[/fr] ((the)) contre [fr]**là**[/fr] ((there))\n\nC’est pourquoi, dans ces cas-là, oublier l’accent est une vraie faute.",
+  "exemples": [
+    {
+      "fr": "Comment ça s’écrit ? — G, R, O, B, L, E, R.",
+      "en": "How do you spell it? — G, R, O, B, L, E, R."
+    },
+    {
+      "fr": "Il a un frère à Paris.",
+      "en": "He has a brother in Paris."
+    },
+    {
+      "fr": "Où est-ce que tu vas ? Au cinéma ou au théâtre ?",
+      "en": "Where are you going? To the cinema or the theatre?"
+    },
+    {
+      "fr": "Nous fêtons Noël en famille.",
+      "en": "We celebrate Christmas with the family."
+    },
+    {
+      "fr": "C’est un garçon très gentil.",
+      "en": "He is a very nice boy."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les cinq signes",
+      "collapsed": false,
+      "headers": [
+        "Signe",
+        "Nom",
+        "Effet",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "é",
+          "accent aigu",
+          "son fermé {{e}}",
+          "été"
+        ],
+        [
+          "è",
+          "accent grave",
+          "son ouvert {{ɛ}}",
+          "père"
+        ],
+        [
+          "ê",
+          "accent circonflexe",
+          "souvent {{ɛ}} ; un *s* a disparu",
+          "forêt"
+        ],
+        [
+          "ë / ï",
+          "tréma",
+          "on sépare les voyelles",
+          "Noël, maïs"
+        ],
+        [
+          "ç",
+          "cédille",
+          "le *c* se dit {{s}}",
+          "garçon"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "🔤",
+    "title": "Le circonflexe raconte l’histoire",
+    "text": "Là où le français a un accent circonflexe, il y avait autrefois un [fr]s[/fr] — que l’anglais a souvent gardé : [fr]forêt[/fr] / *forest*, [fr]hôpital[/fr] / *hospital*, [fr]île[/fr] / *isle*, [fr]pâte[/fr] / *paste*. Un bon truc pour deviner le sens d’un mot inconnu."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Attention : ici, l’accent change le mot. Écris la forme exacte.",
+      "items": [
+        {
+          "before": "Il ",
+          "after": " deux enfants.",
+          "answer": "a",
+          "strict": true,
+          "why": "[fr]a[/fr] = le verbe avoir ; [fr]à[/fr] = la préposition."
+        },
+        {
+          "before": "Je vais ",
+          "after": " la gare.",
+          "answer": "à",
+          "strict": true,
+          "why": "[fr]à[/fr] = la préposition ; [fr]a[/fr] = le verbe avoir."
+        },
+        {
+          "before": "",
+          "after": " est-ce que tu habites ?",
+          "answer": "Où",
+          "alt": [
+            "où"
+          ],
+          "strict": true,
+          "why": "[fr]où[/fr] = le lieu ; [fr]ou[/fr] = *or*."
+        },
+        {
+          "before": "Tu veux du thé ",
+          "after": " du café ?",
+          "answer": "ou",
+          "strict": true,
+          "why": "[fr]ou[/fr] = *or* ; [fr]où[/fr] = *where*."
+        },
+        {
+          "before": "Le livre est ",
+          "after": " , sur la table.",
+          "answer": "là",
+          "strict": true,
+          "why": "[fr]là[/fr] = *there* ; [fr]la[/fr] = l’article."
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quel signe faut-il ?",
+      "items": [
+        {
+          "q": "Le mot « garcon » est incorrect. Il faut :",
+          "options": [
+            "garçon",
+            "garcón",
+            "garçòn"
+          ],
+          "answer": 0,
+          "why": "La cédille garde le son {{s}} devant [fr]o[/fr]."
+        },
+        {
+          "q": "« No_l » (25 décembre) s’écrit :",
+          "options": [
+            "Noèl",
+            "Noël",
+            "Noél"
+          ],
+          "answer": 1,
+          "why": "Le tréma sépare les deux voyelles."
+        },
+        {
+          "q": "Dans « forêt », le circonflexe indique…",
+          "options": [
+            "un son long",
+            "un s disparu",
+            "un pluriel"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

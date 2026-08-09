@@ -1,0 +1,278 @@
+{
+  "id": "voc-a1-vetements",
+  "title": "Vêtements & couleurs de base",
+  "level": "A1",
+  "order": 210,
+  "summary": "S’habiller et décrire ce qu’on porte.",
+  "items": [
+    {
+      "fr": "les vêtements (m)",
+      "ipa": "vɛt.mɑ̃",
+      "en": "clothes",
+      "ex": "J’achète des vêtements en solde."
+    },
+    {
+      "fr": "un pantalon",
+      "ipa": "pɑ̃.ta.lɔ̃",
+      "en": "trousers",
+      "ex": "Un pantalon noir."
+    },
+    {
+      "fr": "un jean",
+      "ipa": "dʒin",
+      "en": "jeans",
+      "ex": "Je porte un jean."
+    },
+    {
+      "fr": "une jupe",
+      "ipa": "ʒyp",
+      "en": "a skirt",
+      "ex": "Une jupe longue."
+    },
+    {
+      "fr": "une robe",
+      "ipa": "ʁɔb",
+      "en": "a dress",
+      "ex": "Une belle robe bleue."
+    },
+    {
+      "fr": "une chemise",
+      "ipa": "ʃə.miz",
+      "en": "a shirt",
+      "ex": "Une chemise blanche."
+    },
+    {
+      "fr": "un tee-shirt",
+      "ipa": "ti.ʃœʁt",
+      "en": "a T-shirt",
+      "ex": "Un tee-shirt en coton."
+    },
+    {
+      "fr": "un pull",
+      "ipa": "pyl",
+      "en": "a jumper",
+      "ex": "Il fait froid, prends un pull."
+    },
+    {
+      "fr": "une veste",
+      "ipa": "vɛst",
+      "en": "a jacket",
+      "ex": "Une veste légère."
+    },
+    {
+      "fr": "un manteau",
+      "ipa": "mɑ̃.to",
+      "en": "a coat",
+      "ex": "Mets ton manteau."
+    },
+    {
+      "fr": "un blouson",
+      "ipa": "blu.zɔ̃",
+      "en": "a bomber jacket",
+      "ex": "Un blouson en cuir."
+    },
+    {
+      "fr": "une écharpe",
+      "ipa": "e.ʃaʁp",
+      "en": "a scarf",
+      "ex": "Une écharpe en laine."
+    },
+    {
+      "fr": "un chapeau",
+      "ipa": "ʃa.po",
+      "en": "a hat",
+      "ex": "Un chapeau de paille."
+    },
+    {
+      "fr": "des gants (m)",
+      "ipa": "ɡɑ̃",
+      "en": "gloves",
+      "ex": "N’oublie pas tes gants."
+    },
+    {
+      "fr": "des chaussures (f)",
+      "ipa": "ʃo.syʁ",
+      "en": "shoes",
+      "ex": "Des chaussures confortables."
+    },
+    {
+      "fr": "des baskets (f)",
+      "ipa": "bas.kɛt",
+      "en": "trainers",
+      "ex": "Je mets mes baskets."
+    },
+    {
+      "fr": "des bottes (f)",
+      "ipa": "bɔt",
+      "en": "boots",
+      "ex": "Des bottes de pluie."
+    },
+    {
+      "fr": "des chaussettes (f)",
+      "ipa": "ʃo.sɛt",
+      "en": "socks",
+      "ex": "Des chaussettes rouges."
+    },
+    {
+      "fr": "un maillot de bain",
+      "ipa": "ma.jo də bɛ̃",
+      "en": "a swimsuit",
+      "ex": "N’oublie pas ton maillot de bain."
+    },
+    {
+      "fr": "un sac",
+      "ipa": "sak",
+      "en": "a bag",
+      "ex": "Mon sac est lourd."
+    },
+    {
+      "fr": "une ceinture",
+      "ipa": "sɛ̃.tyʁ",
+      "en": "a belt",
+      "ex": "Une ceinture en cuir."
+    },
+    {
+      "fr": "une montre",
+      "ipa": "mɔ̃tʁ",
+      "en": "a watch",
+      "ex": "Ma montre retarde."
+    },
+    {
+      "fr": "porter",
+      "ipa": "pɔʁ.te",
+      "en": "to wear",
+      "ex": "Elle porte une robe rouge."
+    },
+    {
+      "fr": "mettre",
+      "ipa": "mɛtʁ",
+      "en": "to put on",
+      "ex": "Mets ton manteau."
+    },
+    {
+      "fr": "s’habiller",
+      "ipa": "sa.bi.je",
+      "en": "to get dressed",
+      "ex": "Je m’habille vite le matin."
+    },
+    {
+      "fr": "essayer",
+      "ipa": "e.sɛ.je",
+      "en": "to try on",
+      "ex": "Je peux essayer ce pull ?"
+    },
+    {
+      "fr": "la taille",
+      "ipa": "tɑj",
+      "en": "the size",
+      "ex": "Quelle taille faites-vous ?"
+    },
+    {
+      "fr": "la pointure",
+      "ipa": "pwɛ̃.tyʁ",
+      "en": "the shoe size",
+      "ex": "Quelle est votre pointure ?"
+    },
+    {
+      "fr": "court(e)",
+      "ipa": "kuʁ",
+      "en": "short",
+      "ex": "Une jupe courte."
+    },
+    {
+      "fr": "long(ue)",
+      "ipa": "lɔ̃",
+      "en": "long",
+      "ex": "Un manteau long."
+    },
+    {
+      "fr": "serré(e)",
+      "ipa": "se.ʁe",
+      "en": "tight",
+      "ex": "C’est un peu serré."
+    },
+    {
+      "fr": "large",
+      "ipa": "laʁʒ",
+      "en": "loose, wide",
+      "ex": "Un pantalon large."
+    },
+    {
+      "fr": "en coton",
+      "ipa": "ɑ̃ kɔ.tɔ̃",
+      "en": "cotton",
+      "ex": "Une chemise en coton."
+    },
+    {
+      "fr": "en laine",
+      "ipa": "ɑ̃ lɛn",
+      "en": "wool",
+      "ex": "Un pull en laine."
+    },
+    {
+      "fr": "en cuir",
+      "ipa": "ɑ̃ kɥiʁ",
+      "en": "leather",
+      "ex": "Des chaussures en cuir."
+    },
+    {
+      "fr": "à la mode",
+      "ipa": "a la mɔd",
+      "en": "fashionable",
+      "ex": "Ce style est à la mode."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Complète la phrase.",
+      "items": [
+        {
+          "before": "Il fait froid, mets ton ",
+          "after": " .",
+          "answer": "manteau"
+        },
+        {
+          "before": "Je peux ",
+          "after": " ce pull ?",
+          "answer": "essayer"
+        },
+        {
+          "before": "Quelle ",
+          "after": " faites-vous ? (vêtement)",
+          "answer": "taille"
+        },
+        {
+          "before": "Elle ",
+          "after": " une robe bleue. (porter)",
+          "answer": "porte"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "Pour les chaussures, on demande…",
+          "options": [
+            "la taille",
+            "la pointure",
+            "la longueur"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Des chaussures marron » : l’accord est…",
+          "options": [
+            "marron (invariable)",
+            "marrons",
+            "marronnes"
+          ],
+          "answer": 0,
+          "why": "Les couleurs issues d’un nom restent invariables."
+        }
+      ]
+    }
+  ]
+}

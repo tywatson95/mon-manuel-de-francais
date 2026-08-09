@@ -1,0 +1,262 @@
+{
+  "id": "voc-a1-nationalites",
+  "title": "Nationalités & professions",
+  "level": "A1",
+  "order": 140,
+  "summary": "Dire d’où l’on vient et ce que l’on fait.",
+  "items": [
+    {
+      "fr": "français, française",
+      "ipa": "fʁɑ̃.sɛ",
+      "en": "French",
+      "ex": "Il est français, elle est française."
+    },
+    {
+      "fr": "anglais, anglaise",
+      "ipa": "ɑ̃.ɡlɛ",
+      "en": "English",
+      "ex": "Ma voisine est anglaise."
+    },
+    {
+      "fr": "sud-africain(e)",
+      "ipa": "syd.a.fʁi.kɛ̃",
+      "en": "South African",
+      "ex": "Je suis sud-africain."
+    },
+    {
+      "fr": "belge",
+      "ipa": "bɛlʒ",
+      "en": "Belgian",
+      "ex": "Il est belge, de Bruxelles."
+    },
+    {
+      "fr": "suisse",
+      "ipa": "sɥis",
+      "en": "Swiss",
+      "ex": "Une amie suisse."
+    },
+    {
+      "fr": "allemand(e)",
+      "ipa": "al.mɑ̃",
+      "en": "German",
+      "ex": "Elle parle allemand."
+    },
+    {
+      "fr": "espagnol(e)",
+      "ipa": "ɛs.pa.ɲɔl",
+      "en": "Spanish",
+      "ex": "Un restaurant espagnol."
+    },
+    {
+      "fr": "italien(ne)",
+      "ipa": "i.ta.ljɛ̃",
+      "en": "Italian",
+      "ex": "Le café italien est fort."
+    },
+    {
+      "fr": "marocain(e)",
+      "ipa": "ma.ʁɔ.kɛ̃",
+      "en": "Moroccan",
+      "ex": "La cuisine marocaine est délicieuse."
+    },
+    {
+      "fr": "sénégalais(e)",
+      "ipa": "se.ne.ɡa.lɛ",
+      "en": "Senegalese",
+      "ex": "Un ami sénégalais."
+    },
+    {
+      "fr": "canadien(ne)",
+      "ipa": "ka.na.djɛ̃",
+      "en": "Canadian",
+      "ex": "Elle est canadienne."
+    },
+    {
+      "fr": "américain(e)",
+      "ipa": "a.me.ʁi.kɛ̃",
+      "en": "American",
+      "ex": "Un film américain."
+    },
+    {
+      "fr": "chinois(e)",
+      "ipa": "ʃi.nwa",
+      "en": "Chinese",
+      "ex": "Il apprend le chinois."
+    },
+    {
+      "fr": "la nationalité",
+      "ipa": "na.sjɔ.na.li.te",
+      "en": "nationality",
+      "ex": "Quelle est votre nationalité ?"
+    },
+    {
+      "fr": "le métier",
+      "ipa": "me.tje",
+      "en": "job, trade",
+      "ex": "Quel est votre métier ?"
+    },
+    {
+      "fr": "le travail",
+      "ipa": "tʁa.vaj",
+      "en": "work",
+      "ex": "J’aime mon travail."
+    },
+    {
+      "fr": "un(e) étudiant(e)",
+      "ipa": "e.ty.djɑ̃",
+      "en": "a student",
+      "ex": "Je suis étudiant en droit."
+    },
+    {
+      "fr": "un professeur",
+      "ipa": "pʁɔ.fe.sœʁ",
+      "en": "a teacher",
+      "ex": "Mon professeur est très patient."
+    },
+    {
+      "fr": "un médecin",
+      "ipa": "med.sɛ̃",
+      "en": "a doctor",
+      "ex": "Le médecin arrive."
+    },
+    {
+      "fr": "un(e) infirmier(ère)",
+      "ipa": "ɛ̃.fiʁ.mje",
+      "en": "a nurse",
+      "ex": "Elle est infirmière."
+    },
+    {
+      "fr": "un(e) ingénieur(e)",
+      "ipa": "ɛ̃.ʒe.njœʁ",
+      "en": "an engineer",
+      "ex": "Il est ingénieur du son."
+    },
+    {
+      "fr": "un(e) avocat(e)",
+      "ipa": "a.vɔ.ka",
+      "en": "a lawyer",
+      "ex": "Mon frère est avocat."
+    },
+    {
+      "fr": "un(e) commerçant(e)",
+      "ipa": "kɔ.mɛʁ.sɑ̃",
+      "en": "a shopkeeper",
+      "ex": "Les commerçants ferment à 19 h."
+    },
+    {
+      "fr": "un(e) vendeur(euse)",
+      "ipa": "vɑ̃.dœʁ",
+      "en": "a sales assistant",
+      "ex": "La vendeuse est aimable."
+    },
+    {
+      "fr": "un(e) serveur(euse)",
+      "ipa": "sɛʁ.vœʁ",
+      "en": "a waiter",
+      "ex": "Le serveur apporte l’addition."
+    },
+    {
+      "fr": "un(e) cuisinier(ère)",
+      "ipa": "kɥi.zi.nje",
+      "en": "a cook",
+      "ex": "Elle est cuisinière dans un bistrot."
+    },
+    {
+      "fr": "un(e) boulanger(ère)",
+      "ipa": "bu.lɑ̃.ʒe",
+      "en": "a baker",
+      "ex": "Le boulanger ouvre à 6 h."
+    },
+    {
+      "fr": "un(e) agriculteur(trice)",
+      "ipa": "a.ɡʁi.kyl.tœʁ",
+      "en": "a farmer",
+      "ex": "Mon oncle est agriculteur."
+    },
+    {
+      "fr": "un(e) informaticien(ne)",
+      "ipa": "ɛ̃.fɔʁ.ma.ti.sjɛ̃",
+      "en": "an IT specialist",
+      "ex": "Il est informaticien."
+    },
+    {
+      "fr": "un(e) journaliste",
+      "ipa": "ʒuʁ.na.list",
+      "en": "a journalist",
+      "ex": "Elle est journaliste à la radio."
+    },
+    {
+      "fr": "un(e) artiste",
+      "ipa": "aʁ.tist",
+      "en": "an artist",
+      "ex": "C’est un artiste connu."
+    },
+    {
+      "fr": "un(e) retraité(e)",
+      "ipa": "ʁə.tʁɛ.te",
+      "en": "a retired person",
+      "ex": "Mes parents sont retraités."
+    },
+    {
+      "fr": "au chômage",
+      "ipa": "o ʃo.maʒ",
+      "en": "unemployed",
+      "ex": "Il est au chômage depuis mars."
+    },
+    {
+      "fr": "travailler à mi-temps",
+      "ipa": "a mi tɑ̃",
+      "en": "to work part-time",
+      "ex": "Je travaille à mi-temps."
+    },
+    {
+      "fr": "une entreprise",
+      "ipa": "ɑ̃.tʁə.pʁiz",
+      "en": "a company",
+      "ex": "Je travaille dans une petite entreprise."
+    },
+    {
+      "fr": "un bureau",
+      "ipa": "by.ʁo",
+      "en": "an office",
+      "ex": "Mon bureau est au deuxième étage."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Comment dire « I am a nurse » ?",
+          "options": [
+            "Je suis une infirmière.",
+            "Je suis infirmière.",
+            "J’ai infirmière."
+          ],
+          "answer": 1,
+          "why": "Après [fr]être[/fr], le métier n’a pas d’article."
+        },
+        {
+          "q": "Écriture correcte :",
+          "options": [
+            "Je suis Belge.",
+            "Je suis belge.",
+            "Je suis un belge."
+          ],
+          "answer": 1,
+          "why": "Adjectif de nationalité → minuscule."
+        },
+        {
+          "q": "« Au chômage » signifie…",
+          "options": [
+            "en vacances",
+            "sans emploi",
+            "à la retraite"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

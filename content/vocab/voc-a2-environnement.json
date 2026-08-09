@@ -1,0 +1,260 @@
+{
+  "id": "voc-a2-environnement",
+  "title": "Environnement & phénomènes",
+  "level": "A2",
+  "order": 320,
+  "summary": "La nature et les événements climatiques.",
+  "items": [
+    {
+      "fr": "l’environnement (m)",
+      "ipa": "ɑ̃.vi.ʁɔn.mɑ̃",
+      "en": "the environment",
+      "ex": "Protéger l’environnement."
+    },
+    {
+      "fr": "la nature",
+      "ipa": "na.tyʁ",
+      "en": "nature",
+      "ex": "J’aime la nature."
+    },
+    {
+      "fr": "un arbre",
+      "ipa": "aʁbʁ",
+      "en": "a tree",
+      "ex": "Un arbre centenaire."
+    },
+    {
+      "fr": "une forêt",
+      "ipa": "fɔ.ʁɛ",
+      "en": "a forest",
+      "ex": "Une promenade en forêt."
+    },
+    {
+      "fr": "une plante",
+      "ipa": "plɑ̃t",
+      "en": "a plant",
+      "ex": "Arrose les plantes."
+    },
+    {
+      "fr": "une fleur",
+      "ipa": "flœʁ",
+      "en": "a flower",
+      "ex": "Des fleurs sauvages."
+    },
+    {
+      "fr": "un animal",
+      "ipa": "a.ni.mal",
+      "en": "an animal",
+      "ex": "Les animaux sauvages."
+    },
+    {
+      "fr": "un oiseau",
+      "ipa": "wa.zo",
+      "en": "a bird",
+      "ex": "Un oiseau chante."
+    },
+    {
+      "fr": "la mer",
+      "ipa": "mɛʁ",
+      "en": "the sea",
+      "ex": "La mer est agitée."
+    },
+    {
+      "fr": "une rivière",
+      "ipa": "ʁi.vjɛʁ",
+      "en": "a river",
+      "ex": "La rivière a débordé."
+    },
+    {
+      "fr": "un lac",
+      "ipa": "lak",
+      "en": "a lake",
+      "ex": "Un lac de montagne."
+    },
+    {
+      "fr": "la montagne",
+      "ipa": "mɔ̃.taɲ",
+      "en": "the mountain",
+      "ex": "La montagne est enneigée."
+    },
+    {
+      "fr": "la campagne",
+      "ipa": "kɑ̃.paɲ",
+      "en": "the countryside",
+      "ex": "Vivre à la campagne."
+    },
+    {
+      "fr": "la pollution",
+      "ipa": "pɔ.ly.sjɔ̃",
+      "en": "pollution",
+      "ex": "La pollution de l’air."
+    },
+    {
+      "fr": "polluer",
+      "ipa": "pɔ.lɥe",
+      "en": "to pollute",
+      "ex": "Les voitures polluent."
+    },
+    {
+      "fr": "les déchets (m)",
+      "ipa": "de.ʃɛ",
+      "en": "waste",
+      "ex": "Trier les déchets."
+    },
+    {
+      "fr": "recycler",
+      "ipa": "ʁə.si.kle",
+      "en": "to recycle",
+      "ex": "Je recycle le papier."
+    },
+    {
+      "fr": "le tri",
+      "ipa": "tʁi",
+      "en": "sorting",
+      "ex": "Le tri sélectif est obligatoire."
+    },
+    {
+      "fr": "une poubelle",
+      "ipa": "pu.bɛl",
+      "en": "a bin",
+      "ex": "La poubelle jaune, c’est le recyclage."
+    },
+    {
+      "fr": "économiser",
+      "ipa": "e.kɔ.nɔ.mi.ze",
+      "en": "to save",
+      "ex": "Économiser l’eau."
+    },
+    {
+      "fr": "l’énergie (f)",
+      "ipa": "e.nɛʁ.ʒi",
+      "en": "energy",
+      "ex": "Les énergies renouvelables."
+    },
+    {
+      "fr": "le climat",
+      "ipa": "kli.ma",
+      "en": "the climate",
+      "ex": "Le climat change."
+    },
+    {
+      "fr": "le réchauffement",
+      "ipa": "ʁe.ʃof.mɑ̃",
+      "en": "warming",
+      "ex": "Le réchauffement climatique."
+    },
+    {
+      "fr": "une canicule",
+      "ipa": "ka.ni.kyl",
+      "en": "a heatwave",
+      "ex": "Une canicule en juillet."
+    },
+    {
+      "fr": "une inondation",
+      "ipa": "i.nɔ̃.da.sjɔ̃",
+      "en": "a flood",
+      "ex": "Les inondations ont fait des dégâts."
+    },
+    {
+      "fr": "une sécheresse",
+      "ipa": "se.ʃʁɛs",
+      "en": "a drought",
+      "ex": "La sécheresse dure depuis mai."
+    },
+    {
+      "fr": "une tempête",
+      "ipa": "tɑ̃.pɛt",
+      "en": "a storm",
+      "ex": "La tempête a arraché des arbres."
+    },
+    {
+      "fr": "un incendie",
+      "ipa": "ɛ̃.sɑ̃.di",
+      "en": "a fire",
+      "ex": "Un incendie de forêt."
+    },
+    {
+      "fr": "un tremblement de terre",
+      "ipa": "tʁɑ̃.blə.mɑ̃",
+      "en": "an earthquake",
+      "ex": "Un tremblement de terre léger."
+    },
+    {
+      "fr": "une catastrophe",
+      "ipa": "ka.tas.tʁɔf",
+      "en": "a disaster",
+      "ex": "Une catastrophe naturelle."
+    },
+    {
+      "fr": "protéger",
+      "ipa": "pʁɔ.te.ʒe",
+      "en": "to protect",
+      "ex": "Protéger la biodiversité."
+    },
+    {
+      "fr": "durable",
+      "ipa": "dy.ʁabl",
+      "en": "sustainable",
+      "ex": "Un développement durable."
+    },
+    {
+      "fr": "bio",
+      "ipa": "bjo",
+      "en": "organic",
+      "ex": "Des légumes bio."
+    },
+    {
+      "fr": "le gaspillage",
+      "ipa": "ɡas.pi.jaʒ",
+      "en": "waste (of resources)",
+      "ex": "Le gaspillage alimentaire."
+    },
+    {
+      "fr": "un geste écologique",
+      "ipa": "ʒɛst",
+      "en": "a green action",
+      "ex": "Un petit geste écologique."
+    },
+    {
+      "fr": "la biodiversité",
+      "ipa": "bjo.di.vɛʁ.si.te",
+      "en": "biodiversity",
+      "ex": "Protéger la biodiversité."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "Une longue période sans pluie :",
+          "options": [
+            "une canicule",
+            "une sécheresse",
+            "une inondation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Une période de très forte chaleur :",
+          "options": [
+            "une canicule",
+            "une tempête",
+            "un incendie"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Le tri sélectif » consiste à…",
+          "options": [
+            "séparer les déchets",
+            "économiser l’eau",
+            "planter des arbres"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": "co-b1-opposition",
+  "group": "connecteurs",
+  "level": "B1",
+  "order": 330,
+  "title": "L’opposition et la concession",
+  "summary": "Mais, pourtant, malgré, bien que : nuancer et contredire.",
+  "essentiel": [
+    "**Opposition** = deux faits différents : [fr]Lui aime le sport, **alors que** moi je déteste ça.[/fr]",
+    "**Concession** = un obstacle qui n’empêche rien : [fr]**Bien qu’**il pleuve, je sors.[/fr]",
+    "[fr]bien que[/fr] et [fr]quoique[/fr] demandent le **subjonctif** ; [fr]même si[/fr] demande l’**indicatif**."
+  ],
+  "regle": "Deux idées voisines mais distinctes.\n\n**L’opposition** met deux choses en parallèle : [fr]alors que, tandis que, au contraire, en revanche, par contre[/fr].\n[fr]Le nord est humide, **tandis que** le sud est sec.[/fr]\n([fr]par contre[/fr] est courant à l’oral ; [fr]en revanche[/fr] est son équivalent soigné.)\n\n**La concession** admet un obstacle, puis passe outre.\n- **+ subjonctif** : [fr]bien que, quoique[/fr] → [fr]**Bien qu’**il **soit** tard, continuons.[/fr]\n- **+ indicatif** : [fr]même si[/fr] → [fr]**Même s’**il **pleut**, je sortirai.[/fr]\n- **+ nom** : [fr]malgré[/fr] → [fr]**Malgré** la pluie, je suis sorti.[/fr]\n- **adverbes** : [fr]pourtant, cependant, néanmoins, toutefois, quand même[/fr]\n\n[fr]**pourtant**[/fr] marque la surprise : [fr]Il a beaucoup travaillé ; **pourtant** il a échoué.[/fr]\n[fr]**quand même**[/fr] se place après le verbe : [fr]Il pleuvait, mais je suis sorti **quand même**.[/fr]\n\n**L’erreur fréquente :** [fr]malgré[/fr] est suivi d’un **nom**, jamais d’une phrase. On ne dit pas « malgré qu’il pleuve » — il faut [fr]bien qu’il pleuve[/fr] ou [fr]malgré la pluie[/fr].",
+  "exemples": [
+    {
+      "fr": "Bien que ce soit cher, je vais l’acheter.",
+      "en": "Although it’s expensive, I’m going to buy it."
+    },
+    {
+      "fr": "Malgré ses efforts, il n’a pas réussi.",
+      "en": "Despite his efforts, he didn’t succeed."
+    },
+    {
+      "fr": "Il est riche ; pourtant il n’est pas heureux.",
+      "en": "He is rich; yet he isn’t happy."
+    },
+    {
+      "fr": "Mon frère adore la ville, alors que moi je préfère la campagne.",
+      "en": "My brother loves the city, whereas I prefer the countryside."
+    },
+    {
+      "fr": "Même s’il fait froid, nous irons marcher.",
+      "en": "Even if it’s cold, we’ll go for a walk."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Ce qui suit chaque connecteur",
+      "collapsed": false,
+      "headers": [
+        "Connecteur",
+        "Suivi de",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "bien que, quoique",
+          "**subjonctif**",
+          "Bien qu’il **soit** tard…"
+        ],
+        [
+          "même si",
+          "**indicatif**",
+          "Même s’il **est** tard…"
+        ],
+        [
+          "malgré",
+          "un **nom**",
+          "Malgré l’heure tardive…"
+        ],
+        [
+          "alors que, tandis que",
+          "indicatif",
+          "Alors qu’il dort, je travaille."
+        ],
+        [
+          "pourtant, cependant",
+          "une phrase",
+          "Il pleut ; pourtant je sors."
+        ],
+        [
+          "quand même",
+          "après le verbe",
+          "Je sors quand même."
+        ],
+        [
+          "en revanche, par contre",
+          "une phrase",
+          "C’est cher ; en revanche, c’est solide."
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : le choix d’un logement",
+    "lines": [
+      {
+        "who": "Rania",
+        "fr": "Alors, tu prends l’appartement du centre ?",
+        "en": "So, are you taking the flat in the centre?"
+      },
+      {
+        "who": "Julien",
+        "fr": "Bien qu’il soit petit, oui. L’emplacement est parfait.",
+        "en": "Although it’s small, yes. The location is perfect."
+      },
+      {
+        "who": "Rania",
+        "fr": "Malgré le prix ? C’est nettement plus cher que l’autre.",
+        "en": "Despite the price? It’s much more expensive than the other."
+      },
+      {
+        "who": "Julien",
+        "fr": "C’est vrai. En revanche, je n’aurai plus de transport à payer.",
+        "en": "True. On the other hand, I won’t have transport costs any more."
+      },
+      {
+        "who": "Rania",
+        "fr": "Pourtant, tu disais que tu voulais un jardin.",
+        "en": "Yet you said you wanted a garden."
+      },
+      {
+        "who": "Julien",
+        "fr": "Je sais. Tant pis, je le prends quand même.",
+        "en": "I know. Never mind, I’m taking it anyway."
+      }
+    ],
+    "check": {
+      "q": "Pourquoi « bien qu’il **soit** petit » ?",
+      "options": [
+        "Parce que « bien que » demande le subjonctif.",
+        "Parce que c’est le passé.",
+        "Parce que c’est une question."
+      ],
+      "answer": 0
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Bien qu’il ___ fatigué, il continue.",
+          "options": [
+            "est",
+            "soit",
+            "sera"
+          ],
+          "answer": 1,
+          "why": "[fr]bien que[/fr] → subjonctif."
+        },
+        {
+          "q": "Même s’il ___ fatigué, il continue.",
+          "options": [
+            "est",
+            "soit",
+            "serait"
+          ],
+          "answer": 0,
+          "why": "[fr]même si[/fr] → indicatif."
+        },
+        {
+          "q": "___ la pluie, le match a eu lieu.",
+          "options": [
+            "Bien que",
+            "Malgré",
+            "Pourtant"
+          ],
+          "answer": 1,
+          "why": "+ nom → [fr]malgré[/fr]."
+        },
+        {
+          "q": "Quelle phrase est fausse ?",
+          "options": [
+            "Malgré la pluie, je sors.",
+            "Malgré qu’il pleuve, je sors.",
+            "Bien qu’il pleuve, je sors."
+          ],
+          "answer": 1,
+          "why": "[fr]malgré que[/fr] est fautif."
+        },
+        {
+          "q": "Il a tout révisé ; ___ il a raté l’examen.",
+          "options": [
+            "pourtant",
+            "donc",
+            "puisque"
+          ],
+          "answer": 0,
+          "why": "Résultat inattendu → [fr]pourtant[/fr]."
+        },
+        {
+          "q": "Je préfère le thé ; ___ , mon mari ne boit que du café.",
+          "options": [
+            "en revanche",
+            "donc",
+            "ainsi"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "",
+          "after": " il fasse froid, je vais courir. (bien que)",
+          "answer": "Bien qu’",
+          "alt": [
+            "bien qu’"
+          ]
+        },
+        {
+          "before": "",
+          "after": " ses problèmes, il garde le sourire. (malgré)",
+          "answer": "Malgré",
+          "alt": [
+            "malgré"
+          ]
+        },
+        {
+          "before": "Il a beaucoup dormi ; ",
+          "after": " , il est fatigué.",
+          "answer": "pourtant"
+        }
+      ]
+    }
+  ]
+}

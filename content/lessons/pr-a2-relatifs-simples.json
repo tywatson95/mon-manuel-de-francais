@@ -1,0 +1,225 @@
+{
+  "id": "pr-a2-relatifs-simples",
+  "group": "pronoms",
+  "level": "A2",
+  "order": 240,
+  "title": "Les pronoms relatifs qui, que, où",
+  "summary": "Trois mots pour coller deux phrases en une seule.",
+  "essentiel": [
+    "[fr]**qui**[/fr] remplace le **sujet** : [fr]l’homme **qui** parle[/fr].",
+    "[fr]**que**[/fr] remplace le **COD** : [fr]le livre **que** je lis[/fr].",
+    "[fr]**où**[/fr] remplace un **lieu** ou un **moment** : [fr]la ville **où** j’habite · le jour **où** il est parti[/fr]."
+  ],
+  "regle": "Un pronom relatif évite de répéter un mot. Le choix ne dépend pas du sens du mot, mais de sa **fonction** dans la deuxième phrase.\n\n[fr]Je connais un homme. **Cet homme** parle six langues.[/fr]\n→ le mot répété est **sujet** → [fr]Je connais un homme **qui** parle six langues.[/fr]\n\n[fr]J’ai lu un livre. Tu m’as prêté **ce livre**.[/fr]\n→ le mot répété est **COD** → [fr]J’ai lu le livre **que** tu m’as prêté.[/fr]\n\n**Le test infaillible.** Après [fr]qui[/fr] vient un **verbe**. Après [fr]que[/fr] vient un **sujet**.\n[fr]la femme **qui chante**[/fr] · [fr]la femme **que je vois**[/fr]\n\n**L’élision.** [fr]que[/fr] devient [fr]qu’[/fr] devant une voyelle ; [fr]qui[/fr] ne s’élide **jamais**.\n[fr]le film **qu’**il regarde[/fr] mais [fr]l’ami **qui** arrive[/fr]\n\n**[fr]où[/fr] pour le temps.** C’est une particularité française : on dit [fr]le jour **où**[/fr], [fr]l’année **où**[/fr], [fr]le moment **où**[/fr] — jamais « quand » dans ce cas.\n\n**Accord du participe.** Après [fr]que[/fr], le participe s’accorde : [fr]les photos **que** j’ai pris**es**[/fr].",
+  "exemples": [
+    {
+      "fr": "C’est un ami qui habite à Bordeaux.",
+      "en": "He’s a friend who lives in Bordeaux."
+    },
+    {
+      "fr": "Le film que nous avons vu était excellent.",
+      "en": "The film we saw was excellent."
+    },
+    {
+      "fr": "Voilà la maison où je suis né.",
+      "en": "That’s the house where I was born."
+    },
+    {
+      "fr": "Je me souviens du jour où on s’est rencontrés.",
+      "en": "I remember the day we met."
+    },
+    {
+      "fr": "C’est la personne qu’il faut contacter.",
+      "en": "That’s the person to contact."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le choix en un coup d’œil",
+      "collapsed": false,
+      "headers": [
+        "Fonction du mot remplacé",
+        "Pronom",
+        "Ce qui suit"
+      ],
+      "rows": [
+        [
+          "sujet",
+          "qui",
+          "un verbe"
+        ],
+        [
+          "COD",
+          "que / qu’",
+          "un sujet"
+        ],
+        [
+          "lieu",
+          "où",
+          "un sujet + verbe"
+        ],
+        [
+          "moment",
+          "où",
+          "un sujet + verbe"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : recommander un restaurant",
+    "lines": [
+      {
+        "who": "Inès",
+        "fr": "Tu connais un restaurant qui est ouvert le dimanche ?",
+        "en": "Do you know a restaurant that’s open on Sundays?"
+      },
+      {
+        "who": "Yann",
+        "fr": "Il y a celui que j’aime bien, près du canal.",
+        "en": "There’s the one I like, near the canal."
+      },
+      {
+        "who": "Inès",
+        "fr": "C’est celui où on a fêté ton anniversaire ?",
+        "en": "Is it the one where we celebrated your birthday?"
+      },
+      {
+        "who": "Yann",
+        "fr": "Exactement. Le chef qui travaille là est vraiment doué.",
+        "en": "Exactly. The chef who works there is really talented."
+      },
+      {
+        "who": "Inès",
+        "fr": "Et le plat que tu avais pris, c’était quoi ?",
+        "en": "And the dish you had, what was it?"
+      },
+      {
+        "who": "Yann",
+        "fr": "Un risotto que je n’oublierai jamais.",
+        "en": "A risotto I’ll never forget."
+      }
+    ],
+    "check": {
+      "q": "Pourquoi « le chef **qui** travaille » et non « que » ?",
+      "options": [
+        "Parce que « le chef » est le sujet de « travaille ».",
+        "Parce que c’est une personne.",
+        "Parce que c’est masculin."
+      ],
+      "answer": 0,
+      "why": "[fr]qui[/fr] est suivi d’un verbe : c’est le sujet."
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Qui, que ou où ?",
+      "items": [
+        {
+          "q": "C’est le train ___ part à midi.",
+          "options": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "answer": 0,
+          "why": "Suivi du verbe [fr]part[/fr] → sujet."
+        },
+        {
+          "q": "C’est le train ___ je prends tous les jours.",
+          "options": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "answer": 1,
+          "why": "Suivi du sujet [fr]je[/fr] → COD."
+        },
+        {
+          "q": "Voici le café ___ nous nous sommes rencontrés.",
+          "options": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "answer": 2,
+          "why": "Lieu."
+        },
+        {
+          "q": "Je n’oublierai jamais l’été ___ j’ai appris le français.",
+          "options": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "answer": 2,
+          "why": "Moment → [fr]où[/fr]."
+        },
+        {
+          "q": "La personne ___ tu cherches n’est pas là.",
+          "options": [
+            "qui",
+            "que",
+            "où"
+          ],
+          "answer": 1,
+          "why": "Suivi de [fr]tu[/fr] → COD."
+        },
+        {
+          "q": "Les livres ___ sont sur la table sont à moi.",
+          "options": [
+            "qui",
+            "que",
+            "qu’"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Reconstruis la phrase.",
+      "items": [
+        {
+          "tokens": [
+            "Voilà",
+            "la",
+            "fille",
+            "qui",
+            "habite",
+            "à",
+            "côté"
+          ],
+          "answer": "Voilà la fille qui habite à côté"
+        },
+        {
+          "tokens": [
+            "C’est",
+            "le",
+            "disque",
+            "que",
+            "j’ai",
+            "acheté",
+            "hier"
+          ],
+          "answer": "C’est le disque que j’ai acheté hier"
+        },
+        {
+          "tokens": [
+            "Je",
+            "me",
+            "souviens",
+            "du",
+            "moment",
+            "où",
+            "tu",
+            "es",
+            "arrivé"
+          ],
+          "answer": "Je me souviens du moment où tu es arrivé"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "voc-a1-objets",
+  "title": "Objets du quotidien",
+  "level": "A1",
+  "order": 250,
+  "summary": "Les choses qu’on a toujours sur soi ou chez soi.",
+  "items": [
+    {
+      "fr": "un téléphone",
+      "ipa": "te.le.fɔn",
+      "en": "a phone",
+      "ex": "Mon téléphone est déchargé."
+    },
+    {
+      "fr": "un portable",
+      "ipa": "pɔʁ.tabl",
+      "en": "a mobile phone",
+      "ex": "J’ai oublié mon portable."
+    },
+    {
+      "fr": "un ordinateur",
+      "ipa": "ɔʁ.di.na.tœʁ",
+      "en": "a computer",
+      "ex": "Mon ordinateur est lent."
+    },
+    {
+      "fr": "une clé",
+      "ipa": "kle",
+      "en": "a key",
+      "ex": "J’ai perdu mes clés."
+    },
+    {
+      "fr": "un portefeuille",
+      "ipa": "pɔʁ.tə.fœj",
+      "en": "a wallet",
+      "ex": "Mon portefeuille est dans mon sac."
+    },
+    {
+      "fr": "un sac à main",
+      "ipa": "sak a mɛ̃",
+      "en": "a handbag",
+      "ex": "Elle cherche son sac à main."
+    },
+    {
+      "fr": "des lunettes (f)",
+      "ipa": "ly.nɛt",
+      "en": "glasses",
+      "ex": "Où sont mes lunettes ?"
+    },
+    {
+      "fr": "une montre",
+      "ipa": "mɔ̃tʁ",
+      "en": "a watch",
+      "ex": "Ma montre s’est arrêtée."
+    },
+    {
+      "fr": "un parapluie",
+      "ipa": "pa.ʁa.plɥi",
+      "en": "an umbrella",
+      "ex": "N’oublie pas ton parapluie."
+    },
+    {
+      "fr": "un stylo",
+      "ipa": "sti.lo",
+      "en": "a pen",
+      "ex": "Tu as un stylo ?"
+    },
+    {
+      "fr": "un crayon",
+      "ipa": "kʁɛ.jɔ̃",
+      "en": "a pencil",
+      "ex": "Un crayon et une gomme."
+    },
+    {
+      "fr": "un cahier",
+      "ipa": "ka.je",
+      "en": "a notebook",
+      "ex": "J’écris dans mon cahier."
+    },
+    {
+      "fr": "un carnet",
+      "ipa": "kaʁ.nɛ",
+      "en": "a small notebook",
+      "ex": "Un carnet de notes."
+    },
+    {
+      "fr": "une feuille",
+      "ipa": "fœj",
+      "en": "a sheet of paper",
+      "ex": "Une feuille blanche."
+    },
+    {
+      "fr": "un livre",
+      "ipa": "livʁ",
+      "en": "a book",
+      "ex": "Ce livre est passionnant."
+    },
+    {
+      "fr": "un journal",
+      "ipa": "ʒuʁ.nal",
+      "en": "a newspaper",
+      "ex": "Je lis le journal le matin."
+    },
+    {
+      "fr": "une carte bancaire",
+      "ipa": "kaʁt bɑ̃.kɛʁ",
+      "en": "a bank card",
+      "ex": "Ma carte ne marche pas."
+    },
+    {
+      "fr": "de l’argent (m)",
+      "ipa": "aʁ.ʒɑ̃",
+      "en": "money",
+      "ex": "Je n’ai pas d’argent sur moi."
+    },
+    {
+      "fr": "des pièces (f)",
+      "ipa": "pjɛs",
+      "en": "coins",
+      "ex": "J’ai quelques pièces."
+    },
+    {
+      "fr": "un billet",
+      "ipa": "bi.jɛ",
+      "en": "a note, a ticket",
+      "ex": "Un billet de vingt euros."
+    },
+    {
+      "fr": "un chargeur",
+      "ipa": "ʃaʁ.ʒœʁ",
+      "en": "a charger",
+      "ex": "Tu as un chargeur ?"
+    },
+    {
+      "fr": "des écouteurs (m)",
+      "ipa": "e.ku.tœʁ",
+      "en": "earphones",
+      "ex": "Mets tes écouteurs."
+    },
+    {
+      "fr": "un couteau",
+      "ipa": "ku.to",
+      "en": "a knife",
+      "ex": "Un couteau bien aiguisé."
+    },
+    {
+      "fr": "une fourchette",
+      "ipa": "fuʁ.ʃɛt",
+      "en": "a fork",
+      "ex": "Une fourchette, s’il vous plaît."
+    },
+    {
+      "fr": "une cuillère",
+      "ipa": "kɥi.jɛʁ",
+      "en": "a spoon",
+      "ex": "Une cuillère à café."
+    },
+    {
+      "fr": "une assiette",
+      "ipa": "a.sjɛt",
+      "en": "a plate",
+      "ex": "Les assiettes sont propres."
+    },
+    {
+      "fr": "un verre",
+      "ipa": "vɛʁ",
+      "en": "a glass",
+      "ex": "Un verre d’eau."
+    },
+    {
+      "fr": "une tasse",
+      "ipa": "tas",
+      "en": "a cup",
+      "ex": "Une tasse de thé."
+    },
+    {
+      "fr": "une bouteille",
+      "ipa": "bu.tɛj",
+      "en": "a bottle",
+      "ex": "Une bouteille d’eau."
+    },
+    {
+      "fr": "une serviette",
+      "ipa": "sɛʁ.vjɛt",
+      "en": "a towel, a napkin",
+      "ex": "Une serviette de bain."
+    },
+    {
+      "fr": "du savon",
+      "ipa": "sa.vɔ̃",
+      "en": "soap",
+      "ex": "Il n’y a plus de savon."
+    },
+    {
+      "fr": "une brosse à dents",
+      "ipa": "bʁɔs a dɑ̃",
+      "en": "a toothbrush",
+      "ex": "J’ai oublié ma brosse à dents."
+    },
+    {
+      "fr": "une valise",
+      "ipa": "va.liz",
+      "en": "a suitcase",
+      "ex": "Ma valise est prête."
+    },
+    {
+      "fr": "un sac à dos",
+      "ipa": "sak a do",
+      "en": "a backpack",
+      "ex": "Je voyage avec un sac à dos."
+    },
+    {
+      "fr": "une boîte",
+      "ipa": "bwat",
+      "en": "a box",
+      "ex": "Une boîte en carton."
+    },
+    {
+      "fr": "un truc",
+      "ipa": "tʁyk",
+      "en": "a thing (informal)",
+      "ex": "Passe-moi ce truc, là."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe l’objet à son usage.",
+      "labelLeft": "Objet",
+      "labelRight": "Usage",
+      "pairs": [
+        [
+          "un chargeur",
+          "recharger le téléphone"
+        ],
+        [
+          "une fourchette",
+          "manger"
+        ],
+        [
+          "un parapluie",
+          "se protéger de la pluie"
+        ],
+        [
+          "une clé",
+          "ouvrir une porte"
+        ],
+        [
+          "un portefeuille",
+          "ranger l’argent"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis le bon mot.",
+      "items": [
+        {
+          "q": "Pour boire du thé chaud, on utilise…",
+          "options": [
+            "un verre",
+            "une tasse",
+            "une assiette"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Un billet » peut être…",
+          "options": [
+            "un ticket ou un billet de banque",
+            "seulement un ticket",
+            "seulement de l’argent"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

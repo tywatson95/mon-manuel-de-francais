@@ -1,0 +1,242 @@
+{
+  "id": "voc-b1-presse",
+  "title": "Médias & presse",
+  "level": "B1",
+  "order": 420,
+  "summary": "Lire la presse française et en parler.",
+  "items": [
+    {
+      "fr": "la presse",
+      "ipa": "pʁɛs",
+      "en": "the press",
+      "ex": "La presse écrite recule."
+    },
+    {
+      "fr": "un quotidien",
+      "ipa": "kɔ.ti.djɛ̃",
+      "en": "a daily paper",
+      "ex": "Un quotidien national."
+    },
+    {
+      "fr": "un hebdomadaire",
+      "ipa": "ɛb.dɔ.ma.dɛʁ",
+      "en": "a weekly",
+      "ex": "Un hebdomadaire satirique."
+    },
+    {
+      "fr": "un(e) rédacteur(trice)",
+      "ipa": "ʁe.dak.tœʁ",
+      "en": "an editor",
+      "ex": "Le rédacteur en chef décide."
+    },
+    {
+      "fr": "la une",
+      "ipa": "yn",
+      "en": "the front page",
+      "ex": "Le sujet fait la une."
+    },
+    {
+      "fr": "un titre",
+      "ipa": "titʁ",
+      "en": "a headline",
+      "ex": "Un titre accrocheur."
+    },
+    {
+      "fr": "un éditorial",
+      "ipa": "e.di.tɔ.ʁjal",
+      "en": "an editorial",
+      "ex": "L’éditorial est très critique."
+    },
+    {
+      "fr": "une rubrique",
+      "ipa": "ʁy.bʁik",
+      "en": "a section",
+      "ex": "La rubrique culture."
+    },
+    {
+      "fr": "une source",
+      "ipa": "suʁs",
+      "en": "a source",
+      "ex": "Une source fiable."
+    },
+    {
+      "fr": "une enquête",
+      "ipa": "ɑ̃.kɛt",
+      "en": "an investigation",
+      "ex": "Une longue enquête."
+    },
+    {
+      "fr": "un scoop",
+      "ipa": "skup",
+      "en": "a scoop",
+      "ex": "Le journal a eu le scoop."
+    },
+    {
+      "fr": "un fait divers",
+      "ipa": "fɛ di.vɛʁ",
+      "en": "a news item, crime story",
+      "ex": "Un simple fait divers."
+    },
+    {
+      "fr": "l’actualité (f)",
+      "ipa": "ak.tɥa.li.te",
+      "en": "current affairs",
+      "ex": "Suivre l’actualité."
+    },
+    {
+      "fr": "un sondage",
+      "ipa": "sɔ̃.daʒ",
+      "en": "a poll",
+      "ex": "Un sondage récent."
+    },
+    {
+      "fr": "un chiffre",
+      "ipa": "ʃifʁ",
+      "en": "a figure",
+      "ex": "Les chiffres parlent d’eux-mêmes."
+    },
+    {
+      "fr": "une chaîne d’info",
+      "ipa": "ʃɛn",
+      "en": "a news channel",
+      "ex": "Une chaîne d’info en continu."
+    },
+    {
+      "fr": "un plateau",
+      "ipa": "pla.to",
+      "en": "a TV set",
+      "ex": "Un débat sur le plateau."
+    },
+    {
+      "fr": "un(e) présentateur(trice)",
+      "ipa": "pʁe.zɑ̃.ta.tœʁ",
+      "en": "a presenter",
+      "ex": "La présentatrice du 20 heures."
+    },
+    {
+      "fr": "une interview",
+      "ipa": "ɛ̃.tɛʁ.vju",
+      "en": "an interview",
+      "ex": "Une interview exclusive."
+    },
+    {
+      "fr": "un(e) invité(e)",
+      "ipa": "ɛ̃.vi.te",
+      "en": "a guest",
+      "ex": "L’invité du jour."
+    },
+    {
+      "fr": "la liberté de la presse",
+      "ipa": "li.bɛʁ.te",
+      "en": "press freedom",
+      "ex": "La liberté de la presse est un droit."
+    },
+    {
+      "fr": "la censure",
+      "ipa": "sɑ̃.syʁ",
+      "en": "censorship",
+      "ex": "La censure est interdite."
+    },
+    {
+      "fr": "une rumeur",
+      "ipa": "ʁy.mœʁ",
+      "en": "a rumour",
+      "ex": "Ce n’est qu’une rumeur."
+    },
+    {
+      "fr": "une fausse information",
+      "ipa": "fos",
+      "en": "fake news",
+      "ex": "Vérifier les fausses informations."
+    },
+    {
+      "fr": "vérifier",
+      "ipa": "ve.ʁi.fje",
+      "en": "to check",
+      "ex": "Vérifiez vos sources."
+    },
+    {
+      "fr": "objectif, objective",
+      "ipa": "ɔb.ʒɛk.tif",
+      "en": "objective",
+      "ex": "Un article objectif."
+    },
+    {
+      "fr": "partial(e)",
+      "ipa": "paʁ.sjal",
+      "en": "biased",
+      "ex": "Un traitement partial."
+    },
+    {
+      "fr": "s’informer",
+      "ipa": "sɛ̃.fɔʁ.me",
+      "en": "to keep informed",
+      "ex": "Je m’informe en ligne."
+    },
+    {
+      "fr": "un abonné",
+      "ipa": "a.bɔ.ne",
+      "en": "a subscriber",
+      "ex": "Le journal a perdu des abonnés."
+    },
+    {
+      "fr": "la ligne éditoriale",
+      "ipa": "liɲ",
+      "en": "the editorial line",
+      "ex": "Chaque journal a sa ligne éditoriale."
+    },
+    {
+      "fr": "dénoncer",
+      "ipa": "de.nɔ̃.se",
+      "en": "to denounce",
+      "ex": "L’article dénonce un abus."
+    },
+    {
+      "fr": "relayer",
+      "ipa": "ʁə.lɛ.je",
+      "en": "to relay, to pass on",
+      "ex": "Les réseaux ont relayé l’info."
+    },
+    {
+      "fr": "décrypter",
+      "ipa": "de.kʁip.te",
+      "en": "to decode, to analyse",
+      "ex": "Décrypter l’actualité."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "« Faire la une » signifie…",
+          "options": [
+            "être en première page",
+            "être censuré",
+            "être invité"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Un « fait divers » est…",
+          "options": [
+            "un éditorial",
+            "une petite nouvelle locale ou criminelle",
+            "un sondage"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Un article « partial » est…",
+          "options": [
+            "neutre",
+            "orienté",
+            "incomplet"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

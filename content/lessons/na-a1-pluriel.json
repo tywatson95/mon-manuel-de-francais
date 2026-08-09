@@ -1,0 +1,167 @@
+{
+  "id": "na-a1-pluriel",
+  "group": "noms-adjectifs",
+  "level": "A1",
+  "order": 120,
+  "title": "Le pluriel des noms",
+  "summary": "Un -s qu’on écrit mais qu’on n’entend pas.",
+  "essentiel": [
+    "Règle générale : **+ s**. Il ne se prononce **pas**.",
+    "C’est l’**article** qui s’entend : [fr]le livre[/fr] {{lə}} → [fr]les livres[/fr] {{le}}.",
+    "[fr]-au, -eau, -eu[/fr] → **+ x** · [fr]-al[/fr] → **-aux** · déjà en [fr]-s, -x, -z[/fr] → rien."
+  ],
+  "regle": "Le pluriel français est presque muet. [fr]un ami[/fr] et [fr]des amis[/fr] se prononcent pareil ; c’est l’article qui porte l’information. C’est pourquoi on l’écoute très attentivement.\n\n**La règle de base : + s.**\n[fr]un livre → des livres[/fr]\n\n**Les trois familles particulières.**\n- [fr]-au, -eau, -eu[/fr] → [fr]+ x[/fr] : [fr]un bateau → des bateau**x**[/fr], [fr]un cheveu → des cheveu**x**[/fr]\n- [fr]-al[/fr] → [fr]-aux[/fr] : [fr]un journal → des journ**aux**[/fr], [fr]un animal → des anim**aux**[/fr]\n- déjà [fr]-s, -x, -z[/fr] → aucun changement : [fr]un pays → des pays[/fr], [fr]un prix → des prix[/fr]\n\n**Les irréguliers à connaître.** [fr]un œil → des yeux[/fr] · [fr]un travail → des travaux[/fr] · [fr]monsieur → messieurs[/fr] · [fr]madame → mesdames[/fr]\n\n**Sept mots en [fr]-ou[/fr] prennent un x** : [fr]bijoux, cailloux, choux, genoux, hiboux, joujoux, poux[/fr]. Tous les autres prennent [fr]-s[/fr] ([fr]des trous[/fr]).",
+  "exemples": [
+    {
+      "fr": "J’ai acheté des journaux et des magazines.",
+      "en": "I bought newspapers and magazines."
+    },
+    {
+      "fr": "Les enfants ont les yeux fatigués.",
+      "en": "The children have tired eyes."
+    },
+    {
+      "fr": "Il y a beaucoup de châteaux dans la Loire.",
+      "en": "There are many castles in the Loire."
+    },
+    {
+      "fr": "Les prix ont augmenté.",
+      "en": "Prices have gone up."
+    },
+    {
+      "fr": "Ces animaux sont protégés.",
+      "en": "These animals are protected."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les formes du pluriel",
+      "collapsed": false,
+      "headers": [
+        "Singulier",
+        "Pluriel",
+        "Règle"
+      ],
+      "rows": [
+        [
+          "un livre",
+          "des livres",
+          "+ s"
+        ],
+        [
+          "un bateau",
+          "des bateaux",
+          "+ x"
+        ],
+        [
+          "un cheveu",
+          "des cheveux",
+          "+ x"
+        ],
+        [
+          "un journal",
+          "des journaux",
+          "-al → -aux"
+        ],
+        [
+          "un pays",
+          "des pays",
+          "déjà en -s"
+        ],
+        [
+          "un œil",
+          "des yeux",
+          "irrégulier"
+        ],
+        [
+          "un travail",
+          "des travaux",
+          "irrégulier"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Écris le pluriel.",
+      "items": [
+        {
+          "before": "un cheval → des ",
+          "after": "",
+          "answer": "chevaux"
+        },
+        {
+          "before": "un gâteau → des ",
+          "after": "",
+          "answer": "gâteaux"
+        },
+        {
+          "before": "une voiture → des ",
+          "after": "",
+          "answer": "voitures"
+        },
+        {
+          "before": "un nez → des ",
+          "after": "",
+          "answer": "nez"
+        },
+        {
+          "before": "un œil → des ",
+          "after": "",
+          "answer": "yeux"
+        },
+        {
+          "before": "un bijou → des ",
+          "after": "",
+          "answer": "bijoux"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quelle forme est correcte ?",
+      "items": [
+        {
+          "q": "des ___ (journal)",
+          "options": [
+            "journals",
+            "journaux",
+            "journeaux"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "des ___ (prix)",
+          "options": [
+            "prixs",
+            "prix",
+            "prixes"
+          ],
+          "answer": 1,
+          "why": "Un mot déjà en [fr]-x[/fr] ne change pas."
+        },
+        {
+          "q": "des ___ (trou)",
+          "options": [
+            "troux",
+            "trous",
+            "troues"
+          ],
+          "answer": 1,
+          "why": "[fr]trou[/fr] n’est pas dans la liste des sept en [fr]-oux[/fr]."
+        },
+        {
+          "q": "Qu’est-ce qui indique le pluriel à l’oral ?",
+          "options": [
+            "le -s final",
+            "l’article",
+            "l’accent"
+          ],
+          "answer": 1,
+          "why": "Le [fr]-s[/fr] est muet ; [fr]les[/fr] et [fr]des[/fr] portent l’information."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "voc-b1-culture",
+  "title": "Cinéma, livres & musique",
+  "level": "B1",
+  "order": 470,
+  "summary": "Parler d’une œuvre et donner son avis.",
+  "items": [
+    {
+      "fr": "un film",
+      "ipa": "film",
+      "en": "a film",
+      "ex": "Un film bouleversant."
+    },
+    {
+      "fr": "un réalisateur",
+      "ipa": "ʁe.a.li.za.tœʁ",
+      "en": "a director",
+      "ex": "Un réalisateur reconnu."
+    },
+    {
+      "fr": "un(e) acteur(trice)",
+      "ipa": "ak.tœʁ",
+      "en": "an actor",
+      "ex": "Une actrice extraordinaire."
+    },
+    {
+      "fr": "un rôle",
+      "ipa": "ʁol",
+      "en": "a role",
+      "ex": "Il joue le rôle principal."
+    },
+    {
+      "fr": "le scénario",
+      "ipa": "se.na.ʁjo",
+      "en": "the screenplay",
+      "ex": "Le scénario est bien construit."
+    },
+    {
+      "fr": "l’intrigue (f)",
+      "ipa": "ɛ̃.tʁiɡ",
+      "en": "the plot",
+      "ex": "L’intrigue est complexe."
+    },
+    {
+      "fr": "un personnage",
+      "ipa": "pɛʁ.sɔ.naʒ",
+      "en": "a character",
+      "ex": "Un personnage attachant."
+    },
+    {
+      "fr": "une scène",
+      "ipa": "sɛn",
+      "en": "a scene",
+      "ex": "Une scène inoubliable."
+    },
+    {
+      "fr": "la bande-annonce",
+      "ipa": "bɑ̃.da.nɔ̃s",
+      "en": "the trailer",
+      "ex": "La bande-annonce est trompeuse."
+    },
+    {
+      "fr": "la mise en scène",
+      "ipa": "miz ɑ̃ sɛn",
+      "en": "the direction",
+      "ex": "Une mise en scène soignée."
+    },
+    {
+      "fr": "sous-titré(e)",
+      "ipa": "su.ti.tʁe",
+      "en": "subtitled",
+      "ex": "En VO sous-titrée."
+    },
+    {
+      "fr": "un roman",
+      "ipa": "ʁɔ.mɑ̃",
+      "en": "a novel",
+      "ex": "Un roman policier."
+    },
+    {
+      "fr": "un(e) écrivain(e)",
+      "ipa": "e.kʁi.vɛ̃",
+      "en": "a writer",
+      "ex": "Un écrivain contemporain."
+    },
+    {
+      "fr": "un chapitre",
+      "ipa": "ʃa.pitʁ",
+      "en": "a chapter",
+      "ex": "Le dernier chapitre est fort."
+    },
+    {
+      "fr": "un recueil",
+      "ipa": "ʁə.kœj",
+      "en": "a collection",
+      "ex": "Un recueil de poèmes."
+    },
+    {
+      "fr": "un essai",
+      "ipa": "e.sɛ",
+      "en": "an essay, non-fiction",
+      "ex": "Un essai passionnant."
+    },
+    {
+      "fr": "une biographie",
+      "ipa": "bjɔ.ɡʁa.fi",
+      "en": "a biography",
+      "ex": "Une biographie très documentée."
+    },
+    {
+      "fr": "un chef-d’œuvre",
+      "ipa": "ʃɛ.dœvʁ",
+      "en": "a masterpiece",
+      "ex": "C’est un chef-d’œuvre."
+    },
+    {
+      "fr": "une chanson",
+      "ipa": "ʃɑ̃.sɔ̃",
+      "en": "a song",
+      "ex": "Une chanson entêtante."
+    },
+    {
+      "fr": "un album",
+      "ipa": "al.bɔm",
+      "en": "an album",
+      "ex": "Leur nouvel album sort en mai."
+    },
+    {
+      "fr": "un(e) chanteur(euse)",
+      "ipa": "ʃɑ̃.tœʁ",
+      "en": "a singer",
+      "ex": "Une chanteuse à la voix rare."
+    },
+    {
+      "fr": "les paroles (f)",
+      "ipa": "pa.ʁɔl",
+      "en": "the lyrics",
+      "ex": "Les paroles sont poétiques."
+    },
+    {
+      "fr": "un concert",
+      "ipa": "kɔ̃.sɛʁ",
+      "en": "a concert",
+      "ex": "Un concert complet."
+    },
+    {
+      "fr": "un festival",
+      "ipa": "fɛs.ti.val",
+      "en": "a festival",
+      "ex": "Le festival dure trois jours."
+    },
+    {
+      "fr": "une exposition",
+      "ipa": "ɛks.po.zi.sjɔ̃",
+      "en": "an exhibition",
+      "ex": "Une exposition temporaire."
+    },
+    {
+      "fr": "une critique",
+      "ipa": "kʁi.tik",
+      "en": "a review",
+      "ex": "Une critique élogieuse."
+    },
+    {
+      "fr": "émouvant(e)",
+      "ipa": "e.mu.vɑ̃",
+      "en": "moving",
+      "ex": "Une fin très émouvante."
+    },
+    {
+      "fr": "bouleversant(e)",
+      "ipa": "bul.vɛʁ.sɑ̃",
+      "en": "overwhelming",
+      "ex": "Un témoignage bouleversant."
+    },
+    {
+      "fr": "captivant(e)",
+      "ipa": "kap.ti.vɑ̃",
+      "en": "gripping",
+      "ex": "Un récit captivant."
+    },
+    {
+      "fr": "décevant(e)",
+      "ipa": "de.sə.vɑ̃",
+      "en": "disappointing",
+      "ex": "La fin est décevante."
+    },
+    {
+      "fr": "prévisible",
+      "ipa": "pʁe.vi.zibl",
+      "en": "predictable",
+      "ex": "Un scénario prévisible."
+    },
+    {
+      "fr": "original(e)",
+      "ipa": "ɔ.ʁi.ʒi.nal",
+      "en": "original",
+      "ex": "Une idée originale."
+    },
+    {
+      "fr": "surfait(e)",
+      "ipa": "syʁ.fɛ",
+      "en": "overrated",
+      "ex": "Ce film est surfait."
+    },
+    {
+      "fr": "recommander",
+      "ipa": "ʁə.kɔ.mɑ̃.de",
+      "en": "to recommend",
+      "ex": "Je te le recommande vivement."
+    },
+    {
+      "fr": "résumer",
+      "ipa": "ʁe.zy.me",
+      "en": "to summarise",
+      "ex": "Résume-moi l’histoire."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe l’adjectif à son sens.",
+      "labelLeft": "Français",
+      "labelRight": "Sens",
+      "pairs": [
+        [
+          "bouleversant",
+          "très émouvant"
+        ],
+        [
+          "prévisible",
+          "sans surprise"
+        ],
+        [
+          "captivant",
+          "qui tient en haleine"
+        ],
+        [
+          "surfait",
+          "trop loué"
+        ],
+        [
+          "décevant",
+          "moins bien qu’espéré"
+        ]
+      ]
+    }
+  ]
+}

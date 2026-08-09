@@ -1,0 +1,192 @@
+{
+  "id": "na-a1-possessifs-demonstratifs",
+  "group": "noms-adjectifs",
+  "level": "A1",
+  "order": 160,
+  "title": "Les adjectifs possessifs et démonstratifs",
+  "summary": "Mon, ma, mes / ce, cette, ces : à qui c’est, et lequel on montre.",
+  "essentiel": [
+    "Le possessif s’accorde avec **l’objet possédé**, pas avec le possesseur : [fr]**sa** voiture[/fr] = *his* **ou** *her* car.",
+    "Devant une voyelle, le féminin devient masculin : [fr]**mon** amie[/fr].",
+    "Démonstratifs : [fr]ce, cet, cette, ces[/fr] — [fr]cet[/fr] devant voyelle : [fr]cet homme[/fr]."
+  ],
+  "regle": "**Les possessifs.** Le piège numéro un pour les anglophones : [fr]son[/fr] et [fr]sa[/fr] ne disent pas si le possesseur est un homme ou une femme. Ils s’accordent avec la **chose**.\n\n[fr]Paul aime **sa** sœur.[/fr] · [fr]Marie aime **sa** sœur.[/fr] → [fr]sa[/fr] dans les deux cas, parce que [fr]sœur[/fr] est féminin.\n\n**L’euphonie.** Devant un mot féminin qui commence par une voyelle, on utilise la forme masculine pour éviter deux voyelles qui se heurtent :\n[fr]**mon** amie[/fr] ((not *ma amie*)) · [fr]**ton** école[/fr] · [fr]**son** histoire[/fr]\n\n**Les démonstratifs.** Une seule série : [fr]ce[/fr] ((masc.)), [fr]cet[/fr] ((masc. devant voyelle)), [fr]cette[/fr] ((fém.)), [fr]ces[/fr] ((pluriel)).\n\nPour distinguer, on ajoute [fr]-ci[/fr] et [fr]-là[/fr] : [fr]ce livre-**ci**[/fr] ((this one)) contre [fr]ce livre-**là**[/fr] ((that one)). Dans la langue courante, [fr]-là[/fr] domine largement.",
+  "exemples": [
+    {
+      "fr": "Mon frère habite avec ses amis.",
+      "en": "My brother lives with his friends."
+    },
+    {
+      "fr": "C’est mon amie Camille.",
+      "en": "This is my friend Camille."
+    },
+    {
+      "fr": "Cette maison est à vendre.",
+      "en": "This house is for sale."
+    },
+    {
+      "fr": "Cet hôtel est très confortable.",
+      "en": "This hotel is very comfortable."
+    },
+    {
+      "fr": "Je préfère ces chaussures-là.",
+      "en": "I prefer those shoes."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir les deux séries complètes",
+      "collapsed": true,
+      "headers": [
+        "",
+        "masc. sing.",
+        "fém. sing.",
+        "pluriel"
+      ],
+      "rows": [
+        [
+          "à moi",
+          "mon",
+          "ma (mon + voyelle)",
+          "mes"
+        ],
+        [
+          "à toi",
+          "ton",
+          "ta (ton + voyelle)",
+          "tes"
+        ],
+        [
+          "à lui / elle",
+          "son",
+          "sa (son + voyelle)",
+          "ses"
+        ],
+        [
+          "à nous",
+          "notre",
+          "notre",
+          "nos"
+        ],
+        [
+          "à vous",
+          "votre",
+          "votre",
+          "vos"
+        ],
+        [
+          "à eux / elles",
+          "leur",
+          "leur",
+          "leurs"
+        ],
+        [
+          "démonstratif",
+          "ce / cet",
+          "cette",
+          "ces"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Marie cherche ___ clés.",
+          "options": [
+            "son",
+            "sa",
+            "ses"
+          ],
+          "answer": 2,
+          "why": "[fr]clés[/fr] est pluriel."
+        },
+        {
+          "q": "Paul aime ___ mère.",
+          "options": [
+            "son",
+            "sa",
+            "ses"
+          ],
+          "answer": 1,
+          "why": "Accord avec [fr]mère[/fr], féminin — même si Paul est un homme."
+        },
+        {
+          "q": "C’est ___ amie.",
+          "options": [
+            "ma",
+            "mon",
+            "mes"
+          ],
+          "answer": 1,
+          "why": "Devant une voyelle, on utilise [fr]mon[/fr]."
+        },
+        {
+          "q": "___ homme est mon voisin.",
+          "options": [
+            "Ce",
+            "Cet",
+            "Cette"
+          ],
+          "answer": 1,
+          "why": "[fr]cet[/fr] devant une voyelle."
+        },
+        {
+          "q": "Nous avons oublié ___ billets.",
+          "options": [
+            "notre",
+            "nos",
+            "leurs"
+          ],
+          "answer": 1,
+          "why": "Pluriel de [fr]notre[/fr] → [fr]nos[/fr]."
+        },
+        {
+          "q": "Ils ont vendu ___ maison.",
+          "options": [
+            "leur",
+            "leurs",
+            "leures"
+          ],
+          "answer": 0,
+          "why": "Une seule maison → [fr]leur[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "J’ai perdu ",
+          "after": " portefeuille. (à moi)",
+          "answer": "mon"
+        },
+        {
+          "before": "",
+          "after": " voiture est en panne. (à eux)",
+          "answer": "Leur",
+          "alt": [
+            "leur"
+          ]
+        },
+        {
+          "before": "Regarde ",
+          "after": " photo ! (démonstratif)",
+          "answer": "cette"
+        },
+        {
+          "before": "",
+          "after": " arbre est très vieux. (démonstratif)",
+          "answer": "Cet",
+          "alt": [
+            "cet"
+          ]
+        }
+      ]
+    }
+  ]
+}

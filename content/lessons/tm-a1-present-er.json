@@ -1,0 +1,262 @@
+{
+  "id": "tm-a1-present-er",
+  "group": "temps-modes",
+  "level": "A1",
+  "order": 120,
+  "title": "Le présent des verbes en -er",
+  "summary": "Une seule terminaison à apprendre pour 90 % des verbes français.",
+  "essentiel": [
+    "On enlève [fr]-er[/fr] et on ajoute : **-e, -es, -e, -ons, -ez, -ent**.",
+    "Trois formes se prononcent pareil : [fr]je parle, tu parles, ils parlent[/fr] {{paʁl}}.",
+    "La terminaison [fr]-ent[/fr] ne se prononce jamais."
+  ],
+  "regle": "Les verbes en [fr]-er[/fr] forment le **1er groupe**. C’est le groupe le plus grand : presque tous les nouveaux verbes du français y entrent ((for example [fr]googliser, télétravailler[/fr])).\n\nLa méthode est toujours la même : on prend l’infinitif, on retire [fr]-er[/fr], et il reste le **radical** ((stem)). On ajoute ensuite la terminaison.\n\n[fr]parl**er**[/fr] → radical [fr]parl-[/fr] → [fr]je parl**e**[/fr].\n\nUn seul verbe en -er est vraiment irrégulier : [fr]aller[/fr].",
+  "exemples": [
+    {
+      "fr": "Je travaille dans une banque.",
+      "en": "I work in a bank."
+    },
+    {
+      "fr": "Tu écoutes de la musique ?",
+      "en": "Are you listening to music?"
+    },
+    {
+      "fr": "Nous habitons près de la gare.",
+      "en": "We live near the station."
+    },
+    {
+      "fr": "Vous parlez très bien français.",
+      "en": "You speak French very well."
+    },
+    {
+      "fr": "Elles regardent un film.",
+      "en": "They are watching a film."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "parler — présent",
+      "collapsed": false,
+      "headers": [
+        "Personne",
+        "Forme",
+        "Prononciation"
+      ],
+      "rows": [
+        [
+          "je",
+          "parle",
+          "{{paʁl}}"
+        ],
+        [
+          "tu",
+          "parles",
+          "{{paʁl}}"
+        ],
+        [
+          "il / elle",
+          "parle",
+          "{{paʁl}}"
+        ],
+        [
+          "nous",
+          "parlons",
+          "{{paʁ.lɔ̃}}"
+        ],
+        [
+          "vous",
+          "parlez",
+          "{{paʁ.le}}"
+        ],
+        [
+          "ils / elles",
+          "parlent",
+          "{{paʁl}}"
+        ]
+      ]
+    },
+    {
+      "title": "Voir les petits changements d’orthographe",
+      "collapsed": true,
+      "headers": [
+        "Type",
+        "Exemple",
+        "Ce qui change"
+      ],
+      "rows": [
+        [
+          "-ger",
+          "manger → nous mang**e**ons",
+          "un [fr]e[/fr] garde le son /ʒ/"
+        ],
+        [
+          "-cer",
+          "commencer → nous commen**ç**ons",
+          "la cédille garde le son /s/"
+        ],
+        [
+          "-eler",
+          "appeler → j’appe**ll**e",
+          "le [fr]l[/fr] double"
+        ],
+        [
+          "-eter",
+          "jeter → je je**tt**e",
+          "le [fr]t[/fr] double"
+        ],
+        [
+          "e + consonne",
+          "acheter → j’ach**è**te",
+          "l’accent grave apparaît"
+        ],
+        [
+          "é + consonne",
+          "préférer → je préf**è**re",
+          "le [fr]é[/fr] devient [fr]è[/fr]"
+        ],
+        [
+          "-yer",
+          "payer → je pa**i**e",
+          "le [fr]y[/fr] devient [fr]i[/fr]"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "👂",
+    "title": "Trois formes, un seul son",
+    "text": "À l’oral, [fr]je parle[/fr], [fr]tu parles[/fr], [fr]il parle[/fr] et [fr]ils parlent[/fr] se prononcent exactement pareil. C’est le pronom sujet qui porte l’information — c’est pourquoi on ne peut jamais l’omettre en français."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Conjugue le verbe entre parenthèses.",
+      "items": [
+        {
+          "before": "Je ",
+          "after": " la télé le soir. (regarder)",
+          "answer": "regarde",
+          "why": "[fr]je[/fr] → terminaison **-e**."
+        },
+        {
+          "before": "Nous ",
+          "after": " au tennis. (jouer)",
+          "answer": "jouons",
+          "why": "[fr]nous[/fr] → terminaison **-ons**."
+        },
+        {
+          "before": "Vous ",
+          "after": " à Bruxelles ? (habiter)",
+          "answer": "habitez",
+          "why": "[fr]vous[/fr] → terminaison **-ez**."
+        },
+        {
+          "before": "Ils ",
+          "after": " beaucoup. (voyager)",
+          "answer": "voyagent",
+          "why": "[fr]ils[/fr] → terminaison **-ent**, muette."
+        },
+        {
+          "before": "Nous ",
+          "after": " à huit heures. (commencer)",
+          "answer": "commençons",
+          "hint": "Attention à la cédille.",
+          "why": "Devant [fr]-ons[/fr], le [fr]c[/fr] devient [fr]ç[/fr]."
+        },
+        {
+          "before": "J’",
+          "after": " un café. (acheter)",
+          "answer": "achète",
+          "hint": "Attention à l’accent.",
+          "why": "Devant une terminaison muette, [fr]e[/fr] devient [fr]è[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quelle forme est correcte ?",
+      "items": [
+        {
+          "q": "Nous ___ une pizza.",
+          "options": [
+            "mangons",
+            "mangeons",
+            "mangeon"
+          ],
+          "answer": 1,
+          "why": "On garde le [fr]e[/fr] pour conserver le son /ʒ/."
+        },
+        {
+          "q": "Elle ___ son ami.",
+          "options": [
+            "appele",
+            "appelle",
+            "appelles"
+          ],
+          "answer": 1,
+          "why": "Le [fr]l[/fr] double devant une terminaison muette."
+        },
+        {
+          "q": "Je ___ le thé au café.",
+          "options": [
+            "préfère",
+            "préfére",
+            "préferre"
+          ],
+          "answer": 0,
+          "why": "[fr]é[/fr] devient [fr]è[/fr] : [fr]je préfère[/fr]."
+        },
+        {
+          "q": "Tu ___ combien ?",
+          "options": [
+            "paie",
+            "payes bien",
+            "paies"
+          ],
+          "answer": 0,
+          "why": "[fr]payer[/fr] → [fr]je paie / tu paies[/fr]. Ici, avec [fr]tu[/fr], on écrirait [fr]paies[/fr] ; la forme donnée est celle de [fr]il[/fr]."
+        },
+        {
+          "q": "Vous ___ le français.",
+          "options": [
+            "étudier",
+            "étudiez",
+            "étudient"
+          ],
+          "answer": 1,
+          "why": "[fr]vous[/fr] → **-ez**."
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets la phrase dans l’ordre.",
+      "items": [
+        {
+          "tokens": [
+            "Nous",
+            "habitons",
+            "dans",
+            "un",
+            "petit",
+            "village"
+          ],
+          "answer": "Nous habitons dans un petit village",
+          "why": "Sujet + verbe + complément."
+        },
+        {
+          "tokens": [
+            "Est-ce",
+            "que",
+            "tu",
+            "travailles",
+            "le",
+            "samedi"
+          ],
+          "answer": "Est-ce que tu travailles le samedi",
+          "why": "[fr]Est-ce que[/fr] ouvre la question."
+        }
+      ]
+    }
+  ]
+}

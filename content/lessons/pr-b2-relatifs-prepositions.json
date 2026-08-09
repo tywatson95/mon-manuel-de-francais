@@ -1,0 +1,125 @@
+{
+  "id": "pr-b2-relatifs-prepositions",
+  "group": "pronoms",
+  "level": "B2",
+  "order": 410,
+  "title": "Relatifs avec préposition : maîtrise",
+  "summary": "Auquel, duquel, parmi lesquels — la précision de l’écrit soutenu.",
+  "essentiel": [
+    "Après une locution en [fr]de[/fr] ([fr]près de, au cours de, à la suite de[/fr]) → **duquel**, jamais [fr]dont[/fr].",
+    "[fr]parmi lesquels[/fr], [fr]grâce auxquels[/fr], [fr]faute de quoi[/fr] : les formes de l’écrit argumenté.",
+    "[fr]quoi[/fr] remplace [fr]lequel[/fr] quand l’antécédent est **indéfini** : [fr]ce à quoi je pense[/fr]."
+  ],
+  "regle": "À B2, la difficulté n’est plus de former les relatifs mais de choisir entre des formes proches.\n\n**[fr]dont[/fr] contre [fr]duquel[/fr].** [fr]dont[/fr] couvre un [fr]de[/fr] simple. Dès que le [fr]de[/fr] fait partie d’une **locution prépositionnelle**, il faut [fr]duquel[/fr].\n[fr]l’auteur **dont** je parle[/fr] mais [fr]la table **au bord de laquelle** il s’est assis[/fr]\nLocutions concernées : [fr]à côté de, près de, loin de, au cours de, au milieu de, à cause de, à la suite de, en face de, au bout de[/fr].\n\n**[fr]parmi lesquels[/fr].** Indispensable pour détailler un groupe :\n[fr]Vingt candidats, **parmi lesquels** trois femmes, ont été retenus.[/fr]\n\n**[fr]quoi[/fr].** S’emploie quand l’antécédent n’est pas un nom précis — après [fr]ce[/fr], [fr]rien[/fr], [fr]quelque chose[/fr], ou une phrase entière.\n[fr]Ce **à quoi** je pense…[/fr] · [fr]Il n’y a rien **sur quoi** compter.[/fr] · [fr]Sans **quoi** tout serait perdu.[/fr]\n\n**[fr]où[/fr] figuré.** À l’écrit, [fr]où[/fr] peut remplacer [fr]dans lequel[/fr] pour des cas abstraits : [fr]la situation **où** nous sommes[/fr].",
+  "exemples": [
+    {
+      "fr": "Le rapport à la suite duquel la loi a été modifiée date de 2019.",
+      "en": "The report following which the law was amended dates from 2019."
+    },
+    {
+      "fr": "Il a proposé plusieurs solutions, parmi lesquelles une seule est réaliste.",
+      "en": "He put forward several solutions, among which only one is realistic."
+    },
+    {
+      "fr": "Ce à quoi nous assistons est sans précédent.",
+      "en": "What we are witnessing is unprecedented."
+    },
+    {
+      "fr": "Voici les conditions sans lesquelles rien n’est possible.",
+      "en": "Here are the conditions without which nothing is possible."
+    },
+    {
+      "fr": "Les arguments sur lesquels il s’appuie sont fragiles.",
+      "en": "The arguments on which he relies are weak."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme attendue à l’écrit soutenu.",
+      "items": [
+        {
+          "q": "Le bâtiment en face ___ se trouve la mairie.",
+          "options": [
+            "dont",
+            "duquel",
+            "auquel"
+          ],
+          "answer": 1,
+          "why": "Locution [fr]en face de[/fr] → [fr]duquel[/fr]."
+        },
+        {
+          "q": "L’écrivain ___ nous célébrons le centenaire.",
+          "options": [
+            "dont",
+            "duquel",
+            "auquel"
+          ],
+          "answer": 0,
+          "why": "[fr]de[/fr] simple → [fr]dont[/fr]."
+        },
+        {
+          "q": "Trente pays, ___ la France, ont signé.",
+          "options": [
+            "dont",
+            "parmi lesquels",
+            "desquels"
+          ],
+          "answer": 1,
+          "why": "Détailler un groupe → [fr]parmi lesquels[/fr] (ou [fr]dont[/fr], également correct ici)."
+        },
+        {
+          "q": "Ce ___ je tiens le plus, c’est ma liberté.",
+          "options": [
+            "à quoi",
+            "auquel",
+            "dont"
+          ],
+          "answer": 0,
+          "why": "Antécédent [fr]ce[/fr] → [fr]quoi[/fr]. [fr]tenir **à**[/fr]."
+        },
+        {
+          "q": "La réunion au cours ___ la décision a été prise.",
+          "options": [
+            "dont",
+            "de laquelle",
+            "où"
+          ],
+          "answer": 1,
+          "why": "Locution [fr]au cours de[/fr] → [fr]de laquelle[/fr]."
+        },
+        {
+          "q": "Il n’y a rien ___ se plaindre.",
+          "options": [
+            "dont",
+            "de quoi",
+            "duquel"
+          ],
+          "answer": 1,
+          "why": "Antécédent indéfini [fr]rien[/fr] → [fr]de quoi[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec la forme correcte.",
+      "items": [
+        {
+          "before": "Le projet ",
+          "after": " nous travaillons est ambitieux. (sur)",
+          "answer": "sur lequel"
+        },
+        {
+          "before": "Les collègues ",
+          "after": " je fais confiance sont peu nombreux. (à)",
+          "answer": "auxquels"
+        },
+        {
+          "before": "La crise à cause ",
+          "after": " tout a changé. (de)",
+          "answer": "de laquelle"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": "voc-a2-services",
+  "title": "Services du quotidien",
+  "level": "A2",
+  "order": 280,
+  "summary": "Banque, poste, mairie, téléphone.",
+  "items": [
+    {
+      "fr": "une banque",
+      "ipa": "bɑ̃k",
+      "en": "a bank",
+      "ex": "La banque ouvre à 9 h."
+    },
+    {
+      "fr": "un compte bancaire",
+      "ipa": "kɔ̃t",
+      "en": "a bank account",
+      "ex": "J’ai ouvert un compte."
+    },
+    {
+      "fr": "un virement",
+      "ipa": "viʁ.mɑ̃",
+      "en": "a transfer",
+      "ex": "Je fais un virement."
+    },
+    {
+      "fr": "un retrait",
+      "ipa": "ʁə.tʁɛ",
+      "en": "a withdrawal",
+      "ex": "Un retrait de 50 euros."
+    },
+    {
+      "fr": "un distributeur",
+      "ipa": "dis.tʁi.by.tœʁ",
+      "en": "a cash machine",
+      "ex": "Le distributeur est en panne."
+    },
+    {
+      "fr": "un RIB",
+      "ipa": "ʁib",
+      "en": "bank details",
+      "ex": "Envoyez-moi votre RIB."
+    },
+    {
+      "fr": "un chèque",
+      "ipa": "ʃɛk",
+      "en": "a cheque",
+      "ex": "On accepte les chèques."
+    },
+    {
+      "fr": "un prélèvement",
+      "ipa": "pʁe.lɛv.mɑ̃",
+      "en": "a direct debit",
+      "ex": "Un prélèvement automatique."
+    },
+    {
+      "fr": "la poste",
+      "ipa": "pɔst",
+      "en": "the post office",
+      "ex": "Je vais à la poste."
+    },
+    {
+      "fr": "un timbre",
+      "ipa": "tɛ̃bʁ",
+      "en": "a stamp",
+      "ex": "Un carnet de timbres."
+    },
+    {
+      "fr": "une enveloppe",
+      "ipa": "ɑ̃v.lɔp",
+      "en": "an envelope",
+      "ex": "Une enveloppe timbrée."
+    },
+    {
+      "fr": "un colis",
+      "ipa": "kɔ.li",
+      "en": "a parcel",
+      "ex": "Mon colis est arrivé."
+    },
+    {
+      "fr": "un recommandé",
+      "ipa": "ʁə.kɔ.mɑ̃.de",
+      "en": "registered post",
+      "ex": "Envoyez-le en recommandé."
+    },
+    {
+      "fr": "un formulaire",
+      "ipa": "fɔʁ.my.lɛʁ",
+      "en": "a form",
+      "ex": "Remplissez ce formulaire."
+    },
+    {
+      "fr": "remplir",
+      "ipa": "ʁɑ̃.pliʁ",
+      "en": "to fill in",
+      "ex": "Remplissez le formulaire."
+    },
+    {
+      "fr": "signer",
+      "ipa": "si.ɲe",
+      "en": "to sign",
+      "ex": "Signez ici, s’il vous plaît."
+    },
+    {
+      "fr": "la mairie",
+      "ipa": "mɛ.ʁi",
+      "en": "the town hall",
+      "ex": "La mairie délivre les actes."
+    },
+    {
+      "fr": "un justificatif",
+      "ipa": "ʒys.ti.fi.ka.tif",
+      "en": "a supporting document",
+      "ex": "Un justificatif de domicile."
+    },
+    {
+      "fr": "une pièce d’identité",
+      "ipa": "pjɛs",
+      "en": "an ID document",
+      "ex": "Une pièce d’identité est demandée."
+    },
+    {
+      "fr": "une carte d’identité",
+      "ipa": "kaʁt",
+      "en": "an ID card",
+      "ex": "Ma carte d’identité expire."
+    },
+    {
+      "fr": "un passeport",
+      "ipa": "pas.pɔʁ",
+      "en": "a passport",
+      "ex": "Renouveler son passeport."
+    },
+    {
+      "fr": "un rendez-vous",
+      "ipa": "ʁɑ̃.de.vu",
+      "en": "an appointment",
+      "ex": "J’ai pris rendez-vous en ligne."
+    },
+    {
+      "fr": "un guichet",
+      "ipa": "ɡi.ʃɛ",
+      "en": "a counter",
+      "ex": "Le guichet numéro trois."
+    },
+    {
+      "fr": "une file d’attente",
+      "ipa": "fil da.tɑ̃t",
+      "en": "a queue",
+      "ex": "La file d’attente est longue."
+    },
+    {
+      "fr": "un abonnement",
+      "ipa": "a.bɔn.mɑ̃",
+      "en": "a subscription",
+      "ex": "Un abonnement mensuel."
+    },
+    {
+      "fr": "résilier",
+      "ipa": "ʁe.zi.lje",
+      "en": "to cancel (a contract)",
+      "ex": "Je voudrais résilier mon abonnement."
+    },
+    {
+      "fr": "un forfait",
+      "ipa": "fɔʁ.fɛ",
+      "en": "a plan, package",
+      "ex": "Un forfait mobile à 15 euros."
+    },
+    {
+      "fr": "une facture",
+      "ipa": "fak.tyʁ",
+      "en": "a bill",
+      "ex": "Je n’ai pas reçu la facture."
+    },
+    {
+      "fr": "un opérateur",
+      "ipa": "ɔ.pe.ʁa.tœʁ",
+      "en": "a provider",
+      "ex": "Changer d’opérateur."
+    },
+    {
+      "fr": "le service client",
+      "ipa": "sɛʁ.vis kli.jɑ̃",
+      "en": "customer service",
+      "ex": "Le service client ne répond pas."
+    },
+    {
+      "fr": "un délai",
+      "ipa": "de.lɛ",
+      "en": "a time limit",
+      "ex": "Un délai de dix jours."
+    },
+    {
+      "fr": "une assurance",
+      "ipa": "a.sy.ʁɑ̃s",
+      "en": "insurance",
+      "ex": "Une assurance habitation."
+    },
+    {
+      "fr": "un(e) fonctionnaire",
+      "ipa": "fɔ̃k.sjɔ.nɛʁ",
+      "en": "a civil servant",
+      "ex": "Elle est fonctionnaire."
+    },
+    {
+      "fr": "une démarche",
+      "ipa": "de.maʁʃ",
+      "en": "a procedure, a step",
+      "ex": "Une démarche administrative."
+    },
+    {
+      "fr": "en ligne",
+      "ipa": "ɑ̃ liɲ",
+      "en": "online",
+      "ex": "Tout se fait en ligne."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Où aller ?",
+      "items": [
+        {
+          "q": "Pour envoyer un colis :",
+          "options": [
+            "à la banque",
+            "à la poste",
+            "à la mairie"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pour un acte de naissance :",
+          "options": [
+            "à la mairie",
+            "à la poste",
+            "à la banque"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Résilier un abonnement » veut dire…",
+          "options": [
+            "le renouveler",
+            "l’arrêter",
+            "le payer"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Un « justificatif de domicile » prouve…",
+          "options": [
+            "votre identité",
+            "votre adresse",
+            "votre revenu"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

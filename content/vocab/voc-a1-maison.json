@@ -1,0 +1,286 @@
+{
+  "id": "voc-a1-maison",
+  "title": "Maison & meubles",
+  "level": "A1",
+  "order": 190,
+  "summary": "Les pièces, les meubles et les objets du quotidien.",
+  "items": [
+    {
+      "fr": "une maison",
+      "ipa": "mɛ.zɔ̃",
+      "en": "a house",
+      "ex": "Ils ont une maison à la campagne."
+    },
+    {
+      "fr": "un appartement",
+      "ipa": "a.paʁ.tə.mɑ̃",
+      "en": "a flat",
+      "ex": "J’habite un petit appartement."
+    },
+    {
+      "fr": "un immeuble",
+      "ipa": "i.mœbl",
+      "en": "a block of flats",
+      "ex": "L’immeuble a six étages."
+    },
+    {
+      "fr": "un étage",
+      "ipa": "e.taʒ",
+      "en": "a floor",
+      "ex": "J’habite au troisième étage."
+    },
+    {
+      "fr": "le rez-de-chaussée",
+      "ipa": "ʁed.ʃo.se",
+      "en": "the ground floor",
+      "ex": "La boîte aux lettres est au rez-de-chaussée."
+    },
+    {
+      "fr": "une pièce",
+      "ipa": "pjɛs",
+      "en": "a room",
+      "ex": "Un trois-pièces."
+    },
+    {
+      "fr": "la cuisine",
+      "ipa": "kɥi.zin",
+      "en": "the kitchen",
+      "ex": "La cuisine est petite mais claire."
+    },
+    {
+      "fr": "le salon",
+      "ipa": "sa.lɔ̃",
+      "en": "the living room",
+      "ex": "On regarde un film au salon."
+    },
+    {
+      "fr": "la salle à manger",
+      "ipa": "sal a mɑ̃.ʒe",
+      "en": "the dining room",
+      "ex": "La table est dans la salle à manger."
+    },
+    {
+      "fr": "la chambre",
+      "ipa": "ʃɑ̃bʁ",
+      "en": "the bedroom",
+      "ex": "Ma chambre donne sur la cour."
+    },
+    {
+      "fr": "la salle de bains",
+      "ipa": "sal də bɛ̃",
+      "en": "the bathroom",
+      "ex": "La salle de bains est au fond."
+    },
+    {
+      "fr": "les toilettes (f)",
+      "ipa": "twa.lɛt",
+      "en": "the toilet",
+      "ex": "Où sont les toilettes ?"
+    },
+    {
+      "fr": "le couloir",
+      "ipa": "ku.lwaʁ",
+      "en": "the corridor",
+      "ex": "Le couloir est sombre."
+    },
+    {
+      "fr": "le balcon",
+      "ipa": "bal.kɔ̃",
+      "en": "the balcony",
+      "ex": "On mange sur le balcon."
+    },
+    {
+      "fr": "le jardin",
+      "ipa": "ʒaʁ.dɛ̃",
+      "en": "the garden",
+      "ex": "Le jardin est plein de fleurs."
+    },
+    {
+      "fr": "la cave",
+      "ipa": "kav",
+      "en": "the cellar",
+      "ex": "Le vin est à la cave."
+    },
+    {
+      "fr": "une table",
+      "ipa": "tabl",
+      "en": "a table",
+      "ex": "Mets la table, s’il te plaît."
+    },
+    {
+      "fr": "une chaise",
+      "ipa": "ʃɛz",
+      "en": "a chair",
+      "ex": "Il manque une chaise."
+    },
+    {
+      "fr": "un canapé",
+      "ipa": "ka.na.pe",
+      "en": "a sofa",
+      "ex": "Le chat dort sur le canapé."
+    },
+    {
+      "fr": "un fauteuil",
+      "ipa": "fo.tœj",
+      "en": "an armchair",
+      "ex": "Un vieux fauteuil en cuir."
+    },
+    {
+      "fr": "un lit",
+      "ipa": "li",
+      "en": "a bed",
+      "ex": "Le lit est fait."
+    },
+    {
+      "fr": "une armoire",
+      "ipa": "aʁ.mwaʁ",
+      "en": "a wardrobe",
+      "ex": "L’armoire est pleine."
+    },
+    {
+      "fr": "une étagère",
+      "ipa": "e.ta.ʒɛʁ",
+      "en": "a shelf",
+      "ex": "Les livres sont sur l’étagère."
+    },
+    {
+      "fr": "un bureau",
+      "ipa": "by.ʁo",
+      "en": "a desk",
+      "ex": "Mon bureau est en désordre."
+    },
+    {
+      "fr": "une lampe",
+      "ipa": "lɑ̃p",
+      "en": "a lamp",
+      "ex": "Allume la lampe."
+    },
+    {
+      "fr": "un tapis",
+      "ipa": "ta.pi",
+      "en": "a rug",
+      "ex": "Un tapis rouge."
+    },
+    {
+      "fr": "un rideau",
+      "ipa": "ʁi.do",
+      "en": "a curtain",
+      "ex": "Ferme les rideaux."
+    },
+    {
+      "fr": "une fenêtre",
+      "ipa": "fə.nɛtʁ",
+      "en": "a window",
+      "ex": "Ouvre la fenêtre."
+    },
+    {
+      "fr": "une porte",
+      "ipa": "pɔʁt",
+      "en": "a door",
+      "ex": "La porte est fermée à clé."
+    },
+    {
+      "fr": "un mur",
+      "ipa": "myʁ",
+      "en": "a wall",
+      "ex": "Le mur est blanc."
+    },
+    {
+      "fr": "le frigo",
+      "ipa": "fʁi.ɡo",
+      "en": "the fridge",
+      "ex": "Il n’y a rien dans le frigo."
+    },
+    {
+      "fr": "le four",
+      "ipa": "fuʁ",
+      "en": "the oven",
+      "ex": "Le four est chaud."
+    },
+    {
+      "fr": "la machine à laver",
+      "ipa": "ma.ʃin a la.ve",
+      "en": "the washing machine",
+      "ex": "La machine à laver est cassée."
+    },
+    {
+      "fr": "la douche",
+      "ipa": "duʃ",
+      "en": "the shower",
+      "ex": "Je prends une douche."
+    },
+    {
+      "fr": "le loyer",
+      "ipa": "lwa.je",
+      "en": "the rent",
+      "ex": "Le loyer est trop cher."
+    },
+    {
+      "fr": "déménager",
+      "ipa": "de.me.na.ʒe",
+      "en": "to move house",
+      "ex": "On déménage en septembre."
+    },
+    {
+      "fr": "le chauffage",
+      "ipa": "ʃo.faʒ",
+      "en": "the heating",
+      "ex": "Le chauffage ne marche pas."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe la pièce à ce qu’on y fait.",
+      "labelLeft": "Pièce",
+      "labelRight": "Activité",
+      "pairs": [
+        [
+          "la cuisine",
+          "on prépare les repas"
+        ],
+        [
+          "la chambre",
+          "on dort"
+        ],
+        [
+          "la salle de bains",
+          "on se lave"
+        ],
+        [
+          "le salon",
+          "on reçoit des amis"
+        ],
+        [
+          "la cave",
+          "on range le vin"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "En France, le « premier étage » est…",
+          "options": [
+            "au niveau de la rue",
+            "un étage au-dessus de la rue",
+            "le sous-sol"
+          ],
+          "answer": 1,
+          "why": "Le niveau de la rue s’appelle [fr]le rez-de-chaussée[/fr]."
+        },
+        {
+          "q": "« Un trois-pièces » compte…",
+          "options": [
+            "trois chambres",
+            "trois pièces principales (hors cuisine et salle de bains)",
+            "trois étages"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

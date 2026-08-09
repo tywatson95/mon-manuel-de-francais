@@ -1,0 +1,129 @@
+{
+  "id": "tm-b1-plus-que-parfait",
+  "group": "temps-modes",
+  "level": "B1",
+  "order": 340,
+  "title": "Le plus-que-parfait",
+  "summary": "Le passé du passé : ce qui s’était déjà produit avant.",
+  "essentiel": [
+    "Auxiliaire à l’**imparfait** + participe passé : [fr]j’**avais** mangé[/fr], [fr]j’**étais** parti[/fr].",
+    "Il situe une action **avant** une autre action passée.",
+    "Mêmes règles d’auxiliaire et d’accord que le passé composé."
+  ],
+  "regle": "Le **plus-que-parfait** ((pluperfect)) recule d’un cran dans le passé.\n\n[fr]Quand je suis arrivé, il **était** déjà **parti**.[/fr]\n→ Il part *d’abord*, j’arrive *ensuite*. Le plus-que-parfait marque l’antériorité.\n\nLa formation ne demande rien de neuf : c’est le passé composé, mais avec l’auxiliaire à l’imparfait.\n\n[fr]j’ai mangé[/fr] → [fr]j’**avais** mangé[/fr]\n[fr]je suis allé[/fr] → [fr]j’**étais** allé[/fr]\n[fr]je me suis levé[/fr] → [fr]je m’**étais** levé[/fr]\n\n**Deux emplois de plus.**\n- **Le regret** avec [fr]si[/fr] : [fr]Si j’avais su ![/fr] ((if only I’d known!))\n- **L’hypothèse irréelle du passé** : [fr]Si tu **étais venu**, tu aurais adoré.[/fr]",
+  "exemples": [
+    {
+      "fr": "Il m’a raconté ce qu’il avait vu.",
+      "en": "He told me what he had seen."
+    },
+    {
+      "fr": "Nous étions déjà partis quand tu as téléphoné.",
+      "en": "We had already left when you phoned."
+    },
+    {
+      "fr": "Elle a dit qu’elle n’avait rien compris.",
+      "en": "She said she hadn’t understood anything."
+    },
+    {
+      "fr": "Si j’avais su, je serais resté à la maison.",
+      "en": "If I had known, I would have stayed home."
+    },
+    {
+      "fr": "Ils s’étaient rencontrés dix ans plus tôt.",
+      "en": "They had met ten years earlier."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les trois temps du passé en une ligne",
+      "collapsed": false,
+      "headers": [
+        "Temps",
+        "Forme",
+        "Position"
+      ],
+      "rows": [
+        [
+          "plus-que-parfait",
+          "j’avais fini",
+          "avant"
+        ],
+        [
+          "passé composé",
+          "j’ai fini",
+          "l’événement"
+        ],
+        [
+          "imparfait",
+          "je finissais",
+          "le décor autour"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets le verbe au plus-que-parfait.",
+      "items": [
+        {
+          "before": "Quand je suis rentré, elle ",
+          "after": " . (partir)",
+          "answer": "était partie",
+          "why": "Auxiliaire [fr]être[/fr] à l’imparfait + accord."
+        },
+        {
+          "before": "Il m’a dit qu’il ",
+          "after": " ce livre. (lire)",
+          "answer": "avait lu"
+        },
+        {
+          "before": "Nous ",
+          "after": " avant leur arrivée. (manger)",
+          "answer": "avions mangé"
+        },
+        {
+          "before": "Tu ",
+          "after": " très tôt ce matin-là. (se lever)",
+          "answer": "t’étais levé"
+        },
+        {
+          "before": "Ils ",
+          "after": " toutes les questions. (ne pas comprendre)",
+          "answer": "n’avaient pas compris"
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets la phrase dans l’ordre.",
+      "items": [
+        {
+          "tokens": [
+            "Elle",
+            "avait",
+            "déjà",
+            "terminé",
+            "quand",
+            "je",
+            "suis",
+            "arrivé"
+          ],
+          "answer": "Elle avait déjà terminé quand je suis arrivé"
+        },
+        {
+          "tokens": [
+            "Nous",
+            "ne",
+            "nous",
+            "étions",
+            "jamais",
+            "rencontrés",
+            "avant"
+          ],
+          "answer": "Nous ne nous étions jamais rencontrés avant"
+        }
+      ]
+    }
+  ]
+}

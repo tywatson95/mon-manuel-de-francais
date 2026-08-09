@@ -1,0 +1,248 @@
+{
+  "id": "voc-b1-candidature",
+  "title": "Candidature & entretien",
+  "level": "B1",
+  "order": 410,
+  "summary": "Postuler, se vendre, réussir l’entretien.",
+  "items": [
+    {
+      "fr": "une offre d’emploi",
+      "ipa": "ɔfʁ dɑ̃.plwa",
+      "en": "a job advert",
+      "ex": "J’ai répondu à une offre d’emploi."
+    },
+    {
+      "fr": "postuler",
+      "ipa": "pɔs.ty.le",
+      "en": "to apply",
+      "ex": "J’ai postulé à trois postes."
+    },
+    {
+      "fr": "une candidature",
+      "ipa": "kɑ̃.di.da.tyʁ",
+      "en": "an application",
+      "ex": "Ma candidature a été retenue."
+    },
+    {
+      "fr": "un(e) candidat(e)",
+      "ipa": "kɑ̃.di.da",
+      "en": "an applicant",
+      "ex": "Vingt candidats ont été reçus."
+    },
+    {
+      "fr": "un CV",
+      "ipa": "se ve",
+      "en": "a CV",
+      "ex": "Mon CV tient sur une page."
+    },
+    {
+      "fr": "une lettre de motivation",
+      "ipa": "mo.ti.va.sjɔ̃",
+      "en": "a cover letter",
+      "ex": "La lettre de motivation est décisive."
+    },
+    {
+      "fr": "un entretien d’embauche",
+      "ipa": "ɑ̃.boʃ",
+      "en": "a job interview",
+      "ex": "J’ai un entretien d’embauche jeudi."
+    },
+    {
+      "fr": "un recruteur",
+      "ipa": "ʁə.kʁy.tœʁ",
+      "en": "a recruiter",
+      "ex": "Le recruteur pose beaucoup de questions."
+    },
+    {
+      "fr": "un profil",
+      "ipa": "pʁɔ.fil",
+      "en": "a profile",
+      "ex": "Votre profil correspond au poste."
+    },
+    {
+      "fr": "une compétence",
+      "ipa": "kɔ̃.pe.tɑ̃s",
+      "en": "a skill",
+      "ex": "Quelles sont vos compétences ?"
+    },
+    {
+      "fr": "une qualité",
+      "ipa": "ka.li.te",
+      "en": "a strength",
+      "ex": "Ma principale qualité est la rigueur."
+    },
+    {
+      "fr": "un défaut",
+      "ipa": "de.fo",
+      "en": "a weakness",
+      "ex": "Mon défaut : je suis perfectionniste."
+    },
+    {
+      "fr": "l’expérience (f)",
+      "ipa": "ɛks.pe.ʁjɑ̃s",
+      "en": "experience",
+      "ex": "J’ai cinq ans d’expérience."
+    },
+    {
+      "fr": "un parcours",
+      "ipa": "paʁ.kuʁ",
+      "en": "a career path",
+      "ex": "Parlez-moi de votre parcours."
+    },
+    {
+      "fr": "une formation",
+      "ipa": "fɔʁ.ma.sjɔ̃",
+      "en": "training, education",
+      "ex": "J’ai une formation d’ingénieur."
+    },
+    {
+      "fr": "un diplôme",
+      "ipa": "di.plom",
+      "en": "a qualification",
+      "ex": "Un diplôme reconnu."
+    },
+    {
+      "fr": "une référence",
+      "ipa": "ʁe.fe.ʁɑ̃s",
+      "en": "a reference",
+      "ex": "Je peux fournir des références."
+    },
+    {
+      "fr": "un point fort",
+      "ipa": "pwɛ̃ fɔʁ",
+      "en": "a strong point",
+      "ex": "Mon point fort, c’est l’organisation."
+    },
+    {
+      "fr": "polyvalent(e)",
+      "ipa": "pɔ.li.va.lɑ̃",
+      "en": "versatile",
+      "ex": "Je suis polyvalent."
+    },
+    {
+      "fr": "autonome",
+      "ipa": "o.tɔ.nɔm",
+      "en": "self-reliant",
+      "ex": "Je suis autonome dans mon travail."
+    },
+    {
+      "fr": "rigoureux, rigoureuse",
+      "ipa": "ʁi.ɡu.ʁø",
+      "en": "thorough",
+      "ex": "Une méthode rigoureuse."
+    },
+    {
+      "fr": "motivé(e)",
+      "ipa": "mɔ.ti.ve",
+      "en": "motivated",
+      "ex": "Je suis très motivé par ce poste."
+    },
+    {
+      "fr": "s’adapter",
+      "ipa": "sa.dap.te",
+      "en": "to adapt",
+      "ex": "Je m’adapte facilement."
+    },
+    {
+      "fr": "évoluer",
+      "ipa": "e.vɔ.lɥe",
+      "en": "to progress",
+      "ex": "Je souhaite évoluer."
+    },
+    {
+      "fr": "une période d’essai",
+      "ipa": "pe.ʁjɔd dɛ.sɛ",
+      "en": "a probation period",
+      "ex": "Une période d’essai de trois mois."
+    },
+    {
+      "fr": "une promotion",
+      "ipa": "pʁɔ.mo.sjɔ̃",
+      "en": "a promotion",
+      "ex": "Il a obtenu une promotion."
+    },
+    {
+      "fr": "négocier",
+      "ipa": "ne.ɡɔ.sje",
+      "en": "to negotiate",
+      "ex": "Négocier son salaire."
+    },
+    {
+      "fr": "une prétention salariale",
+      "ipa": "pʁe.tɑ̃.sjɔ̃",
+      "en": "salary expectation",
+      "ex": "Quelles sont vos prétentions ?"
+    },
+    {
+      "fr": "un préavis",
+      "ipa": "pʁe.a.vi",
+      "en": "a notice period",
+      "ex": "Un préavis de deux mois."
+    },
+    {
+      "fr": "une reconversion",
+      "ipa": "ʁə.kɔ̃.vɛʁ.sjɔ̃",
+      "en": "a career change",
+      "ex": "Je suis en reconversion."
+    },
+    {
+      "fr": "un réseau professionnel",
+      "ipa": "ʁe.zo",
+      "en": "a professional network",
+      "ex": "Développer son réseau."
+    },
+    {
+      "fr": "une relance",
+      "ipa": "ʁə.lɑ̃s",
+      "en": "a follow-up",
+      "ex": "J’ai envoyé une relance."
+    },
+    {
+      "fr": "être retenu(e)",
+      "ipa": "ʁə.tə.ny",
+      "en": "to be shortlisted",
+      "ex": "Ma candidature a été retenue."
+    },
+    {
+      "fr": "un refus",
+      "ipa": "ʁə.fy",
+      "en": "a rejection",
+      "ex": "J’ai reçu un refus poli."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que dire en entretien ?",
+      "items": [
+        {
+          "q": "« Quelles sont vos prétentions ? » demande…",
+          "options": [
+            "vos ambitions",
+            "le salaire souhaité",
+            "vos diplômes"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Une période d’essai » est…",
+          "options": [
+            "un stage",
+            "le début du contrat, où chacun peut se rétracter",
+            "une formation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Réponse la plus adaptée à « Parlez-moi de vous » :",
+          "options": [
+            "Je suis né en 1994…",
+            "Je vais vous résumer mon parcours en trois étapes.",
+            "Je n’aime pas parler de moi."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

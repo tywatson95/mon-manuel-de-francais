@@ -1,0 +1,120 @@
+{
+  "id": "ph-b1-negations-avancees",
+  "group": "phrase",
+  "level": "B1",
+  "order": 330,
+  "title": "Ne… ni… ni, ne… aucun, ne… que",
+  "summary": "Nier deux choses, nier totalement, ou restreindre.",
+  "essentiel": [
+    "[fr]ne… **ni**… **ni**[/fr] : deux éléments niés, **sans article** : [fr]Je n’ai **ni** frère **ni** sœur.[/fr]",
+    "[fr]ne… **aucun(e)**[/fr] : pas un seul — toujours **singulier**.",
+    "[fr]ne… **que**[/fr] n’est **pas** une négation : c’est *only*."
+  ],
+  "regle": "**[fr]ne… ni… ni[/fr].** On nie deux éléments d’un coup. Les articles indéfinis et partitifs **disparaissent**.\n[fr]J’ai un chien et un chat.[/fr] → [fr]Je n’ai **ni** chien **ni** chat.[/fr]\nMais l’article défini reste : [fr]Je n’aime **ni le** thé **ni le** café.[/fr]\n\n**[fr]ne… aucun(e)[/fr].** Plus fort que [fr]pas de[/fr] : il insiste sur *pas un seul*. Toujours au singulier.\n[fr]Il n’a **aucune** idée. · **Aucun** étudiant n’a répondu.[/fr]\n\n**[fr]ne… que[/fr] — le faux ami.** Cette structure n’est pas négative : elle **restreint**.\n[fr]Je **n’**ai **que** dix euros.[/fr] ((I only have ten euros — I do have them))\nComparez : [fr]Je n’ai **pas** dix euros.[/fr] ((I don’t have ten euros))\n\nComme ce n’est pas une négation, l’article ne change pas :\n[fr]Je ne bois **que de l’**eau.[/fr] ((and not *que d’eau*))\n\nUn synonyme existe : [fr]seulement[/fr]. [fr]Je bois **seulement** de l’eau.[/fr]\n\n**[fr]non plus[/fr]** est le négatif de [fr]aussi[/fr] : [fr]— Je n’aime pas ça. — Moi **non plus**.[/fr]",
+  "exemples": [
+    {
+      "fr": "Il n’y a ni pain ni lait à la maison.",
+      "en": "There’s neither bread nor milk at home."
+    },
+    {
+      "fr": "Je n’ai aucune envie de sortir.",
+      "en": "I have no desire at all to go out."
+    },
+    {
+      "fr": "Elle ne travaille que le matin.",
+      "en": "She only works in the morning."
+    },
+    {
+      "fr": "Aucun de mes amis n’est venu.",
+      "en": "None of my friends came."
+    },
+    {
+      "fr": "— Je n’y comprends rien. — Moi non plus.",
+      "en": "— I don’t understand any of it. — Me neither."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Je n’ai ___ frère ___ sœur.",
+          "options": [
+            "ni / ni",
+            "pas de / pas de",
+            "aucun / aucune"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Je n’ai que vingt euros » signifie…",
+          "options": [
+            "je n’ai pas vingt euros",
+            "j’ai seulement vingt euros",
+            "j’ai plus de vingt euros"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Il n’a ___ idée de ce qui se passe.",
+          "options": [
+            "aucune",
+            "aucunes",
+            "ni"
+          ],
+          "answer": 0,
+          "why": "[fr]aucun[/fr] reste au singulier."
+        },
+        {
+          "q": "Je ne bois ___ eau.",
+          "options": [
+            "que d’",
+            "que de l’",
+            "ni"
+          ],
+          "answer": 1,
+          "why": "[fr]ne… que[/fr] n’est pas une négation : l’article reste."
+        },
+        {
+          "q": "— Je n’aime pas le poisson. — Moi ___ .",
+          "options": [
+            "aussi",
+            "non plus",
+            "ni"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "Je ne connais ",
+          "after": " Paul ni Marie.",
+          "answer": "ni"
+        },
+        {
+          "before": "Il n’y a ",
+          "after": " solution à ce problème.",
+          "answer": "aucune"
+        },
+        {
+          "before": "Nous ne restons ",
+          "after": " deux jours.",
+          "answer": "que"
+        },
+        {
+          "before": "",
+          "after": " réponse ne me satisfait.",
+          "answer": "Aucune",
+          "alt": [
+            "aucune"
+          ]
+        }
+      ]
+    }
+  ]
+}

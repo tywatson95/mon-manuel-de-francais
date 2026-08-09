@@ -1,0 +1,244 @@
+{
+  "id": "pn-a1-api",
+  "group": "prononciation",
+  "level": "A1",
+  "order": 120,
+  "title": "Lire l’alphabet phonétique",
+  "summary": "Tous les symboles utilisés sur ce site, expliqués une fois pour toutes.",
+  "essentiel": [
+    "Les symboles entre **/barres obliques/** décrivent le **son**, pas l’orthographe.",
+    "Le français a 3 sons nasaux — {{ɑ̃}}, {{ɛ̃}}, {{ɔ̃}} — que l’anglais n’a pas.",
+    "La petite ligne ondulée ~ au-dessus d’une voyelle signifie : **l’air passe par le nez**."
+  ],
+  "regle": "Sur ce site, chaque mot de vocabulaire porte sa prononciation entre barres obliques. Voici la clé complète — rien n’apparaît ailleurs sans figurer ici.\n\n**Les voyelles orales.**\n{{i}} [fr]lit[/fr] · {{e}} [fr]été[/fr] · {{ɛ}} [fr]mère[/fr] · {{a}} [fr]chat[/fr] · {{ɔ}} [fr]sort[/fr] · {{o}} [fr]mot[/fr] · {{u}} [fr]tout[/fr] · {{y}} [fr]tu[/fr] · {{ø}} [fr]deux[/fr] · {{œ}} [fr]sœur[/fr] · {{ə}} [fr]le[/fr]\n\nDeux sons méritent une attention particulière :\n- {{y}} ((le *u* français)) : on dit {{i}} en avançant les lèvres comme pour {{u}}. C’est le son de [fr]tu, rue, sur[/fr].\n- {{ə}} ((le *e muet*)) : très faible, souvent supprimé — [fr]le petit[/fr] devient {{lə.p(ə).ti}}.\n\n**Les voyelles nasales — la vraie difficulté.**\n{{ɑ̃}} [fr]dans, temps, vent[/fr] · {{ɛ̃}} [fr]vin, pain, main[/fr] · {{ɔ̃}} [fr]bon, nom, pont[/fr]\nElles se produisent en laissant l’air sortir par le nez. Le [fr]n[/fr] ou le [fr]m[/fr] écrit ne se prononce **pas** : [fr]pain[/fr] n’a pas de son {{n}}.\n\n**Les semi-voyelles.**\n{{j}} [fr]bien, fille[/fr] · {{w}} [fr]oui, moi[/fr] · {{ɥ}} [fr]huit, lui[/fr]\n\n**Les consonnes qui surprennent.**\n{{ʁ}} — le *r* français, produit au fond de la gorge, pas avec la pointe de la langue\n{{ʒ}} [fr]je, rouge[/fr] · {{ʃ}} [fr]chat[/fr] · {{ɲ}} [fr]montagne[/fr]\n\nLes autres consonnes ({{p, b, t, d, k, ɡ, f, v, s, z, m, n, l}}) correspondent à ce qu’on attend.\n\n**Le point sur les barres.** Le point [fr].[/fr] dans {{bɔ̃.ʒuʁ}} sépare simplement les syllabes.",
+  "exemples": [
+    {
+      "fr": "tu {{ty}} — tout {{tu}}",
+      "en": "you — everything (the classic pair to practise /y/ vs /u/)"
+    },
+    {
+      "fr": "dans {{dɑ̃}} — donc {{dɔ̃}} — daim {{dɛ̃}}",
+      "en": "the three nasal vowels side by side"
+    },
+    {
+      "fr": "un bon vin blanc {{œ̃ bɔ̃ vɛ̃ blɑ̃}}",
+      "en": "a good white wine — the classic nasal drill"
+    },
+    {
+      "fr": "rouge {{ʁuʒ}}",
+      "en": "red — two sounds English does not have"
+    },
+    {
+      "fr": "la fille {{la fij}}",
+      "en": "the girl — “ille” is /j/, not /l/"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir la table complète des symboles",
+      "collapsed": true,
+      "headers": [
+        "Symbole",
+        "Exemple",
+        "Remarque"
+      ],
+      "rows": [
+        [
+          "{{i}}",
+          "lit",
+          "comme *ee* court"
+        ],
+        [
+          "{{e}}",
+          "été",
+          "bouche fermée"
+        ],
+        [
+          "{{ɛ}}",
+          "mère",
+          "bouche ouverte"
+        ],
+        [
+          "{{a}}",
+          "chat",
+          "—"
+        ],
+        [
+          "{{ɔ}}",
+          "sort",
+          "ouvert"
+        ],
+        [
+          "{{o}}",
+          "mot",
+          "fermé"
+        ],
+        [
+          "{{u}}",
+          "tout",
+          "comme *oo*"
+        ],
+        [
+          "{{y}}",
+          "tu",
+          "**n’existe pas en anglais**"
+        ],
+        [
+          "{{ø}}",
+          "deux",
+          "lèvres arrondies"
+        ],
+        [
+          "{{œ}}",
+          "sœur",
+          "plus ouvert que {{ø}}"
+        ],
+        [
+          "{{ə}}",
+          "le",
+          "souvent supprimé"
+        ],
+        [
+          "{{ɑ̃}}",
+          "dans",
+          "nasal"
+        ],
+        [
+          "{{ɛ̃}}",
+          "pain",
+          "nasal"
+        ],
+        [
+          "{{ɔ̃}}",
+          "bon",
+          "nasal"
+        ],
+        [
+          "{{j}}",
+          "bien",
+          "semi-voyelle"
+        ],
+        [
+          "{{w}}",
+          "moi",
+          "semi-voyelle"
+        ],
+        [
+          "{{ɥ}}",
+          "huit",
+          "semi-voyelle"
+        ],
+        [
+          "{{ʁ}}",
+          "rue",
+          "**r de gorge**"
+        ],
+        [
+          "{{ʒ}}",
+          "je",
+          "comme *s* dans *measure*"
+        ],
+        [
+          "{{ʃ}}",
+          "chat",
+          "comme *sh*"
+        ],
+        [
+          "{{ɲ}}",
+          "montagne",
+          "comme *ny*"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "🔊",
+    "title": "Pourquoi l’API vaut la peine",
+    "text": "L’orthographe française ment souvent : [fr]eau[/fr] se dit {{o}}, [fr]oiseau[/fr] contient sept lettres et quatre sons. L’API permet de savoir comment se dit un mot sans avoir à l’entendre. Trente minutes d’apprentissage servent pour toujours."
+  },
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe le symbole au mot qui contient ce son.",
+      "labelLeft": "Symbole",
+      "labelRight": "Mot",
+      "pairs": [
+        [
+          "{{y}}",
+          "tu"
+        ],
+        [
+          "{{u}}",
+          "tout"
+        ],
+        [
+          "{{ɑ̃}}",
+          "dans"
+        ],
+        [
+          "{{ɛ̃}}",
+          "pain"
+        ],
+        [
+          "{{ɔ̃}}",
+          "bon"
+        ],
+        [
+          "{{ʁ}}",
+          "rouge"
+        ],
+        [
+          "{{ʃ}}",
+          "chat"
+        ],
+        [
+          "{{ɲ}}",
+          "montagne"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Que signifie ce symbole ?",
+      "items": [
+        {
+          "q": "{{ɑ̃}} est…",
+          "options": [
+            "une voyelle nasale",
+            "une consonne",
+            "un e muet"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Dans {{pɛ̃}} (pain), combien de sons entend-on ?",
+          "options": [
+            "deux",
+            "trois",
+            "quatre"
+          ],
+          "answer": 0,
+          "why": "{{p}} + {{ɛ̃}}. Le [fr]n[/fr] écrit ne se prononce pas."
+        },
+        {
+          "q": "{{ʁ}} se produit…",
+          "options": [
+            "avec la pointe de la langue",
+            "au fond de la gorge",
+            "avec les lèvres"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Le symbole du « u » français est…",
+          "options": [
+            "{{u}}",
+            "{{y}}",
+            "{{ø}}"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

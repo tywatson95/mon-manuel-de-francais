@@ -1,0 +1,163 @@
+{
+  "id": "pn-a1-voyelles",
+  "group": "prononciation",
+  "level": "A1",
+  "order": 130,
+  "title": "Les voyelles : les pièges de l’orthographe",
+  "summary": "Une lettre, plusieurs sons ; plusieurs lettres, un seul son.",
+  "essentiel": [
+    "[fr]ou[/fr] = {{u}} · [fr]u[/fr] = {{y}} — deux sons complètement différents.",
+    "[fr]au[/fr] et [fr]eau[/fr] = {{o}} · [fr]ai[/fr] et [fr]ei[/fr] = {{ɛ}} · [fr]oi[/fr] = {{wa}}.",
+    "[fr]e[/fr] sans accent en fin de mot ne se prononce généralement pas."
+  ],
+  "regle": "Le français écrit plusieurs lettres là où il ne prononce qu’un son. Une fois les groupes appris, la lecture devient prévisible.\n\n**Les groupes fixes.**\n[fr]ou[/fr] → {{u}} : [fr]bonjour, vous, tout[/fr]\n[fr]au / eau[/fr] → {{o}} : [fr]chaud, bateau, beau[/fr]\n[fr]ai / ei[/fr] → {{ɛ}} : [fr]lait, neige, maison[/fr]\n[fr]oi[/fr] → {{wa}} : [fr]moi, trois, boire[/fr]\n[fr]eu / œu[/fr] → {{ø}} ou {{œ}} : [fr]deux, sœur, peur[/fr]\n\n**Le piège numéro un : [fr]u[/fr] contre [fr]ou[/fr].**\n[fr]tu[/fr] {{ty}} n’est pas [fr]tout[/fr] {{tu}}. [fr]rue[/fr] {{ʁy}} n’est pas [fr]roue[/fr] {{ʁu}}.\nPour produire {{y}} : dis {{i}}, puis avance les lèvres sans bouger la langue.\n\n**Le [fr]e[/fr] final.** Il ne se prononce pas — mais il fait prononcer la consonne d’avant.\n[fr]petit[/fr] {{pə.ti}} contre [fr]petite[/fr] {{pə.tit}}\nC’est ce qui distingue le masculin du féminin à l’oral.\n\n**Les lettres finales muettes.** En règle générale, on ne prononce pas [fr]e, s, t, d, x, p, z[/fr] en fin de mot.\n[fr]grand[/fr] {{ɡʁɑ̃}} · [fr]petits[/fr] {{pə.ti}} · [fr]beaucoup[/fr] {{bo.ku}}\nLes consonnes qui, elles, se prononcent souvent, se retiennent avec le mot **CaReFuL** : **c, r, f, l** — [fr]sac, bonjour, chef, mal[/fr].",
+  "exemples": [
+    {
+      "fr": "Bonjour, vous allez où ?",
+      "en": "Hello, where are you going?"
+    },
+    {
+      "fr": "Il fait chaud aujourd’hui.",
+      "en": "It’s hot today."
+    },
+    {
+      "fr": "Trois fois par semaine.",
+      "en": "Three times a week."
+    },
+    {
+      "fr": "Ma sœur a peur.",
+      "en": "My sister is afraid."
+    },
+    {
+      "fr": "C’est un petit chat, et voilà une petite maison.",
+      "en": "It’s a small cat, and here is a small house."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les groupes de lettres",
+      "collapsed": false,
+      "headers": [
+        "Écrit",
+        "Son",
+        "Exemples"
+      ],
+      "rows": [
+        [
+          "ou",
+          "{{u}}",
+          "vous, jour, tout"
+        ],
+        [
+          "u",
+          "{{y}}",
+          "tu, rue, sur"
+        ],
+        [
+          "au, eau",
+          "{{o}}",
+          "chaud, eau, bateau"
+        ],
+        [
+          "ai, ei",
+          "{{ɛ}}",
+          "mais, lait, neige"
+        ],
+        [
+          "oi",
+          "{{wa}}",
+          "moi, noir, boire"
+        ],
+        [
+          "eu, œu",
+          "{{ø}} / {{œ}}",
+          "deux, peur, cœur"
+        ],
+        [
+          "ille",
+          "{{ij}}",
+          "fille, famille *(sauf ville, mille)*"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Comment se prononce ce mot ?",
+      "items": [
+        {
+          "q": "« beaucoup »",
+          "options": [
+            "{{bo.ku}}",
+            "{{be.a.kup}}",
+            "{{bo.kup}}"
+          ],
+          "answer": 0,
+          "why": "[fr]eau[/fr] = {{o}}, [fr]ou[/fr] = {{u}}, le [fr]p[/fr] final est muet."
+        },
+        {
+          "q": "« tu » et « tout » se prononcent…",
+          "options": [
+            "pareil",
+            "différemment",
+            "presque pareil"
+          ],
+          "answer": 1,
+          "why": "{{ty}} contre {{tu}} : deux sons distincts."
+        },
+        {
+          "q": "Dans « petite », le [fr]t[/fr] final…",
+          "options": [
+            "se prononce",
+            "ne se prononce pas",
+            "devient un d"
+          ],
+          "answer": 0,
+          "why": "Le [fr]e[/fr] final fait prononcer la consonne d’avant."
+        },
+        {
+          "q": "« oiseau » commence par le son…",
+          "options": [
+            "{{o}}",
+            "{{wa}}",
+            "{{ɔ}}"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe l’orthographe au son.",
+      "labelLeft": "Écrit",
+      "labelRight": "Son",
+      "pairs": [
+        [
+          "ou",
+          "{{u}}"
+        ],
+        [
+          "u",
+          "{{y}}"
+        ],
+        [
+          "eau",
+          "{{o}}"
+        ],
+        [
+          "ai",
+          "{{ɛ}}"
+        ],
+        [
+          "oi",
+          "{{wa}}"
+        ],
+        [
+          "eu",
+          "{{ø}}"
+        ]
+      ]
+    }
+  ]
+}

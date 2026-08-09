@@ -1,0 +1,191 @@
+{
+  "id": "na-b2-nominalisation",
+  "group": "noms-adjectifs",
+  "level": "B2",
+  "order": 410,
+  "title": "La nominalisation",
+  "summary": "Transformer un verbe en nom : le réflexe du style de presse et de l’essai.",
+  "essentiel": [
+    "La nominalisation condense : [fr]Les prix ont augmenté[/fr] → [fr]**l’augmentation** des prix[/fr].",
+    "Suffixes fréquents : [fr]-tion, -ment, -age, -ure, -ance, -té[/fr].",
+    "C’est la marque du **titre de presse** et de l’**écrit argumenté**."
+  ],
+  "regle": "À B2, on attend un français dense. La nominalisation est l’outil principal : elle remplace une proposition entière par un groupe nominal.\n\n[fr]Le gouvernement a décidé de réformer les retraites.[/fr]\n→ [fr]**la décision** du gouvernement de réformer les retraites[/fr]\n→ titre de presse : [fr]**Réforme** des retraites : la **décision** du gouvernement[/fr]\n\n**Du verbe au nom.**\n[fr]augmenter → l’augmentation[/fr] · [fr]développer → le développement[/fr] · [fr]fermer → la fermeture[/fr]\n[fr]construire → la construction[/fr] · [fr]partir → le départ[/fr] · [fr]choisir → le choix[/fr]\n\n**De l’adjectif au nom.**\n[fr]beau → la beauté[/fr] · [fr]lent → la lenteur[/fr] · [fr]riche → la richesse[/fr] · [fr]efficace → l’efficacité[/fr]\n\n**Attention au genre.** Les noms en [fr]-tion, -ure, -ance, -té, -esse, -eur[/fr] ((abstract)) sont féminins ; ceux en [fr]-ment, -age[/fr] sont masculins.\n\n**Le piège du style.** Trop de nominalisations rendent le texte lourd et administratif. Le bon usage alterne : une phrase nominale dense, puis une phrase verbale qui respire.",
+  "exemples": [
+    {
+      "fr": "La hausse du chômage inquiète les économistes.",
+      "en": "The rise in unemployment worries economists."
+    },
+    {
+      "fr": "La fermeture de l’usine a été annoncée hier.",
+      "en": "The closure of the factory was announced yesterday."
+    },
+    {
+      "fr": "Le développement des énergies renouvelables s’accélère.",
+      "en": "The development of renewable energy is speeding up."
+    },
+    {
+      "fr": "La lenteur de la procédure décourage les candidats.",
+      "en": "The slowness of the procedure discourages applicants."
+    },
+    {
+      "fr": "Grève des transports : reprise du trafic prévue lundi.",
+      "en": "Transport strike: traffic expected to resume on Monday."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir les correspondances les plus utiles",
+      "collapsed": true,
+      "headers": [
+        "Verbe / adjectif",
+        "Nom",
+        "Genre"
+      ],
+      "rows": [
+        [
+          "augmenter",
+          "l’augmentation",
+          "f"
+        ],
+        [
+          "diminuer",
+          "la diminution",
+          "f"
+        ],
+        [
+          "produire",
+          "la production",
+          "f"
+        ],
+        [
+          "développer",
+          "le développement",
+          "m"
+        ],
+        [
+          "changer",
+          "le changement",
+          "m"
+        ],
+        [
+          "fermer",
+          "la fermeture",
+          "f"
+        ],
+        [
+          "ouvrir",
+          "l’ouverture",
+          "f"
+        ],
+        [
+          "partir",
+          "le départ",
+          "m"
+        ],
+        [
+          "arriver",
+          "l’arrivée",
+          "f"
+        ],
+        [
+          "choisir",
+          "le choix",
+          "m"
+        ],
+        [
+          "croître",
+          "la croissance",
+          "f"
+        ],
+        [
+          "beau",
+          "la beauté",
+          "f"
+        ],
+        [
+          "lent",
+          "la lenteur",
+          "f"
+        ],
+        [
+          "riche",
+          "la richesse",
+          "f"
+        ],
+        [
+          "efficace",
+          "l’efficacité",
+          "f"
+        ],
+        [
+          "long",
+          "la longueur",
+          "f"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "📰",
+    "title": "Le titre de journal",
+    "text": "Ouvrez [fr]Le Monde[/fr] : les titres sont presque tous nominaux. [fr]Hausse des taux, inquiétude des ménages.[/fr] Cette économie de mots est un exercice classique du DELF B2 — savoir passer d’une phrase verbale à un titre, et l’inverse."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Transforme le verbe en nom.",
+      "items": [
+        {
+          "before": "Les prix ont augmenté → l’",
+          "after": " des prix",
+          "answer": "augmentation"
+        },
+        {
+          "before": "L’usine a fermé → la ",
+          "after": " de l’usine",
+          "answer": "fermeture"
+        },
+        {
+          "before": "Le train est arrivé → l’",
+          "after": " du train",
+          "answer": "arrivée"
+        },
+        {
+          "before": "Il a choisi → son ",
+          "after": "",
+          "answer": "choix"
+        },
+        {
+          "before": "La procédure est lente → la ",
+          "after": " de la procédure",
+          "answer": "lenteur"
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe la phrase verbale à son titre nominal.",
+      "labelLeft": "Phrase",
+      "labelRight": "Titre",
+      "pairs": [
+        [
+          "Le chômage diminue.",
+          "Diminution du chômage"
+        ],
+        [
+          "Les salariés se mettent en grève.",
+          "Grève des salariés"
+        ],
+        [
+          "Le président a démissionné.",
+          "Démission du président"
+        ],
+        [
+          "On a découvert un vaccin.",
+          "Découverte d’un vaccin"
+        ]
+      ]
+    }
+  ]
+}

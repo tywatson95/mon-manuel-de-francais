@@ -1,0 +1,157 @@
+{
+  "id": "cm-a1-cafe",
+  "group": "communication",
+  "level": "A1",
+  "order": 130,
+  "title": "Au café : commander",
+  "summary": "Trois phrases suffisent pour être servi comme un habitué.",
+  "essentiel": [
+    "[fr]Je voudrais…[/fr] ou simplement [fr]Un café, s’il vous plaît.[/fr]",
+    "[fr]un café[/fr] = un expresso. Pour un grand café au lait : [fr]un crème[/fr] ou [fr]un café allongé[/fr].",
+    "[fr]L’addition, s’il vous plaît.[/fr] — on demande toujours, elle n’arrive jamais seule."
+  ],
+  "regle": "**Commander.** Le conditionnel adoucit, mais la formule courte est parfaitement polie si elle est accompagnée de [fr]s’il vous plaît[/fr].\n[fr]Je voudrais un café, s’il vous plaît.[/fr]\n[fr]Un demi et une carafe d’eau, s’il vous plaît.[/fr]\n\n**Le vocabulaire des boissons.**\n[fr]un café[/fr] ((an espresso)) · [fr]un café allongé[/fr] ((weaker, longer)) · [fr]un crème[/fr] ((with milk)) · [fr]un déca[/fr] ((decaf)) · [fr]un thé, une infusion[/fr] · [fr]un demi[/fr] ((a draught beer, 25 cl)) · [fr]un verre de vin rouge / blanc[/fr] · [fr]une carafe d’eau[/fr] ((free tap water))\n\n**Ce que dit le serveur.**\n[fr]Vous désirez ? · Qu’est-ce que je vous sers ? · Et avec ça ? · C’est pour ici ou à emporter ?[/fr]\n\n**Payer.** [fr]L’addition, s’il vous plaît.[/fr] · [fr]Je peux payer par carte ?[/fr] · [fr]On peut payer séparément ?[/fr]",
+  "exemples": [
+    {
+      "fr": "Bonjour, je voudrais un café et un croissant.",
+      "en": "Hello, I’d like a coffee and a croissant."
+    },
+    {
+      "fr": "Une carafe d’eau, s’il vous plaît.",
+      "en": "A jug of tap water, please."
+    },
+    {
+      "fr": "C’est pour ici ou à emporter ? — Sur place.",
+      "en": "Is it to eat in or take away? — To eat in."
+    },
+    {
+      "fr": "L’addition, s’il vous plaît.",
+      "en": "The bill, please."
+    },
+    {
+      "fr": "Je peux payer par carte ?",
+      "en": "Can I pay by card?"
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : en terrasse",
+    "lines": [
+      {
+        "who": "Serveur",
+        "fr": "Bonjour, vous désirez ?",
+        "en": "Hello, what would you like?"
+      },
+      {
+        "who": "Cliente",
+        "fr": "Bonjour, un crème et un pain au chocolat, s’il vous plaît.",
+        "en": "Hello, a coffee with milk and a pain au chocolat, please."
+      },
+      {
+        "who": "Serveur",
+        "fr": "Très bien. Et avec ça ?",
+        "en": "Very good. Anything else?"
+      },
+      {
+        "who": "Cliente",
+        "fr": "Une carafe d’eau aussi, merci.",
+        "en": "A jug of water too, thanks."
+      },
+      {
+        "who": "Serveur",
+        "fr": "Je vous apporte ça.",
+        "en": "I’ll bring that right over."
+      },
+      {
+        "who": "Cliente",
+        "fr": "Merci. Ah, et l’addition quand vous pouvez.",
+        "en": "Thanks. Oh, and the bill whenever you can."
+      }
+    ],
+    "check": {
+      "q": "Que demande la cliente en plus de sa commande ?",
+      "options": [
+        "De l’eau du robinet gratuite.",
+        "Une bouteille d’eau minérale.",
+        "Un deuxième café."
+      ],
+      "answer": 0,
+      "why": "[fr]une carafe d’eau[/fr] est l’eau du robinet, gratuite dans tous les cafés français."
+    }
+  },
+  "culture": {
+    "icon": "☕",
+    "title": "La carafe d’eau est gratuite",
+    "text": "Dans tout café ou restaurant français, l’eau du robinet en carafe est **gratuite et obligatoire** sur demande. Beaucoup de visiteurs commandent une bouteille payante sans le savoir. Le pain, lui aussi, est offert au restaurant."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que commander ?",
+      "items": [
+        {
+          "q": "Tu veux un espresso. Tu demandes :",
+          "options": [
+            "un café",
+            "un crème",
+            "un allongé"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tu veux de l’eau gratuite :",
+          "options": [
+            "une bouteille d’eau",
+            "une carafe d’eau",
+            "un verre d’eau minérale"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Tu veux une bière pression :",
+          "options": [
+            "un demi",
+            "un verre",
+            "un déca"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Le serveur dit « Et avec ça ? ». Il demande…",
+          "options": [
+            "si tu veux autre chose",
+            "si tu paies par carte",
+            "si c’est bon"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Reconstruis la phrase.",
+      "items": [
+        {
+          "tokens": [
+            "Je",
+            "voudrais",
+            "un",
+            "café,",
+            "s’il",
+            "vous",
+            "plaît"
+          ],
+          "answer": "Je voudrais un café, s’il vous plaît"
+        },
+        {
+          "tokens": [
+            "L’addition,",
+            "s’il",
+            "vous",
+            "plaît"
+          ],
+          "answer": "L’addition, s’il vous plaît"
+        }
+      ]
+    }
+  ]
+}

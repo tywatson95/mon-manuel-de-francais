@@ -1,0 +1,108 @@
+{
+  "id": "tm-a2-venir-de-etre-en-train",
+  "group": "temps-modes",
+  "level": "A2",
+  "order": 260,
+  "title": "Venir de, être en train de, aller",
+  "summary": "Trois expressions pour situer une action juste avant, pendant, ou juste après.",
+  "essentiel": [
+    "[fr]venir de[/fr] + infinitif = **le passé récent** : [fr]Je viens de manger.[/fr] ((I’ve just eaten.))",
+    "[fr]être en train de[/fr] + infinitif = **maintenant, en cours** : [fr]Je suis en train de manger.[/fr]",
+    "[fr]aller[/fr] + infinitif = **le futur proche** : [fr]Je vais manger.[/fr]"
+  ],
+  "regle": "Le français n’a pas de forme spéciale pour dire *I am eating* ou *I have just eaten*. Il utilise trois petites constructions, toujours suivies d’un **infinitif**.\n\nElles forment une ligne du temps très claire :\n\n[fr]Je **viens de** finir.[/fr] → juste avant\n[fr]Je **suis en train de** finir.[/fr] → en ce moment\n[fr]Je **vais** finir.[/fr] → juste après\n\n[fr]être en train de[/fr] n’est utile que pour **insister** sur le fait que l’action est en cours. Le présent simple suffit la plupart du temps : [fr]Je mange[/fr] veut déjà dire *I am eating*.\n\nCes expressions peuvent aussi se conjuguer au passé : [fr]Je **venais de** sortir quand il a appelé.[/fr]",
+  "exemples": [
+    {
+      "fr": "Je viens de recevoir ton message.",
+      "en": "I’ve just received your message."
+    },
+    {
+      "fr": "Ne le dérange pas, il est en train de travailler.",
+      "en": "Don’t disturb him, he’s working right now."
+    },
+    {
+      "fr": "Nous allons commander dans cinq minutes.",
+      "en": "We’re going to order in five minutes."
+    },
+    {
+      "fr": "Elle venait de partir quand tu es arrivé.",
+      "en": "She had just left when you arrived."
+    },
+    {
+      "fr": "Qu’est-ce que tu es en train de faire ?",
+      "en": "What are you doing right now?"
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle expression convient ?",
+      "items": [
+        {
+          "q": "Le train ___ de partir. Il n’est plus là.",
+          "options": [
+            "vient",
+            "va",
+            "est en train"
+          ],
+          "answer": 0,
+          "why": "Action terminée juste avant → [fr]venir de[/fr]."
+        },
+        {
+          "q": "Chut ! Le bébé ___ de dormir.",
+          "options": [
+            "vient",
+            "va",
+            "est en train"
+          ],
+          "answer": 2,
+          "why": "Action en cours → [fr]être en train de[/fr]."
+        },
+        {
+          "q": "Attends deux minutes, je ___ partir.",
+          "options": [
+            "viens de",
+            "vais",
+            "suis en train de"
+          ],
+          "answer": 1,
+          "why": "Action imminente → futur proche."
+        },
+        {
+          "q": "Comment dire « I’ve just woken up » ?",
+          "options": [
+            "Je viens de me réveiller.",
+            "Je vais me réveiller.",
+            "Je suis en train de me réveiller."
+          ],
+          "answer": 0,
+          "why": "[fr]venir de[/fr] + infinitif ; le pronom se place devant l’infinitif."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe la phrase française à son sens.",
+      "labelLeft": "Français",
+      "labelRight": "Anglais",
+      "pairs": [
+        [
+          "Je viens de manger.",
+          "I’ve just eaten."
+        ],
+        [
+          "Je suis en train de manger.",
+          "I’m eating right now."
+        ],
+        [
+          "Je vais manger.",
+          "I’m going to eat."
+        ],
+        [
+          "Je venais de manger.",
+          "I had just eaten."
+        ]
+      ]
+    }
+  ]
+}

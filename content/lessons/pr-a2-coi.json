@@ -1,0 +1,167 @@
+{
+  "id": "pr-a2-coi",
+  "group": "pronoms",
+  "level": "A2",
+  "order": 220,
+  "title": "Les pronoms COI",
+  "summary": "Lui, leur : quand le verbe passe par « à » avant d’atteindre la personne.",
+  "essentiel": [
+    "[fr]me, te, **lui**, nous, vous, **leur**[/fr] — pour les personnes introduites par [fr]à[/fr].",
+    "[fr]lui[/fr] = *to him* **et** *to her*. [fr]leur[/fr] = *to them*, sans **s**.",
+    "Le participe passé **ne s’accorde jamais** avec un COI."
+  ],
+  "regle": "Le **complément d’objet indirect** répond à la question **à qui ?**\n\n[fr]Je téléphone **à Marie**.[/fr] → [fr]Je **lui** téléphone.[/fr]\n[fr]Je parle **à mes parents**.[/fr] → [fr]Je **leur** parle.[/fr]\n\nAux trois premières personnes, COD et COI ont les mêmes formes ([fr]me, te, nous, vous[/fr]). La différence n’apparaît qu’à la 3e personne : [fr]le/la/les[/fr] contre [fr]lui/leur[/fr].\n\n**Les verbes qui demandent [fr]à[/fr].** Il faut les repérer, car l’anglais ne met souvent pas de préposition :\n[fr]parler à · téléphoner à · écrire à · répondre à · demander à · dire à · offrir à · donner à · envoyer à · plaire à · ressembler à · sourire à[/fr]\n\n[fr]Je **lui** ai téléphoné.[/fr] ((I phoned him/her — no *to* in English))\n\n**Attention à [fr]leur[/fr].** Le pronom COI [fr]leur[/fr] ne prend jamais de [fr]s[/fr]. C’est l’adjectif possessif qui varie : [fr]leur**s** amis[/fr].",
+  "exemples": [
+    {
+      "fr": "Je lui ai envoyé un message.",
+      "en": "I sent him/her a message."
+    },
+    {
+      "fr": "Tu leur as dit la vérité ?",
+      "en": "Did you tell them the truth?"
+    },
+    {
+      "fr": "Cette veste te va très bien.",
+      "en": "That jacket suits you very well."
+    },
+    {
+      "fr": "Elle ne nous répond jamais.",
+      "en": "She never answers us."
+    },
+    {
+      "fr": "Ce film m’a beaucoup plu.",
+      "en": "I liked that film a lot."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "COD ou COI ? Le partage",
+      "collapsed": false,
+      "headers": [
+        "",
+        "COD (sans préposition)",
+        "COI (avec « à »)"
+      ],
+      "rows": [
+        [
+          "3e sing.",
+          "le / la",
+          "lui"
+        ],
+        [
+          "3e plur.",
+          "les",
+          "leur"
+        ],
+        [
+          "exemple",
+          "Je **la** vois.",
+          "Je **lui** parle."
+        ],
+        [
+          "accord du participe",
+          "oui, si placé avant",
+          "jamais"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "🔁",
+    "title": "Les verbes qui changent de construction",
+    "text": "[fr]aider quelqu’un[/fr] (COD) mais [fr]téléphoner à quelqu’un[/fr] (COI). En anglais, *help* et *phone* fonctionnent pareil. Il faut donc apprendre la préposition **avec** le verbe, comme un bloc."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "COD ou COI ?",
+      "items": [
+        {
+          "q": "Je téléphone à Julie. → Je ___ téléphone.",
+          "options": [
+            "la",
+            "lui",
+            "les"
+          ],
+          "answer": 1,
+          "why": "[fr]téléphoner à[/fr] → COI."
+        },
+        {
+          "q": "Je vois Julie. → Je ___ vois.",
+          "options": [
+            "la",
+            "lui",
+            "leur"
+          ],
+          "answer": 0,
+          "why": "[fr]voir[/fr] est direct → COD."
+        },
+        {
+          "q": "J’écris à mes amis. → Je ___ écris.",
+          "options": [
+            "les",
+            "leur",
+            "leurs"
+          ],
+          "answer": 1,
+          "why": "[fr]écrire à[/fr] → COI pluriel [fr]leur[/fr], sans [fr]s[/fr]."
+        },
+        {
+          "q": "J’attends mes amis. → Je ___ attends.",
+          "options": [
+            "les",
+            "leur",
+            "lui"
+          ],
+          "answer": 0,
+          "why": "[fr]attendre[/fr] est direct en français."
+        },
+        {
+          "q": "Il demande à son père. → Il ___ demande.",
+          "options": [
+            "le",
+            "lui",
+            "y"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Elle aide sa sœur. → Elle ___ aide.",
+          "options": [
+            "lui",
+            "l’",
+            "y"
+          ],
+          "answer": 1,
+          "why": "[fr]aider[/fr] est direct : [fr]elle l’aide[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Remplace par le bon pronom.",
+      "items": [
+        {
+          "before": "J’ai offert un livre à ma mère. → Je ",
+          "after": " ai offert un livre.",
+          "answer": "lui"
+        },
+        {
+          "before": "Tu réponds à tes collègues ? → Tu ",
+          "after": " réponds ?",
+          "answer": "leur"
+        },
+        {
+          "before": "Elle regarde les enfants. → Elle ",
+          "after": " regarde.",
+          "answer": "les"
+        },
+        {
+          "before": "Nous parlons à la directrice. → Nous ",
+          "after": " parlons.",
+          "answer": "lui"
+        }
+      ]
+    }
+  ]
+}

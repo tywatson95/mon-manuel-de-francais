@@ -1,0 +1,159 @@
+{
+  "id": "cm-b1-se-plaindre",
+  "group": "communication",
+  "level": "B1",
+  "order": 310,
+  "title": "Se plaindre et régler un problème",
+  "summary": "Exposer, demander réparation, monter le ton sans être agressif.",
+  "essentiel": [
+    "La séquence : **exposer les faits → dire l’effet → demander une solution**.",
+    "Formules d’ouverture : [fr]Je voudrais signaler… · Il y a un problème avec…[/fr]",
+    "Monter d’un cran : [fr]Je souhaite parler au responsable. · Je vais faire une réclamation.[/fr]"
+  ],
+  "regle": "En France, se plaindre est un droit exercé sans gêne — mais la forme compte. Un client agressif obtient moins qu’un client ferme et poli.\n\n**1 · Exposer les faits, calmement.**\n[fr]Je voudrais signaler un problème. · J’ai commandé X et j’ai reçu Y. · L’article est arrivé endommagé. · Cela fait deux semaines que j’attends.[/fr]\n\n**2 · Dire l’effet, sans dramatiser.**\n[fr]C’est très gênant pour moi. · Cela me met dans une situation difficile. · Je suis très déçu.[/fr]\n\n**3 · Demander une solution — c’est le point clé.**\n[fr]Qu’est-ce que vous pouvez faire ? · Je voudrais un remboursement. · Serait-il possible d’obtenir un geste commercial ?[/fr]\n\n**4 · Monter d’un cran si besoin.**\n[fr]Je souhaite parler au responsable. · J’aimerais que ce soit réglé aujourd’hui. · Sinon, je serai obligé de faire une réclamation écrite.[/fr]\n\n**Les mots utiles.** [fr]une réclamation · un remboursement · un dédommagement · un geste commercial · un défaut · un litige · le service client[/fr]\n\n**Ce qu’il vaut mieux éviter.** Tutoyer, hausser la voix, ou attaquer la personne. [fr]Ce n’est pas votre faute, je le sais, mais…[/fr] est une phrase qui ouvre beaucoup de portes.",
+  "exemples": [
+    {
+      "fr": "Bonjour, je voudrais signaler un problème avec ma commande.",
+      "en": "Hello, I’d like to report a problem with my order."
+    },
+    {
+      "fr": "J’ai reçu l’article endommagé, voici les photos.",
+      "en": "I received the item damaged, here are the photos."
+    },
+    {
+      "fr": "Cela fait trois semaines que j’attends une réponse.",
+      "en": "I’ve been waiting three weeks for a reply."
+    },
+    {
+      "fr": "Je comprends que ce n’est pas votre faute, mais j’aimerais une solution.",
+      "en": "I understand it isn’t your fault, but I’d like a solution."
+    },
+    {
+      "fr": "Si rien ne bouge, je ferai une réclamation écrite.",
+      "en": "If nothing happens, I will make a written complaint."
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : au service client",
+    "lines": [
+      {
+        "who": "Client",
+        "fr": "Bonjour, j’ai un problème avec une commande passée le 3.",
+        "en": "Hello, I have a problem with an order placed on the 3rd."
+      },
+      {
+        "who": "Agent",
+        "fr": "Je vous écoute. Vous avez le numéro de commande ?",
+        "en": "Go ahead. Do you have the order number?"
+      },
+      {
+        "who": "Client",
+        "fr": "Oui, le 88240. Le colis est arrivé ouvert et il manque un article.",
+        "en": "Yes, 88240. The parcel arrived open and one item is missing."
+      },
+      {
+        "who": "Agent",
+        "fr": "Je suis désolé. Je vais ouvrir un dossier.",
+        "en": "I’m sorry. I’ll open a case."
+      },
+      {
+        "who": "Client",
+        "fr": "Je comprends que ce n’est pas votre faute. Mais j’aimerais être remboursé de l’article manquant.",
+        "en": "I understand it isn’t your fault. But I’d like a refund for the missing item."
+      },
+      {
+        "who": "Agent",
+        "fr": "C’est noté. Le remboursement sera effectué sous cinq jours.",
+        "en": "Noted. The refund will be processed within five days."
+      }
+    ],
+    "check": {
+      "q": "Quelle phrase du client aide le plus à obtenir gain de cause ?",
+      "options": [
+        "« Je comprends que ce n’est pas votre faute. »",
+        "« Le colis est arrivé ouvert. »",
+        "« Bonjour. »"
+      ],
+      "answer": 0,
+      "why": "Elle désamorce le conflit et garde l’agent de son côté."
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle formulation est la plus efficace ?",
+      "items": [
+        {
+          "q": "Le produit est cassé. Tu dis :",
+          "options": [
+            "C’est n’importe quoi !",
+            "L’article est arrivé endommagé, je voudrais un échange.",
+            "Vous êtes incompétents."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Tu veux ton argent :",
+          "options": [
+            "un remboursement",
+            "un échange",
+            "une réduction"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "On ne t’aide pas. Tu montes d’un cran :",
+          "options": [
+            "Je souhaite parler au responsable.",
+            "Je m’en vais.",
+            "Ce n’est pas grave."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Un geste commercial » signifie…",
+          "options": [
+            "un remboursement complet",
+            "un dédommagement ou une réduction",
+            "une lettre d’excuses"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets la réclamation dans l’ordre logique.",
+      "items": [
+        {
+          "tokens": [
+            "Je",
+            "voudrais",
+            "signaler",
+            "un",
+            "problème"
+          ],
+          "answer": "Je voudrais signaler un problème"
+        },
+        {
+          "tokens": [
+            "L’article",
+            "est",
+            "arrivé",
+            "endommagé"
+          ],
+          "answer": "L’article est arrivé endommagé"
+        },
+        {
+          "tokens": [
+            "Je",
+            "souhaiterais",
+            "un",
+            "remboursement"
+          ],
+          "answer": "Je souhaiterais un remboursement"
+        }
+      ]
+    }
+  ]
+}

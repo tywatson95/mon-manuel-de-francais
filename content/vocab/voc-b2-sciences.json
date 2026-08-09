@@ -1,0 +1,248 @@
+{
+  "id": "voc-b2-sciences",
+  "title": "Sciences & technologies",
+  "level": "B2",
+  "order": 550,
+  "summary": "Le vocabulaire du progrès et de ses débats.",
+  "items": [
+    {
+      "fr": "la recherche",
+      "ipa": "ʁə.ʃɛʁʃ",
+      "en": "research",
+      "ex": "La recherche fondamentale."
+    },
+    {
+      "fr": "un(e) chercheur(euse)",
+      "ipa": "ʃɛʁ.ʃœʁ",
+      "en": "a researcher",
+      "ex": "Une chercheuse en biologie."
+    },
+    {
+      "fr": "une découverte",
+      "ipa": "de.ku.vɛʁt",
+      "en": "a discovery",
+      "ex": "Une découverte majeure."
+    },
+    {
+      "fr": "une hypothèse",
+      "ipa": "i.pɔ.tɛz",
+      "en": "a hypothesis",
+      "ex": "Vérifier une hypothèse."
+    },
+    {
+      "fr": "une expérience",
+      "ipa": "ɛks.pe.ʁjɑ̃s",
+      "en": "an experiment",
+      "ex": "Une expérience reproductible."
+    },
+    {
+      "fr": "une étude",
+      "ipa": "e.tyd",
+      "en": "a study",
+      "ex": "Une étude publiée dans une revue."
+    },
+    {
+      "fr": "une revue scientifique",
+      "ipa": "ʁə.vy",
+      "en": "a scientific journal",
+      "ex": "Publier dans une revue à comité de lecture."
+    },
+    {
+      "fr": "un protocole",
+      "ipa": "pʁɔ.tɔ.kɔl",
+      "en": "a protocol",
+      "ex": "Un protocole rigoureux."
+    },
+    {
+      "fr": "une donnée",
+      "ipa": "dɔ.ne",
+      "en": "a piece of data",
+      "ex": "Des données fiables."
+    },
+    {
+      "fr": "un échantillon",
+      "ipa": "e.ʃɑ̃.ti.jɔ̃",
+      "en": "a sample",
+      "ex": "Un échantillon représentatif."
+    },
+    {
+      "fr": "un résultat",
+      "ipa": "ʁe.zyl.ta",
+      "en": "a result",
+      "ex": "Des résultats prometteurs."
+    },
+    {
+      "fr": "une avancée",
+      "ipa": "a.vɑ̃.se",
+      "en": "a breakthrough",
+      "ex": "Une avancée décisive."
+    },
+    {
+      "fr": "une innovation",
+      "ipa": "i.nɔ.va.sjɔ̃",
+      "en": "an innovation",
+      "ex": "Une innovation de rupture."
+    },
+    {
+      "fr": "un brevet",
+      "ipa": "bʁə.vɛ",
+      "en": "a patent",
+      "ex": "Déposer un brevet."
+    },
+    {
+      "fr": "la biotechnologie",
+      "ipa": "bjo.tɛk.nɔ.lɔ.ʒi",
+      "en": "biotechnology",
+      "ex": "Les biotechnologies progressent."
+    },
+    {
+      "fr": "le génome",
+      "ipa": "ʒe.nom",
+      "en": "the genome",
+      "ex": "Le séquençage du génome."
+    },
+    {
+      "fr": "une cellule",
+      "ipa": "se.lyl",
+      "en": "a cell",
+      "ex": "Des cellules souches."
+    },
+    {
+      "fr": "un vaccin",
+      "ipa": "vak.sɛ̃",
+      "en": "a vaccine",
+      "ex": "Un vaccin à ARN messager."
+    },
+    {
+      "fr": "l’intelligence artificielle",
+      "ipa": "ɛ̃.te.li.ʒɑ̃s",
+      "en": "artificial intelligence",
+      "ex": "L’intelligence artificielle transforme les métiers."
+    },
+    {
+      "fr": "un algorithme",
+      "ipa": "al.ɡɔ.ʁitm",
+      "en": "an algorithm",
+      "ex": "Un algorithme opaque."
+    },
+    {
+      "fr": "la robotique",
+      "ipa": "ʁɔ.bɔ.tik",
+      "en": "robotics",
+      "ex": "La robotique industrielle."
+    },
+    {
+      "fr": "l’automatisation (f)",
+      "ipa": "ɔ.tɔ.ma.ti.za.sjɔ̃",
+      "en": "automation",
+      "ex": "L’automatisation des tâches."
+    },
+    {
+      "fr": "l’espace (m)",
+      "ipa": "ɛs.pas",
+      "en": "space",
+      "ex": "La conquête de l’espace."
+    },
+    {
+      "fr": "un satellite",
+      "ipa": "sa.te.lit",
+      "en": "a satellite",
+      "ex": "Un satellite d’observation."
+    },
+    {
+      "fr": "une sonde",
+      "ipa": "sɔ̃d",
+      "en": "a probe",
+      "ex": "Une sonde martienne."
+    },
+    {
+      "fr": "l’éthique (f)",
+      "ipa": "e.tik",
+      "en": "ethics",
+      "ex": "Un comité d’éthique."
+    },
+    {
+      "fr": "un enjeu",
+      "ipa": "ɑ̃.ʒø",
+      "en": "a stake, an issue",
+      "ex": "Un enjeu considérable."
+    },
+    {
+      "fr": "un risque",
+      "ipa": "ʁisk",
+      "en": "a risk",
+      "ex": "Évaluer les risques."
+    },
+    {
+      "fr": "le principe de précaution",
+      "ipa": "pʁe.ko.sjɔ̃",
+      "en": "the precautionary principle",
+      "ex": "Appliquer le principe de précaution."
+    },
+    {
+      "fr": "une controverse",
+      "ipa": "kɔ̃.tʁɔ.vɛʁs",
+      "en": "a controversy",
+      "ex": "Une controverse scientifique."
+    },
+    {
+      "fr": "la vulgarisation",
+      "ipa": "vyl.ɡa.ʁi.za.sjɔ̃",
+      "en": "popularisation",
+      "ex": "La vulgarisation scientifique."
+    },
+    {
+      "fr": "prouver",
+      "ipa": "pʁu.ve",
+      "en": "to prove",
+      "ex": "Rien n’est encore prouvé."
+    },
+    {
+      "fr": "réfuter",
+      "ipa": "ʁe.fy.te",
+      "en": "to refute",
+      "ex": "Ces travaux réfutent la thèse."
+    },
+    {
+      "fr": "valider",
+      "ipa": "va.li.de",
+      "en": "to validate",
+      "ex": "Les résultats ont été validés."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "« Le principe de précaution » consiste à…",
+          "options": [
+            "agir même sans certitude du danger",
+            "attendre les preuves",
+            "ignorer les risques"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Un échantillon représentatif » doit…",
+          "options": [
+            "être le plus grand possible",
+            "refléter la population étudiée",
+            "être choisi au hasard total"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Réfuter » signifie…",
+          "options": [
+            "confirmer",
+            "démontrer la fausseté",
+            "ignorer"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

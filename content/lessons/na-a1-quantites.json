@@ -1,0 +1,105 @@
+{
+  "id": "na-a1-quantites",
+  "group": "noms-adjectifs",
+  "level": "A1",
+  "order": 170,
+  "title": "Les expressions de quantité",
+  "summary": "Beaucoup de, un peu de, assez de — et toujours « de » tout seul.",
+  "essentiel": [
+    "Après une quantité, on met **de** seul, sans article : [fr]beaucoup **de** pain[/fr].",
+    "[fr]beaucoup de[/fr] ((a lot)) · [fr]un peu de[/fr] ((a little)) · [fr]assez de[/fr] ((enough)) · [fr]trop de[/fr] ((too much)).",
+    "Devant une voyelle : [fr]d’[/fr] — [fr]beaucoup **d’**eau[/fr]."
+  ],
+  "regle": "Toutes les expressions de quantité fonctionnent pareil : **quantité + de + nom**, sans article.\n\n[fr]beaucoup **de** monde[/fr] — jamais « beaucoup du monde ».\n\n**Les principales.**\n[fr]beaucoup de[/fr] · [fr]peu de[/fr] · [fr]un peu de[/fr] · [fr]assez de[/fr] · [fr]trop de[/fr] · [fr]plus de[/fr] · [fr]moins de[/fr] · [fr]autant de[/fr]\n\n**Les contenants et les mesures** suivent la même règle :\n[fr]un verre **d’**eau · une bouteille **de** vin · un kilo **de** tomates · une tranche **de** jambon · un morceau **de** fromage · une boîte **de** conserve[/fr]\n\n**[fr]un peu de[/fr] ou [fr]peu de[/fr] ?** Attention, le sens est opposé.\n[fr]J’ai **un peu de** temps.[/fr] ((a little — positive))\n[fr]J’ai **peu de** temps.[/fr] ((little — negative))\n\n**Exception : [fr]bien des[/fr] et [fr]la plupart des[/fr]** gardent l’article : [fr]la plupart **des** gens[/fr].",
+  "exemples": [
+    {
+      "fr": "Il y a beaucoup de monde aujourd’hui.",
+      "en": "There are a lot of people today."
+    },
+    {
+      "fr": "Je voudrais un kilo de pommes.",
+      "en": "I’d like a kilo of apples."
+    },
+    {
+      "fr": "Nous avons assez de temps.",
+      "en": "We have enough time."
+    },
+    {
+      "fr": "Elle boit trop de café.",
+      "en": "She drinks too much coffee."
+    },
+    {
+      "fr": "La plupart des étudiants sont arrivés.",
+      "en": "Most of the students have arrived."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Complète avec « de », « d’ » ou un article.",
+      "items": [
+        {
+          "before": "Il y a beaucoup ",
+          "after": " bruit ici.",
+          "answer": "de"
+        },
+        {
+          "before": "Je voudrais une bouteille ",
+          "after": " eau.",
+          "answer": "d’"
+        },
+        {
+          "before": "Nous n’avons pas assez ",
+          "after": " places.",
+          "answer": "de"
+        },
+        {
+          "before": "La plupart ",
+          "after": " gens sont d’accord.",
+          "answer": "des",
+          "why": "Exception : [fr]la plupart des[/fr] garde l’article."
+        },
+        {
+          "before": "Tu veux un morceau ",
+          "after": " gâteau ?",
+          "answer": "de"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quelle est la différence ?",
+      "items": [
+        {
+          "q": "« J’ai peu d’amis ici » signifie…",
+          "options": [
+            "j’en ai quelques-uns, c’est bien",
+            "je n’en ai presque pas",
+            "j’en ai beaucoup"
+          ],
+          "answer": 1,
+          "why": "[fr]peu de[/fr] est négatif."
+        },
+        {
+          "q": "« J’ai un peu de temps » signifie…",
+          "options": [
+            "j’ai un petit moment",
+            "je n’ai pas le temps",
+            "j’ai tout mon temps"
+          ],
+          "answer": 0,
+          "why": "[fr]un peu de[/fr] est positif."
+        },
+        {
+          "q": "Choisis la phrase correcte.",
+          "options": [
+            "beaucoup du travail",
+            "beaucoup de travail",
+            "beaucoup le travail"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "cm-b1-lettre-formelle",
+  "group": "communication",
+  "level": "B1",
+  "order": 330,
+  "title": "Écrire une lettre formelle",
+  "summary": "La structure attendue, du destinataire à la formule finale.",
+  "essentiel": [
+    "Structure : **coordonnées → objet → appel → corps → formule → signature**.",
+    "Appel : [fr]Madame, Monsieur,[/fr] ((inconnu)) — jamais [fr]Cher Monsieur[/fr] si on ne le connaît pas.",
+    "Formule finale : [fr]Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.[/fr]"
+  ],
+  "regle": "La lettre formelle française suit un rituel précis. S’en écarter fait mauvais effet.\n\n**1 · En haut à gauche** : vos coordonnées. **À droite** : celles du destinataire, puis le lieu et la date : [fr]Paris, le 9 août 2026[/fr].\n\n**2 · L’objet.** Une ligne, sans verbe : [fr]Objet : demande de remboursement[/fr].\n\n**3 · L’appel.** [fr]Madame, Monsieur,[/fr] si vous ne connaissez pas la personne ; [fr]Madame la Directrice,[/fr] si vous connaissez la fonction. On ne met **pas** le nom de famille dans l’appel.\n\n**4 · Le corps.** Trois paragraphes suffisent :\n- *pourquoi j’écris* — [fr]Je me permets de vous écrire au sujet de… · Suite à…[/fr]\n- *les faits* — précis, datés, factuels\n- *ce que je demande* — [fr]Je vous saurais gré de… · Je vous demande de bien vouloir…[/fr]\n\n**5 · La formule finale.** Elle **reprend obligatoirement l’appel**.\n[fr]Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.[/fr]\nVariante plus courte, de plus en plus admise : [fr]Veuillez recevoir, Madame, Monsieur, mes salutations distinguées.[/fr]\n\n**6 · Signature** manuscrite, puis nom en clair.\n\n**Le registre.** On utilise [fr]vous[/fr], on évite les tournures familières, et on préfère [fr]je souhaiterais[/fr] à [fr]je veux[/fr].",
+  "exemples": [
+    {
+      "fr": "Objet : demande de remboursement",
+      "en": "Subject: request for a refund"
+    },
+    {
+      "fr": "Madame, Monsieur,",
+      "en": "Dear Sir or Madam,"
+    },
+    {
+      "fr": "Je me permets de vous écrire au sujet de la commande n° 4521.",
+      "en": "I am writing to you regarding order no. 4521."
+    },
+    {
+      "fr": "Je vous saurais gré de bien vouloir procéder au remboursement.",
+      "en": "I would be grateful if you would issue the refund."
+    },
+    {
+      "fr": "Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.",
+      "en": "Yours faithfully."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Formel ou courant ?",
+      "collapsed": false,
+      "headers": [
+        "Courant",
+        "Formel"
+      ],
+      "rows": [
+        [
+          "Je veux",
+          "Je souhaiterais"
+        ],
+        [
+          "Je vous écris parce que",
+          "Je me permets de vous écrire au sujet de"
+        ],
+        [
+          "Envoyez-moi",
+          "Je vous saurais gré de bien vouloir m’adresser"
+        ],
+        [
+          "Merci",
+          "Je vous remercie par avance"
+        ],
+        [
+          "Cordialement",
+          "Je vous prie d’agréer… mes salutations distinguées"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "📮",
+    "title": "Pourquoi ces formules si longues",
+    "text": "Elles viennent du courrier administratif du XIXᵉ siècle et survivent parce qu’elles sont un signal : « je connais les codes ». Un dossier accompagné d’une lettre correctement formulée est souvent pris plus au sérieux."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la formulation correcte.",
+      "items": [
+        {
+          "q": "Appel à un destinataire inconnu :",
+          "options": [
+            "Cher Monsieur Dupont,",
+            "Madame, Monsieur,",
+            "Salut,"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Formule finale d’une lettre officielle :",
+          "options": [
+            "Bises,",
+            "Cordialement,",
+            "Je vous prie d’agréer… mes salutations distinguées."
+          ],
+          "answer": 2
+        },
+        {
+          "q": "Version formelle de « Je veux un remboursement » :",
+          "options": [
+            "Je souhaiterais obtenir un remboursement.",
+            "Je veux mon argent.",
+            "Remboursez-moi."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "L’objet d’une lettre doit être…",
+          "options": [
+            "une phrase complète",
+            "un groupe nominal court",
+            "une question"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets les éléments dans l’ordre.",
+      "items": [
+        {
+          "tokens": [
+            "Objet",
+            ":",
+            "demande",
+            "de",
+            "remboursement"
+          ],
+          "answer": "Objet : demande de remboursement"
+        },
+        {
+          "tokens": [
+            "Je",
+            "me",
+            "permets",
+            "de",
+            "vous",
+            "écrire",
+            "au",
+            "sujet",
+            "de",
+            "ma",
+            "commande"
+          ],
+          "answer": "Je me permets de vous écrire au sujet de ma commande"
+        }
+      ]
+    }
+  ]
+}

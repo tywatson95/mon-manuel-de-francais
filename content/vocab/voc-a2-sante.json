@@ -1,0 +1,305 @@
+{
+  "id": "voc-a2-sante",
+  "title": "Santé & le corps",
+  "level": "A2",
+  "order": 230,
+  "summary": "Le corps, les symptômes et les soins.",
+  "items": [
+    {
+      "fr": "le corps",
+      "ipa": "kɔʁ",
+      "en": "the body",
+      "ex": "Tout le corps me fait mal."
+    },
+    {
+      "fr": "la tête",
+      "ipa": "tɛt",
+      "en": "the head",
+      "ex": "J’ai mal à la tête."
+    },
+    {
+      "fr": "le visage",
+      "ipa": "vi.zaʒ",
+      "en": "the face",
+      "ex": "Elle a le visage pâle."
+    },
+    {
+      "fr": "un œil, les yeux",
+      "ipa": "œj, jø",
+      "en": "an eye, eyes",
+      "ex": "J’ai mal aux yeux."
+    },
+    {
+      "fr": "le nez",
+      "ipa": "ne",
+      "en": "the nose",
+      "ex": "J’ai le nez bouché."
+    },
+    {
+      "fr": "la bouche",
+      "ipa": "buʃ",
+      "en": "the mouth",
+      "ex": "Ouvrez la bouche."
+    },
+    {
+      "fr": "une dent",
+      "ipa": "dɑ̃",
+      "en": "a tooth",
+      "ex": "J’ai mal aux dents."
+    },
+    {
+      "fr": "l’oreille (f)",
+      "ipa": "ɔ.ʁɛj",
+      "en": "the ear",
+      "ex": "J’ai mal à l’oreille."
+    },
+    {
+      "fr": "la gorge",
+      "ipa": "ɡɔʁʒ",
+      "en": "the throat",
+      "ex": "J’ai mal à la gorge."
+    },
+    {
+      "fr": "le cou",
+      "ipa": "ku",
+      "en": "the neck",
+      "ex": "Le cou est raide."
+    },
+    {
+      "fr": "l’épaule (f)",
+      "ipa": "e.pol",
+      "en": "the shoulder",
+      "ex": "Il a mal à l’épaule."
+    },
+    {
+      "fr": "le bras",
+      "ipa": "bʁa",
+      "en": "the arm",
+      "ex": "Je me suis cassé le bras."
+    },
+    {
+      "fr": "la main",
+      "ipa": "mɛ̃",
+      "en": "the hand",
+      "ex": "Lave-toi les mains."
+    },
+    {
+      "fr": "un doigt",
+      "ipa": "dwa",
+      "en": "a finger",
+      "ex": "Je me suis coupé le doigt."
+    },
+    {
+      "fr": "le dos",
+      "ipa": "do",
+      "en": "the back",
+      "ex": "J’ai mal au dos."
+    },
+    {
+      "fr": "le ventre",
+      "ipa": "vɑ̃tʁ",
+      "en": "the stomach",
+      "ex": "Il a mal au ventre."
+    },
+    {
+      "fr": "la jambe",
+      "ipa": "ʒɑ̃b",
+      "en": "the leg",
+      "ex": "Sa jambe est cassée."
+    },
+    {
+      "fr": "le genou",
+      "ipa": "ʒə.nu",
+      "en": "the knee",
+      "ex": "Mon genou me fait souffrir."
+    },
+    {
+      "fr": "le pied",
+      "ipa": "pje",
+      "en": "the foot",
+      "ex": "J’ai mal aux pieds."
+    },
+    {
+      "fr": "le cœur",
+      "ipa": "kœʁ",
+      "en": "the heart",
+      "ex": "Le cœur bat vite."
+    },
+    {
+      "fr": "être malade",
+      "ipa": "ma.lad",
+      "en": "to be ill",
+      "ex": "Je suis malade depuis hier."
+    },
+    {
+      "fr": "la fièvre",
+      "ipa": "fjɛvʁ",
+      "en": "fever",
+      "ex": "J’ai de la fièvre."
+    },
+    {
+      "fr": "tousser",
+      "ipa": "tu.se",
+      "en": "to cough",
+      "ex": "Il tousse beaucoup."
+    },
+    {
+      "fr": "un rhume",
+      "ipa": "ʁym",
+      "en": "a cold",
+      "ex": "J’ai attrapé un rhume."
+    },
+    {
+      "fr": "la grippe",
+      "ipa": "ɡʁip",
+      "en": "the flu",
+      "ex": "Elle a la grippe."
+    },
+    {
+      "fr": "une blessure",
+      "ipa": "ble.syʁ",
+      "en": "an injury",
+      "ex": "Une blessure au genou."
+    },
+    {
+      "fr": "se blesser",
+      "ipa": "sə ble.se",
+      "en": "to get injured",
+      "ex": "Il s’est blessé au football."
+    },
+    {
+      "fr": "une ordonnance",
+      "ipa": "ɔʁ.dɔ.nɑ̃s",
+      "en": "a prescription",
+      "ex": "Voici votre ordonnance."
+    },
+    {
+      "fr": "un médicament",
+      "ipa": "me.di.ka.mɑ̃",
+      "en": "a medicine",
+      "ex": "Prenez ce médicament deux fois par jour."
+    },
+    {
+      "fr": "un comprimé",
+      "ipa": "kɔ̃.pʁi.me",
+      "en": "a tablet",
+      "ex": "Un comprimé après le repas."
+    },
+    {
+      "fr": "une piqûre",
+      "ipa": "pi.kyʁ",
+      "en": "an injection, a sting",
+      "ex": "Une piqûre de moustique."
+    },
+    {
+      "fr": "un rendez-vous",
+      "ipa": "ʁɑ̃.de.vu",
+      "en": "an appointment",
+      "ex": "J’ai un rendez-vous chez le médecin."
+    },
+    {
+      "fr": "une consultation",
+      "ipa": "kɔ̃.syl.ta.sjɔ̃",
+      "en": "a consultation",
+      "ex": "La consultation coûte 25 euros."
+    },
+    {
+      "fr": "la Sécurité sociale",
+      "ipa": "se.ky.ʁi.te",
+      "en": "the health service",
+      "ex": "La Sécu rembourse une partie."
+    },
+    {
+      "fr": "une mutuelle",
+      "ipa": "my.tɥɛl",
+      "en": "a top-up health insurance",
+      "ex": "Ma mutuelle rembourse le reste."
+    },
+    {
+      "fr": "les urgences (f)",
+      "ipa": "yʁ.ʒɑ̃s",
+      "en": "A&E",
+      "ex": "Il est aux urgences."
+    },
+    {
+      "fr": "guérir",
+      "ipa": "ɡe.ʁiʁ",
+      "en": "to recover",
+      "ex": "Il a guéri très vite."
+    },
+    {
+      "fr": "se sentir bien / mal",
+      "ipa": "sə sɑ̃.tiʁ",
+      "en": "to feel well / unwell",
+      "ex": "Je ne me sens pas bien."
+    },
+    {
+      "fr": "fatigué(e)",
+      "ipa": "fa.ti.ɡe",
+      "en": "tired",
+      "ex": "Je suis très fatigué."
+    },
+    {
+      "fr": "en bonne santé",
+      "ipa": "bɔn sɑ̃.te",
+      "en": "in good health",
+      "ex": "Il est en bonne santé."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Complète avec à la, au, à l’ ou aux.",
+      "items": [
+        {
+          "before": "J’ai mal ",
+          "after": " gorge.",
+          "answer": "à la"
+        },
+        {
+          "before": "Elle a mal ",
+          "after": " dos.",
+          "answer": "au"
+        },
+        {
+          "before": "Il a mal ",
+          "after": " yeux.",
+          "answer": "aux"
+        },
+        {
+          "before": "Tu as mal ",
+          "after": " oreille ?",
+          "answer": "à l’"
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe la partie du corps.",
+      "labelLeft": "Français",
+      "labelRight": "Anglais",
+      "pairs": [
+        [
+          "le genou",
+          "the knee"
+        ],
+        [
+          "l’épaule",
+          "the shoulder"
+        ],
+        [
+          "le ventre",
+          "the stomach"
+        ],
+        [
+          "le cou",
+          "the neck"
+        ],
+        [
+          "un doigt",
+          "a finger"
+        ]
+      ]
+    }
+  ]
+}

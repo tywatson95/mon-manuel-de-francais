@@ -1,0 +1,269 @@
+{
+  "id": "voc-a2-fetes",
+  "title": "Fêtes & célébrations",
+  "level": "A2",
+  "order": 300,
+  "summary": "Le calendrier festif français.",
+  "items": [
+    {
+      "fr": "une fête",
+      "ipa": "fɛt",
+      "en": "a celebration, a party",
+      "ex": "On organise une fête."
+    },
+    {
+      "fr": "un anniversaire",
+      "ipa": "a.ni.vɛʁ.sɛʁ",
+      "en": "a birthday",
+      "ex": "C’est mon anniversaire demain."
+    },
+    {
+      "fr": "Noël",
+      "ipa": "nɔ.ɛl",
+      "en": "Christmas",
+      "ex": "On fête Noël en famille."
+    },
+    {
+      "fr": "le réveillon",
+      "ipa": "ʁe.vɛ.jɔ̃",
+      "en": "Christmas/New Year’s Eve dinner",
+      "ex": "Le réveillon dure toute la nuit."
+    },
+    {
+      "fr": "le jour de l’An",
+      "ipa": "ʒuʁ də lɑ̃",
+      "en": "New Year’s Day",
+      "ex": "Bonne année !"
+    },
+    {
+      "fr": "Pâques",
+      "ipa": "pɑk",
+      "en": "Easter",
+      "ex": "Les enfants cherchent les œufs de Pâques."
+    },
+    {
+      "fr": "la fête nationale",
+      "ipa": "na.sjɔ.nal",
+      "en": "Bastille Day",
+      "ex": "La fête nationale est le 14 juillet."
+    },
+    {
+      "fr": "un feu d’artifice",
+      "ipa": "fø daʁ.ti.fis",
+      "en": "fireworks",
+      "ex": "Le feu d’artifice à 23 h."
+    },
+    {
+      "fr": "un défilé",
+      "ipa": "de.fi.le",
+      "en": "a parade",
+      "ex": "Le défilé du 14 juillet."
+    },
+    {
+      "fr": "la fête de la Musique",
+      "ipa": "my.zik",
+      "en": "the music festival",
+      "ex": "La Fête de la Musique, le 21 juin."
+    },
+    {
+      "fr": "la Toussaint",
+      "ipa": "tu.sɛ̃",
+      "en": "All Saints’ Day",
+      "ex": "La Toussaint, le 1er novembre."
+    },
+    {
+      "fr": "un jour férié",
+      "ipa": "fe.ʁje",
+      "en": "a public holiday",
+      "ex": "Le lundi de Pâques est férié."
+    },
+    {
+      "fr": "un mariage",
+      "ipa": "ma.ʁjaʒ",
+      "en": "a wedding",
+      "ex": "Un mariage à la campagne."
+    },
+    {
+      "fr": "se marier",
+      "ipa": "sə ma.ʁje",
+      "en": "to get married",
+      "ex": "Ils se marient en juin."
+    },
+    {
+      "fr": "un(e) invité(e)",
+      "ipa": "ɛ̃.vi.te",
+      "en": "a guest",
+      "ex": "Il y a cent invités."
+    },
+    {
+      "fr": "une invitation",
+      "ipa": "ɛ̃.vi.ta.sjɔ̃",
+      "en": "an invitation",
+      "ex": "J’ai reçu l’invitation."
+    },
+    {
+      "fr": "un cadeau",
+      "ipa": "ka.do",
+      "en": "a present",
+      "ex": "J’ai apporté un cadeau."
+    },
+    {
+      "fr": "offrir",
+      "ipa": "ɔ.fʁiʁ",
+      "en": "to give (a present)",
+      "ex": "Je lui ai offert un livre."
+    },
+    {
+      "fr": "fêter",
+      "ipa": "fɛ.te",
+      "en": "to celebrate",
+      "ex": "On fête ça ce soir !"
+    },
+    {
+      "fr": "célébrer",
+      "ipa": "se.le.bʁe",
+      "en": "to celebrate",
+      "ex": "Célébrer une victoire."
+    },
+    {
+      "fr": "souhaiter",
+      "ipa": "sw ɛ.te",
+      "en": "to wish",
+      "ex": "Je te souhaite un bon anniversaire."
+    },
+    {
+      "fr": "féliciter",
+      "ipa": "fe.li.si.te",
+      "en": "to congratulate",
+      "ex": "Je te félicite !"
+    },
+    {
+      "fr": "trinquer",
+      "ipa": "tʁɛ̃.ke",
+      "en": "to clink glasses",
+      "ex": "On trinque à ta santé !"
+    },
+    {
+      "fr": "un repas de fête",
+      "ipa": "ʁə.pa",
+      "en": "a festive meal",
+      "ex": "Un grand repas de fête."
+    },
+    {
+      "fr": "la bûche de Noël",
+      "ipa": "byʃ",
+      "en": "the Christmas log cake",
+      "ex": "La bûche est au chocolat."
+    },
+    {
+      "fr": "la galette des Rois",
+      "ipa": "ɡa.lɛt de ʁwa",
+      "en": "Twelfth Night cake",
+      "ex": "La galette des Rois en janvier."
+    },
+    {
+      "fr": "une fève",
+      "ipa": "fɛv",
+      "en": "the charm in the galette",
+      "ex": "J’ai eu la fève !"
+    },
+    {
+      "fr": "un sapin",
+      "ipa": "sa.pɛ̃",
+      "en": "a Christmas tree",
+      "ex": "On décore le sapin."
+    },
+    {
+      "fr": "décorer",
+      "ipa": "de.kɔ.ʁe",
+      "en": "to decorate",
+      "ex": "On décore la maison."
+    },
+    {
+      "fr": "une carte de vœux",
+      "ipa": "vø",
+      "en": "a greetings card",
+      "ex": "J’envoie mes cartes de vœux."
+    },
+    {
+      "fr": "bonne année",
+      "ipa": "bɔ.na.ne",
+      "en": "happy new year",
+      "ex": "Bonne année et bonne santé !"
+    },
+    {
+      "fr": "joyeux anniversaire",
+      "ipa": "ʒwa.jø",
+      "en": "happy birthday",
+      "ex": "Joyeux anniversaire !"
+    },
+    {
+      "fr": "joyeux Noël",
+      "ipa": "ʒwa.jø nɔ.ɛl",
+      "en": "merry Christmas",
+      "ex": "Joyeux Noël à tous !"
+    },
+    {
+      "fr": "un pot",
+      "ipa": "po",
+      "en": "a drinks gathering",
+      "ex": "On fait un pot au bureau."
+    },
+    {
+      "fr": "une soirée",
+      "ipa": "swa.ʁe",
+      "en": "an evening party",
+      "ex": "Une soirée entre amis."
+    },
+    {
+      "fr": "danser",
+      "ipa": "dɑ̃.se",
+      "en": "to dance",
+      "ex": "On a dansé toute la nuit."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quand ?",
+      "items": [
+        {
+          "q": "La fête nationale française est le…",
+          "options": [
+            "1er mai",
+            "14 juillet",
+            "11 novembre"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "La galette des Rois se mange en…",
+          "options": [
+            "janvier",
+            "avril",
+            "décembre"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Bonne année » se dit…",
+          "options": [
+            "à Noël",
+            "le 1er janvier",
+            "à Pâques"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Faire un pot » au bureau signifie…",
+          "options": [
+            "organiser un verre",
+            "faire la vaisselle",
+            "faire une réunion"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

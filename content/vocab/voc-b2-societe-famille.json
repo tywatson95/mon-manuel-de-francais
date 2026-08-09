@@ -1,0 +1,237 @@
+{
+  "id": "voc-b2-societe-famille",
+  "title": "Famille, démographie & mouvements sociaux",
+  "level": "B2",
+  "order": 600,
+  "summary": "Les évolutions de la société française.",
+  "items": [
+    {
+      "fr": "la démographie",
+      "ipa": "de.mo.ɡʁa.fi",
+      "en": "demographics",
+      "ex": "La démographie ralentit."
+    },
+    {
+      "fr": "la natalité",
+      "ipa": "na.ta.li.te",
+      "en": "birth rate",
+      "ex": "La natalité recule."
+    },
+    {
+      "fr": "la fécondité",
+      "ipa": "fe.kɔ̃.di.te",
+      "en": "fertility rate",
+      "ex": "Un taux de fécondité de 1,8."
+    },
+    {
+      "fr": "le vieillissement",
+      "ipa": "vjɛ.jis.mɑ̃",
+      "en": "ageing",
+      "ex": "Le vieillissement de la population."
+    },
+    {
+      "fr": "une génération",
+      "ipa": "ʒe.ne.ʁa.sjɔ̃",
+      "en": "a generation",
+      "ex": "Un conflit de générations."
+    },
+    {
+      "fr": "un foyer",
+      "ipa": "fwa.je",
+      "en": "a household",
+      "ex": "Un foyer sur trois."
+    },
+    {
+      "fr": "une famille monoparentale",
+      "ipa": "mɔ.no.pa.ʁɑ̃.tal",
+      "en": "a single-parent family",
+      "ex": "Les familles monoparentales se multiplient."
+    },
+    {
+      "fr": "une famille recomposée",
+      "ipa": "ʁə.kɔ̃.po.ze",
+      "en": "a blended family",
+      "ex": "Une famille recomposée harmonieuse."
+    },
+    {
+      "fr": "le PACS",
+      "ipa": "paks",
+      "en": "civil partnership",
+      "ex": "Signer un PACS."
+    },
+    {
+      "fr": "le mariage",
+      "ipa": "ma.ʁjaʒ",
+      "en": "marriage",
+      "ex": "Le mariage pour tous depuis 2013."
+    },
+    {
+      "fr": "un divorce",
+      "ipa": "di.vɔʁs",
+      "en": "a divorce",
+      "ex": "Le taux de divorce se stabilise."
+    },
+    {
+      "fr": "la parentalité",
+      "ipa": "pa.ʁɑ̃.ta.li.te",
+      "en": "parenthood",
+      "ex": "Accompagner la parentalité."
+    },
+    {
+      "fr": "un congé parental",
+      "ipa": "kɔ̃.ʒe",
+      "en": "parental leave",
+      "ex": "Un congé parental partagé."
+    },
+    {
+      "fr": "la garde d’enfants",
+      "ipa": "ɡaʁd",
+      "en": "childcare",
+      "ex": "Le coût de la garde d’enfants."
+    },
+    {
+      "fr": "une crèche",
+      "ipa": "kʁɛʃ",
+      "en": "a nursery",
+      "ex": "Les places en crèche manquent."
+    },
+    {
+      "fr": "l’égalité femmes-hommes",
+      "ipa": "e.ɡa.li.te",
+      "en": "gender equality",
+      "ex": "Progresser vers l’égalité femmes-hommes."
+    },
+    {
+      "fr": "une inégalité salariale",
+      "ipa": "sa.la.ʁjal",
+      "en": "a pay gap",
+      "ex": "L’inégalité salariale persiste."
+    },
+    {
+      "fr": "le plafond de verre",
+      "ipa": "pla.fɔ̃",
+      "en": "the glass ceiling",
+      "ex": "Briser le plafond de verre."
+    },
+    {
+      "fr": "une charge mentale",
+      "ipa": "ʃaʁʒ",
+      "en": "mental load",
+      "ex": "La charge mentale des femmes."
+    },
+    {
+      "fr": "un mouvement social",
+      "ipa": "muv.mɑ̃",
+      "en": "a social movement",
+      "ex": "Un vaste mouvement social."
+    },
+    {
+      "fr": "une grève",
+      "ipa": "ɡʁɛv",
+      "en": "a strike",
+      "ex": "Une grève reconductible."
+    },
+    {
+      "fr": "une manifestation",
+      "ipa": "ma.ni.fɛs.ta.sjɔ̃",
+      "en": "a demonstration",
+      "ex": "Une manifestation massive."
+    },
+    {
+      "fr": "un cortège",
+      "ipa": "kɔʁ.tɛʒ",
+      "en": "a march, procession",
+      "ex": "Le cortège a défilé jusqu’à la Bastille."
+    },
+    {
+      "fr": "une revendication",
+      "ipa": "ʁə.vɑ̃.di.ka.sjɔ̃",
+      "en": "a demand",
+      "ex": "Des revendications précises."
+    },
+    {
+      "fr": "un blocage",
+      "ipa": "blɔ.kaʒ",
+      "en": "a blockade",
+      "ex": "Le blocage des raffineries."
+    },
+    {
+      "fr": "une négociation",
+      "ipa": "ne.ɡɔ.sja.sjɔ̃",
+      "en": "a negotiation",
+      "ex": "L’ouverture de négociations."
+    },
+    {
+      "fr": "un accord",
+      "ipa": "a.kɔʁ",
+      "en": "an agreement",
+      "ex": "Un accord a été signé."
+    },
+    {
+      "fr": "une mobilisation",
+      "ipa": "mo.bi.li.za.sjɔ̃",
+      "en": "mobilisation",
+      "ex": "Une forte mobilisation."
+    },
+    {
+      "fr": "la contestation",
+      "ipa": "kɔ̃.tɛs.ta.sjɔ̃",
+      "en": "protest",
+      "ex": "Un climat de contestation."
+    },
+    {
+      "fr": "la solidarité",
+      "ipa": "sɔ.li.da.ʁi.te",
+      "en": "solidarity",
+      "ex": "Une caisse de solidarité."
+    },
+    {
+      "fr": "l’État providence",
+      "ipa": "pʁɔ.vi.dɑ̃s",
+      "en": "the welfare state",
+      "ex": "L’État providence est questionné."
+    },
+    {
+      "fr": "une prestation sociale",
+      "ipa": "pʁɛs.ta.sjɔ̃",
+      "en": "a welfare benefit",
+      "ex": "Le montant des prestations sociales."
+    },
+    {
+      "fr": "le pouvoir d’achat",
+      "ipa": "pu.vwaʁ",
+      "en": "purchasing power",
+      "ex": "Le pouvoir d’achat au cœur du conflit."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe le terme à sa définition.",
+      "labelLeft": "Terme",
+      "labelRight": "Définition",
+      "pairs": [
+        [
+          "le plafond de verre",
+          "les obstacles invisibles à la promotion"
+        ],
+        [
+          "une famille recomposée",
+          "des enfants d’unions différentes"
+        ],
+        [
+          "une grève reconductible",
+          "reconduite jour après jour"
+        ],
+        [
+          "l’État providence",
+          "l’État qui assure la protection sociale"
+        ],
+        [
+          "la charge mentale",
+          "la gestion invisible du quotidien"
+        ]
+      ]
+    }
+  ]
+}

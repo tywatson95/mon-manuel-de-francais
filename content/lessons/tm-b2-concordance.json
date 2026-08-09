@@ -1,0 +1,143 @@
+{
+  "id": "tm-b2-concordance",
+  "group": "temps-modes",
+  "level": "B2",
+  "order": 440,
+  "title": "La concordance des temps",
+  "summary": "Quand la principale recule au passé, la subordonnée recule aussi.",
+  "essentiel": [
+    "Présent → **imparfait** · passé composé → **plus-que-parfait** · futur → **conditionnel présent**.",
+    "Le principe : la subordonnée se règle sur le temps du verbe introducteur.",
+    "Le subjonctif, lui, ne recule pas en français moderne : on garde le présent."
+  ],
+  "regle": "Quand le verbe principal passe au passé, les temps de la subordonnée se décalent mécaniquement.\n\n**Le tableau du décalage.**\n\n[fr]Il dit qu’il **est** malade.[/fr] → [fr]Il a dit qu’il **était** malade.[/fr]\n[fr]Il dit qu’il **a été** malade.[/fr] → [fr]Il a dit qu’il **avait été** malade.[/fr]\n[fr]Il dit qu’il **sera** là.[/fr] → [fr]Il a dit qu’il **serait** là.[/fr]\n[fr]Il dit qu’il **aura fini**.[/fr] → [fr]Il a dit qu’il **aurait fini**.[/fr]\n\n**Ce qui ne bouge pas.**\n- Une vérité générale peut rester au présent : [fr]Galilée a démontré que la Terre **tourne**.[/fr]\n- Le **subjonctif** ne recule plus : le subjonctif imparfait est mort à l’oral. On écrit [fr]Je voulais qu’il **vienne**[/fr], et non [fr]qu’il vînt[/fr].\n\n**Les marqueurs de temps se décalent aussi.**\n[fr]aujourd’hui → ce jour-là · hier → la veille · demain → le lendemain · maintenant → alors · ici → là[/fr]",
+  "exemples": [
+    {
+      "fr": "Elle a expliqué qu’elle travaillait depuis dix ans dans ce secteur.",
+      "en": "She explained that she had been working in that field for ten years."
+    },
+    {
+      "fr": "Il m’a promis qu’il viendrait le lendemain.",
+      "en": "He promised me he would come the next day."
+    },
+    {
+      "fr": "Nous pensions qu’ils étaient déjà partis.",
+      "en": "We thought they had already left."
+    },
+    {
+      "fr": "Le professeur a rappelé que l’eau bout à cent degrés.",
+      "en": "The teacher reminded us that water boils at a hundred degrees."
+    },
+    {
+      "fr": "Je craignais qu’il ne soit trop tard.",
+      "en": "I was afraid it might be too late."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le décalage, temps par temps",
+      "collapsed": false,
+      "headers": [
+        "Discours direct",
+        "Après un verbe au passé"
+      ],
+      "rows": [
+        [
+          "présent",
+          "imparfait"
+        ],
+        [
+          "passé composé",
+          "plus-que-parfait"
+        ],
+        [
+          "imparfait",
+          "imparfait *(inchangé)*"
+        ],
+        [
+          "futur simple",
+          "conditionnel présent"
+        ],
+        [
+          "futur antérieur",
+          "conditionnel passé"
+        ],
+        [
+          "subjonctif présent",
+          "subjonctif présent *(inchangé)*"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Applique la concordance des temps.",
+      "items": [
+        {
+          "before": "Il a dit qu’il ",
+          "after": " fatigué. (être, présent → ?)",
+          "answer": "était"
+        },
+        {
+          "before": "Elle a affirmé qu’elle ",
+          "after": " le dossier la veille. (envoyer)",
+          "answer": "avait envoyé"
+        },
+        {
+          "before": "Ils ont annoncé qu’ils ",
+          "after": " le lendemain. (partir)",
+          "answer": "partiraient",
+          "why": "Futur → conditionnel présent."
+        },
+        {
+          "before": "Je pensais qu’il ",
+          "after": " déjà. (finir)",
+          "answer": "avait déjà fini"
+        },
+        {
+          "before": "Nous voulions qu’elle ",
+          "after": " avec nous. (venir)",
+          "answer": "vienne",
+          "why": "Le subjonctif ne recule pas en français moderne."
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "« Je viendrai demain », a-t-il dit. → Il a dit qu’il ___ le lendemain.",
+          "options": [
+            "viendra",
+            "viendrait",
+            "venait"
+          ],
+          "answer": 1,
+          "why": "Futur → conditionnel présent."
+        },
+        {
+          "q": "« J’ai tout compris », a-t-elle dit. → Elle a dit qu’elle ___ tout compris.",
+          "options": [
+            "a",
+            "avait",
+            "aurait"
+          ],
+          "answer": 1,
+          "why": "Passé composé → plus-que-parfait."
+        },
+        {
+          "q": "Le prof a expliqué que la Terre ___ autour du Soleil.",
+          "options": [
+            "tournait",
+            "tourne",
+            "tournerait"
+          ],
+          "answer": 1,
+          "why": "Vérité générale : le présent peut rester."
+        }
+      ]
+    }
+  ]
+}

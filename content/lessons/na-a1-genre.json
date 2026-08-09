@@ -1,0 +1,224 @@
+{
+  "id": "na-a1-genre",
+  "group": "noms-adjectifs",
+  "level": "A1",
+  "order": 110,
+  "title": "Le genre des noms",
+  "summary": "Masculin ou féminin : les terminaisons qui donnent la réponse dans 80 % des cas.",
+  "essentiel": [
+    "Chaque nom est masculin ([fr]le[/fr]) ou féminin ([fr]la[/fr]) — même les objets.",
+    "Apprends toujours le nom **avec son article** : pas [fr]table[/fr] mais [fr]**une** table[/fr].",
+    "Les terminaisons aident : [fr]-tion, -té, -ette, -ance[/fr] → féminin · [fr]-age, -ment, -eau, -isme[/fr] → masculin."
+  ],
+  "regle": "En français, tout nom a un genre. Il n’y a pas de logique de sens : [fr]le[/fr] soleil est masculin, [fr]la[/fr] lune est féminine ; en allemand c’est l’inverse.\n\nLa bonne stratégie n’est pas de deviner, c’est d’**apprendre l’article avec le mot**. Un mot appris seul est un mot à moitié appris.\n\nCela dit, les terminaisons donnent une indication fiable.\n\n**Presque toujours féminin :** [fr]-tion, -sion[/fr] ((la nation)) · [fr]-té[/fr] ((la liberté)) · [fr]-ette[/fr] ((la fourchette)) · [fr]-ance, -ence[/fr] ((la chance)) · [fr]-ure[/fr] ((la voiture)) · [fr]-ie[/fr] ((la boulangerie))\n\n**Presque toujours masculin :** [fr]-age[/fr] ((le fromage)) · [fr]-ment[/fr] ((le mouvement)) · [fr]-eau[/fr] ((le bureau)) · [fr]-isme[/fr] ((le tourisme)) · [fr]-in[/fr] ((le vin)) · [fr]-oir[/fr] ((le couloir))\n\n**Les exceptions à connaître :** [fr]la page, la plage, la cage, l’image[/fr] ((in -age but feminine)) · [fr]le musée, le lycée[/fr] ((in -ée but masculine)) · [fr]l’eau[/fr] est féminine.\n\n**Personnes.** Souvent, le féminin ajoute un [fr]-e[/fr] : [fr]un ami / une amie[/fr], [fr]un étudiant / une étudiante[/fr]. Parfois la terminaison change : [fr]un acteur / une actrice[/fr], [fr]un serveur / une serveuse[/fr].",
+  "exemples": [
+    {
+      "fr": "Le fromage est sur la table.",
+      "en": "The cheese is on the table."
+    },
+    {
+      "fr": "J’ai une question sur la situation.",
+      "en": "I have a question about the situation."
+    },
+    {
+      "fr": "Le gouvernement a pris une décision.",
+      "en": "The government made a decision."
+    },
+    {
+      "fr": "C’est une étudiante très sérieuse.",
+      "en": "She’s a very serious student."
+    },
+    {
+      "fr": "L’eau est froide.",
+      "en": "The water is cold."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir le tableau des terminaisons",
+      "collapsed": true,
+      "headers": [
+        "Terminaison",
+        "Genre",
+        "Exemple",
+        "Exception"
+      ],
+      "rows": [
+        [
+          "-tion / -sion",
+          "féminin",
+          "la question",
+          "—"
+        ],
+        [
+          "-té",
+          "féminin",
+          "la beauté",
+          "le côté, l’été"
+        ],
+        [
+          "-ette",
+          "féminin",
+          "la baguette",
+          "—"
+        ],
+        [
+          "-ance / -ence",
+          "féminin",
+          "la différence",
+          "le silence"
+        ],
+        [
+          "-ure",
+          "féminin",
+          "la nature",
+          "—"
+        ],
+        [
+          "-ie",
+          "féminin",
+          "la sortie",
+          "—"
+        ],
+        [
+          "-age",
+          "masculin",
+          "le voyage",
+          "la page, la plage, l’image"
+        ],
+        [
+          "-ment",
+          "masculin",
+          "l’appartement",
+          "—"
+        ],
+        [
+          "-eau",
+          "masculin",
+          "le château",
+          "l’eau, la peau"
+        ],
+        [
+          "-isme",
+          "masculin",
+          "le réalisme",
+          "—"
+        ],
+        [
+          "-oir",
+          "masculin",
+          "le miroir",
+          "—"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "📝",
+    "title": "Le mot appris seul est un mot à moitié appris",
+    "text": "Les professeurs français insistent : on n’écrit jamais [fr]table[/fr] dans son carnet, mais [fr]une table[/fr]. Le cerveau retient le bloc sonore [fr]une-table[/fr] beaucoup mieux qu’une règle abstraite."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Le ou la ?",
+      "items": [
+        {
+          "q": "___ télévision",
+          "options": [
+            "le",
+            "la"
+          ],
+          "answer": 1,
+          "why": "[fr]-sion[/fr] → féminin."
+        },
+        {
+          "q": "___ fromage",
+          "options": [
+            "le",
+            "la"
+          ],
+          "answer": 0,
+          "why": "[fr]-age[/fr] → masculin."
+        },
+        {
+          "q": "___ liberté",
+          "options": [
+            "le",
+            "la"
+          ],
+          "answer": 1,
+          "why": "[fr]-té[/fr] → féminin."
+        },
+        {
+          "q": "___ bureau",
+          "options": [
+            "le",
+            "la"
+          ],
+          "answer": 0,
+          "why": "[fr]-eau[/fr] → masculin."
+        },
+        {
+          "q": "___ page",
+          "options": [
+            "le",
+            "la"
+          ],
+          "answer": 1,
+          "why": "Exception : [fr]la page[/fr] malgré [fr]-age[/fr]."
+        },
+        {
+          "q": "___ appartement",
+          "options": [
+            "le",
+            "la"
+          ],
+          "answer": 0,
+          "why": "[fr]-ment[/fr] → masculin."
+        },
+        {
+          "q": "___ eau",
+          "options": [
+            "le",
+            "la"
+          ],
+          "answer": 1,
+          "why": "Exception : [fr]l’eau[/fr] est féminine."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le nom masculin à son féminin.",
+      "labelLeft": "Masculin",
+      "labelRight": "Féminin",
+      "pairs": [
+        [
+          "un ami",
+          "une amie"
+        ],
+        [
+          "un acteur",
+          "une actrice"
+        ],
+        [
+          "un serveur",
+          "une serveuse"
+        ],
+        [
+          "un boulanger",
+          "une boulangère"
+        ],
+        [
+          "un infirmier",
+          "une infirmière"
+        ],
+        [
+          "un directeur",
+          "une directrice"
+        ]
+      ]
+    }
+  ]
+}

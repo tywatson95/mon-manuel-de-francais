@@ -1,0 +1,115 @@
+{
+  "id": "ph-a1-negation",
+  "group": "phrase",
+  "level": "A1",
+  "order": 130,
+  "title": "La négation ne… pas",
+  "summary": "Deux mots qui entourent le verbe — et le « ne » qui disparaît à l’oral.",
+  "essentiel": [
+    "[fr]**ne** + verbe + **pas**[/fr] : [fr]Je **ne** comprends **pas**.[/fr]",
+    "Au passé composé, on entoure **l’auxiliaire** : [fr]Je **n’**ai **pas** compris.[/fr]",
+    "À l’oral rapide, le [fr]ne[/fr] tombe : [fr]Je comprends pas.[/fr] — courant mais familier."
+  ],
+  "regle": "La négation française est en **deux morceaux** qui encadrent le verbe conjugué.\n\n[fr]Je **ne** travaille **pas** le samedi.[/fr]\n\n**Devant une voyelle**, [fr]ne[/fr] devient [fr]n’[/fr] : [fr]Je **n’**aime pas ça.[/fr]\n\n**Au passé composé**, les deux morceaux entourent seulement l’auxiliaire :\n[fr]Je **n’**ai **pas** mangé.[/fr] — jamais « je n’ai mangé pas ».\n\n**Avec deux verbes**, ils entourent le verbe conjugué :\n[fr]Je **ne** veux **pas** partir.[/fr]\n\n**Avec un pronom**, le pronom reste collé au verbe, à l’intérieur :\n[fr]Je **ne le** connais **pas**. · Je **ne me** lève **pas** tôt.[/fr]\n\n**À l’infinitif**, les deux morceaux se suivent devant le verbe :\n[fr]Il m’a demandé de **ne pas** fumer.[/fr]\n\n**N’oublie pas l’article.** Après une négation, [fr]du / de la / des / un / une[/fr] deviennent [fr]de[/fr] : [fr]Je n’ai **pas de** voiture.[/fr]",
+  "exemples": [
+    {
+      "fr": "Je ne parle pas allemand.",
+      "en": "I don’t speak German."
+    },
+    {
+      "fr": "Elle n’est pas venue hier.",
+      "en": "She didn’t come yesterday."
+    },
+    {
+      "fr": "Nous ne voulons pas déranger.",
+      "en": "We don’t want to disturb."
+    },
+    {
+      "fr": "Il ne me téléphone jamais.",
+      "en": "He never phones me."
+    },
+    {
+      "fr": "Prière de ne pas fumer.",
+      "en": "Please do not smoke."
+    }
+  ],
+  "culture": {
+    "icon": "💬",
+    "title": "Le « ne » disparu",
+    "text": "Dans la conversation courante, les Français suppriment presque toujours le [fr]ne[/fr] : [fr]J’sais pas[/fr], [fr]C’est pas grave[/fr]. C’est normal à l’oral, mais à l’écrit — et au DELF — il faut l’écrire."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets la phrase à la forme négative.",
+      "items": [
+        {
+          "before": "Je ",
+          "after": " fume pas.",
+          "answer": "ne"
+        },
+        {
+          "before": "Elle n’",
+          "after": " pas fini son travail. (avoir)",
+          "answer": "a"
+        },
+        {
+          "before": "Nous ne ",
+          "after": " pas d’accord.",
+          "answer": "sommes"
+        },
+        {
+          "before": "Il n’y a pas ",
+          "after": " pain.",
+          "answer": "de",
+          "why": "Après la négation, le partitif devient [fr]de[/fr]."
+        },
+        {
+          "before": "Je ne ",
+          "after": " connais pas. (le)",
+          "answer": "le",
+          "why": "Le pronom reste entre [fr]ne[/fr] et le verbe."
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets la phrase négative dans l’ordre.",
+      "items": [
+        {
+          "tokens": [
+            "Je",
+            "n’ai",
+            "pas",
+            "compris",
+            "la",
+            "question"
+          ],
+          "answer": "Je n’ai pas compris la question"
+        },
+        {
+          "tokens": [
+            "Nous",
+            "ne",
+            "voulons",
+            "pas",
+            "partir",
+            "maintenant"
+          ],
+          "answer": "Nous ne voulons pas partir maintenant"
+        },
+        {
+          "tokens": [
+            "Elle",
+            "ne",
+            "s’est",
+            "pas",
+            "levée",
+            "tôt"
+          ],
+          "answer": "Elle ne s’est pas levée tôt"
+        }
+      ]
+    }
+  ]
+}

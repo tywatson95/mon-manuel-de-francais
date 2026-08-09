@@ -1,0 +1,227 @@
+{
+  "id": "tm-a2-pc-vs-imparfait",
+  "group": "temps-modes",
+  "level": "A2",
+  "order": 240,
+  "title": "Passé composé ou imparfait ?",
+  "summary": "Le décor reste, l’action avance : la distinction qui fait tout basculer.",
+  "essentiel": [
+    "**Imparfait = le décor.** Ce qui durait, se répétait, ou décrivait.",
+    "**Passé composé = l’action.** Ce qui arrive une fois et fait avancer l’histoire.",
+    "Test rapide : si tu peux dire *used to* ou *was ~ing*, c’est l’imparfait."
+  ],
+  "regle": "C’est le point le plus important du niveau A2 — et il ne s’agit pas de temps « passé lointain » ou « passé proche ». Il s’agit du **regard** que l’on porte sur l’action.\n\nImagine un film. L’**imparfait**, c’est l’image fixe : le paysage, la météo, l’état d’esprit. Le **passé composé**, c’est ce qui se produit et qui fait avancer l’intrigue.\n\n[fr]Il **faisait** nuit. La rue **était** vide. Soudain, quelqu’un **a crié**.[/fr]\n\nLes deux temps se rencontrent souvent dans la même phrase : l’imparfait donne la situation, le passé composé apporte l’événement qui la coupe.\n\n[fr]Je **dormais** quand le téléphone **a sonné**.[/fr]\n\n**Les mots qui aident.** Certains marqueurs annoncent presque toujours l’un ou l’autre :\n- imparfait : [fr]souvent, toujours, tous les jours, d’habitude, chaque année, pendant que[/fr]\n- passé composé : [fr]soudain, tout à coup, un jour, hier, une fois, puis[/fr]",
+  "exemples": [
+    {
+      "fr": "Je lisais tranquillement quand on a sonné à la porte.",
+      "en": "I was reading quietly when someone rang the doorbell."
+    },
+    {
+      "fr": "Avant, je fumais ; puis j’ai arrêté.",
+      "en": "I used to smoke; then I stopped."
+    },
+    {
+      "fr": "Il faisait beau, alors nous sommes allés à la plage.",
+      "en": "The weather was nice, so we went to the beach."
+    },
+    {
+      "fr": "Elle était très fatiguée, mais elle a fini son travail.",
+      "en": "She was very tired, but she finished her work."
+    },
+    {
+      "fr": "Quand je suis arrivé, tout le monde dormait déjà.",
+      "en": "When I arrived, everyone was already asleep."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les deux temps face à face",
+      "collapsed": false,
+      "headers": [
+        "Imparfait",
+        "Passé composé"
+      ],
+      "rows": [
+        [
+          "le décor, la situation",
+          "l’événement"
+        ],
+        [
+          "une habitude : *je jouais souvent*",
+          "une fois : *j’ai joué hier*"
+        ],
+        [
+          "une durée sans limite",
+          "une action limitée : *pendant deux heures*"
+        ],
+        [
+          "une description : *il était grand*",
+          "un changement : *il a grandi*"
+        ],
+        [
+          "*was ~ing / used to*",
+          "*did / have done*"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : l’accident évité",
+    "lines": [
+      {
+        "who": "Nadia",
+        "fr": "Tu as l’air fatigué. Qu’est-ce qui s’est passé ?",
+        "en": "You look tired. What happened?"
+      },
+      {
+        "who": "Théo",
+        "fr": "Ce matin, je roulais tranquillement sur le boulevard.",
+        "en": "This morning I was driving quietly along the boulevard."
+      },
+      {
+        "who": "Nadia",
+        "fr": "Et alors ?",
+        "en": "And then?"
+      },
+      {
+        "who": "Théo",
+        "fr": "Il pleuvait beaucoup, la route était glissante. Tout à coup, une voiture a freiné devant moi.",
+        "en": "It was raining hard, the road was slippery. Suddenly a car braked in front of me."
+      },
+      {
+        "who": "Nadia",
+        "fr": "Tu as eu un accident ?",
+        "en": "Did you have an accident?"
+      },
+      {
+        "who": "Théo",
+        "fr": "Non, j’ai réussi à m’arrêter. Mais j’ai eu très peur.",
+        "en": "No, I managed to stop. But I was very scared."
+      }
+    ],
+    "check": {
+      "q": "Pourquoi « il pleuvait » est-il à l’imparfait ?",
+      "options": [
+        "C’est le décor de la scène.",
+        "C’est l’événement principal.",
+        "C’est une habitude."
+      ],
+      "answer": 0,
+      "why": "La pluie décrit la situation ; c’est le freinage qui est l’événement."
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis le bon temps.",
+      "items": [
+        {
+          "q": "Quand j’___ jeune, je faisais du judo.",
+          "options": [
+            "ai été",
+            "étais",
+            "suis"
+          ],
+          "answer": 1,
+          "why": "Une situation qui dure → imparfait."
+        },
+        {
+          "q": "Hier, nous ___ un très bon restaurant.",
+          "options": [
+            "découvrions",
+            "avons découvert",
+            "découvrons"
+          ],
+          "answer": 1,
+          "why": "[fr]Hier[/fr] + événement unique → passé composé."
+        },
+        {
+          "q": "Elle ___ la télé quand je suis entré.",
+          "options": [
+            "a regardé",
+            "regardait",
+            "regarde"
+          ],
+          "answer": 1,
+          "why": "Action en cours interrompue → imparfait."
+        },
+        {
+          "q": "Tous les étés, ils ___ en Bretagne.",
+          "options": [
+            "sont allés",
+            "allaient",
+            "vont"
+          ],
+          "answer": 1,
+          "why": "[fr]Tous les étés[/fr] → habitude → imparfait."
+        },
+        {
+          "q": "Tout à coup, il ___ à pleuvoir.",
+          "options": [
+            "commençait",
+            "a commencé",
+            "commence"
+          ],
+          "answer": 1,
+          "why": "[fr]Tout à coup[/fr] annonce un événement → passé composé."
+        },
+        {
+          "q": "Je ___ trois ans à Montréal.",
+          "options": [
+            "vivais",
+            "ai vécu",
+            "vis"
+          ],
+          "answer": 1,
+          "why": "Une durée **limitée et terminée** → passé composé."
+        },
+        {
+          "q": "Il ___ froid, donc j’ai mis un manteau.",
+          "options": [
+            "a fait",
+            "faisait",
+            "fait"
+          ],
+          "answer": 1,
+          "why": "La météo pose le décor → imparfait."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Imparfait ou passé composé ? Écris la forme complète.",
+      "items": [
+        {
+          "before": "Pendant que je ",
+          "after": " , les enfants ont dormi. (travailler)",
+          "answer": "travaillais",
+          "why": "[fr]Pendant que[/fr] introduit l’arrière-plan → imparfait."
+        },
+        {
+          "before": "Un jour, elle ",
+          "after": " de changer de vie. (décider)",
+          "answer": "a décidé",
+          "why": "[fr]Un jour[/fr] annonce l’événement → passé composé."
+        },
+        {
+          "before": "Nous ",
+          "after": " du thé chaque matin. (boire)",
+          "answer": "buvions",
+          "why": "Habitude → imparfait."
+        },
+        {
+          "before": "Quand nous sommes sortis, il ",
+          "after": " encore. (neiger)",
+          "answer": "neigeait",
+          "why": "Description simultanée → imparfait."
+        },
+        {
+          "before": "Je ",
+          "after": " mon portefeuille dans le métro. (perdre)",
+          "answer": "ai perdu",
+          "why": "Événement unique → passé composé."
+        }
+      ]
+    }
+  ]
+}

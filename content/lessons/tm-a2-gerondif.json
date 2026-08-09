@@ -1,0 +1,107 @@
+{
+  "id": "tm-a2-gerondif",
+  "group": "temps-modes",
+  "level": "A2",
+  "order": 290,
+  "title": "Le gérondif",
+  "summary": "En + -ant : deux actions en même temps, ou la manière de faire.",
+  "essentiel": [
+    "[fr]en[/fr] + radical du [fr]nous[/fr] + [fr]-ant[/fr] : [fr]nous parlons → **en parlant**[/fr].",
+    "Il exprime la **simultanéité** ([fr]en marchant[/fr]), la **manière** ([fr]en travaillant[/fr]) ou la **condition** ([fr]en partant tôt[/fr]).",
+    "Le sujet du gérondif est **toujours le même** que celui de la phrase."
+  ],
+  "regle": "Le **gérondif** ((gerund)) est une forme invariable : [fr]en[/fr] + participe présent.\n\nOn le fabrique comme l’imparfait : radical du [fr]nous[/fr] au présent, puis [fr]-ant[/fr].\n[fr]nous mange**ons** → en mange**ant**[/fr]\n\nTrois exceptions : [fr]être → en étant[/fr], [fr]avoir → en ayant[/fr], [fr]savoir → en sachant[/fr].\n\n**Trois sens.**\n- **En même temps** : [fr]Il lit **en mangeant**.[/fr]\n- **Comment ?** : [fr]Elle a réussi **en travaillant** beaucoup.[/fr]\n- **À quelle condition ?** : [fr]**En partant** maintenant, tu auras ton train.[/fr]\n\nAttention : le sujet ne change jamais. On ne peut pas dire « en arrivant, ma mère m’a ouvert » si c’est *moi* qui arrive.",
+  "exemples": [
+    {
+      "fr": "Il écoute la radio en conduisant.",
+      "en": "He listens to the radio while driving."
+    },
+    {
+      "fr": "On apprend en faisant des erreurs.",
+      "en": "You learn by making mistakes."
+    },
+    {
+      "fr": "En prenant le métro, tu iras plus vite.",
+      "en": "By taking the metro, you’ll get there faster."
+    },
+    {
+      "fr": "Elle est tombée en descendant l’escalier.",
+      "en": "She fell while going down the stairs."
+    },
+    {
+      "fr": "Tout en sachant la vérité, il n’a rien dit.",
+      "en": "Even though he knew the truth, he said nothing."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Écris le gérondif.",
+      "items": [
+        {
+          "before": "Il chante ",
+          "after": " sous la douche. (se laver)",
+          "answer": "en se lavant",
+          "hint": "Le pronom reste devant le verbe."
+        },
+        {
+          "before": "J’ai appris le français ",
+          "after": " des séries. (regarder)",
+          "answer": "en regardant"
+        },
+        {
+          "before": "",
+          "after": " plus tôt, tu éviteras les embouteillages. (partir)",
+          "answer": "En partant"
+        },
+        {
+          "before": "Elle travaille ",
+          "after": " de la musique. (écouter)",
+          "answer": "en écoutant"
+        },
+        {
+          "before": "",
+          "after": " patient, tu y arriveras. (être)",
+          "answer": "En étant",
+          "why": "[fr]être[/fr] est irrégulier : [fr]en étant[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quel est le sens du gérondif ?",
+      "items": [
+        {
+          "q": "« Il s’est blessé en jouant au foot. »",
+          "options": [
+            "la simultanéité",
+            "la condition",
+            "la cause volontaire"
+          ],
+          "answer": 0,
+          "why": "Les deux actions se passent en même temps."
+        },
+        {
+          "q": "« En économisant, tu pourras partir en vacances. »",
+          "options": [
+            "la simultanéité",
+            "la condition",
+            "la manière"
+          ],
+          "answer": 1,
+          "why": "*If you save…* → condition."
+        },
+        {
+          "q": "« Elle a maigri en faisant du sport. »",
+          "options": [
+            "la condition",
+            "la manière",
+            "le futur"
+          ],
+          "answer": 1,
+          "why": "Le gérondif dit **comment** elle a maigri."
+        }
+      ]
+    }
+  ]
+}

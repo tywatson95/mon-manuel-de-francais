@@ -1,0 +1,297 @@
+{
+  "id": "voc-a1-routine",
+  "title": "La journée & la routine",
+  "level": "A1",
+  "order": 230,
+  "summary": "Ce qu’on fait du réveil au coucher.",
+  "items": [
+    {
+      "fr": "se réveiller",
+      "ipa": "sə ʁe.vɛ.je",
+      "en": "to wake up",
+      "ex": "Je me réveille à six heures."
+    },
+    {
+      "fr": "se lever",
+      "ipa": "sə lə.ve",
+      "en": "to get up",
+      "ex": "Il se lève tard le dimanche."
+    },
+    {
+      "fr": "se laver",
+      "ipa": "sə la.ve",
+      "en": "to wash",
+      "ex": "Je me lave le matin."
+    },
+    {
+      "fr": "prendre une douche",
+      "ipa": "pʁɑ̃dʁ yn duʃ",
+      "en": "to have a shower",
+      "ex": "Je prends une douche rapide."
+    },
+    {
+      "fr": "se brosser les dents",
+      "ipa": "sə bʁɔ.se",
+      "en": "to brush one’s teeth",
+      "ex": "Brosse-toi les dents !"
+    },
+    {
+      "fr": "s’habiller",
+      "ipa": "sa.bi.je",
+      "en": "to get dressed",
+      "ex": "Elle s’habille en dix minutes."
+    },
+    {
+      "fr": "se coiffer",
+      "ipa": "sə kwa.fe",
+      "en": "to do one’s hair",
+      "ex": "Je me coiffe vite."
+    },
+    {
+      "fr": "prendre le petit-déjeuner",
+      "ipa": "pə.ti de.ʒø.ne",
+      "en": "to have breakfast",
+      "ex": "Je prends mon petit-déjeuner à 7 h."
+    },
+    {
+      "fr": "partir au travail",
+      "ipa": "paʁ.tiʁ",
+      "en": "to leave for work",
+      "ex": "Je pars au travail à 8 h."
+    },
+    {
+      "fr": "déjeuner",
+      "ipa": "de.ʒø.ne",
+      "en": "to have lunch",
+      "ex": "On déjeune à midi et demi."
+    },
+    {
+      "fr": "travailler",
+      "ipa": "tʁa.va.je",
+      "en": "to work",
+      "ex": "Je travaille jusqu’à 18 h."
+    },
+    {
+      "fr": "rentrer",
+      "ipa": "ʁɑ̃.tʁe",
+      "en": "to come home",
+      "ex": "Je rentre vers 19 h."
+    },
+    {
+      "fr": "faire les courses",
+      "ipa": "fɛʁ le kuʁs",
+      "en": "to do the shopping",
+      "ex": "Je fais les courses le samedi."
+    },
+    {
+      "fr": "faire la cuisine",
+      "ipa": "fɛʁ la kɥi.zin",
+      "en": "to cook",
+      "ex": "Il fait la cuisine tous les soirs."
+    },
+    {
+      "fr": "faire le ménage",
+      "ipa": "fɛʁ lə me.naʒ",
+      "en": "to do the housework",
+      "ex": "Le ménage, c’est le dimanche."
+    },
+    {
+      "fr": "faire la vaisselle",
+      "ipa": "fɛʁ la vɛ.sɛl",
+      "en": "to do the washing-up",
+      "ex": "À toi la vaisselle !"
+    },
+    {
+      "fr": "dîner",
+      "ipa": "di.ne",
+      "en": "to have dinner",
+      "ex": "On dîne à vingt heures."
+    },
+    {
+      "fr": "regarder la télé",
+      "ipa": "ʁə.ɡaʁ.de",
+      "en": "to watch TV",
+      "ex": "Je regarde la télé le soir."
+    },
+    {
+      "fr": "lire",
+      "ipa": "liʁ",
+      "en": "to read",
+      "ex": "Je lis avant de dormir."
+    },
+    {
+      "fr": "se coucher",
+      "ipa": "sə ku.ʃe",
+      "en": "to go to bed",
+      "ex": "Je me couche vers minuit."
+    },
+    {
+      "fr": "s’endormir",
+      "ipa": "sɑ̃.dɔʁ.miʁ",
+      "en": "to fall asleep",
+      "ex": "Je m’endors tout de suite."
+    },
+    {
+      "fr": "dormir",
+      "ipa": "dɔʁ.miʁ",
+      "en": "to sleep",
+      "ex": "Je dors sept heures."
+    },
+    {
+      "fr": "se reposer",
+      "ipa": "sə ʁə.po.ze",
+      "en": "to rest",
+      "ex": "Repose-toi bien."
+    },
+    {
+      "fr": "le matin",
+      "ipa": "ma.tɛ̃",
+      "en": "the morning",
+      "ex": "Le matin, je cours."
+    },
+    {
+      "fr": "l’après-midi",
+      "ipa": "a.pʁɛ mi.di",
+      "en": "the afternoon",
+      "ex": "L’après-midi, je travaille."
+    },
+    {
+      "fr": "le soir",
+      "ipa": "swaʁ",
+      "en": "the evening",
+      "ex": "Le soir, je lis."
+    },
+    {
+      "fr": "la nuit",
+      "ipa": "nɥi",
+      "en": "the night",
+      "ex": "La nuit, tout est calme."
+    },
+    {
+      "fr": "tôt",
+      "ipa": "to",
+      "en": "early",
+      "ex": "Je me lève tôt."
+    },
+    {
+      "fr": "tard",
+      "ipa": "taʁ",
+      "en": "late",
+      "ex": "Il rentre tard."
+    },
+    {
+      "fr": "d’habitude",
+      "ipa": "da.bi.tyd",
+      "en": "usually",
+      "ex": "D’habitude, je prends le bus."
+    },
+    {
+      "fr": "toujours",
+      "ipa": "tu.ʒuʁ",
+      "en": "always",
+      "ex": "Il est toujours en retard."
+    },
+    {
+      "fr": "souvent",
+      "ipa": "su.vɑ̃",
+      "en": "often",
+      "ex": "Je sors souvent le vendredi."
+    },
+    {
+      "fr": "parfois",
+      "ipa": "paʁ.fwa",
+      "en": "sometimes",
+      "ex": "Parfois, je travaille chez moi."
+    },
+    {
+      "fr": "rarement",
+      "ipa": "ʁaʁ.mɑ̃",
+      "en": "rarely",
+      "ex": "Je regarde rarement la télé."
+    },
+    {
+      "fr": "jamais",
+      "ipa": "ʒa.mɛ",
+      "en": "never",
+      "ex": "Je ne bois jamais de café le soir."
+    },
+    {
+      "fr": "être en retard",
+      "ipa": "ɑ̃ ʁə.taʁ",
+      "en": "to be late",
+      "ex": "Je suis en retard !"
+    },
+    {
+      "fr": "être à l’heure",
+      "ipa": "a lœʁ",
+      "en": "to be on time",
+      "ex": "Sois à l’heure, s’il te plaît."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "ordre",
+      "consigne": "Remets la journée dans l’ordre.",
+      "items": [
+        {
+          "tokens": [
+            "Je",
+            "me",
+            "réveille",
+            "à",
+            "six",
+            "heures"
+          ],
+          "answer": "Je me réveille à six heures"
+        },
+        {
+          "tokens": [
+            "Je",
+            "prends",
+            "mon",
+            "petit-déjeuner"
+          ],
+          "answer": "Je prends mon petit-déjeuner"
+        },
+        {
+          "tokens": [
+            "Je",
+            "me",
+            "couche",
+            "vers",
+            "minuit"
+          ],
+          "answer": "Je me couche vers minuit"
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe l’action au moment.",
+      "labelLeft": "Action",
+      "labelRight": "Moment",
+      "pairs": [
+        [
+          "se réveiller",
+          "le matin"
+        ],
+        [
+          "déjeuner",
+          "à midi"
+        ],
+        [
+          "dîner",
+          "le soir"
+        ],
+        [
+          "se coucher",
+          "la nuit"
+        ],
+        [
+          "faire les courses",
+          "le samedi"
+        ]
+      ]
+    }
+  ]
+}

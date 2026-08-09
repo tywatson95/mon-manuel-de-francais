@@ -1,0 +1,232 @@
+{
+  "id": "tm-b2-passe-simple",
+  "group": "temps-modes",
+  "level": "B2",
+  "order": 430,
+  "title": "Le passé simple (reconnaissance)",
+  "summary": "Le temps des romans et des manuels d’histoire — à lire, pas à parler.",
+  "essentiel": [
+    "Il ne s’emploie **jamais à l’oral**. On l’apprend pour **lire**.",
+    "Il occupe la place du passé composé dans le récit écrit littéraire.",
+    "Trois séries de terminaisons : en **-a**, en **-i**, en **-u**."
+  ],
+  "regle": "Le **passé simple** est le temps du récit écrit soutenu : romans, contes, biographies, manuels d’histoire. Personne ne le dit en conversation — dire [fr]je mangeai[/fr] au café ferait sourire.\n\nL’objectif à B2 est donc la **reconnaissance** : savoir qu’un verbe est au passé simple et retrouver son infinitif.\n\n**Trois familles de terminaisons.**\n\n- verbes en [fr]-er[/fr] → [fr]-ai, -as, -a, -âmes, -âtes, -èrent[/fr] : [fr]il parl**a**[/fr]\n- verbes en [fr]-ir[/fr] / [fr]-re[/fr] → [fr]-is, -is, -it, -îmes, -îtes, -irent[/fr] : [fr]il fin**it**[/fr]\n- beaucoup d’irréguliers → [fr]-us, -us, -ut, -ûmes, -ûtes, -urent[/fr] : [fr]il f**ut**, il e**ut**, il p**ut**[/fr]\n\nUne quatrième série, minuscule, pour [fr]venir[/fr] et [fr]tenir[/fr] : [fr]il **vint**, il **tint**[/fr].\n\n**Le repère le plus utile :** les formes en [fr]-a[/fr] et [fr]-it[/fr] à la 3e personne. Ce sont celles que tu croiseras le plus.",
+  "exemples": [
+    {
+      "fr": "Il ouvrit la porte et entra sans bruit.",
+      "en": "He opened the door and came in quietly."
+    },
+    {
+      "fr": "Elle fut très surprise de le voir.",
+      "en": "She was very surprised to see him."
+    },
+    {
+      "fr": "Napoléon devint empereur en 1804.",
+      "en": "Napoleon became emperor in 1804."
+    },
+    {
+      "fr": "Ils prirent la route au petit matin.",
+      "en": "They set off at daybreak."
+    },
+    {
+      "fr": "Le roi mourut sans héritier.",
+      "en": "The king died without an heir."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir les irréguliers les plus fréquents à la 3e personne",
+      "collapsed": true,
+      "headers": [
+        "Infinitif",
+        "il / elle",
+        "ils / elles"
+      ],
+      "rows": [
+        [
+          "être",
+          "fut",
+          "furent"
+        ],
+        [
+          "avoir",
+          "eut",
+          "eurent"
+        ],
+        [
+          "faire",
+          "fit",
+          "firent"
+        ],
+        [
+          "dire",
+          "dit",
+          "dirent"
+        ],
+        [
+          "voir",
+          "vit",
+          "virent"
+        ],
+        [
+          "prendre",
+          "prit",
+          "prirent"
+        ],
+        [
+          "pouvoir",
+          "put",
+          "purent"
+        ],
+        [
+          "vouloir",
+          "voulut",
+          "voulurent"
+        ],
+        [
+          "devoir",
+          "dut",
+          "durent"
+        ],
+        [
+          "savoir",
+          "sut",
+          "surent"
+        ],
+        [
+          "venir",
+          "vint",
+          "vinrent"
+        ],
+        [
+          "tenir",
+          "tint",
+          "tinrent"
+        ],
+        [
+          "mourir",
+          "mourut",
+          "moururent"
+        ],
+        [
+          "naître",
+          "naquit",
+          "naquirent"
+        ],
+        [
+          "vivre",
+          "vécut",
+          "vécurent"
+        ],
+        [
+          "écrire",
+          "écrivit",
+          "écrivirent"
+        ],
+        [
+          "lire",
+          "lut",
+          "lurent"
+        ],
+        [
+          "boire",
+          "but",
+          "burent"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "📚",
+    "title": "Pourquoi il a disparu de la parole",
+    "text": "Le passé simple a reculé dès le XVIIᵉ siècle dans la conversation, remplacé par le passé composé. Il s’est réfugié dans l’écrit narratif. Aujourd’hui, même la presse l’évite — mais la littérature y tient toujours."
+  },
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Retrouve l’infinitif de chaque forme au passé simple.",
+      "labelLeft": "Passé simple",
+      "labelRight": "Infinitif",
+      "pairs": [
+        [
+          "il fut",
+          "être"
+        ],
+        [
+          "il eut",
+          "avoir"
+        ],
+        [
+          "il fit",
+          "faire"
+        ],
+        [
+          "il vint",
+          "venir"
+        ],
+        [
+          "il prit",
+          "prendre"
+        ],
+        [
+          "il put",
+          "pouvoir"
+        ],
+        [
+          "il naquit",
+          "naître"
+        ],
+        [
+          "il vécut",
+          "vivre"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quel est l’infinitif ?",
+      "items": [
+        {
+          "q": "« Elle sut la vérité. »",
+          "options": [
+            "savoir",
+            "suivre",
+            "sortir"
+          ],
+          "answer": 0,
+          "why": "[fr]savoir[/fr] → [fr]il sut[/fr], série en [fr]-u[/fr]."
+        },
+        {
+          "q": "« Ils virent la mer. »",
+          "options": [
+            "venir",
+            "voir",
+            "vivre"
+          ],
+          "answer": 1,
+          "why": "[fr]voir[/fr] → [fr]ils virent[/fr] ; [fr]venir[/fr] donnerait [fr]ils vinrent[/fr]."
+        },
+        {
+          "q": "« Il mourut en 1885. »",
+          "options": [
+            "mourir",
+            "murer",
+            "mouvoir"
+          ],
+          "answer": 0,
+          "why": "[fr]mourir[/fr] → [fr]il mourut[/fr]."
+        },
+        {
+          "q": "« Nous partîmes à l’aube. »",
+          "options": [
+            "partager",
+            "partir",
+            "parer"
+          ],
+          "answer": 1,
+          "why": "Série en [fr]-i[/fr] : [fr]nous partîmes[/fr]."
+        }
+      ]
+    }
+  ]
+}

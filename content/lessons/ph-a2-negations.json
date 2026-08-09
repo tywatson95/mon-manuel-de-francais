@@ -1,0 +1,170 @@
+{
+  "id": "ph-a2-negations",
+  "group": "phrase",
+  "level": "A2",
+  "order": 210,
+  "title": "Les autres négations",
+  "summary": "Plus, jamais, rien, personne : changer le deuxième mot change tout.",
+  "essentiel": [
+    "[fr]ne… **plus**[/fr] ((no longer)) · [fr]ne… **jamais**[/fr] ((never)) · [fr]ne… **rien**[/fr] ((nothing)) · [fr]ne… **personne**[/fr] ((nobody)).",
+    "Au passé composé, [fr]personne[/fr] passe **après** le participe : [fr]Je n’ai vu **personne**.[/fr]",
+    "On ne cumule jamais [fr]pas[/fr] avec une autre négation."
+  ],
+  "regle": "Le premier mot [fr]ne[/fr] ne change pas ; c’est le second qui donne le sens.\n\n[fr]Je **ne** fume **plus**.[/fr] ((I don’t smoke any more))\n[fr]Je **ne** fume **jamais**.[/fr] ((I never smoke))\n[fr]Je **ne** vois **rien**.[/fr] ((I see nothing))\n[fr]Je **ne** vois **personne**.[/fr] ((I see nobody))\n\n**Le piège de la place au passé composé.** [fr]rien[/fr] se place avant le participe, [fr]personne[/fr] après.\n[fr]Je n’ai **rien** compris.[/fr]\n[fr]Je n’ai compris **personne**.[/fr]\n\nMême chose avec un infinitif : [fr]ne **rien** dire[/fr] mais [fr]ne voir **personne**[/fr].\n\n**Comme sujet.** [fr]rien[/fr] et [fr]personne[/fr] peuvent commencer la phrase — le [fr]ne[/fr] reste.\n[fr]**Personne n’**est venu. · **Rien n’**a changé.[/fr]\n\n**On ne double pas.** Dire « je ne vois pas rien » est faux : un seul mot négatif suffit.\n\n**Répondre seul.** À l’oral, on répond souvent par le second mot seul : [fr]— Qui a appelé ? — **Personne**.[/fr]",
+  "exemples": [
+    {
+      "fr": "Je n’habite plus à Paris.",
+      "en": "I no longer live in Paris."
+    },
+    {
+      "fr": "Elle ne se plaint jamais.",
+      "en": "She never complains."
+    },
+    {
+      "fr": "Nous n’avons rien trouvé.",
+      "en": "We found nothing."
+    },
+    {
+      "fr": "Il n’a invité personne.",
+      "en": "He invited nobody."
+    },
+    {
+      "fr": "Personne ne sait pourquoi.",
+      "en": "Nobody knows why."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les négations et leur place",
+      "collapsed": false,
+      "headers": [
+        "Négation",
+        "Sens",
+        "Au passé composé"
+      ],
+      "rows": [
+        [
+          "ne… pas",
+          "not",
+          "Je n’ai **pas** vu."
+        ],
+        [
+          "ne… plus",
+          "no longer",
+          "Je n’ai **plus** vu."
+        ],
+        [
+          "ne… jamais",
+          "never",
+          "Je n’ai **jamais** vu."
+        ],
+        [
+          "ne… rien",
+          "nothing",
+          "Je n’ai **rien** vu."
+        ],
+        [
+          "ne… personne",
+          "nobody",
+          "Je n’ai vu **personne**."
+        ],
+        [
+          "ne… pas encore",
+          "not yet",
+          "Je n’ai **pas encore** vu."
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la négation qui convient.",
+      "items": [
+        {
+          "q": "Avant je fumais, maintenant je ne fume ___ .",
+          "options": [
+            "pas",
+            "plus",
+            "jamais"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Je ne suis ___ allé au Japon de ma vie.",
+          "options": [
+            "plus",
+            "jamais",
+            "rien"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "— Qu’est-ce que tu as acheté ? — Je n’ai ___ acheté.",
+          "options": [
+            "personne",
+            "rien",
+            "plus"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Où placer « personne » ? « Je n’ai … rencontré … »",
+          "options": [
+            "Je n’ai personne rencontré.",
+            "Je n’ai rencontré personne.",
+            "Je ne personne ai rencontré."
+          ],
+          "answer": 1,
+          "why": "[fr]personne[/fr] se place après le participe."
+        },
+        {
+          "q": "Quelle phrase est correcte ?",
+          "options": [
+            "Je ne vois pas rien.",
+            "Je ne vois rien.",
+            "Je vois ne rien."
+          ],
+          "answer": 1,
+          "why": "On ne cumule pas [fr]pas[/fr] avec une autre négation."
+        },
+        {
+          "q": "___ ne m’a prévenu.",
+          "options": [
+            "Rien",
+            "Personne",
+            "Jamais"
+          ],
+          "answer": 1,
+          "why": "Pour une personne → [fr]personne[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète la négation.",
+      "items": [
+        {
+          "before": "Il n’y a ",
+          "after": " de lait dans le frigo. (= c’est fini)",
+          "answer": "plus"
+        },
+        {
+          "before": "Je n’ai ",
+          "after": " compris. (= zéro chose)",
+          "answer": "rien"
+        },
+        {
+          "before": "Elle ne parle à ",
+          "after": " . (= zéro personne)",
+          "answer": "personne"
+        },
+        {
+          "before": "Nous ne sommes ",
+          "after": " allés en Italie. (= zéro fois)",
+          "answer": "jamais"
+        }
+      ]
+    }
+  ]
+}

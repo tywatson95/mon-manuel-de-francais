@@ -1,0 +1,77 @@
+{
+  "id": "communication",
+  "title": "Récap express — Communication & culture",
+  "level": "B1",
+  "summary": "Toutes les situations et les codes sociaux, du café au débat.",
+  "blocks": [
+    {
+      "level": "A1",
+      "title": "Les gestes de base",
+      "points": [
+        "[fr]Bonjour[/fr] **avant tout** en entrant quelque part — c’est non négociable.",
+        "[fr]Bonne nuit[/fr] = on va dormir. Pour partir le soir : [fr]bonne soirée[/fr].",
+        "Métiers et nationalités **sans article** après [fr]être[/fr] : [fr]Je suis ingénieur.[/fr]",
+        "[fr]à[/fr] + ville · [fr]en[/fr] + pays féminin · [fr]au[/fr] + masculin · [fr]aux[/fr] + pluriel."
+      ]
+    },
+    {
+      "level": "A1",
+      "title": "Se débrouiller",
+      "points": [
+        "Café : [fr]un café[/fr] = un expresso · la **carafe d’eau est gratuite**.",
+        "Direction : [fr]tout droit[/fr] ≠ [fr]à droite[/fr].",
+        "Météo : [fr]il fait[/fr] + adjectif · [fr]il y a[/fr] + nom · [fr]il pleut[/fr] + verbe.",
+        "Refuser poliment = **regret + raison + contre-proposition**."
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Les transactions",
+      "points": [
+        "Magasin : [fr]je fais du 40[/fr], [fr]je peux l’essayer ?[/fr], [fr]voici le ticket de caisse[/fr].",
+        "Médecin : [fr]j’ai mal **à la / au / à l’ / aux**…[/fr] · SAMU **15**, urgences européennes **112**.",
+        "Hôtel : [fr]je voudrais réserver…[/fr], [fr]…ne fonctionne pas[/fr], [fr]régler la note[/fr].",
+        "Mail : ouverture **et** clôture obligatoires. [fr]Cordialement[/fr] passe partout."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Se faire entendre",
+      "points": [
+        "Réclamation : **faits → effet → solution demandée** — et rester poli paie.",
+        "Opinion : [fr]à mon avis, je trouve que[/fr] + **justification** obligatoire.",
+        "Désaccord : [fr]je ne suis pas tout à fait d’accord[/fr] vaut mieux que [fr]vous avez tort[/fr].",
+        "Lettre formelle : objet → [fr]Madame, Monsieur,[/fr] → corps → formule qui **reprend l’appel**."
+      ]
+    },
+    {
+      "level": "B2",
+      "title": "Débattre et nuancer",
+      "points": [
+        "Prendre la parole : [fr]Si je peux me permettre… · Justement ![/fr]",
+        "Garder : [fr]Laissez-moi terminer. · J’y viens.[/fr] · Reformuler : [fr]Si je vous comprends bien…[/fr]",
+        "Interrompre n’est pas impoli en France — attaquer la **personne**, si.",
+        "Registres : familier / standard / soutenu. Le mauvais registre coûte plus cher qu’une faute de grammaire."
+      ]
+    },
+    {
+      "level": "B2",
+      "title": "Résumer",
+      "points": [
+        "Repérer la **thèse**, suivre les **articulations**, supprimer les exemples, **reformuler**.",
+        "Verbes de restitution : [fr]affirme, souligne, nuance, conteste, s’interroge, conclut[/fr].",
+        "Trois interdits : donner son avis, recopier, ajouter des informations extérieures."
+      ]
+    },
+    {
+      "level": "A1",
+      "title": "Les repères culturels",
+      "points": [
+        "La bise entre proches, la poignée de main au travail — observez et imitez.",
+        "Le [fr]vous[/fr] par défaut ; c’est à la personne la plus âgée de proposer le [fr]tu[/fr].",
+        "Invité à dîner : on apporte quelque chose et on arrive **un quart d’heure après**.",
+        "Les soldes ont des dates fixées par l’État, deux fois par an."
+      ]
+    }
+  ]
+}

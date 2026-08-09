@@ -1,0 +1,203 @@
+{
+  "id": "na-a2-comparatif",
+  "group": "noms-adjectifs",
+  "level": "A2",
+  "order": 210,
+  "title": "Le comparatif et le superlatif",
+  "summary": "Plus, moins, aussi — et les deux irréguliers qui piègent tout le monde.",
+  "essentiel": [
+    "[fr]**plus** / **moins** / **aussi** + adjectif + **que**[/fr] : [fr]plus grand **que** moi[/fr].",
+    "Superlatif : on ajoute l’article : [fr]**le** plus grand[/fr].",
+    "Irréguliers : [fr]bon → **meilleur**[/fr] ((adjective)) et [fr]bien → **mieux**[/fr] ((adverb))."
+  ],
+  "regle": "**Le comparatif.** Trois degrés, une seule structure.\n[fr]Il est **plus** rapide **que** moi.[/fr] ((more))\n[fr]Il est **moins** rapide **que** moi.[/fr] ((less))\n[fr]Il est **aussi** rapide **que** moi.[/fr] ((as))\n\nAprès [fr]que[/fr], on utilise un **pronom tonique** : [fr]que moi, que toi, que lui[/fr].\n\n**Avec un nom**, on ajoute [fr]de[/fr] : [fr]**plus de** travail **que** toi[/fr], [fr]**autant d’**amis **que** lui[/fr].\n\n**Le superlatif.** On place l’article défini devant le comparatif.\n[fr]C’est **le plus** grand bâtiment de la ville.[/fr]\nNotez : après un superlatif, le complément se met avec [fr]de[/fr] — [fr]de la ville[/fr], et non « dans la ville ».\n\nSi l’adjectif se place après le nom, l’article se répète : [fr]le film **le plus** intéressant[/fr].\n\n**Les deux irréguliers.** C’est le point qui pose problème.\n- [fr]bon[/fr] ((adjective)) → [fr]**meilleur**[/fr] : [fr]Ce vin est **meilleur**.[/fr]\n- [fr]bien[/fr] ((adverb)) → [fr]**mieux**[/fr] : [fr]Elle chante **mieux**.[/fr]\n\nTest : si le mot qualifie un **nom**, c’est [fr]meilleur[/fr] ; s’il qualifie un **verbe**, c’est [fr]mieux[/fr].\n\n[fr]mauvais → pire[/fr] existe aussi, mais [fr]plus mauvais[/fr] reste courant.",
+  "exemples": [
+    {
+      "fr": "Ma sœur est plus âgée que moi.",
+      "en": "My sister is older than me."
+    },
+    {
+      "fr": "Ce restaurant est moins cher que l’autre.",
+      "en": "This restaurant is cheaper than the other one."
+    },
+    {
+      "fr": "C’est le meilleur film de l’année.",
+      "en": "It’s the best film of the year."
+    },
+    {
+      "fr": "Aujourd’hui, je vais mieux.",
+      "en": "Today I feel better."
+    },
+    {
+      "fr": "Il travaille autant que nous.",
+      "en": "He works as much as we do."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Comparatif et superlatif",
+      "collapsed": false,
+      "headers": [
+        "",
+        "adjectif",
+        "adverbe",
+        "nom"
+      ],
+      "rows": [
+        [
+          "supériorité",
+          "plus … que",
+          "plus … que",
+          "plus de … que"
+        ],
+        [
+          "infériorité",
+          "moins … que",
+          "moins … que",
+          "moins de … que"
+        ],
+        [
+          "égalité",
+          "aussi … que",
+          "aussi … que",
+          "autant de … que"
+        ],
+        [
+          "superlatif",
+          "le / la / les plus",
+          "le plus",
+          "le plus de"
+        ],
+        [
+          "irrégulier",
+          "bon → meilleur",
+          "bien → mieux",
+          "—"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : choisir un appartement",
+    "lines": [
+      {
+        "who": "Agent",
+        "fr": "Celui-ci est plus grand, mais il est aussi plus cher.",
+        "en": "This one is bigger, but it’s also more expensive."
+      },
+      {
+        "who": "Cliente",
+        "fr": "Et le deuxième ? Il a l’air moins lumineux.",
+        "en": "And the second one? It looks less bright."
+      },
+      {
+        "who": "Agent",
+        "fr": "Oui, mais il est mieux situé : c’est le plus proche du métro.",
+        "en": "Yes, but it’s better located: it’s the closest to the metro."
+      },
+      {
+        "who": "Cliente",
+        "fr": "Le quartier est meilleur, alors ?",
+        "en": "So the area is better?"
+      },
+      {
+        "who": "Agent",
+        "fr": "Nettement. Et il y a autant de chambres que dans le premier.",
+        "en": "Clearly. And it has as many bedrooms as the first one."
+      },
+      {
+        "who": "Cliente",
+        "fr": "Alors c’est celui-là que je préfère.",
+        "en": "Then that’s the one I prefer."
+      }
+    ],
+    "check": {
+      "q": "Pourquoi « il est **mieux** situé » et « le quartier est **meilleur** » ?",
+      "options": [
+        "« mieux » qualifie le participe « situé » ; « meilleur » qualifie le nom « quartier ».",
+        "C’est la même chose.",
+        "« meilleur » est plus poli."
+      ],
+      "answer": 0,
+      "why": "[fr]mieux[/fr] est un adverbe, [fr]meilleur[/fr] un adjectif."
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Meilleur ou mieux ?",
+      "items": [
+        {
+          "q": "Ce gâteau est ___ que l’autre.",
+          "options": [
+            "meilleur",
+            "mieux"
+          ],
+          "answer": 0,
+          "why": "Il qualifie [fr]gâteau[/fr], un nom → adjectif."
+        },
+        {
+          "q": "Elle parle ___ français que moi.",
+          "options": [
+            "meilleur",
+            "mieux"
+          ],
+          "answer": 1,
+          "why": "Il qualifie [fr]parle[/fr], un verbe → adverbe."
+        },
+        {
+          "q": "Ton idée est ___ que la mienne.",
+          "options": [
+            "meilleure",
+            "mieux"
+          ],
+          "answer": 0,
+          "why": "Il qualifie [fr]idée[/fr], un nom → adjectif, accordé au féminin."
+        },
+        {
+          "q": "Je me sens ___ aujourd’hui.",
+          "options": [
+            "meilleur",
+            "mieux"
+          ],
+          "answer": 1,
+          "why": "[fr]se sentir[/fr] est un verbe → [fr]mieux[/fr]."
+        },
+        {
+          "q": "C’est le ___ restaurant de la ville.",
+          "options": [
+            "meilleur",
+            "mieux"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète la comparaison.",
+      "items": [
+        {
+          "before": "Il est plus grand ",
+          "after": " son frère.",
+          "answer": "que"
+        },
+        {
+          "before": "J’ai autant ",
+          "after": " travail que toi.",
+          "answer": "de"
+        },
+        {
+          "before": "C’est la ville la ",
+          "after": " chère de France. (+)",
+          "answer": "plus"
+        },
+        {
+          "before": "Elle court ",
+          "after": " vite que moi. (=)",
+          "answer": "aussi"
+        }
+      ]
+    }
+  ]
+}

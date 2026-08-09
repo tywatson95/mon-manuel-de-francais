@@ -1,0 +1,146 @@
+{
+  "id": "ph-a2-discours-rapporte-present",
+  "group": "phrase",
+  "level": "A2",
+  "order": 220,
+  "title": "Le discours rapporté au présent",
+  "summary": "Répéter les mots de quelqu’un sans guillemets.",
+  "essentiel": [
+    "Affirmation → [fr]**que**[/fr] : [fr]Il dit **qu’**il est fatigué.[/fr]",
+    "Question fermée → [fr]**si**[/fr] : [fr]Il demande **si** tu viens.[/fr]",
+    "Question ouverte → le mot interrogatif reste : [fr]Il demande **où** tu vas.[/fr]"
+  ],
+  "regle": "Rapporter, c’est intégrer les paroles dans sa propre phrase. Trois cas, trois mots de liaison.\n\n**1 · Une affirmation → [fr]que[/fr].**\n[fr]« Je suis fatigué. » → Il dit **qu’**il est fatigué.[/fr]\n\n**2 · Une question par oui/non → [fr]si[/fr].**\n[fr]« Tu viens ? » → Il demande **si** tu viens.[/fr]\nAttention : jamais [fr]est-ce que[/fr] dans le discours rapporté.\n\n**3 · Une question ouverte → le mot interrogatif.**\n[fr]« Où habites-tu ? » → Il demande **où** tu habites.[/fr]\nMais [fr]qu’est-ce que[/fr] devient [fr]**ce que**[/fr] : [fr]« Que fais-tu ? » → Il demande **ce que** tu fais.[/fr]\n\n**4 · Un ordre → [fr]de[/fr] + infinitif.**\n[fr]« Attends ! » → Il me dit **d’**attendre.[/fr]\n\n**Ce qui change aussi.** Les pronoms et possessifs s’adaptent au nouveau locuteur :\n[fr]« **J’ai** perdu **mes** clés. » → Il dit qu’**il a** perdu **ses** clés.[/fr]\n\nTant que le verbe introducteur reste au présent, **les temps ne bougent pas**.",
+  "exemples": [
+    {
+      "fr": "Elle dit qu’elle arrive dans dix minutes.",
+      "en": "She says she’s arriving in ten minutes."
+    },
+    {
+      "fr": "Il demande si le magasin est ouvert.",
+      "en": "He asks whether the shop is open."
+    },
+    {
+      "fr": "Je me demande où ils sont allés.",
+      "en": "I wonder where they went."
+    },
+    {
+      "fr": "Le professeur nous dit de faire attention.",
+      "en": "The teacher tells us to be careful."
+    },
+    {
+      "fr": "Elle demande ce que tu veux boire.",
+      "en": "She’s asking what you want to drink."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les mots de liaison",
+      "collapsed": false,
+      "headers": [
+        "Discours direct",
+        "Discours rapporté"
+      ],
+      "rows": [
+        [
+          "« Il pleut. »",
+          "Il dit **qu’**il pleut."
+        ],
+        [
+          "« Tu viens ? »",
+          "Il demande **si** tu viens."
+        ],
+        [
+          "« Où vas-tu ? »",
+          "Il demande **où** tu vas."
+        ],
+        [
+          "« Qu’est-ce que tu fais ? »",
+          "Il demande **ce que** tu fais."
+        ],
+        [
+          "« Qu’est-ce qui se passe ? »",
+          "Il demande **ce qui** se passe."
+        ],
+        [
+          "« Ferme la porte ! »",
+          "Il dit **de** fermer la porte."
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel mot de liaison ?",
+      "items": [
+        {
+          "q": "« Tu as faim ? » → Il demande ___ tu as faim.",
+          "options": [
+            "que",
+            "si",
+            "ce que"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Je pars demain. » → Elle dit ___ elle part demain.",
+          "options": [
+            "qu’",
+            "si",
+            "ce que"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Qu’est-ce que tu manges ? » → Il demande ___ tu manges.",
+          "options": [
+            "que",
+            "ce que",
+            "si"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Assieds-toi ! » → Il me dit ___ m’asseoir.",
+          "options": [
+            "que",
+            "de",
+            "si"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Qu’est-ce qui ne va pas ? » → Elle demande ___ ne va pas.",
+          "options": [
+            "ce que",
+            "ce qui",
+            "si"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Transforme au discours rapporté.",
+      "items": [
+        {
+          "before": "« Je suis prêt. » → Il dit ",
+          "after": " est prêt.",
+          "answer": "qu’il"
+        },
+        {
+          "before": "« Vous partez ? » → Elle demande ",
+          "after": " nous partons.",
+          "answer": "si"
+        },
+        {
+          "before": "« Ne fais pas de bruit ! » → Il me dit ",
+          "after": " pas faire de bruit.",
+          "answer": "de ne"
+        }
+      ]
+    }
+  ]
+}

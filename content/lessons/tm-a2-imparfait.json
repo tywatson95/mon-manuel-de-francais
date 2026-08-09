@@ -1,0 +1,163 @@
+{
+  "id": "tm-a2-imparfait",
+  "group": "temps-modes",
+  "level": "A2",
+  "order": 230,
+  "title": "L’imparfait",
+  "summary": "Le décor du passé : les habitudes, les descriptions, ce qui durait.",
+  "essentiel": [
+    "Une seule méthode : radical du [fr]**nous**[/fr] au présent + **-ais, -ais, -ait, -ions, -iez, -aient**.",
+    "[fr]nous parl**ons** → je parl**ais**[/fr]. Aucune exception, sauf [fr]être[/fr] → [fr]j’**ét**ais[/fr].",
+    "Il dit : *ce qui durait*, *ce qui se répétait*, *comment c’était*."
+  ],
+  "regle": "L’**imparfait** ((imperfect)) ne raconte pas un événement : il **décrit**.\n\nTrois emplois, toujours les mêmes :\n\n1. **L’habitude passée** — [fr]Quand j’étais petit, je jouais au foot tous les jours.[/fr] ((used to))\n2. **La description** — [fr]Il faisait froid, la rue était vide.[/fr]\n3. **L’action en cours** — [fr]Je dormais quand le téléphone a sonné.[/fr]\n\nLa formation est d’une régularité parfaite. On prend la forme [fr]nous[/fr] du présent, on enlève [fr]-ons[/fr], on ajoute la terminaison.\n\n[fr]nous fais**ons**[/fr] → [fr]je fais**ais**[/fr]\n[fr]nous pren**ons**[/fr] → [fr]je pren**ais**[/fr]\n[fr]nous finiss**ons**[/fr] → [fr]je finiss**ais**[/fr]\n\nUn seul verbe échappe à la règle : [fr]être[/fr] → [fr]j’étais, tu étais, il était…[/fr]",
+  "exemples": [
+    {
+      "fr": "Quand j’étais enfant, j’habitais à la campagne.",
+      "en": "When I was a child, I lived in the countryside."
+    },
+    {
+      "fr": "Il pleuvait et il n’y avait personne dans la rue.",
+      "en": "It was raining and there was nobody in the street."
+    },
+    {
+      "fr": "Nous allions à la mer tous les étés.",
+      "en": "We used to go to the sea every summer."
+    },
+    {
+      "fr": "Elle portait une robe bleue.",
+      "en": "She was wearing a blue dress."
+    },
+    {
+      "fr": "Vous vouliez me parler ?",
+      "en": "You wanted to speak to me?"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "La formation, verbe par verbe",
+      "collapsed": false,
+      "headers": [
+        "Verbe",
+        "Forme « nous » au présent",
+        "Imparfait (je)"
+      ],
+      "rows": [
+        [
+          "parler",
+          "nous parl**ons**",
+          "je parlais"
+        ],
+        [
+          "finir",
+          "nous finiss**ons**",
+          "je finissais"
+        ],
+        [
+          "prendre",
+          "nous pren**ons**",
+          "je prenais"
+        ],
+        [
+          "faire",
+          "nous fais**ons**",
+          "je faisais"
+        ],
+        [
+          "boire",
+          "nous buv**ons**",
+          "je buvais"
+        ],
+        [
+          "être",
+          "—",
+          "j’étais *(exception)*"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "📖",
+    "title": "« Il était une fois… »",
+    "text": "Tous les contes français commencent à l’imparfait : [fr]Il était une fois une petite fille…[/fr] C’est le temps qui plante le décor avant que l’histoire ne commence vraiment."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets le verbe à l’imparfait.",
+      "items": [
+        {
+          "before": "Quand j’étais petit, je ",
+          "after": " beaucoup. (lire)",
+          "answer": "lisais",
+          "why": "[fr]nous lisons[/fr] → radical [fr]lis-[/fr]."
+        },
+        {
+          "before": "Nous ",
+          "after": " souvent au cinéma. (aller)",
+          "answer": "allions",
+          "why": "[fr]nous allons[/fr] → radical [fr]all-[/fr]."
+        },
+        {
+          "before": "Il ",
+          "after": " très froid ce jour-là. (faire)",
+          "answer": "faisait",
+          "why": "[fr]nous faisons[/fr] → radical [fr]fais-[/fr]."
+        },
+        {
+          "before": "Vous ",
+          "after": " du thé le matin ? (boire)",
+          "answer": "buviez",
+          "why": "[fr]nous buvons[/fr] → radical [fr]buv-[/fr]."
+        },
+        {
+          "before": "Elles ",
+          "after": " fatiguées. (être)",
+          "answer": "étaient",
+          "why": "[fr]être[/fr] est la seule exception : radical [fr]ét-[/fr]."
+        },
+        {
+          "before": "Tu ",
+          "after": " toujours en retard. (arriver)",
+          "answer": "arrivais"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Pourquoi l’imparfait ici ?",
+      "items": [
+        {
+          "q": "« Tous les dimanches, nous déjeunions chez ma grand-mère. »",
+          "options": [
+            "C’est une habitude passée.",
+            "C’est une action unique.",
+            "C’est le futur."
+          ],
+          "answer": 0,
+          "why": "[fr]Tous les dimanches[/fr] indique une répétition."
+        },
+        {
+          "q": "« La maison était grande et le jardin sentait bon. »",
+          "options": [
+            "C’est une description.",
+            "C’est un événement précis.",
+            "C’est un ordre."
+          ],
+          "answer": 0,
+          "why": "On plante le décor."
+        },
+        {
+          "q": "« Je regardais la télé quand tu as appelé. »",
+          "options": [
+            "Une action en cours interrompue.",
+            "Deux actions terminées.",
+            "Une habitude."
+          ],
+          "answer": 0,
+          "why": "L’imparfait pose l’arrière-plan, le passé composé apporte l’événement."
+        }
+      ]
+    }
+  ]
+}

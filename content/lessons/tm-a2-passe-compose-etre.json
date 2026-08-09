@@ -1,0 +1,284 @@
+{
+  "id": "tm-a2-passe-compose-etre",
+  "group": "temps-modes",
+  "level": "A2",
+  "order": 220,
+  "title": "Le passé composé avec être",
+  "summary": "Une petite famille de verbes prend « être » — et là, le participe s’accorde.",
+  "essentiel": [
+    "Environ **quinze verbes de mouvement ou de changement d’état** prennent [fr]être[/fr] : [fr]aller, venir, partir, arriver, entrer, sortir, monter, descendre, rester, tomber, naître, mourir, passer, retourner, rentrer[/fr].",
+    "Tous les **verbes pronominaux** prennent [fr]être[/fr] : [fr]Je me suis levé.[/fr]",
+    "Avec [fr]être[/fr], le participe **s’accorde avec le sujet** : [fr]Elle est allé**e**. · Ils sont allé**s**.[/fr]"
+  ],
+  "regle": "La grande majorité des verbes prend [fr]avoir[/fr]. Il faut donc apprendre la **liste courte** de ceux qui prennent [fr]être[/fr].\n\nLe point qui change tout : avec [fr]être[/fr], le participe passé fonctionne comme un adjectif. Il s’accorde en genre et en nombre avec le sujet.\n\n[fr]Il est parti. · Elle est parti**e**. · Ils sont parti**s**. · Elles sont parti**es**.[/fr]\n\n**Attention aux verbes à double vie.** [fr]monter, descendre, sortir, passer, rentrer, retourner[/fr] prennent [fr]avoir[/fr] quand ils ont un complément d’objet direct :\n[fr]Je **suis** sorti.[/fr] ((I went out)) mais [fr]J’**ai** sorti la poubelle.[/fr] ((I took out the bin))",
+  "exemples": [
+    {
+      "fr": "Je suis arrivé à midi.",
+      "en": "I arrived at noon."
+    },
+    {
+      "fr": "Ma sœur est née en 1994.",
+      "en": "My sister was born in 1994."
+    },
+    {
+      "fr": "Nous sommes restés trois jours à Nice.",
+      "en": "We stayed three days in Nice."
+    },
+    {
+      "fr": "Elles sont parties très tôt.",
+      "en": "They (f.) left very early."
+    },
+    {
+      "fr": "Je me suis couché à minuit.",
+      "en": "I went to bed at midnight."
+    },
+    {
+      "fr": "Il a monté les valises.",
+      "en": "He carried the suitcases up."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir la liste des verbes avec être",
+      "collapsed": true,
+      "headers": [
+        "Verbe",
+        "Participe",
+        "Contraire"
+      ],
+      "rows": [
+        [
+          "aller",
+          "allé",
+          "venir → venu"
+        ],
+        [
+          "arriver",
+          "arrivé",
+          "partir → parti"
+        ],
+        [
+          "entrer",
+          "entré",
+          "sortir → sorti"
+        ],
+        [
+          "monter",
+          "monté",
+          "descendre → descendu"
+        ],
+        [
+          "naître",
+          "né",
+          "mourir → mort"
+        ],
+        [
+          "rester",
+          "resté",
+          "—"
+        ],
+        [
+          "tomber",
+          "tombé",
+          "—"
+        ],
+        [
+          "rentrer",
+          "rentré",
+          "—"
+        ],
+        [
+          "retourner",
+          "retourné",
+          "—"
+        ],
+        [
+          "passer",
+          "passé",
+          "(par un lieu)"
+        ],
+        [
+          "devenir",
+          "devenu",
+          "—"
+        ],
+        [
+          "revenir",
+          "revenu",
+          "—"
+        ]
+      ]
+    },
+    {
+      "title": "L’accord du participe",
+      "collapsed": false,
+      "headers": [
+        "Sujet",
+        "Forme",
+        "Terminaison"
+      ],
+      "rows": [
+        [
+          "il",
+          "est allé",
+          "—"
+        ],
+        [
+          "elle",
+          "est allée",
+          "+ e"
+        ],
+        [
+          "ils",
+          "sont allés",
+          "+ s"
+        ],
+        [
+          "elles",
+          "sont allées",
+          "+ es"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "🚪",
+    "title": "La « maison d’être »",
+    "text": "Les professeurs français dessinent souvent une maison pour retenir ces verbes : on **arrive**, on **entre**, on **monte**, on **descend**, on **sort**, on **part**… Tout se passe autour d’une maison. C’est un truc de mémoire, pas une règle."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Avoir ou être ?",
+      "items": [
+        {
+          "q": "Je ___ allé au marché.",
+          "options": [
+            "ai",
+            "suis",
+            "vais"
+          ],
+          "answer": 1,
+          "why": "[fr]aller[/fr] fait partie de la liste des verbes avec [fr]être[/fr]."
+        },
+        {
+          "q": "Elle ___ mangé une pomme.",
+          "options": [
+            "a",
+            "est",
+            "va"
+          ],
+          "answer": 0,
+          "why": "[fr]manger[/fr] prend [fr]avoir[/fr]."
+        },
+        {
+          "q": "Nous ___ restés à la maison.",
+          "options": [
+            "avons",
+            "sommes",
+            "allons"
+          ],
+          "answer": 1,
+          "why": "[fr]rester[/fr] prend [fr]être[/fr]."
+        },
+        {
+          "q": "Il ___ sorti la poubelle.",
+          "options": [
+            "est",
+            "a",
+            "va"
+          ],
+          "answer": 1,
+          "why": "Avec un complément d’objet direct, [fr]sortir[/fr] prend [fr]avoir[/fr]."
+        },
+        {
+          "q": "Tu ___ levé tôt ce matin ?",
+          "options": [
+            "as",
+            "t’es",
+            "es"
+          ],
+          "answer": 1,
+          "why": "Verbe pronominal : [fr]tu t’es levé[/fr]."
+        },
+        {
+          "q": "Elles ___ parties hier.",
+          "options": [
+            "ont",
+            "sont",
+            "vont"
+          ],
+          "answer": 1,
+          "why": "[fr]partir[/fr] prend [fr]être[/fr], et le participe s’accorde : [fr]parties[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Écris le participe passé accordé.",
+      "items": [
+        {
+          "before": "Marie est ",
+          "after": " à huit heures. (arriver)",
+          "answer": "arrivée",
+          "why": "Sujet féminin singulier → [fr]+ e[/fr]."
+        },
+        {
+          "before": "Les enfants sont ",
+          "after": " dans le jardin. (tomber)",
+          "answer": "tombés",
+          "why": "Sujet masculin pluriel → [fr]+ s[/fr]."
+        },
+        {
+          "before": "Mes sœurs sont ",
+          "after": " en France. (naître)",
+          "answer": "nées",
+          "why": "Sujet féminin pluriel → [fr]+ es[/fr]."
+        },
+        {
+          "before": "Paul est ",
+          "after": " à minuit. (rentrer)",
+          "answer": "rentré",
+          "why": "Sujet masculin singulier → pas de changement."
+        },
+        {
+          "before": "Nous nous sommes ",
+          "after": " à sept heures. (réveiller)",
+          "answer": "réveillés",
+          "why": "Verbe pronominal : accord avec le sujet."
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets la phrase dans l’ordre.",
+      "items": [
+        {
+          "tokens": [
+            "Elle",
+            "est",
+            "partie",
+            "sans",
+            "dire",
+            "au",
+            "revoir"
+          ],
+          "answer": "Elle est partie sans dire au revoir"
+        },
+        {
+          "tokens": [
+            "Nous",
+            "ne",
+            "sommes",
+            "pas",
+            "sortis",
+            "hier",
+            "soir"
+          ],
+          "answer": "Nous ne sommes pas sortis hier soir",
+          "why": "[fr]ne… pas[/fr] entoure l’auxiliaire [fr]sommes[/fr]."
+        }
+      ]
+    }
+  ]
+}

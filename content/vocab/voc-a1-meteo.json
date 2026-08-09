@@ -1,0 +1,251 @@
+{
+  "id": "voc-a1-meteo",
+  "title": "Météo & saisons",
+  "level": "A1",
+  "order": 220,
+  "summary": "Le temps qu’il fait, saison par saison.",
+  "items": [
+    {
+      "fr": "le temps",
+      "ipa": "tɑ̃",
+      "en": "the weather",
+      "ex": "Quel temps fait-il ?"
+    },
+    {
+      "fr": "il fait beau",
+      "ipa": "il fɛ bo",
+      "en": "it’s nice",
+      "ex": "Il fait beau aujourd’hui."
+    },
+    {
+      "fr": "il fait mauvais",
+      "ipa": "il fɛ mo.vɛ",
+      "en": "the weather is bad",
+      "ex": "Il fait mauvais depuis lundi."
+    },
+    {
+      "fr": "il fait chaud",
+      "ipa": "il fɛ ʃo",
+      "en": "it’s hot",
+      "ex": "Il fait très chaud en août."
+    },
+    {
+      "fr": "il fait froid",
+      "ipa": "il fɛ fʁwa",
+      "en": "it’s cold",
+      "ex": "Il fait froid ce matin."
+    },
+    {
+      "fr": "il fait doux",
+      "ipa": "il fɛ du",
+      "en": "it’s mild",
+      "ex": "Il fait doux pour la saison."
+    },
+    {
+      "fr": "il fait frais",
+      "ipa": "il fɛ fʁɛ",
+      "en": "it’s chilly",
+      "ex": "Il fait frais le soir."
+    },
+    {
+      "fr": "il pleut",
+      "ipa": "il plø",
+      "en": "it’s raining",
+      "ex": "Il pleut depuis ce matin."
+    },
+    {
+      "fr": "la pluie",
+      "ipa": "plɥi",
+      "en": "rain",
+      "ex": "La pluie a tout arrosé."
+    },
+    {
+      "fr": "il neige",
+      "ipa": "il nɛʒ",
+      "en": "it’s snowing",
+      "ex": "Il neige en montagne."
+    },
+    {
+      "fr": "la neige",
+      "ipa": "nɛʒ",
+      "en": "snow",
+      "ex": "La neige tient au sol."
+    },
+    {
+      "fr": "le soleil",
+      "ipa": "sɔ.lɛj",
+      "en": "the sun",
+      "ex": "Il y a du soleil."
+    },
+    {
+      "fr": "un nuage",
+      "ipa": "ny.aʒ",
+      "en": "a cloud",
+      "ex": "Le ciel est plein de nuages."
+    },
+    {
+      "fr": "nuageux",
+      "ipa": "ny.a.ʒø",
+      "en": "cloudy",
+      "ex": "Un temps nuageux."
+    },
+    {
+      "fr": "le vent",
+      "ipa": "vɑ̃",
+      "en": "wind",
+      "ex": "Il y a du vent."
+    },
+    {
+      "fr": "le brouillard",
+      "ipa": "bʁu.jaʁ",
+      "en": "fog",
+      "ex": "Attention au brouillard."
+    },
+    {
+      "fr": "un orage",
+      "ipa": "ɔ.ʁaʒ",
+      "en": "a storm",
+      "ex": "Un orage est prévu."
+    },
+    {
+      "fr": "la température",
+      "ipa": "tɑ̃.pe.ʁa.tyʁ",
+      "en": "temperature",
+      "ex": "La température baisse."
+    },
+    {
+      "fr": "un degré",
+      "ipa": "də.ɡʁe",
+      "en": "a degree",
+      "ex": "Il fait vingt degrés."
+    },
+    {
+      "fr": "le ciel",
+      "ipa": "sjɛl",
+      "en": "the sky",
+      "ex": "Le ciel est gris."
+    },
+    {
+      "fr": "humide",
+      "ipa": "y.mid",
+      "en": "damp",
+      "ex": "Un climat humide."
+    },
+    {
+      "fr": "sec, sèche",
+      "ipa": "sɛk, sɛʃ",
+      "en": "dry",
+      "ex": "Un été très sec."
+    },
+    {
+      "fr": "le printemps",
+      "ipa": "pʁɛ̃.tɑ̃",
+      "en": "spring",
+      "ex": "Au printemps, tout refleurit."
+    },
+    {
+      "fr": "l’été (m)",
+      "ipa": "e.te",
+      "en": "summer",
+      "ex": "En été, on part à la mer."
+    },
+    {
+      "fr": "l’automne (m)",
+      "ipa": "o.tɔn",
+      "en": "autumn",
+      "ex": "En automne, les feuilles tombent."
+    },
+    {
+      "fr": "l’hiver (m)",
+      "ipa": "i.vɛʁ",
+      "en": "winter",
+      "ex": "En hiver, il gèle souvent."
+    },
+    {
+      "fr": "une saison",
+      "ipa": "sɛ.zɔ̃",
+      "en": "a season",
+      "ex": "Ma saison préférée est l’automne."
+    },
+    {
+      "fr": "la météo",
+      "ipa": "me.te.o",
+      "en": "the weather forecast",
+      "ex": "J’ai regardé la météo."
+    },
+    {
+      "fr": "une averse",
+      "ipa": "a.vɛʁs",
+      "en": "a shower",
+      "ex": "Des averses cet après-midi."
+    },
+    {
+      "fr": "une éclaircie",
+      "ipa": "e.klɛʁ.si",
+      "en": "a sunny spell",
+      "ex": "Quelques éclaircies demain."
+    },
+    {
+      "fr": "geler",
+      "ipa": "ʒə.le",
+      "en": "to freeze",
+      "ex": "Il va geler cette nuit."
+    },
+    {
+      "fr": "un parapluie",
+      "ipa": "pa.ʁa.plɥi",
+      "en": "an umbrella",
+      "ex": "Prends un parapluie."
+    },
+    {
+      "fr": "un manteau chaud",
+      "ipa": "mɑ̃.to ʃo",
+      "en": "a warm coat",
+      "ex": "Mets un manteau chaud."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle structure ?",
+      "items": [
+        {
+          "q": "___ du vent.",
+          "options": [
+            "Il fait",
+            "Il y a",
+            "Il"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "___ chaud.",
+          "options": [
+            "Il fait",
+            "Il y a",
+            "Il"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "On dit « ___ printemps ».",
+          "options": [
+            "en",
+            "au",
+            "à"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "On dit « ___ hiver ».",
+          "options": [
+            "en",
+            "au",
+            "à"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

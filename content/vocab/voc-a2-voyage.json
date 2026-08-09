@@ -1,0 +1,328 @@
+{
+  "id": "voc-a2-voyage",
+  "title": "Voyage & transports",
+  "level": "A2",
+  "order": 210,
+  "summary": "De la gare à l’aéroport : les mots pour se déplacer sans stress.",
+  "items": [
+    {
+      "fr": "un billet",
+      "ipa": "bi.jɛ",
+      "en": "a ticket",
+      "ex": "J’ai acheté un billet aller-retour."
+    },
+    {
+      "fr": "un aller simple",
+      "ipa": "a.le sɛ̃pl",
+      "en": "a one-way ticket",
+      "ex": "Un aller simple pour Lille, s’il vous plaît."
+    },
+    {
+      "fr": "un aller-retour",
+      "ipa": "a.le ʁə.tuʁ",
+      "en": "a return ticket",
+      "ex": "Un aller-retour coûte moins cher."
+    },
+    {
+      "fr": "la gare",
+      "ipa": "ɡaʁ",
+      "en": "the train station",
+      "ex": "La gare est à dix minutes à pied."
+    },
+    {
+      "fr": "le quai",
+      "ipa": "kɛ",
+      "en": "the platform",
+      "ex": "Le train part du quai numéro 4."
+    },
+    {
+      "fr": "la voie",
+      "ipa": "vwa",
+      "en": "the track",
+      "ex": "Attention, le train entre en voie 2."
+    },
+    {
+      "fr": "le guichet",
+      "ipa": "ɡi.ʃɛ",
+      "en": "the ticket counter",
+      "ex": "Il y a la queue au guichet."
+    },
+    {
+      "fr": "un horaire",
+      "ipa": "ɔ.ʁɛʁ",
+      "en": "a timetable",
+      "ex": "Les horaires changent le week-end."
+    },
+    {
+      "fr": "le départ",
+      "ipa": "de.paʁ",
+      "en": "the departure",
+      "ex": "Le départ est prévu à 8 h 15."
+    },
+    {
+      "fr": "l’arrivée (f)",
+      "ipa": "a.ʁi.ve",
+      "en": "the arrival",
+      "ex": "L’arrivée est à midi."
+    },
+    {
+      "fr": "une correspondance",
+      "ipa": "kɔ.ʁɛs.pɔ̃.dɑ̃s",
+      "en": "a connection",
+      "ex": "J’ai une correspondance à Lyon."
+    },
+    {
+      "fr": "un retard",
+      "ipa": "ʁə.taʁ",
+      "en": "a delay",
+      "ex": "Le train a vingt minutes de retard."
+    },
+    {
+      "fr": "une grève",
+      "ipa": "ɡʁɛv",
+      "en": "a strike",
+      "ex": "Il y a une grève des trains jeudi."
+    },
+    {
+      "fr": "composter",
+      "ipa": "kɔ̃.pɔs.te",
+      "en": "to validate (a ticket)",
+      "ex": "N’oubliez pas de composter votre billet."
+    },
+    {
+      "fr": "un aéroport",
+      "ipa": "a.e.ʁɔ.pɔʁ",
+      "en": "an airport",
+      "ex": "L’aéroport est loin du centre-ville."
+    },
+    {
+      "fr": "un vol",
+      "ipa": "vɔl",
+      "en": "a flight",
+      "ex": "Mon vol part à six heures du matin."
+    },
+    {
+      "fr": "l’embarquement (m)",
+      "ipa": "ɑ̃.baʁ.kə.mɑ̃",
+      "en": "boarding",
+      "ex": "L’embarquement commence dans dix minutes."
+    },
+    {
+      "fr": "une carte d’embarquement",
+      "ipa": "kaʁt dɑ̃.baʁ.kə.mɑ̃",
+      "en": "a boarding pass",
+      "ex": "Votre carte d’embarquement, s’il vous plaît."
+    },
+    {
+      "fr": "les bagages (m)",
+      "ipa": "ba.ɡaʒ",
+      "en": "luggage",
+      "ex": "Mes bagages sont trop lourds."
+    },
+    {
+      "fr": "une valise",
+      "ipa": "va.liz",
+      "en": "a suitcase",
+      "ex": "Ma valise ne ferme plus."
+    },
+    {
+      "fr": "un sac à dos",
+      "ipa": "sak a do",
+      "en": "a backpack",
+      "ex": "Je voyage avec un sac à dos."
+    },
+    {
+      "fr": "la douane",
+      "ipa": "dwan",
+      "en": "customs",
+      "ex": "Nous sommes passés à la douane."
+    },
+    {
+      "fr": "un passeport",
+      "ipa": "pas.pɔʁ",
+      "en": "a passport",
+      "ex": "Mon passeport expire en juin."
+    },
+    {
+      "fr": "une pièce d’identité",
+      "ipa": "pjɛs di.dɑ̃.ti.te",
+      "en": "an ID document",
+      "ex": "Une pièce d’identité est obligatoire."
+    },
+    {
+      "fr": "le métro",
+      "ipa": "me.tʁo",
+      "en": "the underground",
+      "ex": "Le métro est le plus rapide à Paris."
+    },
+    {
+      "fr": "un ticket",
+      "ipa": "ti.kɛ",
+      "en": "a ticket (metro, bus)",
+      "ex": "Un carnet de dix tickets, s’il vous plaît."
+    },
+    {
+      "fr": "une ligne",
+      "ipa": "liɲ",
+      "en": "a line",
+      "ex": "Prends la ligne 6 direction Nation."
+    },
+    {
+      "fr": "une station",
+      "ipa": "sta.sjɔ̃",
+      "en": "a station (metro)",
+      "ex": "C’est à trois stations d’ici."
+    },
+    {
+      "fr": "un arrêt",
+      "ipa": "a.ʁɛ",
+      "en": "a stop (bus)",
+      "ex": "Descendez au prochain arrêt."
+    },
+    {
+      "fr": "le bus",
+      "ipa": "bys",
+      "en": "the bus",
+      "ex": "Le bus passe toutes les dix minutes."
+    },
+    {
+      "fr": "le tramway",
+      "ipa": "tʁam.wɛ",
+      "en": "the tram",
+      "ex": "Le tramway va jusqu’à l’université."
+    },
+    {
+      "fr": "un taxi",
+      "ipa": "tak.si",
+      "en": "a taxi",
+      "ex": "On prend un taxi, il est trop tard."
+    },
+    {
+      "fr": "louer une voiture",
+      "ipa": "lwe yn vwa.tyʁ",
+      "en": "to rent a car",
+      "ex": "Nous allons louer une voiture pour une semaine."
+    },
+    {
+      "fr": "l’essence (f)",
+      "ipa": "e.sɑ̃s",
+      "en": "petrol",
+      "ex": "L’essence coûte cher en Europe."
+    },
+    {
+      "fr": "un embouteillage",
+      "ipa": "ɑ̃.bu.tɛ.jaʒ",
+      "en": "a traffic jam",
+      "ex": "On est resté une heure dans les embouteillages."
+    },
+    {
+      "fr": "l’autoroute (f)",
+      "ipa": "o.to.ʁut",
+      "en": "the motorway",
+      "ex": "L’autoroute est payante en France."
+    },
+    {
+      "fr": "un péage",
+      "ipa": "pe.aʒ",
+      "en": "a toll",
+      "ex": "Il y a un péage tous les cinquante kilomètres."
+    },
+    {
+      "fr": "faire escale",
+      "ipa": "fɛʁ ɛs.kal",
+      "en": "to stop over",
+      "ex": "Nous faisons escale à Amsterdam."
+    },
+    {
+      "fr": "annuler",
+      "ipa": "a.ny.le",
+      "en": "to cancel",
+      "ex": "Mon vol a été annulé."
+    },
+    {
+      "fr": "rembourser",
+      "ipa": "ʁɑ̃.buʁ.se",
+      "en": "to refund",
+      "ex": "Ils m’ont remboursé le billet."
+    },
+    {
+      "fr": "une assurance voyage",
+      "ipa": "a.sy.ʁɑ̃s vwa.jaʒ",
+      "en": "travel insurance",
+      "ex": "Prends une assurance voyage, c’est plus prudent."
+    },
+    {
+      "fr": "l’heure de pointe (f)",
+      "ipa": "lœʁ də pwɛ̃t",
+      "en": "rush hour",
+      "ex": "Évite le métro à l’heure de pointe."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis le mot juste.",
+      "items": [
+        {
+          "q": "Le train part du ___ numéro 7.",
+          "options": [
+            "quai",
+            "guichet",
+            "vol"
+          ],
+          "answer": 0,
+          "why": "On attend le train sur le [fr]quai[/fr]."
+        },
+        {
+          "q": "Je pars et je reviens : je prends un ___ .",
+          "options": [
+            "aller simple",
+            "aller-retour",
+            "embarquement"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Il y a beaucoup de voitures et ça n’avance pas : c’est un ___ .",
+          "options": [
+            "péage",
+            "embouteillage",
+            "arrêt"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Avant de monter dans l’avion, on présente sa ___ .",
+          "options": [
+            "valise",
+            "carte d’embarquement",
+            "correspondance"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète la phrase.",
+      "items": [
+        {
+          "before": "Mon vol a été ",
+          "after": " à cause de la neige.",
+          "answer": "annulé",
+          "why": "[fr]annuler[/fr] → participe [fr]annulé[/fr]."
+        },
+        {
+          "before": "Le train a une heure de ",
+          "after": " .",
+          "answer": "retard"
+        },
+        {
+          "before": "Il faut ",
+          "after": " son billet avant de monter.",
+          "answer": "composter"
+        }
+      ]
+    }
+  ]
+}

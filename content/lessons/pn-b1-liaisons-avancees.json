@@ -1,0 +1,199 @@
+{
+  "id": "pn-b1-liaisons-avancees",
+  "group": "prononciation",
+  "level": "B1",
+  "order": 310,
+  "title": "Liaisons obligatoires, interdites, facultatives",
+  "summary": "Faire toutes les liaisons sonne aussi faux que n’en faire aucune.",
+  "essentiel": [
+    "**Obligatoires** : à l’intérieur d’un groupe soudé — [fr]les_amis, nous_avons, très_utile[/fr].",
+    "**Interdites** : après [fr]et[/fr], devant un [fr]h[/fr] aspiré, après un nom singulier.",
+    "**Facultatives** : plus on en fait, plus le registre est soutenu."
+  ],
+  "regle": "Les liaisons ne sont pas toutes égales. Un francophone en fait certaines sans y penser, en évite d’autres absolument, et dose les dernières selon la situation.\n\n**1 · Les liaisons obligatoires.** Elles unissent des mots qui forment un bloc grammatical.\n- déterminant + nom : [fr]les_enfants, mon_ami, ces_arbres, deux_heures[/fr]\n- pronom + verbe : [fr]nous_avons, ils_ont, on_est, vous_êtes[/fr]\n- adjectif + nom : [fr]un grand_homme, de bons_amis[/fr]\n- après une préposition courte : [fr]dans_un an, sans_elle, chez_eux, en_avion[/fr]\n- après [fr]très, plus, moins, bien[/fr] : [fr]très_important[/fr]\n- dans les expressions figées : [fr]de temps_en temps, tout_à fait, petit_à petit, États-Unis[/fr]\n\n**2 · Les liaisons interdites.** Les faire est une faute nette.\n- après [fr]et[/fr] : [fr]un homme et || une femme[/fr] — jamais de {{t}}\n- devant un [fr]h[/fr] aspiré : [fr]les || héros, en || haut, les || haricots[/fr]\n- après un **nom singulier** : [fr]un enfant || intelligent[/fr]\n- devant [fr]oui, onze, huit[/fr] : [fr]les || onze joueurs[/fr]\n- après [fr]comment[/fr] et [fr]quand[/fr] en question (sauf [fr]Comment_allez-vous ?[/fr], figé)\n\n**3 · Les liaisons facultatives.** C’est ici que se joue le registre.\n[fr]Je suis_allé[/fr] ((soutenu)) contre [fr]Je suis || allé[/fr] ((courant))\n[fr]pas_encore[/fr], [fr]toujours_ici[/fr] — un présentateur de journal les fera, un ami au café souvent pas.\n\n**La règle sociale** : en faire trop paraît affecté ; n’en faire aucune paraît négligé. Le milieu est la norme.",
+  "exemples": [
+    {
+      "fr": "Nous avons pris le train de dix heures.",
+      "en": "We took the ten o’clock train."
+    },
+    {
+      "fr": "Un homme et une femme attendaient.",
+      "en": "A man and a woman were waiting."
+    },
+    {
+      "fr": "Les haricots verts sont en haut.",
+      "en": "The green beans are up there."
+    },
+    {
+      "fr": "C’est tout à fait exact.",
+      "en": "That’s absolutely right."
+    },
+    {
+      "fr": "Je suis allé chez eux de temps en temps.",
+      "en": "I went to their place from time to time."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le tableau de décision",
+      "collapsed": false,
+      "headers": [
+        "Cas",
+        "Liaison ?",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "déterminant + nom",
+          "obligatoire",
+          "les_amis"
+        ],
+        [
+          "pronom + verbe",
+          "obligatoire",
+          "ils_ont"
+        ],
+        [
+          "adjectif + nom",
+          "obligatoire",
+          "un grand_arbre"
+        ],
+        [
+          "après très, plus, bien",
+          "obligatoire",
+          "très_utile"
+        ],
+        [
+          "expressions figées",
+          "obligatoire",
+          "tout_à fait"
+        ],
+        [
+          "après « et »",
+          "**interdite**",
+          "et || elle"
+        ],
+        [
+          "devant h aspiré",
+          "**interdite**",
+          "les || haricots"
+        ],
+        [
+          "nom singulier + adjectif",
+          "**interdite**",
+          "un enfant || aimable"
+        ],
+        [
+          "devant onze, oui, huit",
+          "**interdite**",
+          "les || onze"
+        ],
+        [
+          "verbe + participe",
+          "facultative",
+          "je suis (_)allé"
+        ],
+        [
+          "adverbe + adjectif",
+          "facultative",
+          "pas (_)encore"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Liaison obligatoire, interdite ou facultative ?",
+      "items": [
+        {
+          "q": "« les enfants »",
+          "options": [
+            "obligatoire",
+            "interdite",
+            "facultative"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« et elle »",
+          "options": [
+            "obligatoire",
+            "interdite",
+            "facultative"
+          ],
+          "answer": 1,
+          "why": "Jamais de liaison après [fr]et[/fr]."
+        },
+        {
+          "q": "« les héros »",
+          "options": [
+            "obligatoire",
+            "interdite",
+            "facultative"
+          ],
+          "answer": 1,
+          "why": "[fr]h[/fr] aspiré."
+        },
+        {
+          "q": "« je suis allé »",
+          "options": [
+            "obligatoire",
+            "interdite",
+            "facultative"
+          ],
+          "answer": 2,
+          "why": "Registre : soutenu si on la fait."
+        },
+        {
+          "q": "« un enfant intelligent »",
+          "options": [
+            "obligatoire",
+            "interdite",
+            "facultative"
+          ],
+          "answer": 1,
+          "why": "Après un nom **singulier**, pas de liaison."
+        },
+        {
+          "q": "« tout à fait »",
+          "options": [
+            "obligatoire",
+            "interdite",
+            "facultative"
+          ],
+          "answer": 0,
+          "why": "Expression figée."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le cas à sa règle.",
+      "labelLeft": "Cas",
+      "labelRight": "Règle",
+      "pairs": [
+        [
+          "nous avons",
+          "obligatoire"
+        ],
+        [
+          "et une femme",
+          "interdite"
+        ],
+        [
+          "en haut",
+          "interdite"
+        ],
+        [
+          "pas encore",
+          "facultative"
+        ],
+        [
+          "très important",
+          "obligatoire"
+        ]
+      ]
+    }
+  ]
+}

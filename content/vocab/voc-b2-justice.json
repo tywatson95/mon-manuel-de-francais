@@ -1,0 +1,243 @@
+{
+  "id": "voc-b2-justice",
+  "title": "Justice & droit",
+  "level": "B2",
+  "order": 540,
+  "summary": "Le vocabulaire du système judiciaire.",
+  "items": [
+    {
+      "fr": "la justice",
+      "ipa": "ʒys.tis",
+      "en": "justice, the judiciary",
+      "ex": "La justice est indépendante."
+    },
+    {
+      "fr": "un tribunal",
+      "ipa": "tʁi.by.nal",
+      "en": "a court",
+      "ex": "Le tribunal a rendu son jugement."
+    },
+    {
+      "fr": "une cour d’appel",
+      "ipa": "kuʁ da.pɛl",
+      "en": "a court of appeal",
+      "ex": "L’affaire va en cour d’appel."
+    },
+    {
+      "fr": "la Cour de cassation",
+      "ipa": "ka.sa.sjɔ̃",
+      "en": "the Court of Cassation",
+      "ex": "La Cour de cassation a annulé l’arrêt."
+    },
+    {
+      "fr": "un(e) juge",
+      "ipa": "ʒyʒ",
+      "en": "a judge",
+      "ex": "Le juge a ordonné une expertise."
+    },
+    {
+      "fr": "un(e) avocat(e)",
+      "ipa": "a.vɔ.ka",
+      "en": "a lawyer",
+      "ex": "L’avocate de la défense."
+    },
+    {
+      "fr": "le procureur",
+      "ipa": "pʁɔ.ky.ʁœʁ",
+      "en": "the public prosecutor",
+      "ex": "Le procureur a requis trois ans."
+    },
+    {
+      "fr": "un procès",
+      "ipa": "pʁɔ.sɛ",
+      "en": "a trial",
+      "ex": "Le procès s’ouvre lundi."
+    },
+    {
+      "fr": "une audience",
+      "ipa": "o.djɑ̃s",
+      "en": "a hearing",
+      "ex": "L’audience a duré six heures."
+    },
+    {
+      "fr": "un(e) accusé(e)",
+      "ipa": "a.ky.ze",
+      "en": "the accused",
+      "ex": "L’accusé nie les faits."
+    },
+    {
+      "fr": "une victime",
+      "ipa": "vik.tim",
+      "en": "a victim",
+      "ex": "La victime a porté plainte."
+    },
+    {
+      "fr": "un témoignage",
+      "ipa": "te.mwa.ɲaʒ",
+      "en": "a testimony",
+      "ex": "Un témoignage accablant."
+    },
+    {
+      "fr": "une preuve",
+      "ipa": "pʁœv",
+      "en": "evidence",
+      "ex": "Les preuves manquent."
+    },
+    {
+      "fr": "une enquête",
+      "ipa": "ɑ̃.kɛt",
+      "en": "an investigation",
+      "ex": "Une enquête a été ouverte."
+    },
+    {
+      "fr": "une plainte",
+      "ipa": "plɛ̃t",
+      "en": "a complaint",
+      "ex": "Déposer une plainte."
+    },
+    {
+      "fr": "une infraction",
+      "ipa": "ɛ̃.fʁak.sjɔ̃",
+      "en": "an offence",
+      "ex": "Une infraction au code de la route."
+    },
+    {
+      "fr": "un délit",
+      "ipa": "de.li",
+      "en": "a misdemeanour",
+      "ex": "Un délit financier."
+    },
+    {
+      "fr": "un crime",
+      "ipa": "kʁim",
+      "en": "a serious crime",
+      "ex": "Un crime jugé aux assises."
+    },
+    {
+      "fr": "une peine",
+      "ipa": "pɛn",
+      "en": "a sentence",
+      "ex": "Une peine de deux ans."
+    },
+    {
+      "fr": "une amende",
+      "ipa": "a.mɑ̃d",
+      "en": "a fine",
+      "ex": "Une amende de 5 000 euros."
+    },
+    {
+      "fr": "la prison",
+      "ipa": "pʁi.zɔ̃",
+      "en": "prison",
+      "ex": "Trois ans de prison ferme."
+    },
+    {
+      "fr": "avec sursis",
+      "ipa": "syʁ.si",
+      "en": "suspended",
+      "ex": "Un an avec sursis."
+    },
+    {
+      "fr": "relaxer, acquitter",
+      "ipa": "a.ki.te",
+      "en": "to acquit",
+      "ex": "L’accusé a été acquitté."
+    },
+    {
+      "fr": "condamner",
+      "ipa": "kɔ̃.da.ne",
+      "en": "to convict",
+      "ex": "Il a été condamné en appel."
+    },
+    {
+      "fr": "la présomption d’innocence",
+      "ipa": "pʁe.zɔ̃p.sjɔ̃",
+      "en": "presumption of innocence",
+      "ex": "La présomption d’innocence s’impose."
+    },
+    {
+      "fr": "un recours",
+      "ipa": "ʁə.kuʁ",
+      "en": "an appeal, a remedy",
+      "ex": "Former un recours."
+    },
+    {
+      "fr": "la loi",
+      "ipa": "lwa",
+      "en": "the law",
+      "ex": "Nul n’est censé ignorer la loi."
+    },
+    {
+      "fr": "un droit",
+      "ipa": "dʁwa",
+      "en": "a right",
+      "ex": "Un droit fondamental."
+    },
+    {
+      "fr": "un devoir",
+      "ipa": "də.vwaʁ",
+      "en": "a duty",
+      "ex": "Les droits et les devoirs."
+    },
+    {
+      "fr": "la jurisprudence",
+      "ipa": "ʒy.ʁis.pʁy.dɑ̃s",
+      "en": "case law",
+      "ex": "Une jurisprudence constante."
+    },
+    {
+      "fr": "un contrat",
+      "ipa": "kɔ̃.tʁa",
+      "en": "a contract",
+      "ex": "Un contrat léonin."
+    },
+    {
+      "fr": "un litige",
+      "ipa": "li.tiʒ",
+      "en": "a dispute",
+      "ex": "Un litige commercial."
+    },
+    {
+      "fr": "une médiation",
+      "ipa": "me.dja.sjɔ̃",
+      "en": "a mediation",
+      "ex": "Une médiation a été proposée."
+    },
+    {
+      "fr": "l’état de droit",
+      "ipa": "e.ta də dʁwa",
+      "en": "the rule of law",
+      "ex": "Défendre l’État de droit."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe le terme à sa définition.",
+      "labelLeft": "Terme",
+      "labelRight": "Définition",
+      "pairs": [
+        [
+          "un délit",
+          "une infraction moyenne"
+        ],
+        [
+          "avec sursis",
+          "la peine n’est pas exécutée si l’on ne récidive pas"
+        ],
+        [
+          "acquitter",
+          "déclarer non coupable"
+        ],
+        [
+          "la jurisprudence",
+          "l’ensemble des décisions passées"
+        ],
+        [
+          "un recours",
+          "la contestation d’une décision"
+        ]
+      ]
+    }
+  ]
+}

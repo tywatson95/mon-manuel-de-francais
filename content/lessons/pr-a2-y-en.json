@@ -1,0 +1,177 @@
+{
+  "id": "pr-a2-y-en",
+  "group": "pronoms",
+  "level": "A2",
+  "order": 230,
+  "title": "Les pronoms y et en",
+  "summary": "Deux petits mots qui remplacent un lieu, une quantité, ou un complément en « de ».",
+  "essentiel": [
+    "[fr]**y**[/fr] remplace un lieu, ou un complément avec [fr]à[/fr] (chose) : [fr]J’**y** vais. · J’**y** pense.[/fr]",
+    "[fr]**en**[/fr] remplace un complément avec [fr]de[/fr], ou une quantité : [fr]J’**en** viens. · J’**en** veux deux.[/fr]",
+    "Avec un nombre, on **garde le nombre** : [fr]J’en ai **trois**.[/fr]"
+  ],
+  "regle": "Ce sont les deux pronoms qui manquent le plus aux anglophones, parce que l’anglais ne les traduit pas.\n\n**[fr]Y[/fr] = le lieu.** Il remplace [fr]à / en / dans / sur / chez[/fr] + lieu.\n[fr]Tu vas **à Paris** ? — Oui, j’**y** vais demain.[/fr]\n\n**[fr]Y[/fr] = à + chose.** Après des verbes comme [fr]penser à, s’intéresser à, réfléchir à, participer à[/fr].\n[fr]Tu penses **à ton examen** ? — Oui, j’**y** pense.[/fr]\n(Pour une **personne**, on garde le pronom tonique : [fr]Je pense **à elle**.[/fr])\n\n**[fr]En[/fr] = de + chose.** Après [fr]parler de, avoir besoin de, venir de, s’occuper de, se souvenir de[/fr].\n[fr]Tu as besoin **d’aide** ? — Oui, j’**en** ai besoin.[/fr]\n\n**[fr]En[/fr] = la quantité.** C’est son emploi le plus fréquent. Il remplace [fr]du, de la, des, un, une[/fr] et les nombres.\n[fr]Tu veux **du café** ? — Oui, j’**en** veux.[/fr]\n[fr]Tu as **des enfants** ? — Oui, j’**en** ai **deux**.[/fr]\n\nNotez qu’en français, on ne peut pas répondre « J’ai deux » : le [fr]en[/fr] est obligatoire.",
+  "exemples": [
+    {
+      "fr": "— Tu vas au bureau ? — Oui, j’y vais.",
+      "en": "— Are you going to the office? — Yes, I’m going (there)."
+    },
+    {
+      "fr": "— Tu as du lait ? — Non, je n’en ai plus.",
+      "en": "— Do you have milk? — No, I don’t have any left."
+    },
+    {
+      "fr": "— Combien de frères as-tu ? — J’en ai deux.",
+      "en": "— How many brothers do you have? — I have two."
+    },
+    {
+      "fr": "Nous en avons parlé hier.",
+      "en": "We talked about it yesterday."
+    },
+    {
+      "fr": "Ce projet ? J’y réfléchis encore.",
+      "en": "That project? I’m still thinking about it."
+    },
+    {
+      "fr": "N’y va pas !",
+      "en": "Don’t go there!"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le réflexe : quelle préposition ?",
+      "collapsed": false,
+      "headers": [
+        "Le complément commence par…",
+        "Pronom",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "à, en, dans, sur, chez + **lieu**",
+          "y",
+          "J’y suis allé."
+        ],
+        [
+          "à + **chose**",
+          "y",
+          "Je m’y intéresse."
+        ],
+        [
+          "à + **personne**",
+          "lui / leur ou tonique",
+          "Je lui parle. / Je pense à elle."
+        ],
+        [
+          "de + **chose**",
+          "en",
+          "Je m’en occupe."
+        ],
+        [
+          "du, de la, des, un, deux…",
+          "en",
+          "J’en prends trois."
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Y ou en ?",
+      "items": [
+        {
+          "q": "— Tu vas à la piscine ? — Oui, j’___ vais.",
+          "options": [
+            "y",
+            "en",
+            "le"
+          ],
+          "answer": 0,
+          "why": "Lieu introduit par [fr]à[/fr] → [fr]y[/fr]."
+        },
+        {
+          "q": "— Tu veux de la soupe ? — Oui, j’___ veux bien.",
+          "options": [
+            "y",
+            "en",
+            "la"
+          ],
+          "answer": 1,
+          "why": "[fr]de la[/fr] → [fr]en[/fr]."
+        },
+        {
+          "q": "— Tu as besoin de mon aide ? — Oui, j’___ ai besoin.",
+          "options": [
+            "y",
+            "en",
+            "le"
+          ],
+          "answer": 1,
+          "why": "[fr]avoir besoin **de**[/fr] → [fr]en[/fr]."
+        },
+        {
+          "q": "— Tu penses à ton travail ? — Oui, j’___ pense.",
+          "options": [
+            "y",
+            "en",
+            "le"
+          ],
+          "answer": 0,
+          "why": "[fr]penser **à**[/fr] + chose → [fr]y[/fr]."
+        },
+        {
+          "q": "— Combien de voitures avez-vous ? — Nous ___ avons une.",
+          "options": [
+            "y",
+            "en",
+            "les"
+          ],
+          "answer": 1,
+          "why": "Quantité → [fr]en[/fr], et on garde [fr]une[/fr]."
+        },
+        {
+          "q": "— Tu reviens de Lyon ? — Oui, j’___ reviens.",
+          "options": [
+            "y",
+            "en",
+            "le"
+          ],
+          "answer": 1,
+          "why": "[fr]revenir **de**[/fr] → [fr]en[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec « y » ou « en ».",
+      "items": [
+        {
+          "before": "— Tu es allé au musée ? — Oui, j’",
+          "after": " suis allé samedi.",
+          "answer": "y"
+        },
+        {
+          "before": "— Tu as des enfants ? — J’",
+          "after": " ai trois.",
+          "answer": "en"
+        },
+        {
+          "before": "Ce problème, nous ",
+          "after": " avons déjà parlé.",
+          "answer": "en"
+        },
+        {
+          "before": "Le tennis ? Je ne m’",
+          "after": " intéresse pas.",
+          "answer": "y"
+        },
+        {
+          "before": "— Il reste du pain ? — Non, il n’",
+          "after": " reste plus.",
+          "answer": "en"
+        }
+      ]
+    }
+  ]
+}

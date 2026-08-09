@@ -1,0 +1,176 @@
+{
+  "id": "co-b1-adverbes-ment",
+  "group": "connecteurs",
+  "level": "B1",
+  "order": 350,
+  "title": "Les adverbes en -ment",
+  "summary": "Fabriquer un adverbe à partir d’un adjectif — et savoir où le placer.",
+  "essentiel": [
+    "Adjectif au **féminin** + [fr]-ment[/fr] : [fr]lente → lente**ment**[/fr].",
+    "Adjectif terminé par une **voyelle** : on part du masculin — [fr]vrai → vrai**ment**[/fr].",
+    "[fr]-ant → -amment[/fr] · [fr]-ent → -emment[/fr] — les deux se prononcent {{amɑ̃}}."
+  ],
+  "regle": "**La règle de base.** On prend le féminin de l’adjectif et on ajoute [fr]-ment[/fr].\n[fr]doux → douce → douce**ment**[/fr] · [fr]heureux → heureuse → heureuse**ment**[/fr]\n\n**Si l’adjectif masculin finit par une voyelle**, pas besoin du féminin :\n[fr]poli → poli**ment**[/fr] · [fr]vrai → vrai**ment**[/fr] · [fr]absolu → absolu**ment**[/fr]\n\n**Les deux familles en -amment / -emment.**\n[fr]courant → cour**amment**[/fr] · [fr]évident → évid**emment**[/fr]\nAttention : elles se prononcent **identiquement**, {{amɑ̃}}. Seule l’orthographe diffère, et elle suit celle de l’adjectif.\n\n**Quelques irréguliers utiles.**\n[fr]précis → précisément[/fr] · [fr]énorme → énormément[/fr] · [fr]profond → profondément[/fr] · [fr]gentil → gentiment[/fr] · [fr]bref → brièvement[/fr]\n\n**La place de l’adverbe.**\n- avec un temps simple : **après le verbe** → [fr]Il parle **lentement**.[/fr]\n- avec un temps composé : les adverbes courts vont **entre** l’auxiliaire et le participe → [fr]Il a **bien** compris.[/fr] ; les adverbes longs en [fr]-ment[/fr] vont **après** → [fr]Il a répondu **calmement**.[/fr]\n- pour commenter toute la phrase : **en tête** → [fr]**Heureusement**, il n’a rien.[/fr]",
+  "exemples": [
+    {
+      "fr": "Elle parle couramment quatre langues.",
+      "en": "She speaks four languages fluently."
+    },
+    {
+      "fr": "Évidemment, il n’a rien dit.",
+      "en": "Obviously, he said nothing."
+    },
+    {
+      "fr": "Il a répondu très poliment.",
+      "en": "He answered very politely."
+    },
+    {
+      "fr": "Heureusement, nous avons trouvé une solution.",
+      "en": "Fortunately, we found a solution."
+    },
+    {
+      "fr": "Le train est arrivé exactement à l’heure.",
+      "en": "The train arrived exactly on time."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir la formation, cas par cas",
+      "collapsed": true,
+      "headers": [
+        "Adjectif",
+        "Féminin",
+        "Adverbe",
+        "Règle"
+      ],
+      "rows": [
+        [
+          "lent",
+          "lente",
+          "lentement",
+          "féminin + ment"
+        ],
+        [
+          "heureux",
+          "heureuse",
+          "heureusement",
+          "féminin + ment"
+        ],
+        [
+          "vrai",
+          "—",
+          "vraiment",
+          "voyelle → masculin"
+        ],
+        [
+          "poli",
+          "—",
+          "poliment",
+          "voyelle → masculin"
+        ],
+        [
+          "courant",
+          "—",
+          "couramment",
+          "-ant → -amment"
+        ],
+        [
+          "évident",
+          "—",
+          "évidemment",
+          "-ent → -emment"
+        ],
+        [
+          "précis",
+          "précise",
+          "précisément",
+          "é irrégulier"
+        ],
+        [
+          "gentil",
+          "gentille",
+          "gentiment",
+          "irrégulier"
+        ],
+        [
+          "bref",
+          "brève",
+          "brièvement",
+          "irrégulier"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Forme l’adverbe.",
+      "items": [
+        {
+          "before": "Il conduit très ",
+          "after": " . (prudent)",
+          "answer": "prudemment"
+        },
+        {
+          "before": "Elle chante ",
+          "after": " . (doux)",
+          "answer": "doucement"
+        },
+        {
+          "before": "Il a répondu ",
+          "after": " . (poli)",
+          "answer": "poliment"
+        },
+        {
+          "before": "Ils travaillent ",
+          "after": " . (constant)",
+          "answer": "constamment"
+        },
+        {
+          "before": "",
+          "after": " , tout va bien. (heureux)",
+          "answer": "Heureusement",
+          "alt": [
+            "heureusement"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Où placer l’adverbe ?",
+      "items": [
+        {
+          "q": "(bien) « Il a … compris … »",
+          "options": [
+            "Il a bien compris.",
+            "Il a compris bien.",
+            "Bien il a compris."
+          ],
+          "answer": 0,
+          "why": "Adverbe court → entre auxiliaire et participe."
+        },
+        {
+          "q": "(calmement) « Elle a … répondu … »",
+          "options": [
+            "Elle a calmement répondu.",
+            "Elle a répondu calmement.",
+            "Les deux sont acceptables."
+          ],
+          "answer": 2,
+          "why": "Les deux se disent ; la position finale est plus courante."
+        },
+        {
+          "q": "Comment s’écrit l’adverbe de « évident » ?",
+          "options": [
+            "évidamment",
+            "évidemment",
+            "évidentment"
+          ],
+          "answer": 1,
+          "why": "[fr]-ent → -emment[/fr]."
+        }
+      ]
+    }
+  ]
+}

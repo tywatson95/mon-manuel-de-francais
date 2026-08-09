@@ -1,0 +1,282 @@
+{
+  "id": "voc-a1-ville",
+  "title": "La ville & les directions",
+  "level": "A1",
+  "order": 200,
+  "summary": "Les lieux de la ville et comment s’y rendre.",
+  "items": [
+    {
+      "fr": "la ville",
+      "ipa": "vil",
+      "en": "the town, city",
+      "ex": "J’habite en ville."
+    },
+    {
+      "fr": "le centre-ville",
+      "ipa": "sɑ̃tʁ vil",
+      "en": "the town centre",
+      "ex": "Le centre-ville est piéton."
+    },
+    {
+      "fr": "une rue",
+      "ipa": "ʁy",
+      "en": "a street",
+      "ex": "Il habite rue de Rivoli."
+    },
+    {
+      "fr": "une avenue",
+      "ipa": "av.ny",
+      "en": "an avenue",
+      "ex": "Une grande avenue."
+    },
+    {
+      "fr": "une place",
+      "ipa": "plas",
+      "en": "a square",
+      "ex": "La place est animée."
+    },
+    {
+      "fr": "un quartier",
+      "ipa": "kaʁ.tje",
+      "en": "a district",
+      "ex": "C’est un quartier calme."
+    },
+    {
+      "fr": "la gare",
+      "ipa": "ɡaʁ",
+      "en": "the station",
+      "ex": "La gare est à dix minutes."
+    },
+    {
+      "fr": "la mairie",
+      "ipa": "mɛ.ʁi",
+      "en": "the town hall",
+      "ex": "La mairie ouvre à 9 h."
+    },
+    {
+      "fr": "la poste",
+      "ipa": "pɔst",
+      "en": "the post office",
+      "ex": "Je vais à la poste."
+    },
+    {
+      "fr": "la banque",
+      "ipa": "bɑ̃k",
+      "en": "the bank",
+      "ex": "La banque ferme à 17 h."
+    },
+    {
+      "fr": "la pharmacie",
+      "ipa": "faʁ.ma.si",
+      "en": "the chemist",
+      "ex": "La pharmacie est de garde."
+    },
+    {
+      "fr": "l’hôpital (m)",
+      "ipa": "ɔ.pi.tal",
+      "en": "the hospital",
+      "ex": "L’hôpital est loin."
+    },
+    {
+      "fr": "l’école (f)",
+      "ipa": "e.kɔl",
+      "en": "the school",
+      "ex": "Les enfants sont à l’école."
+    },
+    {
+      "fr": "la bibliothèque",
+      "ipa": "bi.bli.jɔ.tɛk",
+      "en": "the library",
+      "ex": "J’étudie à la bibliothèque."
+    },
+    {
+      "fr": "le musée",
+      "ipa": "my.ze",
+      "en": "the museum",
+      "ex": "Le musée est gratuit le dimanche."
+    },
+    {
+      "fr": "le cinéma",
+      "ipa": "si.ne.ma",
+      "en": "the cinema",
+      "ex": "On va au cinéma ?"
+    },
+    {
+      "fr": "l’église (f)",
+      "ipa": "e.ɡliz",
+      "en": "the church",
+      "ex": "L’église est du XIIe siècle."
+    },
+    {
+      "fr": "le parc",
+      "ipa": "paʁk",
+      "en": "the park",
+      "ex": "On se promène au parc."
+    },
+    {
+      "fr": "le marché",
+      "ipa": "maʁ.ʃe",
+      "en": "the market",
+      "ex": "Le marché est le mercredi."
+    },
+    {
+      "fr": "une boulangerie",
+      "ipa": "bu.lɑ̃.ʒʁi",
+      "en": "a bakery",
+      "ex": "La boulangerie du coin."
+    },
+    {
+      "fr": "un supermarché",
+      "ipa": "sy.pɛʁ.maʁ.ʃe",
+      "en": "a supermarket",
+      "ex": "Je vais au supermarché."
+    },
+    {
+      "fr": "un magasin",
+      "ipa": "ma.ɡa.zɛ̃",
+      "en": "a shop",
+      "ex": "Le magasin est fermé."
+    },
+    {
+      "fr": "un arrêt de bus",
+      "ipa": "a.ʁɛ də bys",
+      "en": "a bus stop",
+      "ex": "L’arrêt de bus est là-bas."
+    },
+    {
+      "fr": "une station de métro",
+      "ipa": "sta.sjɔ̃",
+      "en": "a metro station",
+      "ex": "La station est à côté."
+    },
+    {
+      "fr": "un parking",
+      "ipa": "paʁ.kiŋ",
+      "en": "a car park",
+      "ex": "Le parking est complet."
+    },
+    {
+      "fr": "un feu (rouge)",
+      "ipa": "fø",
+      "en": "traffic lights",
+      "ex": "Tournez au feu."
+    },
+    {
+      "fr": "un carrefour",
+      "ipa": "kaʁ.fuʁ",
+      "en": "a crossroads",
+      "ex": "Au carrefour, à droite."
+    },
+    {
+      "fr": "un pont",
+      "ipa": "pɔ̃",
+      "en": "a bridge",
+      "ex": "Traversez le pont."
+    },
+    {
+      "fr": "à droite",
+      "ipa": "a dʁwat",
+      "en": "on the right",
+      "ex": "Tournez à droite."
+    },
+    {
+      "fr": "à gauche",
+      "ipa": "a ɡoʃ",
+      "en": "on the left",
+      "ex": "La banque est à gauche."
+    },
+    {
+      "fr": "tout droit",
+      "ipa": "tu dʁwa",
+      "en": "straight ahead",
+      "ex": "Allez tout droit."
+    },
+    {
+      "fr": "en face de",
+      "ipa": "ɑ̃ fas də",
+      "en": "opposite",
+      "ex": "En face de la mairie."
+    },
+    {
+      "fr": "à côté de",
+      "ipa": "a ko.te də",
+      "en": "next to",
+      "ex": "À côté du cinéma."
+    },
+    {
+      "fr": "près de",
+      "ipa": "pʁɛ də",
+      "en": "near",
+      "ex": "Près de la gare."
+    },
+    {
+      "fr": "loin de",
+      "ipa": "lwɛ̃ də",
+      "en": "far from",
+      "ex": "C’est loin d’ici ?"
+    },
+    {
+      "fr": "au bout de",
+      "ipa": "o bu də",
+      "en": "at the end of",
+      "ex": "Au bout de la rue."
+    },
+    {
+      "fr": "traverser",
+      "ipa": "tʁa.vɛʁ.se",
+      "en": "to cross",
+      "ex": "Traversez la place."
+    },
+    {
+      "fr": "tourner",
+      "ipa": "tuʁ.ne",
+      "en": "to turn",
+      "ex": "Tournez à gauche."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Où vas-tu ?",
+      "items": [
+        {
+          "q": "Pour acheter du pain :",
+          "options": [
+            "à la pharmacie",
+            "à la boulangerie",
+            "à la mairie"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pour envoyer un colis :",
+          "options": [
+            "à la poste",
+            "à la banque",
+            "au musée"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Tout droit » signifie…",
+          "options": [
+            "à droite",
+            "straight ahead",
+            "à gauche"
+          ],
+          "answer": 1,
+          "why": "Faux ami classique : [fr]tout droit[/fr] ≠ [fr]à droite[/fr]."
+        },
+        {
+          "q": "Pour un médicament sans ordonnance :",
+          "options": [
+            "à l’hôpital",
+            "à la pharmacie",
+            "à la mairie"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

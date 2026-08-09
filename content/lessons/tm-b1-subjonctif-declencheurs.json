@@ -1,0 +1,231 @@
+{
+  "id": "tm-b1-subjonctif-declencheurs",
+  "group": "temps-modes",
+  "level": "B1",
+  "order": 320,
+  "title": "Le subjonctif : les déclencheurs",
+  "summary": "Volonté, nécessité, sentiment, doute — quatre familles, et le réflexe est acquis.",
+  "essentiel": [
+    "Le subjonctif ne dépend pas du sens du verbe, mais du **mot qui le précède**.",
+    "Quatre familles : **volonté**, **nécessité**, **sentiment**, **doute**.",
+    "Un fait certain reste à l’indicatif : [fr]Je sais qu’il **vient**.[/fr]"
+  ],
+  "regle": "Retenir une liste de verbes est décourageant. Il vaut mieux retenir **quatre familles**.\n\n**1 · La volonté** — on veut agir sur quelqu’un.\n[fr]vouloir que · souhaiter que · désirer que · exiger que · préférer que · demander que[/fr]\n[fr]Je veux que tu viennes.[/fr]\n\n**2 · La nécessité** — c’est indispensable.\n[fr]il faut que · il est nécessaire que · il est important que · il vaut mieux que[/fr]\n[fr]Il vaut mieux que nous partions.[/fr]\n\n**3 · Le sentiment** — on réagit émotionnellement.\n[fr]être content / triste / surpris / désolé que · avoir peur que · regretter que · c’est dommage que[/fr]\n[fr]Je suis désolé que tu sois malade.[/fr]\n\n**4 · Le doute et la possibilité** — ce n’est pas sûr.\n[fr]douter que · il est possible que · il se peut que · ne pas penser que · ne pas croire que[/fr]\n[fr]Il se peut qu’elle ait raison.[/fr]\n\n**Le contre-exemple qui éclaire tout.** Les verbes de **certitude** gardent l’indicatif : [fr]je sais que, je suis sûr que, il est évident que, j’espère que[/fr].\n[fr]J’espère qu’il **viendra**.[/fr] ((and not *vienne*))",
+  "exemples": [
+    {
+      "fr": "Il est important que chacun donne son avis.",
+      "en": "It’s important that everyone gives their opinion."
+    },
+    {
+      "fr": "Je regrette que tu ne puisses pas rester.",
+      "en": "I’m sorry you can’t stay."
+    },
+    {
+      "fr": "Il se peut que le train ait du retard.",
+      "en": "The train may be late."
+    },
+    {
+      "fr": "Elle exige que nous soyons ponctuels.",
+      "en": "She demands that we be punctual."
+    },
+    {
+      "fr": "J’espère que tu vas bien.",
+      "en": "I hope you are well."
+    },
+    {
+      "fr": "Je suis certain qu’il a raison.",
+      "en": "I’m certain he is right."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Subjonctif ou indicatif ? La liste de contrôle",
+      "collapsed": false,
+      "headers": [
+        "Subjonctif",
+        "Indicatif"
+      ],
+      "rows": [
+        [
+          "je veux que",
+          "je sais que"
+        ],
+        [
+          "il faut que",
+          "il est vrai que"
+        ],
+        [
+          "je doute que",
+          "je suis sûr que"
+        ],
+        [
+          "je suis content que",
+          "j’espère que"
+        ],
+        [
+          "il est possible que",
+          "il est certain que"
+        ],
+        [
+          "bien que",
+          "parce que"
+        ],
+        [
+          "avant que",
+          "après que"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : organiser un départ",
+    "lines": [
+      {
+        "who": "Léa",
+        "fr": "Il faut qu’on parte avant sept heures, sinon on rate l’avion.",
+        "en": "We have to leave before seven, otherwise we’ll miss the plane."
+      },
+      {
+        "who": "Marc",
+        "fr": "Je doute qu’il y ait beaucoup de circulation un dimanche.",
+        "en": "I doubt there’ll be much traffic on a Sunday."
+      },
+      {
+        "who": "Léa",
+        "fr": "Peut-être, mais je préfère qu’on ait de la marge.",
+        "en": "Maybe, but I’d rather we had some leeway."
+      },
+      {
+        "who": "Marc",
+        "fr": "D’accord. J’espère que tu as pensé aux passeports…",
+        "en": "All right. I hope you thought about the passports…"
+      },
+      {
+        "who": "Léa",
+        "fr": "Bien sûr. C’est dommage que Julien ne vienne pas avec nous.",
+        "en": "Of course. It’s a shame Julien isn’t coming with us."
+      },
+      {
+        "who": "Marc",
+        "fr": "Il est possible qu’il nous rejoigne plus tard.",
+        "en": "He may join us later."
+      }
+    ],
+    "check": {
+      "q": "Pourquoi Marc dit-il « j’espère que tu **as** pensé » et non « aies » ?",
+      "options": [
+        "Parce que « espérer que » demande l’indicatif.",
+        "Parce que c’est le passé.",
+        "Parce que c’est une question."
+      ],
+      "answer": 0,
+      "why": "[fr]espérer que[/fr] est l’exception classique : il garde l’indicatif."
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Indicatif ou subjonctif ?",
+      "items": [
+        {
+          "q": "Je pense qu’il ___ raison.",
+          "options": [
+            "a",
+            "ait",
+            "aurait"
+          ],
+          "answer": 0,
+          "why": "[fr]je pense que[/fr] à la forme affirmative = certitude → indicatif."
+        },
+        {
+          "q": "Je ne pense pas qu’il ___ raison.",
+          "options": [
+            "a",
+            "ait",
+            "aura"
+          ],
+          "answer": 1,
+          "why": "À la forme négative, le doute apparaît → subjonctif."
+        },
+        {
+          "q": "Il faut que vous ___ ce document.",
+          "options": [
+            "signez",
+            "signiez",
+            "signerez"
+          ],
+          "answer": 1,
+          "why": "[fr]il faut que[/fr] → subjonctif."
+        },
+        {
+          "q": "J’espère que vous ___ bientôt.",
+          "options": [
+            "veniez",
+            "viendrez",
+            "venez"
+          ],
+          "answer": 1,
+          "why": "[fr]espérer que[/fr] garde l’indicatif ; ici le futur convient."
+        },
+        {
+          "q": "Bien qu’il ___ tard, je continue.",
+          "options": [
+            "est",
+            "soit",
+            "sera"
+          ],
+          "answer": 1,
+          "why": "[fr]bien que[/fr] exige toujours le subjonctif."
+        },
+        {
+          "q": "Je suis sûr qu’elle ___ .",
+          "options": [
+            "réussisse",
+            "réussira",
+            "réussît"
+          ],
+          "answer": 1,
+          "why": "[fr]être sûr que[/fr] = certitude → indicatif."
+        },
+        {
+          "q": "C’est dommage qu’il ne ___ pas là.",
+          "options": [
+            "est",
+            "soit",
+            "sera"
+          ],
+          "answer": 1,
+          "why": "Sentiment → subjonctif."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le déclencheur à sa famille.",
+      "labelLeft": "Expression",
+      "labelRight": "Famille",
+      "pairs": [
+        [
+          "il faut que",
+          "nécessité"
+        ],
+        [
+          "je veux que",
+          "volonté"
+        ],
+        [
+          "je suis content que",
+          "sentiment"
+        ],
+        [
+          "il se peut que",
+          "doute"
+        ],
+        [
+          "je sais que",
+          "certitude → indicatif"
+        ]
+      ]
+    }
+  ]
+}

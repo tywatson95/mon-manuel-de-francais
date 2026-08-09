@@ -1,0 +1,224 @@
+{
+  "id": "ph-a1-mots-interrogatifs",
+  "group": "phrase",
+  "level": "A1",
+  "order": 120,
+  "title": "Les mots interrogatifs",
+  "summary": "Qui, que, où, quand, comment, combien, pourquoi, quel.",
+  "essentiel": [
+    "Les questions ouvertes commencent par un mot interrogatif : [fr]**Où** habites-tu ?[/fr]",
+    "À l’oral, le mot passe souvent **à la fin** : [fr]Tu habites **où** ?[/fr]",
+    "[fr]quel[/fr] s’accorde avec le nom : [fr]quel, quelle, quels, quelles[/fr]."
+  ],
+  "regle": "**Les mots à connaître.**\n[fr]qui[/fr] ((who)) · [fr]que / quoi[/fr] ((what)) · [fr]où[/fr] ((where)) · [fr]quand[/fr] ((when)) · [fr]comment[/fr] ((how)) · [fr]combien[/fr] ((how much/many)) · [fr]pourquoi[/fr] ((why)) · [fr]quel[/fr] ((which))\n\n**Trois positions possibles**, du plus familier au plus soutenu :\n[fr]Tu pars **quand** ?[/fr] ((oral — the word goes last))\n[fr]**Quand** est-ce que tu pars ?[/fr] ((standard))\n[fr]**Quand** pars-tu ?[/fr] ((formal))\n\n**[fr]que[/fr] ou [fr]quoi[/fr] ?** Même mot, deux formes selon la position.\n[fr]**Que** fais-tu ?[/fr] ((before the verb)) · [fr]Tu fais **quoi** ?[/fr] ((at the end)) · [fr]**Qu’est-ce que** tu fais ?[/fr]\n\n**[fr]quel[/fr] est un adjectif** : il accompagne toujours un nom et s’accorde.\n[fr]**Quel** âge as-tu ? · **Quelle** heure est-il ? · **Quels** livres préfères-tu ?[/fr]\n\n**Après une préposition**, on utilise [fr]qui[/fr] pour les personnes et [fr]quoi[/fr] pour les choses :\n[fr]**Avec qui** tu pars ? · **De quoi** tu parles ?[/fr]\n\nEnfin, [fr]pourquoi[/fr] appelle une réponse en [fr]parce que[/fr].",
+  "exemples": [
+    {
+      "fr": "Où est-ce que vous habitez ?",
+      "en": "Where do you live?"
+    },
+    {
+      "fr": "Quelle heure est-il ?",
+      "en": "What time is it?"
+    },
+    {
+      "fr": "Combien coûte ce livre ?",
+      "en": "How much does this book cost?"
+    },
+    {
+      "fr": "Pourquoi tu ris ? — Parce que c’est drôle.",
+      "en": "Why are you laughing? — Because it’s funny."
+    },
+    {
+      "fr": "Avec qui vas-tu au cinéma ?",
+      "en": "Who are you going to the cinema with?"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les mots interrogatifs",
+      "collapsed": false,
+      "headers": [
+        "Mot",
+        "Sens",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "qui",
+          "who",
+          "Qui vient ?"
+        ],
+        [
+          "que / quoi",
+          "what",
+          "Que fais-tu ? / Tu fais quoi ?"
+        ],
+        [
+          "où",
+          "where",
+          "Où vas-tu ?"
+        ],
+        [
+          "quand",
+          "when",
+          "Quand arrives-tu ?"
+        ],
+        [
+          "comment",
+          "how",
+          "Comment ça va ?"
+        ],
+        [
+          "combien (de)",
+          "how much/many",
+          "Combien de frères as-tu ?"
+        ],
+        [
+          "pourquoi",
+          "why",
+          "Pourquoi ? — Parce que."
+        ],
+        [
+          "quel(le)(s)",
+          "which, what",
+          "Quelle est ta couleur préférée ?"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : faire connaissance",
+    "lines": [
+      {
+        "who": "Léo",
+        "fr": "Tu viens d’où ?",
+        "en": "Where are you from?"
+      },
+      {
+        "who": "Amara",
+        "fr": "De Durban, en Afrique du Sud.",
+        "en": "From Durban, in South Africa."
+      },
+      {
+        "who": "Léo",
+        "fr": "Et tu es en France depuis quand ?",
+        "en": "And how long have you been in France?"
+      },
+      {
+        "who": "Amara",
+        "fr": "Depuis six mois. Je suis venue pour mes études.",
+        "en": "For six months. I came for my studies."
+      },
+      {
+        "who": "Léo",
+        "fr": "Tu étudies quoi ?",
+        "en": "What are you studying?"
+      },
+      {
+        "who": "Amara",
+        "fr": "L’architecture. Et toi, tu fais quel métier ?",
+        "en": "Architecture. And you, what’s your job?"
+      }
+    ],
+    "check": {
+      "q": "Pourquoi Amara dit « quel métier » et non « quelle » ?",
+      "options": [
+        "Parce que « métier » est masculin.",
+        "Parce que c’est une question.",
+        "Parce que c’est plus poli."
+      ],
+      "answer": 0,
+      "why": "[fr]quel[/fr] s’accorde avec le nom qu’il accompagne."
+    }
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Complète avec le mot interrogatif.",
+      "items": [
+        {
+          "before": "",
+          "after": " est-ce que tu habites ? (lieu)",
+          "answer": "Où",
+          "alt": [
+            "où"
+          ]
+        },
+        {
+          "before": "",
+          "after": " heure est-il ?",
+          "answer": "Quelle",
+          "alt": [
+            "quelle"
+          ]
+        },
+        {
+          "before": "",
+          "after": " coûte ce pull ? (prix)",
+          "answer": "Combien",
+          "alt": [
+            "combien"
+          ]
+        },
+        {
+          "before": "",
+          "after": " tu es en retard ? — Parce que le bus…",
+          "answer": "Pourquoi",
+          "alt": [
+            "pourquoi"
+          ]
+        },
+        {
+          "before": "",
+          "after": " sont tes projets ? (pluriel)",
+          "answer": "Quels",
+          "alt": [
+            "quels"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne question.",
+      "items": [
+        {
+          "q": "Réponse : « Je pars demain. »",
+          "options": [
+            "Où pars-tu ?",
+            "Quand pars-tu ?",
+            "Comment pars-tu ?"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Réponse : « En train. »",
+          "options": [
+            "Quand ?",
+            "Comment ?",
+            "Combien ?"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Réponse : « Avec ma sœur. »",
+          "options": [
+            "Avec qui ?",
+            "De quoi ?",
+            "Pourquoi ?"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Réponse : « Trente euros. »",
+          "options": [
+            "Quel ?",
+            "Combien ?",
+            "Où ?"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "temps-modes",
+  "title": "Récap express — Temps & modes",
+  "summary": "Toute la conjugaison A1→B2 sur un écran. À relire avant un examen ou une conversation importante.",
+  "level": "B1",
+  "blocks": [
+    {
+      "level": "A1",
+      "title": "Le présent",
+      "points": [
+        "**-er** : -e, -es, -e, -ons, -ez, -ent · **-ir** : -is, -is, -it, -issons, -issez, -issent · **-re** : -s, -s, –, -ons, -ez, -ent",
+        "Irréguliers : deux radicaux. [fr]je **veux** / nous **voul**ons / ils **veul**ent[/fr]",
+        "Pronominaux : sujet + pronom + verbe. [fr]je me lève[/fr]"
+      ]
+    },
+    {
+      "level": "A1",
+      "title": "Parler du futur et donner un ordre",
+      "points": [
+        "**Futur proche** : [fr]aller[/fr] + infinitif → [fr]je vais partir[/fr]",
+        "**Impératif** : présent sans pronom sujet ; les -er perdent le -s ([fr]Parle ![/fr])",
+        "Irréguliers de l’impératif : [fr]sois · aie · sache · veuillez[/fr]"
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Les deux temps du passé",
+      "points": [
+        "**Passé composé** = auxiliaire présent + participe. Événement terminé.",
+        "**Imparfait** = radical du [fr]nous[/fr] + -ais… Décor, habitude, action en cours. Exception : [fr]j’étais[/fr].",
+        "**Le partage** : l’imparfait plante le décor, le passé composé fait avancer l’histoire.",
+        "15 verbes de mouvement + tous les pronominaux prennent [fr]être[/fr] → accord avec le sujet."
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Le futur et le conditionnel",
+      "points": [
+        "**Futur simple** = infinitif + -ai, -as, -a, -ons, -ez, -ont",
+        "**Conditionnel présent** = radical du futur + terminaisons de l’imparfait",
+        "Politesse : [fr]je voudrais · pourriez-vous · tu devrais[/fr]",
+        "Après [fr]quand / dès que[/fr] → futur en français (≠ anglais)"
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Les trois repères temporels",
+      "points": [
+        "[fr]venir de[/fr] + inf. = juste avant · [fr]être en train de[/fr] + inf. = maintenant · [fr]aller[/fr] + inf. = juste après",
+        "**Gérondif** [fr]en + -ant[/fr] : simultanéité, manière, condition. Même sujet obligatoire."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Le subjonctif",
+      "points": [
+        "**Formation** : radical de [fr]ils[/fr] + -e, -es, -e, -ions, -iez, -ent",
+        "**Sept irréguliers** : être, avoir, aller, faire, pouvoir, savoir, vouloir",
+        "**Quatre déclencheurs** : volonté · nécessité · sentiment · doute",
+        "**Restent à l’indicatif** : [fr]je sais que · j’espère que · il est certain que[/fr]",
+        "[fr]je pense que[/fr] + indicatif → [fr]je ne pense pas que[/fr] + subjonctif"
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Les temps composés du passé",
+      "points": [
+        "**Plus-que-parfait** = auxiliaire à l’imparfait + participe → le passé du passé",
+        "**Conditionnel passé** = auxiliaire au conditionnel + participe → le regret",
+        "Les trois formules : [fr]j’aurais dû · j’aurais pu · j’aurais aimé[/fr]"
+      ]
+    },
+    {
+      "level": "B2",
+      "title": "Le haut du programme",
+      "points": [
+        "**Subjonctif passé** : antériorité — [fr]je regrette qu’il soit parti[/fr]",
+        "**Futur antérieur** : achèvement dans le futur — [fr]quand j’aurai fini[/fr] — et supposition — [fr]il aura oublié[/fr]",
+        "**Passé simple** : reconnaissance seulement — [fr]il fut, il fit, il vint, il put[/fr]",
+        "**Concordance** : présent→imparfait · passé composé→plus-que-parfait · futur→conditionnel",
+        "**Même sujet → infinitif** ([fr]avant de partir[/fr]) · **sujet différent → subjonctif** ([fr]avant qu’il parte[/fr])"
+      ]
+    }
+  ]
+}

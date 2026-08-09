@@ -1,0 +1,198 @@
+{
+  "id": "tm-a2-conditionnel-politesse",
+  "group": "temps-modes",
+  "level": "A2",
+  "order": 270,
+  "title": "Le conditionnel présent : politesse et conseil",
+  "summary": "Je voudrais, tu devrais, pourriez-vous : le temps qui adoucit tout.",
+  "essentiel": [
+    "Radical du **futur** + terminaisons de l’**imparfait** : [fr]je voudr**ais**[/fr].",
+    "Trois usages à ce niveau : **demander poliment**, **conseiller**, **imaginer**.",
+    "[fr]Je veux un café[/fr] est brutal. [fr]Je voudrais un café[/fr] est normal."
+  ],
+  "regle": "Le **conditionnel présent** se fabrique avec deux pièces déjà connues : le radical du futur, et les terminaisons de l’imparfait.\n\n[fr]futur : je voudr**ai** → conditionnel : je voudr**ais**[/fr]\n\nÀ l’oral, la différence entre les deux est fine mais réelle : {{vudʁe}} contre {{vudʁɛ}}.\n\n**Trois usages.**\n\n1. **La politesse.** C’est le plus important. [fr]Je voudrais…[/fr], [fr]Pourriez-vous…[/fr], [fr]Auriez-vous…[/fr]\n2. **Le conseil.** Avec [fr]devoir[/fr] : [fr]Tu **devrais** te reposer.[/fr] ((you should))\n3. **L’imaginaire.** [fr]À ta place, je **partirais**.[/fr] ((in your shoes, I would leave))",
+  "exemples": [
+    {
+      "fr": "Je voudrais réserver une table pour deux personnes.",
+      "en": "I would like to book a table for two."
+    },
+    {
+      "fr": "Pourriez-vous répéter, s’il vous plaît ?",
+      "en": "Could you repeat that, please?"
+    },
+    {
+      "fr": "Tu devrais aller voir un médecin.",
+      "en": "You should go and see a doctor."
+    },
+    {
+      "fr": "On pourrait dîner ensemble vendredi ?",
+      "en": "Could we have dinner together on Friday?"
+    },
+    {
+      "fr": "À ta place, je ne dirais rien.",
+      "en": "If I were you, I wouldn’t say anything."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les formes utiles à connaître par cœur",
+      "collapsed": false,
+      "headers": [
+        "Verbe",
+        "Forme",
+        "Emploi"
+      ],
+      "rows": [
+        [
+          "vouloir",
+          "je voudrais",
+          "demander poliment"
+        ],
+        [
+          "pouvoir",
+          "pourriez-vous / tu pourrais",
+          "demander un service"
+        ],
+        [
+          "devoir",
+          "tu devrais / vous devriez",
+          "conseiller"
+        ],
+        [
+          "avoir",
+          "auriez-vous",
+          "demander poliment"
+        ],
+        [
+          "aimer",
+          "j’aimerais",
+          "exprimer un souhait"
+        ],
+        [
+          "être",
+          "ce serait",
+          "proposer"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : à l’hôtel",
+    "lines": [
+      {
+        "who": "Client",
+        "fr": "Bonjour, je voudrais une chambre pour deux nuits.",
+        "en": "Hello, I’d like a room for two nights."
+      },
+      {
+        "who": "Réceptionniste",
+        "fr": "Bien sûr. Vous auriez une préférence, vue jardin ou vue rue ?",
+        "en": "Of course. Would you have a preference, garden or street view?"
+      },
+      {
+        "who": "Client",
+        "fr": "Vue jardin, si c’est possible. Ce serait plus calme.",
+        "en": "Garden view, if possible. It would be quieter."
+      },
+      {
+        "who": "Réceptionniste",
+        "fr": "Pourriez-vous me donner une pièce d’identité ?",
+        "en": "Could you give me an ID?"
+      },
+      {
+        "who": "Client",
+        "fr": "Voilà. Est-ce qu’il y aurait un parking ?",
+        "en": "Here you are. Would there be a car park?"
+      },
+      {
+        "who": "Réceptionniste",
+        "fr": "Oui, au sous-sol. Vous devriez réserver une place dès ce soir.",
+        "en": "Yes, in the basement. You should book a space this evening."
+      }
+    ],
+    "check": {
+      "q": "Pourquoi le client dit « je voudrais » et non « je veux » ?",
+      "options": [
+        "Pour être poli.",
+        "Parce que c’est le passé.",
+        "Parce qu’il hésite."
+      ],
+      "answer": 0,
+      "why": "Le conditionnel adoucit la demande — [fr]je veux[/fr] serait très sec."
+    }
+  },
+  "culture": {
+    "icon": "🙏",
+    "title": "La politesse française passe par le verbe",
+    "text": "Dans un commerce, [fr]Je veux un pain[/fr] choquerait. On dit [fr]Je voudrais un pain, s’il vous plaît[/fr] — ou même simplement [fr]Un pain, s’il vous plaît[/fr]. Le conditionnel n’est pas un ornement : c’est la norme."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets le verbe au conditionnel présent.",
+      "items": [
+        {
+          "before": "Je ",
+          "after": " un renseignement. (vouloir)",
+          "answer": "voudrais"
+        },
+        {
+          "before": "Vous ",
+          "after": " m’aider ? (pouvoir)",
+          "answer": "pourriez"
+        },
+        {
+          "before": "Tu ",
+          "after": " dormir plus. (devoir)",
+          "answer": "devrais"
+        },
+        {
+          "before": "Nous ",
+          "after": " venir vers 20 h. (aimer)",
+          "answer": "aimerions"
+        },
+        {
+          "before": "Ce ",
+          "after": " possible ? (être)",
+          "answer": "serait"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quelle phrase est la plus appropriée ?",
+      "items": [
+        {
+          "q": "Au restaurant, à la serveuse :",
+          "options": [
+            "Je veux l’addition.",
+            "Je voudrais l’addition, s’il vous plaît.",
+            "Donnez l’addition."
+          ],
+          "answer": 1,
+          "why": "Conditionnel + [fr]s’il vous plaît[/fr] = registre normal."
+        },
+        {
+          "q": "Ton ami est très fatigué. Tu dis :",
+          "options": [
+            "Tu dois dormir.",
+            "Tu devrais dormir un peu.",
+            "Tu dors."
+          ],
+          "answer": 1,
+          "why": "[fr]Tu devrais[/fr] conseille ; [fr]tu dois[/fr] ordonne."
+        },
+        {
+          "q": "« Pourriez-vous parler plus lentement ? » est…",
+          "options": [
+            "une demande polie",
+            "un ordre",
+            "une question au passé"
+          ],
+          "answer": 0,
+          "why": "Le conditionnel de [fr]pouvoir[/fr] est la formule standard."
+        }
+      ]
+    }
+  ]
+}

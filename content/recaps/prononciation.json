@@ -1,0 +1,66 @@
+{
+  "id": "prononciation",
+  "title": "Récap express — Prononciation & orthographe",
+  "level": "A2",
+  "summary": "Les sons, les accents et la liaison sur un seul écran.",
+  "blocks": [
+    {
+      "level": "A1",
+      "title": "Les accents",
+      "points": [
+        "**é** {{e}} fermé · **è / ê** {{ɛ}} ouvert · **ë / ï** on sépare les voyelles · **ç** garde le son {{s}}",
+        "Le circonflexe marque un **s disparu** : [fr]forêt[/fr] = *forest*, [fr]hôpital[/fr] = *hospital*",
+        "Sur [fr]a / à[/fr], [fr]ou / où[/fr], [fr]la / là[/fr] : l’accent **change le mot**, pas le son."
+      ]
+    },
+    {
+      "level": "A1",
+      "title": "Les groupes de lettres",
+      "points": [
+        "[fr]ou[/fr] = {{u}} · [fr]u[/fr] = {{y}} — deux sons **différents** : [fr]tout[/fr] ≠ [fr]tu[/fr]",
+        "[fr]au, eau[/fr] = {{o}} · [fr]ai, ei[/fr] = {{ɛ}} · [fr]oi[/fr] = {{wa}} · [fr]eu, œu[/fr] = {{ø}}/{{œ}}",
+        "[fr]ch[/fr] {{ʃ}} · [fr]gn[/fr] {{ɲ}} · [fr]qu[/fr] {{k}} · [fr]ph[/fr] {{f}} · [fr]ill[/fr] {{ij}}",
+        "[fr]c[/fr] et [fr]g[/fr] s’adoucissent devant **e, i, y**."
+      ]
+    },
+    {
+      "level": "A1",
+      "title": "Ce qui ne se prononce pas",
+      "points": [
+        "Le [fr]h[/fr], **jamais** — mais le *h aspiré* bloque l’élision : [fr]le héros[/fr].",
+        "Les finales [fr]e, s, t, d, x, p, z[/fr] sont muettes. Se prononcent souvent : **c, r, f, l**.",
+        "Le [fr]e[/fr] final fait prononcer la consonne d’avant : [fr]petit[/fr] {{pə.ti}} / [fr]petite[/fr] {{pə.tit}}."
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Les trois nasales",
+      "points": [
+        "{{ɑ̃}} [fr]dans, temps[/fr] · {{ɛ̃}} [fr]vin, pain[/fr] · {{ɔ̃}} [fr]bon, nom[/fr]",
+        "Le [fr]n[/fr] ou [fr]m[/fr] écrit **ne se prononce pas**.",
+        "Voyelle ou consonne doublée qui suit → la nasale disparaît : [fr]bon[/fr] {{bɔ̃}} / [fr]bonne[/fr] {{bɔn}}.",
+        "Phrase d’entraînement : [fr]**un bon vin blanc**[/fr]."
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Rythme et accent",
+      "points": [
+        "Pas d’accent de mot : l’accent tombe sur la **dernière syllabe du groupe**.",
+        "Syllabes de longueur **égale** — ne pas écraser les finales.",
+        "Le [fr]e[/fr] muet tombe à l’oral : [fr]je ne sais pas[/fr] → {{ʃsɛ.pa}}."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Les liaisons",
+      "points": [
+        "**Obligatoires** : déterminant + nom, pronom + verbe, adjectif + nom, après [fr]très, en, dans, chez[/fr], expressions figées.",
+        "**Interdites** : après [fr]et[/fr], devant un *h aspiré*, après un **nom singulier**, devant [fr]onze, oui, huit[/fr].",
+        "**Facultatives** : plus on en fait, plus le registre monte.",
+        "[fr]s, x, z[/fr] → {{z}} · [fr]d[/fr] → {{t}} · [fr]f[/fr] → {{v}}",
+        "[fr]ils **s**ont[/fr] {{il.sɔ̃}} contre [fr]ils **z**ont[/fr] {{il.zɔ̃}} — la liaison porte tout le sens."
+      ]
+    }
+  ]
+}

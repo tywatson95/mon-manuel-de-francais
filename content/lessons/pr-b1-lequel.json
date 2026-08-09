@@ -1,0 +1,158 @@
+{
+  "id": "pr-b1-lequel",
+  "group": "pronoms",
+  "level": "B1",
+  "order": 320,
+  "title": "Lequel et ses contractions",
+  "summary": "Le relatif après une préposition — et le pronom interrogatif du choix.",
+  "essentiel": [
+    "[fr]lequel, laquelle, lesquels, lesquelles[/fr] s’emploient **après une préposition** : [fr]la table **sur laquelle**…[/fr]",
+    "Avec [fr]à[/fr] : [fr]auquel, à laquelle, auxquels, auxquelles[/fr]. Avec [fr]de[/fr] : [fr]duquel, de laquelle, desquels, desquelles[/fr].",
+    "Pour une **personne**, on préfère [fr]qui[/fr] : [fr]l’ami **avec qui** je travaille[/fr]."
+  ],
+  "regle": "Quand le relatif suit une préposition ([fr]avec, sur, dans, pour, sans, par…[/fr]), on ne peut plus utiliser [fr]que[/fr]. Il faut [fr]lequel[/fr], accordé avec le nom.\n\n[fr]le stylo **avec lequel** j’écris[/fr] · [fr]la raison **pour laquelle** je pars[/fr] · [fr]les projets **sur lesquels** nous travaillons[/fr]\n\n**Les contractions.** Comme les articles, [fr]lequel[/fr] fusionne avec [fr]à[/fr] et [fr]de[/fr].\n[fr]à + lequel = **auquel**[/fr] · [fr]à + lesquels = **auxquels**[/fr]\n[fr]de + lequel = **duquel**[/fr] · [fr]de + lesquelles = **desquelles**[/fr]\nSeul le féminin singulier résiste : [fr]à laquelle[/fr], [fr]de laquelle[/fr].\n\n**Personne ou chose ?** Pour une personne, [fr]qui[/fr] est plus naturel après une préposition :\n[fr]la collègue **avec qui** je déjeune[/fr] plutôt que [fr]avec laquelle[/fr] ((both correct, the first is far more common))\n\n**Quand utiliser [fr]duquel[/fr] plutôt que [fr]dont[/fr] ?** Quand le [fr]de[/fr] appartient à une locution prépositionnelle : [fr]à côté **de**, près **de**, au cours **de**, à cause **de**[/fr].\n[fr]la maison **à côté de laquelle** j’habite[/fr] — [fr]dont[/fr] serait faux ici.\n\n**Comme interrogatif**, [fr]lequel[/fr] demande de choisir : [fr]— J’ai deux robes. — **Laquelle** préfères-tu ?[/fr]",
+  "exemples": [
+    {
+      "fr": "La société pour laquelle je travaille est belge.",
+      "en": "The company I work for is Belgian."
+    },
+    {
+      "fr": "Voici les documents auxquels je pensais.",
+      "en": "Here are the documents I was thinking of."
+    },
+    {
+      "fr": "L’immeuble en face duquel il habite est neuf.",
+      "en": "The building opposite which he lives is new."
+    },
+    {
+      "fr": "C’est la raison pour laquelle j’ai refusé.",
+      "en": "That’s the reason why I refused."
+    },
+    {
+      "fr": "— Prends un gâteau. — Lequel ?",
+      "en": "— Take a cake. — Which one?"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir le tableau des contractions",
+      "collapsed": true,
+      "headers": [
+        "",
+        "simple",
+        "avec à",
+        "avec de"
+      ],
+      "rows": [
+        [
+          "masc. sing.",
+          "lequel",
+          "auquel",
+          "duquel"
+        ],
+        [
+          "fém. sing.",
+          "laquelle",
+          "à laquelle",
+          "de laquelle"
+        ],
+        [
+          "masc. plur.",
+          "lesquels",
+          "auxquels",
+          "desquels"
+        ],
+        [
+          "fém. plur.",
+          "lesquelles",
+          "auxquelles",
+          "desquelles"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Le projet ___ je participe est international.",
+          "options": [
+            "auquel",
+            "duquel",
+            "lequel"
+          ],
+          "answer": 0,
+          "why": "[fr]participer **à**[/fr] → [fr]auquel[/fr]."
+        },
+        {
+          "q": "La chaise sur ___ tu es assis est cassée.",
+          "options": [
+            "lequel",
+            "laquelle",
+            "auquel"
+          ],
+          "answer": 1,
+          "why": "[fr]chaise[/fr] est féminin singulier."
+        },
+        {
+          "q": "Les personnes avec ___ je voyage sont sympas.",
+          "options": [
+            "lesquelles",
+            "qui",
+            "desquelles"
+          ],
+          "answer": 1,
+          "why": "Pour des personnes, [fr]qui[/fr] est plus naturel."
+        },
+        {
+          "q": "Le parc à côté ___ nous habitons est très grand.",
+          "options": [
+            "dont",
+            "duquel",
+            "auquel"
+          ],
+          "answer": 1,
+          "why": "Locution [fr]à côté de[/fr] → [fr]duquel[/fr], pas [fr]dont[/fr]."
+        },
+        {
+          "q": "— Voici trois valises. — ___ est la tienne ?",
+          "options": [
+            "Lequel",
+            "Laquelle",
+            "Lesquelles"
+          ],
+          "answer": 1,
+          "why": "[fr]valise[/fr] est féminin singulier → [fr]laquelle[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec la forme de « lequel ».",
+      "items": [
+        {
+          "before": "C’est le sujet ",
+          "after": " je m’intéresse. (à)",
+          "answer": "auquel"
+        },
+        {
+          "before": "Les questions ",
+          "after": " vous devez répondre sont ici. (à)",
+          "answer": "auxquelles"
+        },
+        {
+          "before": "La ville près ",
+          "after": " nous campons est jolie. (de)",
+          "answer": "de laquelle"
+        },
+        {
+          "before": "L’outil avec ",
+          "after": " il travaille est ancien.",
+          "answer": "lequel"
+        }
+      ]
+    }
+  ]
+}

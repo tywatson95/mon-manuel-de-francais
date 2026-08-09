@@ -1,0 +1,319 @@
+{
+  "id": "voc-a1-salutations",
+  "title": "Salutations & politesse",
+  "level": "A1",
+  "order": 110,
+  "summary": "Les mots qui ouvrent et ferment toutes les conversations.",
+  "items": [
+    {
+      "fr": "bonjour",
+      "ipa": "bɔ̃.ʒuʁ",
+      "en": "hello, good morning",
+      "ex": "Bonjour madame, comment allez-vous ?"
+    },
+    {
+      "fr": "bonsoir",
+      "ipa": "bɔ̃.swaʁ",
+      "en": "good evening",
+      "ex": "Bonsoir, une table pour deux, s’il vous plaît."
+    },
+    {
+      "fr": "salut",
+      "ipa": "sa.ly",
+      "en": "hi / bye (informal)",
+      "ex": "Salut ! Ça va ?"
+    },
+    {
+      "fr": "au revoir",
+      "ipa": "o ʁə.vwaʁ",
+      "en": "goodbye",
+      "ex": "Au revoir et bonne journée !"
+    },
+    {
+      "fr": "bonne nuit",
+      "ipa": "bɔn nɥi",
+      "en": "good night (going to bed)",
+      "ex": "Bonne nuit, dors bien."
+    },
+    {
+      "fr": "à bientôt",
+      "ipa": "a bjɛ̃.to",
+      "en": "see you soon",
+      "ex": "À bientôt, j’espère !"
+    },
+    {
+      "fr": "à demain",
+      "ipa": "a d(ə).mɛ̃",
+      "en": "see you tomorrow",
+      "ex": "À demain, au bureau."
+    },
+    {
+      "fr": "à tout à l’heure",
+      "ipa": "a tu ta lœʁ",
+      "en": "see you later today",
+      "ex": "Je sors dix minutes, à tout à l’heure."
+    },
+    {
+      "fr": "s’il vous plaît",
+      "ipa": "sil vu plɛ",
+      "en": "please (formal)",
+      "ex": "Un café, s’il vous plaît."
+    },
+    {
+      "fr": "s’il te plaît",
+      "ipa": "sil tə plɛ",
+      "en": "please (informal)",
+      "ex": "Passe-moi le sel, s’il te plaît."
+    },
+    {
+      "fr": "merci",
+      "ipa": "mɛʁ.si",
+      "en": "thank you",
+      "ex": "Merci beaucoup pour votre aide."
+    },
+    {
+      "fr": "de rien",
+      "ipa": "də ʁjɛ̃",
+      "en": "you’re welcome",
+      "ex": "— Merci ! — De rien."
+    },
+    {
+      "fr": "je vous en prie",
+      "ipa": "ʒə vu zɑ̃ pʁi",
+      "en": "you’re welcome (formal)",
+      "ex": "— Merci infiniment. — Je vous en prie."
+    },
+    {
+      "fr": "excusez-moi",
+      "ipa": "ɛks.ky.ze mwa",
+      "en": "excuse me (formal)",
+      "ex": "Excusez-moi, où est la gare ?"
+    },
+    {
+      "fr": "pardon",
+      "ipa": "paʁ.dɔ̃",
+      "en": "sorry, excuse me",
+      "ex": "Pardon, je ne vous avais pas vu."
+    },
+    {
+      "fr": "désolé, désolée",
+      "ipa": "de.zɔ.le",
+      "en": "sorry",
+      "ex": "Je suis désolé, je suis en retard."
+    },
+    {
+      "fr": "comment allez-vous ?",
+      "ipa": "kɔ.mɑ̃ ta.le vu",
+      "en": "how are you? (formal)",
+      "ex": "Bonjour, comment allez-vous ?"
+    },
+    {
+      "fr": "ça va ?",
+      "ipa": "sa va",
+      "en": "how’s it going? (informal)",
+      "ex": "Salut, ça va ?"
+    },
+    {
+      "fr": "très bien, merci",
+      "ipa": "tʁɛ bjɛ̃ mɛʁ.si",
+      "en": "very well, thanks",
+      "ex": "Très bien, merci, et vous ?"
+    },
+    {
+      "fr": "enchanté, enchantée",
+      "ipa": "ɑ̃.ʃɑ̃.te",
+      "en": "pleased to meet you",
+      "ex": "Enchanté, je m’appelle Arno."
+    },
+    {
+      "fr": "bienvenue",
+      "ipa": "bjɛ̃.və.ny",
+      "en": "welcome",
+      "ex": "Bienvenue à Paris !"
+    },
+    {
+      "fr": "bonne journée",
+      "ipa": "bɔn ʒuʁ.ne",
+      "en": "have a good day",
+      "ex": "Merci, bonne journée !"
+    },
+    {
+      "fr": "bon week-end",
+      "ipa": "bɔ̃ wi.kɛnd",
+      "en": "have a good weekend",
+      "ex": "À lundi, bon week-end !"
+    },
+    {
+      "fr": "bon appétit",
+      "ipa": "bɔ.na.pe.ti",
+      "en": "enjoy your meal",
+      "ex": "Bon appétit à tous !"
+    },
+    {
+      "fr": "santé !",
+      "ipa": "sɑ̃.te",
+      "en": "cheers!",
+      "ex": "Santé et bonne soirée !"
+    },
+    {
+      "fr": "félicitations",
+      "ipa": "fe.li.si.ta.sjɔ̃",
+      "en": "congratulations",
+      "ex": "Félicitations pour ton nouveau travail !"
+    },
+    {
+      "fr": "bonne chance",
+      "ipa": "bɔn ʃɑ̃s",
+      "en": "good luck",
+      "ex": "Bonne chance pour ton examen."
+    },
+    {
+      "fr": "monsieur",
+      "ipa": "mə.sjø",
+      "en": "sir, Mr",
+      "ex": "Bonjour monsieur, je peux vous aider ?"
+    },
+    {
+      "fr": "madame",
+      "ipa": "ma.dam",
+      "en": "madam, Mrs",
+      "ex": "Merci madame, au revoir."
+    },
+    {
+      "fr": "mademoiselle",
+      "ipa": "mad.mwa.zɛl",
+      "en": "miss (increasingly avoided)",
+      "ex": "On dit aujourd’hui « madame » à toutes les femmes adultes."
+    },
+    {
+      "fr": "oui",
+      "ipa": "wi",
+      "en": "yes",
+      "ex": "Oui, avec plaisir."
+    },
+    {
+      "fr": "non",
+      "ipa": "nɔ̃",
+      "en": "no",
+      "ex": "Non merci, ça va."
+    },
+    {
+      "fr": "peut-être",
+      "ipa": "pø.tɛtʁ",
+      "en": "maybe",
+      "ex": "Peut-être demain, je ne sais pas encore."
+    },
+    {
+      "fr": "d’accord",
+      "ipa": "da.kɔʁ",
+      "en": "okay, agreed",
+      "ex": "D’accord, on fait comme ça."
+    },
+    {
+      "fr": "avec plaisir",
+      "ipa": "a.vɛk ple.ziʁ",
+      "en": "gladly",
+      "ex": "— Tu viens ? — Avec plaisir !"
+    },
+    {
+      "fr": "je ne comprends pas",
+      "ipa": "ʒə nə kɔ̃.pʁɑ̃ pa",
+      "en": "I don’t understand",
+      "ex": "Excusez-moi, je ne comprends pas."
+    },
+    {
+      "fr": "pouvez-vous répéter ?",
+      "ipa": "pu.ve vu ʁe.pe.te",
+      "en": "can you repeat?",
+      "ex": "Pouvez-vous répéter plus lentement ?"
+    },
+    {
+      "fr": "comment ça s’écrit ?",
+      "ipa": "kɔ.mɑ̃ sa se.kʁi",
+      "en": "how do you spell it?",
+      "ex": "Votre nom, comment ça s’écrit ?"
+    },
+    {
+      "fr": "je suis désolé de vous déranger",
+      "ipa": "ʒə sɥi de.zɔ.le",
+      "en": "sorry to bother you",
+      "ex": "Je suis désolé de vous déranger, avez-vous une minute ?"
+    },
+    {
+      "fr": "ce n’est pas grave",
+      "ipa": "sə nɛ pa ɡʁav",
+      "en": "it’s no problem",
+      "ex": "— Pardon ! — Ce n’est pas grave."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe la formule à sa situation.",
+      "labelLeft": "Formule",
+      "labelRight": "Situation",
+      "pairs": [
+        [
+          "Bonne nuit",
+          "on va se coucher"
+        ],
+        [
+          "À demain",
+          "on se revoit le lendemain"
+        ],
+        [
+          "Bon appétit",
+          "avant de manger"
+        ],
+        [
+          "Enchanté",
+          "on rencontre quelqu’un pour la première fois"
+        ],
+        [
+          "Je vous en prie",
+          "on répond à un merci, poliment"
+        ],
+        [
+          "Bonne chance",
+          "avant un examen"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quelle formule utiliser ?",
+      "items": [
+        {
+          "q": "Tu entres dans une boulangerie à 9 h. Tu dis :",
+          "options": [
+            "Bonjour",
+            "Bonsoir",
+            "Bonne nuit"
+          ],
+          "answer": 0,
+          "why": "[fr]Bonsoir[/fr] commence vers 18 h."
+        },
+        {
+          "q": "Un collègue te remercie. Tu réponds :",
+          "options": [
+            "S’il vous plaît",
+            "De rien",
+            "Pardon"
+          ],
+          "answer": 1,
+          "why": "[fr]De rien[/fr] ou [fr]je vous en prie[/fr] répondent à un merci."
+        },
+        {
+          "q": "Tu bouscules quelqu’un dans la rue :",
+          "options": [
+            "Merci",
+            "Pardon",
+            "Salut"
+          ],
+          "answer": 1,
+          "why": "[fr]Pardon[/fr] s’utilise pour s’excuser rapidement."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "pr-a2-cod",
+  "group": "pronoms",
+  "level": "A2",
+  "order": 210,
+  "title": "Les pronoms COD",
+  "summary": "Le, la, les : remplacer la chose ou la personne directement touchée par le verbe.",
+  "essentiel": [
+    "[fr]me, te, **le / la**, nous, vous, **les**[/fr] — ils se placent **devant le verbe**.",
+    "Le COD répond à la question **qui ?** ou **quoi ?** après le verbe.",
+    "Au passé composé, le participe **s’accorde** avec le COD placé avant : [fr]Je **l’**ai vu**e**.[/fr]"
+  ],
+  "regle": "Le **complément d’objet direct** est celui qui suit le verbe **sans préposition**.\n\n[fr]Je regarde **le film**.[/fr] → Je regarde **quoi** ? le film → [fr]Je **le** regarde.[/fr]\n[fr]Je vois **Marie**.[/fr] → Je vois **qui** ? Marie → [fr]Je **la** vois.[/fr]\n\n**La place.** Toujours **devant le verbe conjugué** — même à la négation.\n[fr]Je **le** connais. · Je **ne le** connais **pas**.[/fr]\n\nAvec deux verbes, le pronom se colle à l’infinitif :\n[fr]Je vais **le** prendre. · Tu peux **les** aider ?[/fr]\n\n**L’élision.** [fr]le[/fr] et [fr]la[/fr] deviennent [fr]l’[/fr] devant une voyelle : [fr]Je **l’**adore.[/fr]\n\n**À l’impératif affirmatif**, le pronom passe derrière : [fr]Prends-**le** ![/fr] Mais à la négation il reprend sa place : [fr]Ne **le** prends pas ![/fr]",
+  "exemples": [
+    {
+      "fr": "Ce livre ? Je le lis en ce moment.",
+      "en": "This book? I’m reading it right now."
+    },
+    {
+      "fr": "Tes clés, je les ai trouvées.",
+      "en": "Your keys, I found them."
+    },
+    {
+      "fr": "Elle ne me comprend pas.",
+      "en": "She doesn’t understand me."
+    },
+    {
+      "fr": "Je vais t’appeler ce soir.",
+      "en": "I’ll call you tonight."
+    },
+    {
+      "fr": "Cette robe, je l’ai achetée hier.",
+      "en": "This dress, I bought it yesterday."
+    },
+    {
+      "fr": "Regarde-la !",
+      "en": "Look at her!"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les six pronoms COD",
+      "collapsed": false,
+      "headers": [
+        "Personne",
+        "Pronom",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "moi",
+          "me / m’",
+          "Il me voit."
+        ],
+        [
+          "toi",
+          "te / t’",
+          "Je t’écoute."
+        ],
+        [
+          "lui / elle / ça",
+          "le / la / l’",
+          "Je le prends."
+        ],
+        [
+          "nous",
+          "nous",
+          "Elle nous invite."
+        ],
+        [
+          "vous",
+          "vous",
+          "Je vous remercie."
+        ],
+        [
+          "eux / elles / ça",
+          "les",
+          "Je les connais."
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : les courses",
+    "lines": [
+      {
+        "who": "Zoé",
+        "fr": "Tu as acheté le pain ?",
+        "en": "Did you buy the bread?"
+      },
+      {
+        "who": "Hugo",
+        "fr": "Oui, je l’ai pris ce matin.",
+        "en": "Yes, I got it this morning."
+      },
+      {
+        "who": "Zoé",
+        "fr": "Et les tomates ?",
+        "en": "And the tomatoes?"
+      },
+      {
+        "who": "Hugo",
+        "fr": "Non, je ne les ai pas trouvées.",
+        "en": "No, I didn’t find them."
+      },
+      {
+        "who": "Zoé",
+        "fr": "Ce n’est pas grave. Tu peux m’aider à préparer le dîner ?",
+        "en": "Never mind. Can you help me make dinner?"
+      },
+      {
+        "who": "Hugo",
+        "fr": "Bien sûr, je t’aide tout de suite.",
+        "en": "Of course, I’ll help you right away."
+      }
+    ],
+    "check": {
+      "q": "Pourquoi « je ne les ai pas trouvées » prend-il un -es ?",
+      "options": [
+        "Le participe s’accorde avec « les tomates », placé avant.",
+        "C’est une faute.",
+        "Parce que le sujet est féminin."
+      ],
+      "answer": 0,
+      "why": "Avec [fr]avoir[/fr], le participe s’accorde avec le COD **placé avant** le verbe."
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel pronom remplace le mot en gras ?",
+      "items": [
+        {
+          "q": "Je regarde **la télévision**.",
+          "options": [
+            "le",
+            "la",
+            "les"
+          ],
+          "answer": 1,
+          "why": "[fr]la télévision[/fr] est féminin singulier."
+        },
+        {
+          "q": "Nous invitons **nos voisins**.",
+          "options": [
+            "le",
+            "la",
+            "les"
+          ],
+          "answer": 2,
+          "why": "Pluriel → [fr]les[/fr]."
+        },
+        {
+          "q": "Il aime **son travail**.",
+          "options": [
+            "le",
+            "la",
+            "lui"
+          ],
+          "answer": 0,
+          "why": "Masculin singulier → [fr]le[/fr]."
+        },
+        {
+          "q": "Tu écoutes **cette chanson** ?",
+          "options": [
+            "la",
+            "lui",
+            "les"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Où placer le pronom : « Je vais … voir. »",
+          "options": [
+            "Je vais le voir.",
+            "Je le vais voir.",
+            "Je vais voir le."
+          ],
+          "answer": 0,
+          "why": "Avec deux verbes, le pronom se place devant l’infinitif."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Récris la phrase avec un pronom COD.",
+      "items": [
+        {
+          "before": "Tu connais Paul ? — Oui, je ",
+          "after": " connais bien.",
+          "answer": "le"
+        },
+        {
+          "before": "Ces photos ? Je ",
+          "after": " ai prises en Italie.",
+          "answer": "les"
+        },
+        {
+          "before": "Cette histoire, je ne ",
+          "after": " crois pas.",
+          "answer": "la"
+        },
+        {
+          "before": "Tu m’entends ? — Oui, je ",
+          "after": " entends. (tu)",
+          "answer": "t’",
+          "alt": [
+            "te"
+          ]
+        },
+        {
+          "before": "Le gâteau, mange-",
+          "after": " !",
+          "answer": "le",
+          "why": "À l’impératif affirmatif, le pronom passe derrière avec un trait d’union."
+        }
+      ]
+    }
+  ]
+}

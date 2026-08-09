@@ -1,0 +1,236 @@
+{
+  "id": "voc-b2-sante-medecine",
+  "title": "Santé & médecine",
+  "level": "B2",
+  "order": 560,
+  "summary": "Le débat public sur la santé.",
+  "items": [
+    {
+      "fr": "le système de santé",
+      "ipa": "sis.tɛm",
+      "en": "the health system",
+      "ex": "Un système de santé sous tension."
+    },
+    {
+      "fr": "l’Assurance maladie",
+      "ipa": "a.sy.ʁɑ̃s",
+      "en": "the state health insurer",
+      "ex": "L’Assurance maladie rembourse 70 %."
+    },
+    {
+      "fr": "un remboursement",
+      "ipa": "ʁɑ̃.buʁs.mɑ̃",
+      "en": "a reimbursement",
+      "ex": "Un remboursement partiel."
+    },
+    {
+      "fr": "un(e) soignant(e)",
+      "ipa": "swa.ɲɑ̃",
+      "en": "a healthcare worker",
+      "ex": "Les soignants sont épuisés."
+    },
+    {
+      "fr": "un service hospitalier",
+      "ipa": "ɔs.pi.ta.lje",
+      "en": "a hospital department",
+      "ex": "Un service hospitalier saturé."
+    },
+    {
+      "fr": "une pénurie",
+      "ipa": "pe.ny.ʁi",
+      "en": "a shortage",
+      "ex": "Une pénurie de personnel."
+    },
+    {
+      "fr": "un désert médical",
+      "ipa": "de.zɛʁ",
+      "en": "a medical desert",
+      "ex": "Les déserts médicaux s’étendent."
+    },
+    {
+      "fr": "une épidémie",
+      "ipa": "e.pi.de.mi",
+      "en": "an epidemic",
+      "ex": "Une épidémie saisonnière."
+    },
+    {
+      "fr": "une pandémie",
+      "ipa": "pɑ̃.de.mi",
+      "en": "a pandemic",
+      "ex": "La gestion de la pandémie."
+    },
+    {
+      "fr": "la contagion",
+      "ipa": "kɔ̃.ta.ʒjɔ̃",
+      "en": "contagion",
+      "ex": "Limiter la contagion."
+    },
+    {
+      "fr": "un dépistage",
+      "ipa": "de.pis.taʒ",
+      "en": "screening",
+      "ex": "Un dépistage systématique."
+    },
+    {
+      "fr": "la vaccination",
+      "ipa": "vak.si.na.sjɔ̃",
+      "en": "vaccination",
+      "ex": "La couverture vaccinale progresse."
+    },
+    {
+      "fr": "un effet secondaire",
+      "ipa": "e.fɛ",
+      "en": "a side effect",
+      "ex": "Des effets secondaires rares."
+    },
+    {
+      "fr": "un essai clinique",
+      "ipa": "e.sɛ kli.nik",
+      "en": "a clinical trial",
+      "ex": "Un essai clinique de phase 3."
+    },
+    {
+      "fr": "un traitement",
+      "ipa": "tʁɛt.mɑ̃",
+      "en": "a treatment",
+      "ex": "Un traitement innovant."
+    },
+    {
+      "fr": "un diagnostic",
+      "ipa": "dja.ɡnɔs.tik",
+      "en": "a diagnosis",
+      "ex": "Un diagnostic précoce."
+    },
+    {
+      "fr": "un pronostic",
+      "ipa": "pʁɔ.ɡnɔs.tik",
+      "en": "a prognosis",
+      "ex": "Le pronostic est favorable."
+    },
+    {
+      "fr": "une pathologie",
+      "ipa": "pa.tɔ.lɔ.ʒi",
+      "en": "a pathology, condition",
+      "ex": "Une pathologie chronique."
+    },
+    {
+      "fr": "la prévention",
+      "ipa": "pʁe.vɑ̃.sjɔ̃",
+      "en": "prevention",
+      "ex": "Investir dans la prévention."
+    },
+    {
+      "fr": "l’espérance de vie",
+      "ipa": "ɛs.pe.ʁɑ̃s",
+      "en": "life expectancy",
+      "ex": "L’espérance de vie stagne."
+    },
+    {
+      "fr": "le vieillissement",
+      "ipa": "vjɛ.jis.mɑ̃",
+      "en": "ageing",
+      "ex": "Le vieillissement de la population."
+    },
+    {
+      "fr": "la dépendance",
+      "ipa": "de.pɑ̃.dɑ̃s",
+      "en": "loss of autonomy",
+      "ex": "La prise en charge de la dépendance."
+    },
+    {
+      "fr": "un EHPAD",
+      "ipa": "e.pad",
+      "en": "a care home",
+      "ex": "Les EHPAD manquent de personnel."
+    },
+    {
+      "fr": "la santé mentale",
+      "ipa": "mɑ̃.tal",
+      "en": "mental health",
+      "ex": "La santé mentale des jeunes."
+    },
+    {
+      "fr": "le burn-out, l’épuisement",
+      "ipa": "e.pɥiz.mɑ̃",
+      "en": "burnout",
+      "ex": "Un épuisement professionnel."
+    },
+    {
+      "fr": "l’éthique médicale",
+      "ipa": "e.tik",
+      "en": "medical ethics",
+      "ex": "Un débat d’éthique médicale."
+    },
+    {
+      "fr": "le consentement",
+      "ipa": "kɔ̃.sɑ̃t.mɑ̃",
+      "en": "consent",
+      "ex": "Le consentement éclairé du patient."
+    },
+    {
+      "fr": "le secret médical",
+      "ipa": "sə.kʁɛ",
+      "en": "medical confidentiality",
+      "ex": "Le secret médical est absolu."
+    },
+    {
+      "fr": "la fin de vie",
+      "ipa": "fɛ̃ də vi",
+      "en": "end of life",
+      "ex": "Le débat sur la fin de vie."
+    },
+    {
+      "fr": "un(e) généraliste",
+      "ipa": "ʒe.ne.ʁa.list",
+      "en": "a GP",
+      "ex": "Trouver un généraliste est difficile."
+    },
+    {
+      "fr": "un(e) spécialiste",
+      "ipa": "spe.sja.list",
+      "en": "a consultant",
+      "ex": "Six mois d’attente chez le spécialiste."
+    },
+    {
+      "fr": "une inégalité de santé",
+      "ipa": "i.ne.ɡa.li.te",
+      "en": "a health inequality",
+      "ex": "Les inégalités de santé persistent."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "Un « désert médical » est une zone…",
+          "options": [
+            "aride",
+            "sans médecins disponibles",
+            "sans hôpital public"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Le consentement éclairé » suppose que le patient…",
+          "options": [
+            "a compris les risques",
+            "a payé",
+            "a un dossier complet"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Un EHPAD accueille…",
+          "options": [
+            "des enfants",
+            "des personnes âgées dépendantes",
+            "des étudiants"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

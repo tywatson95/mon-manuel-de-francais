@@ -1,0 +1,167 @@
+{
+  "id": "co-b2-hypothese",
+  "group": "connecteurs",
+  "level": "B2",
+  "order": 420,
+  "title": "L’hypothèse et la condition",
+  "summary": "À condition que, à moins que, au cas où — au-delà de « si ».",
+  "essentiel": [
+    "[fr]**à condition que**, **pourvu que**, **à moins que**[/fr] + **subjonctif**.",
+    "[fr]**au cas où**, **dans le cas où**[/fr] + **conditionnel** — une particularité française.",
+    "[fr]**sinon**, **sans quoi**, **faute de quoi**[/fr] introduisent la conséquence négative."
+  ],
+  "regle": "[fr]si[/fr] couvre l’essentiel, mais l’écrit argumenté demande plus de précision.\n\n**+ subjonctif.**\n[fr]**à condition que**[/fr] ((provided that)) — condition positive nécessaire\n[fr]**pourvu que**[/fr] ((as long as, let’s hope)) — également un souhait : [fr]Pourvu qu’il fasse beau ![/fr]\n[fr]**à moins que**[/fr] ((unless)) — souvent avec [fr]ne[/fr] explétif\n[fr]**pour peu que**[/fr] ((if only, should)) — soutenu\n[fr]**en admettant que**, **à supposer que**[/fr] — hypothèse d’argumentation\n\n[fr]Je viendrai **à condition que** tu **sois** là.[/fr]\n[fr]Nous partirons demain, **à moins qu’**il **ne** **neige**.[/fr]\n\n**+ conditionnel — la surprise du français.** [fr]au cas où[/fr] n’est jamais suivi du subjonctif.\n[fr]Prends ton parapluie **au cas où** il **pleuvrait**.[/fr]\n[fr]**Au cas où** vous **auriez** besoin d’aide, appelez-moi.[/fr]\n\n**+ infinitif** (même sujet) : [fr]à condition de, à moins de[/fr]\n[fr]Tu réussiras **à condition de** travailler.[/fr]\n\n**+ nom** : [fr]en cas de, sauf, à défaut de[/fr]\n[fr]**En cas d’**urgence, composez le 15.[/fr]\n\n**La conséquence négative.** [fr]sinon[/fr] ((otherwise)) est courant ; [fr]sans quoi[/fr] et [fr]faute de quoi[/fr] sont soutenus.\n[fr]Dépêche-toi, **sinon** nous serons en retard.[/fr]",
+  "exemples": [
+    {
+      "fr": "Je signe, à condition que le prix reste inchangé.",
+      "en": "I’ll sign, provided the price stays the same."
+    },
+    {
+      "fr": "Nous sortirons, à moins qu’il ne pleuve.",
+      "en": "We’ll go out, unless it rains."
+    },
+    {
+      "fr": "Au cas où je serais absent, laissez un message.",
+      "en": "In case I’m away, leave a message."
+    },
+    {
+      "fr": "En cas de problème, contactez le service client.",
+      "en": "In case of a problem, contact customer service."
+    },
+    {
+      "fr": "Il faut partir maintenant, sans quoi nous raterons l’avion.",
+      "en": "We must leave now, otherwise we’ll miss the plane."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le mode après chaque connecteur",
+      "collapsed": false,
+      "headers": [
+        "Connecteur",
+        "Mode",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "si",
+          "indicatif",
+          "si tu viens"
+        ],
+        [
+          "à condition que",
+          "**subjonctif**",
+          "à condition que tu viennes"
+        ],
+        [
+          "pourvu que",
+          "**subjonctif**",
+          "pourvu qu’il fasse beau"
+        ],
+        [
+          "à moins que",
+          "**subjonctif** (+ ne)",
+          "à moins qu’il ne pleuve"
+        ],
+        [
+          "au cas où",
+          "**conditionnel**",
+          "au cas où il pleuvrait"
+        ],
+        [
+          "à condition de",
+          "infinitif",
+          "à condition de venir"
+        ],
+        [
+          "en cas de",
+          "nom",
+          "en cas d’accident"
+        ],
+        [
+          "sinon / sans quoi",
+          "indicatif",
+          "sinon nous partons"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel mode après ce connecteur ?",
+      "items": [
+        {
+          "q": "Au cas où tu ___ en retard, préviens-moi.",
+          "options": [
+            "sois",
+            "serais",
+            "es"
+          ],
+          "answer": 1,
+          "why": "[fr]au cas où[/fr] → conditionnel."
+        },
+        {
+          "q": "À condition que vous ___ à l’heure, tout ira bien.",
+          "options": [
+            "êtes",
+            "soyez",
+            "seriez"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Nous irons à la plage à moins qu’il ne ___ .",
+          "options": [
+            "pleut",
+            "pleuve",
+            "pleuvra"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pourvu qu’il ___ beau demain !",
+          "options": [
+            "fait",
+            "fasse",
+            "ferait"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Il faut réserver, ___ il n’y aura plus de place.",
+          "options": [
+            "sinon",
+            "pourvu que",
+            "au cas où"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "Prends de l’argent au cas où tu en ",
+          "after": " besoin. (avoir)",
+          "answer": "aurais"
+        },
+        {
+          "before": "J’accepte à condition ",
+          "after": " avoir plus de temps. (un seul sujet)",
+          "answer": "d’"
+        },
+        {
+          "before": "",
+          "after": " cas d’incendie, sortez par l’arrière.",
+          "answer": "En",
+          "alt": [
+            "en"
+          ]
+        }
+      ]
+    }
+  ]
+}

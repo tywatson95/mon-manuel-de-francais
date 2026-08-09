@@ -1,0 +1,165 @@
+{
+  "id": "pr-a1-sujets",
+  "group": "pronoms",
+  "level": "A1",
+  "order": 110,
+  "title": "Les pronoms sujets — tu ou vous ?",
+  "summary": "Qui fait l’action — et le choix social le plus délicat du français.",
+  "essentiel": [
+    "[fr]je, tu, il, elle, on, nous, vous, ils, elles[/fr] — le sujet ne se supprime **jamais**.",
+    "[fr]tu[/fr] = une personne proche · [fr]vous[/fr] = une personne qu’on ne connaît pas, **ou** plusieurs personnes.",
+    "[fr]on[/fr] = *nous* à l’oral : [fr]On y va ![/fr] Il se conjugue comme [fr]il[/fr]."
+  ],
+  "regle": "En français, le pronom sujet est **obligatoire**. On ne peut pas dire « suis fatigué » — il faut [fr]je suis fatigué[/fr].\n\n**Le choix tu / vous.** C’est une décision sociale, pas grammaticale.\n- [fr]tu[/fr] : famille, amis, collègues proches, enfants, animaux.\n- [fr]vous[/fr] : inconnus, commerçants, personnes plus âgées, contexte professionnel — **et** tout groupe de plusieurs personnes.\n\nDans le doute, on utilise [fr]vous[/fr]. C’est à la personne la plus âgée ou la plus haut placée de proposer le tutoiement : [fr]On peut se tutoyer ?[/fr]\n\n**Le cas de [fr]on[/fr].** À l’écrit soigné il signifie *people in general* ; à l’oral, il remplace [fr]nous[/fr] presque toujours. Il se conjugue à la 3e personne du singulier : [fr]On **va** au cinéma.[/fr]\n\n**[fr]ils[/fr] ou [fr]elles[/fr] ?** Dès qu’il y a un homme dans le groupe, on utilise [fr]ils[/fr].",
+  "exemples": [
+    {
+      "fr": "Vous êtes monsieur Duval ?",
+      "en": "Are you Mr Duval?"
+    },
+    {
+      "fr": "Tu viens avec nous ?",
+      "en": "Are you coming with us?"
+    },
+    {
+      "fr": "On mange à quelle heure ?",
+      "en": "What time are we eating?"
+    },
+    {
+      "fr": "Elles habitent ensemble.",
+      "en": "They (women) live together."
+    },
+    {
+      "fr": "En France, on dîne assez tard.",
+      "en": "In France, people have dinner quite late."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les neuf pronoms sujets",
+      "collapsed": false,
+      "headers": [
+        "Pronom",
+        "Usage"
+      ],
+      "rows": [
+        [
+          "je / j’",
+          "moi"
+        ],
+        [
+          "tu",
+          "une personne proche"
+        ],
+        [
+          "il / elle",
+          "une personne ou une chose"
+        ],
+        [
+          "on",
+          "nous (oral) ou les gens en général"
+        ],
+        [
+          "nous",
+          "nous (écrit, formel)"
+        ],
+        [
+          "vous",
+          "vouvoiement **ou** pluriel"
+        ],
+        [
+          "ils / elles",
+          "plusieurs personnes ou choses"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "🤝",
+    "title": "Le passage au « tu »",
+    "text": "Tutoyer trop vite peut être perçu comme familier ; vouvoyer un ami est glacial. Les jeunes se tutoient spontanément, le monde du travail varie beaucoup selon les entreprises. Écoute quel pronom l’autre emploie et fais pareil."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Tu ou vous ?",
+      "items": [
+        {
+          "q": "Tu parles à un employé de banque que tu ne connais pas.",
+          "options": [
+            "tu",
+            "vous"
+          ],
+          "answer": 1,
+          "why": "Inconnu + contexte professionnel → [fr]vous[/fr]."
+        },
+        {
+          "q": "Tu parles à ton frère.",
+          "options": [
+            "tu",
+            "vous"
+          ],
+          "answer": 0,
+          "why": "Famille → [fr]tu[/fr]."
+        },
+        {
+          "q": "Tu parles à deux amis en même temps.",
+          "options": [
+            "tu",
+            "vous"
+          ],
+          "answer": 1,
+          "why": "[fr]vous[/fr] est aussi le pluriel de [fr]tu[/fr]."
+        },
+        {
+          "q": "Tu parles à une voisine de 80 ans.",
+          "options": [
+            "tu",
+            "vous"
+          ],
+          "answer": 1,
+          "why": "Politesse envers une personne plus âgée."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Ajoute le pronom sujet.",
+      "items": [
+        {
+          "before": "",
+          "after": " sommes en retard.",
+          "answer": "Nous",
+          "alt": [
+            "nous"
+          ]
+        },
+        {
+          "before": "",
+          "after": " va au marché ? (= nous)",
+          "answer": "On",
+          "alt": [
+            "on"
+          ]
+        },
+        {
+          "before": "Marie et Julie ? ",
+          "after": " sont parties.",
+          "answer": "Elles",
+          "alt": [
+            "elles"
+          ],
+          "why": "Groupe uniquement féminin → [fr]elles[/fr]."
+        },
+        {
+          "before": "Paul et Marie ? ",
+          "after": " sont partis.",
+          "answer": "Ils",
+          "alt": [
+            "ils"
+          ],
+          "why": "Un homme dans le groupe → [fr]ils[/fr]."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "ph-a1-cest-il-est",
+  "group": "phrase",
+  "level": "A1",
+  "order": 140,
+  "title": "C’est ou il est ?",
+  "summary": "La distinction qui décide entre « c’est un médecin » et « il est médecin ».",
+  "essentiel": [
+    "[fr]**c’est** + article + nom[/fr] : [fr]C’est **un** médecin.[/fr]",
+    "[fr]**il / elle est** + adjectif ou profession **sans article**[/fr] : [fr]Il est médecin. · Elle est gentille.[/fr]",
+    "Devant un nom propre ou un pronom : [fr]c’est[/fr] — [fr]C’est Marie. · C’est moi.[/fr]"
+  ],
+  "regle": "C’est l’une des premières confusions durables. La règle tient en un test : **y a-t-il un article après ?**\n\n**[fr]c’est[/fr] + déterminant.**\n[fr]C’est **un** ami. · C’est **la** voiture de Paul. · C’est **mon** frère.[/fr]\n\n**[fr]il est / elle est[/fr] + adjectif seul, ou métier sans article.**\n[fr]Il est grand. · Elle est française. · Il est professeur.[/fr]\n\nNotez cette particularité française : **les métiers et les nationalités se disent sans article** après [fr]être[/fr].\n[fr]Je suis architecte.[/fr] ((I am an architect — no *un*))\n\nMais dès qu’il y a un adjectif, on repasse à [fr]c’est[/fr] + article :\n[fr]Il est architecte.[/fr] → [fr]**C’est un** architecte **très connu**.[/fr]\n\n**[fr]c’est[/fr] pour commenter une situation.** Avec un adjectif au masculin, il exprime un jugement général :\n[fr]C’est intéressant. · C’est difficile. · Ce n’est pas grave.[/fr]\n\n**Au pluriel** : [fr]ce sont[/fr] à l’écrit soigné, [fr]c’est[/fr] à l’oral. [fr]**Ce sont** mes parents.[/fr]",
+  "exemples": [
+    {
+      "fr": "C’est un très bon restaurant.",
+      "en": "It’s a very good restaurant."
+    },
+    {
+      "fr": "Il est cuisinier depuis dix ans.",
+      "en": "He has been a cook for ten years."
+    },
+    {
+      "fr": "Elle est belge, mais elle habite à Lille.",
+      "en": "She is Belgian, but she lives in Lille."
+    },
+    {
+      "fr": "C’est difficile à expliquer.",
+      "en": "It’s difficult to explain."
+    },
+    {
+      "fr": "Ce sont mes voisins.",
+      "en": "They are my neighbours."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le test de l’article",
+      "collapsed": false,
+      "headers": [
+        "c’est",
+        "il / elle est"
+      ],
+      "rows": [
+        [
+          "C’est un professeur.",
+          "Il est professeur."
+        ],
+        [
+          "C’est une Française.",
+          "Elle est française."
+        ],
+        [
+          "C’est mon ami.",
+          "Il est sympathique."
+        ],
+        [
+          "C’est Marie.",
+          "Elle est là."
+        ],
+        [
+          "C’est intéressant.",
+          "Il est intéressant. *(une personne précise)*"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "C’est ou il/elle est ?",
+      "items": [
+        {
+          "q": "___ une infirmière très compétente.",
+          "options": [
+            "C’est",
+            "Elle est"
+          ],
+          "answer": 0,
+          "why": "Il y a un article → [fr]c’est[/fr]."
+        },
+        {
+          "q": "___ infirmière depuis vingt ans.",
+          "options": [
+            "C’est",
+            "Elle est"
+          ],
+          "answer": 1,
+          "why": "Métier sans article → [fr]elle est[/fr]."
+        },
+        {
+          "q": "___ mon meilleur ami.",
+          "options": [
+            "C’est",
+            "Il est"
+          ],
+          "answer": 0,
+          "why": "[fr]mon[/fr] est un déterminant."
+        },
+        {
+          "q": "___ très gentil avec les enfants.",
+          "options": [
+            "C’est",
+            "Il est"
+          ],
+          "answer": 1,
+          "why": "Adjectif seul décrivant une personne."
+        },
+        {
+          "q": "___ compliqué, cette histoire.",
+          "options": [
+            "C’est",
+            "Il est"
+          ],
+          "answer": 0,
+          "why": "Jugement général sur une situation."
+        },
+        {
+          "q": "___ mes collègues.",
+          "options": [
+            "Ce sont",
+            "Ils sont"
+          ],
+          "answer": 0,
+          "why": "[fr]mes[/fr] est un déterminant → [fr]ce sont[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "",
+          "after": " un bon film. ",
+          "answer": "C’est",
+          "alt": [
+            "c’est"
+          ]
+        },
+        {
+          "before": "",
+          "after": " américaine. (elle)",
+          "answer": "Elle est",
+          "alt": [
+            "elle est"
+          ]
+        },
+        {
+          "before": "",
+          "after": " avocat à Paris. (il)",
+          "answer": "Il est",
+          "alt": [
+            "il est"
+          ]
+        },
+        {
+          "before": "",
+          "after": " une chanteuse célèbre.",
+          "answer": "C’est",
+          "alt": [
+            "c’est"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": "na-a1-articles",
+  "group": "noms-adjectifs",
+  "level": "A1",
+  "order": 130,
+  "title": "Les articles définis et indéfinis",
+  "summary": "Le, la, les / un, une, des : connu ou pas encore connu.",
+  "essentiel": [
+    "**Défini** [fr]le, la, l’, les[/fr] : une chose précise ou connue.",
+    "**Indéfini** [fr]un, une, des[/fr] : une chose parmi d’autres, ou nouvelle.",
+    "[fr]à + le = **au**[/fr] · [fr]à + les = **aux**[/fr] · [fr]de + le = **du**[/fr] · [fr]de + les = **des**[/fr]."
+  ],
+  "regle": "Le français met un article presque partout — bien plus que l’anglais. On dit [fr]**Les** chats sont indépendants[/fr] là où l’anglais dit *Cats are independent*.\n\n**L’article défini** [fr]le, la, l’, les[/fr] :\n- une chose déjà connue : [fr]Ferme **la** porte.[/fr]\n- une généralité : [fr]J’aime **le** chocolat.[/fr]\n- devant les pays, les langues, les parties du corps : [fr]**la** France, **le** français, **les** mains[/fr]\n\n**L’article indéfini** [fr]un, une, des[/fr] : on introduit quelque chose de nouveau.\n[fr]J’ai vu **un** film hier. **Le** film était long.[/fr] ((first mention, then known))\n\n**Les contractions.** Elles sont obligatoires.\n[fr]Je vais **au** cinéma.[/fr] ((à + le)) · [fr]Je parle **aux** enfants.[/fr] ((à + les))\n[fr]Je viens **du** bureau.[/fr] ((de + le)) · [fr]la porte **des** voisins[/fr] ((de + les))\nAvec [fr]la[/fr] et [fr]l’[/fr], pas de contraction : [fr]à la maison, de l’école[/fr].",
+  "exemples": [
+    {
+      "fr": "J’ai un chien. Le chien s’appelle Max.",
+      "en": "I have a dog. The dog is called Max."
+    },
+    {
+      "fr": "Les Français aiment le fromage.",
+      "en": "French people like cheese."
+    },
+    {
+      "fr": "Nous allons au marché.",
+      "en": "We are going to the market."
+    },
+    {
+      "fr": "Elle revient de la piscine.",
+      "en": "She is coming back from the pool."
+    },
+    {
+      "fr": "J’apprends le français depuis deux ans.",
+      "en": "I have been learning French for two years."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les articles et les contractions",
+      "collapsed": false,
+      "headers": [
+        "",
+        "masculin",
+        "féminin",
+        "pluriel"
+      ],
+      "rows": [
+        [
+          "défini",
+          "le / l’",
+          "la / l’",
+          "les"
+        ],
+        [
+          "indéfini",
+          "un",
+          "une",
+          "des"
+        ],
+        [
+          "à + article",
+          "au",
+          "à la",
+          "aux"
+        ],
+        [
+          "de + article",
+          "du",
+          "de la",
+          "des"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis l’article.",
+      "items": [
+        {
+          "q": "Je vais ___ boulangerie.",
+          "options": [
+            "au",
+            "à la",
+            "aux"
+          ],
+          "answer": 1,
+          "why": "[fr]boulangerie[/fr] est féminin."
+        },
+        {
+          "q": "Il revient ___ travail.",
+          "options": [
+            "du",
+            "de la",
+            "des"
+          ],
+          "answer": 0,
+          "why": "[fr]de + le travail[/fr] = [fr]du travail[/fr]."
+        },
+        {
+          "q": "J’aime ___ musique classique.",
+          "options": [
+            "une",
+            "la",
+            "de la"
+          ],
+          "answer": 1,
+          "why": "Généralité → article défini."
+        },
+        {
+          "q": "Elle parle ___ étudiants.",
+          "options": [
+            "au",
+            "à la",
+            "aux"
+          ],
+          "answer": 2,
+          "why": "[fr]à + les[/fr] = [fr]aux[/fr]."
+        },
+        {
+          "q": "J’ai acheté ___ pain et ___ croissants.",
+          "options": [
+            "un / des",
+            "le / les",
+            "du / de"
+          ],
+          "answer": 0,
+          "why": "Objets nouveaux, non précisés."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec le bon article.",
+      "items": [
+        {
+          "before": "Nous habitons dans ",
+          "after": " petit village. (un)",
+          "answer": "un"
+        },
+        {
+          "before": "Je vais ",
+          "after": " cinéma ce soir. (à + le)",
+          "answer": "au"
+        },
+        {
+          "before": "C’est la voiture ",
+          "after": " voisins. (de + les)",
+          "answer": "des"
+        },
+        {
+          "before": "Elle joue ",
+          "after": " piano. (de + le)",
+          "answer": "du",
+          "why": "[fr]jouer **du** piano[/fr] pour un instrument."
+        }
+      ]
+    }
+  ]
+}

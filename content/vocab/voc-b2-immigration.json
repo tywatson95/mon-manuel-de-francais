@@ -1,0 +1,236 @@
+{
+  "id": "voc-b2-immigration",
+  "title": "Immigration & société",
+  "level": "B2",
+  "order": 580,
+  "summary": "Un débat sensible : les mots exacts comptent.",
+  "items": [
+    {
+      "fr": "l’immigration (f)",
+      "ipa": "i.mi.ɡʁa.sjɔ̃",
+      "en": "immigration",
+      "ex": "Un débat sur l’immigration."
+    },
+    {
+      "fr": "l’émigration (f)",
+      "ipa": "e.mi.ɡʁa.sjɔ̃",
+      "en": "emigration",
+      "ex": "L’émigration des diplômés."
+    },
+    {
+      "fr": "un(e) immigré(e)",
+      "ipa": "i.mi.ɡʁe",
+      "en": "an immigrant",
+      "ex": "Un immigré installé depuis vingt ans."
+    },
+    {
+      "fr": "un(e) étranger(ère)",
+      "ipa": "e.tʁɑ̃.ʒe",
+      "en": "a foreign national",
+      "ex": "Les étrangers en situation régulière."
+    },
+    {
+      "fr": "un(e) réfugié(e)",
+      "ipa": "ʁe.fy.ʒje",
+      "en": "a refugee",
+      "ex": "Le statut de réfugié."
+    },
+    {
+      "fr": "un(e) demandeur(euse) d’asile",
+      "ipa": "a.zil",
+      "en": "an asylum seeker",
+      "ex": "Une demandeuse d’asile."
+    },
+    {
+      "fr": "l’asile (m)",
+      "ipa": "a.zil",
+      "en": "asylum",
+      "ex": "Le droit d’asile est constitutionnel."
+    },
+    {
+      "fr": "un titre de séjour",
+      "ipa": "tit.ʁə də se.ʒuʁ",
+      "en": "a residence permit",
+      "ex": "Renouveler son titre de séjour."
+    },
+    {
+      "fr": "un visa",
+      "ipa": "vi.za",
+      "en": "a visa",
+      "ex": "Un visa de long séjour."
+    },
+    {
+      "fr": "la naturalisation",
+      "ipa": "na.ty.ʁa.li.za.sjɔ̃",
+      "en": "naturalisation",
+      "ex": "Une demande de naturalisation."
+    },
+    {
+      "fr": "la nationalité",
+      "ipa": "na.sjɔ.na.li.te",
+      "en": "nationality",
+      "ex": "Acquérir la nationalité française."
+    },
+    {
+      "fr": "le droit du sol",
+      "ipa": "dʁwa dy sɔl",
+      "en": "birthright citizenship",
+      "ex": "La France applique le droit du sol."
+    },
+    {
+      "fr": "le regroupement familial",
+      "ipa": "ʁə.ɡʁup.mɑ̃",
+      "en": "family reunification",
+      "ex": "Le regroupement familial est encadré."
+    },
+    {
+      "fr": "l’intégration (f)",
+      "ipa": "ɛ̃.te.ɡʁa.sjɔ̃",
+      "en": "integration",
+      "ex": "Une politique d’intégration."
+    },
+    {
+      "fr": "l’assimilation (f)",
+      "ipa": "a.si.mi.la.sjɔ̃",
+      "en": "assimilation",
+      "ex": "Le modèle d’assimilation à la française."
+    },
+    {
+      "fr": "la diversité",
+      "ipa": "di.vɛʁ.si.te",
+      "en": "diversity",
+      "ex": "Valoriser la diversité."
+    },
+    {
+      "fr": "une communauté",
+      "ipa": "kɔ.my.no.te",
+      "en": "a community",
+      "ex": "Une communauté installée de longue date."
+    },
+    {
+      "fr": "le communautarisme",
+      "ipa": "kɔ.my.no.ta.ʁism",
+      "en": "communitarianism",
+      "ex": "Le communautarisme est débattu."
+    },
+    {
+      "fr": "la discrimination",
+      "ipa": "dis.kʁi.mi.na.sjɔ̃",
+      "en": "discrimination",
+      "ex": "Une discrimination à l’embauche."
+    },
+    {
+      "fr": "le racisme",
+      "ipa": "ʁa.sism",
+      "en": "racism",
+      "ex": "Lutter contre le racisme."
+    },
+    {
+      "fr": "la xénophobie",
+      "ipa": "ɡze.nɔ.fɔ.bi",
+      "en": "xenophobia",
+      "ex": "Une montée de la xénophobie."
+    },
+    {
+      "fr": "un préjugé",
+      "ipa": "pʁe.ʒy.ʒe",
+      "en": "a prejudice",
+      "ex": "Combattre les préjugés."
+    },
+    {
+      "fr": "un stéréotype",
+      "ipa": "ste.ʁe.ɔ.tip",
+      "en": "a stereotype",
+      "ex": "Déconstruire les stéréotypes."
+    },
+    {
+      "fr": "un quartier populaire",
+      "ipa": "po.py.lɛʁ",
+      "en": "a working-class area",
+      "ex": "Les quartiers populaires réclament des moyens."
+    },
+    {
+      "fr": "la mixité",
+      "ipa": "mik.si.te",
+      "en": "social mixing",
+      "ex": "La mixité dans les écoles."
+    },
+    {
+      "fr": "une expulsion",
+      "ipa": "ɛks.pyl.sjɔ̃",
+      "en": "a deportation",
+      "ex": "Une procédure d’expulsion."
+    },
+    {
+      "fr": "la régularisation",
+      "ipa": "ʁe.ɡy.la.ʁi.za.sjɔ̃",
+      "en": "regularisation",
+      "ex": "La régularisation des sans-papiers."
+    },
+    {
+      "fr": "sans-papiers",
+      "ipa": "sɑ̃ pa.pje",
+      "en": "undocumented",
+      "ex": "Un travailleur sans-papiers."
+    },
+    {
+      "fr": "l’accueil (m)",
+      "ipa": "a.kœj",
+      "en": "reception, welcome",
+      "ex": "Les conditions d’accueil."
+    },
+    {
+      "fr": "un flux migratoire",
+      "ipa": "fly",
+      "en": "a migration flow",
+      "ex": "Les flux migratoires évoluent."
+    },
+    {
+      "fr": "une politique migratoire",
+      "ipa": "pɔ.li.tik",
+      "en": "a migration policy",
+      "ex": "Une politique migratoire européenne."
+    },
+    {
+      "fr": "la cohésion sociale",
+      "ipa": "ko.e.zjɔ̃",
+      "en": "social cohesion",
+      "ex": "Préserver la cohésion sociale."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Précision du vocabulaire.",
+      "items": [
+        {
+          "q": "Un « demandeur d’asile » est une personne…",
+          "options": [
+            "déjà reconnue réfugiée",
+            "qui a déposé une demande de protection",
+            "sans papiers"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Le droit du sol » attribue la nationalité selon…",
+          "options": [
+            "la nationalité des parents",
+            "le lieu de naissance",
+            "la durée de séjour"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Émigrer » signifie…",
+          "options": [
+            "arriver dans un pays",
+            "quitter son pays",
+            "changer de région"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

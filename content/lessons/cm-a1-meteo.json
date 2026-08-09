@@ -1,0 +1,128 @@
+{
+  "id": "cm-a1-meteo",
+  "group": "communication",
+  "level": "A1",
+  "order": 150,
+  "title": "Parler du temps qu’il fait",
+  "summary": "Il fait, il y a, il pleut — trois structures et le sujet de conversation universel.",
+  "essentiel": [
+    "[fr]**Il fait** + adjectif[/fr] : [fr]il fait beau, il fait froid, il fait 20 degrés[/fr].",
+    "[fr]**Il y a** + nom[/fr] : [fr]il y a du vent, il y a du soleil, il y a des nuages[/fr].",
+    "[fr]**Il** + verbe[/fr] : [fr]il pleut, il neige, il gèle[/fr]."
+  ],
+  "regle": "La météo se dit toujours avec le sujet impersonnel [fr]il[/fr] — qui ne désigne personne.\n\n**[fr]il fait[/fr] + adjectif ou température.**\n[fr]Il fait beau · il fait mauvais · il fait chaud · il fait froid · il fait doux · il fait frais · il fait vingt degrés[/fr]\n\n**[fr]il y a[/fr] + nom.**\n[fr]Il y a du soleil · du vent · des nuages · du brouillard · de l’orage[/fr]\n\n**[fr]il[/fr] + verbe de météo.**\n[fr]Il pleut · il neige · il gèle · il pleuvait · il va pleuvoir · il pleuvra[/fr]\n\n**Les saisons.** [fr]**au** printemps[/fr], mais [fr]**en** été, **en** automne, **en** hiver[/fr].\n\n**Demander.** [fr]Quel temps fait-il ? · Il fait beau chez toi ?[/fr]\n\nEn France, la météo est un sujet de conversation de politesse. On l’utilise pour engager une discussion avec un voisin ou dans une file d’attente.",
+  "exemples": [
+    {
+      "fr": "Il fait beau aujourd’hui, mais il fait un peu frais.",
+      "en": "It’s nice today, but a bit chilly."
+    },
+    {
+      "fr": "Il y a beaucoup de vent sur la côte.",
+      "en": "It’s very windy on the coast."
+    },
+    {
+      "fr": "Il pleut depuis ce matin.",
+      "en": "It has been raining since this morning."
+    },
+    {
+      "fr": "En hiver, il neige rarement à Paris.",
+      "en": "In winter, it rarely snows in Paris."
+    },
+    {
+      "fr": "Quel temps fait-il chez vous ?",
+      "en": "What’s the weather like where you are?"
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle structure ?",
+      "items": [
+        {
+          "q": "___ du soleil.",
+          "options": [
+            "Il fait",
+            "Il y a",
+            "Il"
+          ],
+          "answer": 1,
+          "why": "[fr]du soleil[/fr] est un nom → [fr]il y a[/fr]."
+        },
+        {
+          "q": "___ froid ce matin.",
+          "options": [
+            "Il fait",
+            "Il y a",
+            "Il est"
+          ],
+          "answer": 0,
+          "why": "[fr]froid[/fr] est un adjectif → [fr]il fait[/fr]."
+        },
+        {
+          "q": "___ neige en montagne.",
+          "options": [
+            "Il fait",
+            "Il y a",
+            "Il"
+          ],
+          "answer": 2,
+          "why": "[fr]neiger[/fr] est un verbe."
+        },
+        {
+          "q": "___ du brouillard sur l’autoroute.",
+          "options": [
+            "Il fait",
+            "Il y a",
+            "Il"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "On dit « ___ printemps ».",
+          "options": [
+            "en",
+            "au",
+            "à"
+          ],
+          "answer": 1,
+          "why": "[fr]au printemps[/fr], mais [fr]en été, en automne, en hiver[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "",
+          "after": " fait vingt-cinq degrés.",
+          "answer": "Il",
+          "alt": [
+            "il"
+          ]
+        },
+        {
+          "before": "",
+          "after": " y a des nuages.",
+          "answer": "Il",
+          "alt": [
+            "il"
+          ]
+        },
+        {
+          "before": "En hiver, ",
+          "after": " souvent en Alsace. (neiger)",
+          "answer": "il neige"
+        },
+        {
+          "before": "",
+          "after": " hiver, il fait très froid.",
+          "answer": "En",
+          "alt": [
+            "en"
+          ]
+        }
+      ]
+    }
+  ]
+}

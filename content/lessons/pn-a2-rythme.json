@@ -1,0 +1,116 @@
+{
+  "id": "pn-a2-rythme",
+  "group": "prononciation",
+  "level": "A2",
+  "order": 220,
+  "title": "Le rythme et l’accent du français",
+  "summary": "Pourquoi le français semble « plat » — et comment en profiter.",
+  "essentiel": [
+    "Le français n’accentue pas les mots : il accentue la **fin du groupe**.",
+    "Toutes les syllabes ont à peu près la **même longueur** — pas de syllabes écrasées.",
+    "Le [fr]e[/fr] muet disparaît souvent : [fr]je ne sais pas[/fr] → {{ʃsɛ.pa}}."
+  ],
+  "regle": "En anglais, chaque mot a une syllabe forte : *IM-por-tant*. En français, il n’y a **pas d’accent de mot**. L’accent tombe sur la **dernière syllabe du groupe de sens**.\n\n[fr]C’est un travail intéres**sant**.[/fr] — un seul sommet, à la fin.\n\n**Conséquence pratique.** Les anglophones accentuent trop tôt et « mangent » les syllabes suivantes. En français, chaque syllabe reste pleine et de durée égale, comme les notes d’un métronome.\n\nComparez :\nanglais *ne-ces-sa-ry* → **NE**-ces-s’ry ((3 syllabes entendues))\nfrançais [fr]né-ces-sai-re[/fr] → 4 syllabes égales, sommet sur la dernière.\n\n**Le groupe rythmique.** On ne parle pas mot par mot mais par blocs de sens, séparés par de courtes pauses.\n[fr]Je vais au marché / avec ma sœur / le samedi matin.[/fr]\n\n**Le [fr]e[/fr] muet.** Dans la conversation rapide, il tombe très souvent.\n[fr]je ne sais pas[/fr] → {{ʃsɛ.pa}}\n[fr]il y a[/fr] → {{ja}}\n[fr]tu es[/fr] → {{tɥɛ}}\n[fr]qu’est-ce que c’est[/fr] → {{kɛs.kə.sɛ}}\n\n**L’intonation.** Elle monte en fin de question, descend en fin d’affirmation, et reste suspendue au milieu d’une énumération. C’est souvent l’intonation seule qui distingue [fr]Tu viens.[/fr] de [fr]Tu viens ?[/fr]",
+  "exemples": [
+    {
+      "fr": "C’est vraiment intéressant.",
+      "en": "It’s really interesting."
+    },
+    {
+      "fr": "Je ne sais pas ce qu’il veut.",
+      "en": "I don’t know what he wants."
+    },
+    {
+      "fr": "Qu’est-ce que c’est ?",
+      "en": "What is that?"
+    },
+    {
+      "fr": "Il y a beaucoup de monde ce matin.",
+      "en": "There are a lot of people this morning."
+    },
+    {
+      "fr": "Tu viens. / Tu viens ?",
+      "en": "You’re coming. / Are you coming?"
+    }
+  ],
+  "culture": {
+    "icon": "🎵",
+    "title": "La « musique » du français",
+    "text": "On dit souvent que le français est une langue « plate ». En réalité, il déplace la mélodie du mot vers la phrase : un francophone entend immédiatement où finit une idée. C’est aussi pourquoi les chansons françaises tolèrent des phrases longues — le rythme est porté par le groupe, pas par les syllabes."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Où tombe l’accent ?",
+      "items": [
+        {
+          "q": "« C’est un restaurant japonais. »",
+          "options": [
+            "sur RES-taurant",
+            "sur la dernière syllabe de « japonais »",
+            "sur « c’est »"
+          ],
+          "answer": 1,
+          "why": "L’accent tombe en fin de groupe."
+        },
+        {
+          "q": "En français, les syllabes sont…",
+          "options": [
+            "de longueurs très différentes",
+            "de longueurs à peu près égales",
+            "toutes accentuées"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Je ne sais pas » se dit souvent à l’oral rapide…",
+          "options": [
+            "{{ʒə.nə.sɛ.pa}}",
+            "{{ʃsɛ.pa}}",
+            "{{ʒə.sɛ.pa.nə}}"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Ce qui distingue « Tu viens. » de « Tu viens ? » est…",
+          "options": [
+            "l’ordre des mots",
+            "l’intonation",
+            "un mot en plus"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Écris la forme complète de ces phrases orales.",
+      "items": [
+        {
+          "before": "{{ʃsɛ.pa}} → ",
+          "after": "",
+          "answer": "je ne sais pas",
+          "alt": [
+            "Je ne sais pas"
+          ]
+        },
+        {
+          "before": "{{ja}} du monde → ",
+          "after": " du monde",
+          "answer": "il y a",
+          "alt": [
+            "Il y a"
+          ]
+        },
+        {
+          "before": "{{kɛs.kə.sɛ}} → ",
+          "after": "",
+          "answer": "qu’est-ce que c’est",
+          "alt": [
+            "Qu’est-ce que c’est"
+          ]
+        }
+      ]
+    }
+  ]
+}

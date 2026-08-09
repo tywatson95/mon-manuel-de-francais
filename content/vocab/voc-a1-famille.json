@@ -1,0 +1,283 @@
+{
+  "id": "voc-a1-famille",
+  "title": "La famille",
+  "level": "A1",
+  "order": 130,
+  "summary": "Les membres de la famille et les liens de parenté.",
+  "items": [
+    {
+      "fr": "la famille",
+      "ipa": "fa.mij",
+      "en": "family",
+      "ex": "J’ai une grande famille."
+    },
+    {
+      "fr": "les parents",
+      "ipa": "pa.ʁɑ̃",
+      "en": "parents",
+      "ex": "Mes parents habitent à Lyon."
+    },
+    {
+      "fr": "le père, papa",
+      "ipa": "pɛʁ",
+      "en": "father, dad",
+      "ex": "Mon père est retraité."
+    },
+    {
+      "fr": "la mère, maman",
+      "ipa": "mɛʁ",
+      "en": "mother, mum",
+      "ex": "Ma mère cuisine très bien."
+    },
+    {
+      "fr": "le fils",
+      "ipa": "fis",
+      "en": "son",
+      "ex": "Leur fils a douze ans."
+    },
+    {
+      "fr": "la fille",
+      "ipa": "fij",
+      "en": "daughter, girl",
+      "ex": "Ma fille apprend le piano."
+    },
+    {
+      "fr": "le frère",
+      "ipa": "fʁɛʁ",
+      "en": "brother",
+      "ex": "J’ai deux frères."
+    },
+    {
+      "fr": "la sœur",
+      "ipa": "sœʁ",
+      "en": "sister",
+      "ex": "Ma sœur vit à Berlin."
+    },
+    {
+      "fr": "le grand-père",
+      "ipa": "ɡʁɑ̃.pɛʁ",
+      "en": "grandfather",
+      "ex": "Mon grand-père a 90 ans."
+    },
+    {
+      "fr": "la grand-mère",
+      "ipa": "ɡʁɑ̃.mɛʁ",
+      "en": "grandmother",
+      "ex": "Ma grand-mère fait des tartes."
+    },
+    {
+      "fr": "les grands-parents",
+      "ipa": "ɡʁɑ̃.pa.ʁɑ̃",
+      "en": "grandparents",
+      "ex": "On va chez les grands-parents."
+    },
+    {
+      "fr": "le petit-fils",
+      "ipa": "pə.ti.fis",
+      "en": "grandson",
+      "ex": "C’est mon petit-fils."
+    },
+    {
+      "fr": "la petite-fille",
+      "ipa": "pə.tit.fij",
+      "en": "granddaughter",
+      "ex": "Sa petite-fille a trois ans."
+    },
+    {
+      "fr": "l’oncle (m)",
+      "ipa": "ɔ̃kl",
+      "en": "uncle",
+      "ex": "Mon oncle habite au Canada."
+    },
+    {
+      "fr": "la tante",
+      "ipa": "tɑ̃t",
+      "en": "aunt",
+      "ex": "Ma tante est infirmière."
+    },
+    {
+      "fr": "le cousin, la cousine",
+      "ipa": "ku.zɛ̃",
+      "en": "cousin",
+      "ex": "J’ai beaucoup de cousins."
+    },
+    {
+      "fr": "le neveu",
+      "ipa": "nə.vø",
+      "en": "nephew",
+      "ex": "Mon neveu est très drôle."
+    },
+    {
+      "fr": "la nièce",
+      "ipa": "njɛs",
+      "en": "niece",
+      "ex": "Sa nièce entre à l’école."
+    },
+    {
+      "fr": "le mari",
+      "ipa": "ma.ʁi",
+      "en": "husband",
+      "ex": "Son mari travaille de nuit."
+    },
+    {
+      "fr": "la femme",
+      "ipa": "fam",
+      "en": "wife, woman",
+      "ex": "Sa femme est architecte."
+    },
+    {
+      "fr": "le/la conjoint(e)",
+      "ipa": "kɔ̃.ʒwɛ̃",
+      "en": "partner, spouse",
+      "ex": "Mon conjoint arrive plus tard."
+    },
+    {
+      "fr": "le/la compagnon, compagne",
+      "ipa": "kɔ̃.pa.ɲɔ̃",
+      "en": "partner",
+      "ex": "Elle vit avec son compagnon."
+    },
+    {
+      "fr": "l’enfant (m/f)",
+      "ipa": "ɑ̃.fɑ̃",
+      "en": "child",
+      "ex": "Ils ont trois enfants."
+    },
+    {
+      "fr": "le bébé",
+      "ipa": "be.be",
+      "en": "baby",
+      "ex": "Le bébé dort."
+    },
+    {
+      "fr": "l’aîné(e)",
+      "ipa": "ɛ.ne",
+      "en": "eldest",
+      "ex": "C’est l’aîné de la famille."
+    },
+    {
+      "fr": "le/la cadet(te)",
+      "ipa": "ka.dɛ",
+      "en": "youngest",
+      "ex": "Ma cadette a huit ans."
+    },
+    {
+      "fr": "les beaux-parents",
+      "ipa": "bo.pa.ʁɑ̃",
+      "en": "parents-in-law",
+      "ex": "On dîne chez mes beaux-parents."
+    },
+    {
+      "fr": "le beau-frère",
+      "ipa": "bo.fʁɛʁ",
+      "en": "brother-in-law",
+      "ex": "Mon beau-frère est italien."
+    },
+    {
+      "fr": "la belle-sœur",
+      "ipa": "bɛl.sœʁ",
+      "en": "sister-in-law",
+      "ex": "Ma belle-sœur est très gentille."
+    },
+    {
+      "fr": "célibataire",
+      "ipa": "se.li.ba.tɛʁ",
+      "en": "single",
+      "ex": "Il est encore célibataire."
+    },
+    {
+      "fr": "marié(e)",
+      "ipa": "ma.ʁje",
+      "en": "married",
+      "ex": "Nous sommes mariés depuis dix ans."
+    },
+    {
+      "fr": "divorcé(e)",
+      "ipa": "di.vɔʁ.se",
+      "en": "divorced",
+      "ex": "Elle est divorcée."
+    },
+    {
+      "fr": "veuf, veuve",
+      "ipa": "vœf, vœv",
+      "en": "widower, widow",
+      "ex": "Sa mère est veuve."
+    },
+    {
+      "fr": "un ami, une amie",
+      "ipa": "a.mi",
+      "en": "a friend",
+      "ex": "C’est un ami d’enfance."
+    },
+    {
+      "fr": "un(e) voisin(e)",
+      "ipa": "vwa.zɛ̃",
+      "en": "a neighbour",
+      "ex": "Nos voisins sont charmants."
+    },
+    {
+      "fr": "un animal de compagnie",
+      "ipa": "a.ni.mal",
+      "en": "a pet",
+      "ex": "Nous avons un animal de compagnie."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe les membres de la famille.",
+      "labelLeft": "Français",
+      "labelRight": "Anglais",
+      "pairs": [
+        [
+          "la belle-sœur",
+          "sister-in-law"
+        ],
+        [
+          "le neveu",
+          "nephew"
+        ],
+        [
+          "la petite-fille",
+          "granddaughter"
+        ],
+        [
+          "l’aîné",
+          "the eldest"
+        ],
+        [
+          "veuve",
+          "widow"
+        ],
+        [
+          "le conjoint",
+          "the partner/spouse"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Vrai ou faux ?",
+      "items": [
+        {
+          "q": "« La femme » peut vouloir dire « wife » et « woman ».",
+          "options": [
+            "vrai",
+            "faux"
+          ],
+          "answer": 0,
+          "why": "Le contexte décide : [fr]sa femme[/fr] = *his wife* ; [fr]une femme[/fr] = *a woman*."
+        },
+        {
+          "q": "« Beau-père » signifie toujours « handsome father ».",
+          "options": [
+            "vrai",
+            "faux"
+          ],
+          "answer": 1,
+          "why": "[fr]beau-père[/fr] = *father-in-law* ou *stepfather*."
+        }
+      ]
+    }
+  ]
+}

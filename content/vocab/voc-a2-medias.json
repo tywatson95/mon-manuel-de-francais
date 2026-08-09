@@ -1,0 +1,260 @@
+{
+  "id": "voc-a2-medias",
+  "title": "Médias & technologie de base",
+  "level": "A2",
+  "order": 310,
+  "summary": "S’informer et utiliser ses appareils.",
+  "items": [
+    {
+      "fr": "la télévision, la télé",
+      "ipa": "te.le",
+      "en": "television",
+      "ex": "Je regarde la télé le soir."
+    },
+    {
+      "fr": "la radio",
+      "ipa": "ʁa.djo",
+      "en": "radio",
+      "ex": "J’écoute la radio en voiture."
+    },
+    {
+      "fr": "un journal",
+      "ipa": "ʒuʁ.nal",
+      "en": "a newspaper",
+      "ex": "Un journal du matin."
+    },
+    {
+      "fr": "une chaîne",
+      "ipa": "ʃɛn",
+      "en": "a channel",
+      "ex": "Une chaîne d’information."
+    },
+    {
+      "fr": "une émission",
+      "ipa": "e.mi.sjɔ̃",
+      "en": "a programme",
+      "ex": "Une émission très populaire."
+    },
+    {
+      "fr": "les informations, les infos",
+      "ipa": "ɛ̃.fo",
+      "en": "the news",
+      "ex": "Les infos de 20 heures."
+    },
+    {
+      "fr": "un article",
+      "ipa": "aʁ.tikl",
+      "en": "an article",
+      "ex": "Un article intéressant."
+    },
+    {
+      "fr": "un(e) journaliste",
+      "ipa": "ʒuʁ.na.list",
+      "en": "a journalist",
+      "ex": "Une journaliste connue."
+    },
+    {
+      "fr": "un reportage",
+      "ipa": "ʁə.pɔʁ.taʒ",
+      "en": "a report",
+      "ex": "Un reportage sur le climat."
+    },
+    {
+      "fr": "la publicité, la pub",
+      "ipa": "pyb",
+      "en": "advertising",
+      "ex": "Trop de pub à la télé."
+    },
+    {
+      "fr": "un abonnement",
+      "ipa": "a.bɔn.mɑ̃",
+      "en": "a subscription",
+      "ex": "Un abonnement au journal."
+    },
+    {
+      "fr": "un ordinateur",
+      "ipa": "ɔʁ.di.na.tœʁ",
+      "en": "a computer",
+      "ex": "Mon ordinateur rame."
+    },
+    {
+      "fr": "un écran",
+      "ipa": "e.kʁɑ̃",
+      "en": "a screen",
+      "ex": "L’écran est trop petit."
+    },
+    {
+      "fr": "un clavier",
+      "ipa": "kla.vje",
+      "en": "a keyboard",
+      "ex": "Le clavier français est en AZERTY."
+    },
+    {
+      "fr": "une souris",
+      "ipa": "su.ʁi",
+      "en": "a mouse",
+      "ex": "La souris ne marche plus."
+    },
+    {
+      "fr": "internet",
+      "ipa": "ɛ̃.tɛʁ.nɛt",
+      "en": "the internet",
+      "ex": "Internet est très lent."
+    },
+    {
+      "fr": "un site web",
+      "ipa": "sit wɛb",
+      "en": "a website",
+      "ex": "Le site est en maintenance."
+    },
+    {
+      "fr": "une page",
+      "ipa": "paʒ",
+      "en": "a page",
+      "ex": "La page ne se charge pas."
+    },
+    {
+      "fr": "un mot de passe",
+      "ipa": "mo də pas",
+      "en": "a password",
+      "ex": "J’ai oublié mon mot de passe."
+    },
+    {
+      "fr": "un compte",
+      "ipa": "kɔ̃t",
+      "en": "an account",
+      "ex": "Créez un compte."
+    },
+    {
+      "fr": "se connecter",
+      "ipa": "sə kɔ.nɛk.te",
+      "en": "to log in",
+      "ex": "Je n’arrive pas à me connecter."
+    },
+    {
+      "fr": "télécharger",
+      "ipa": "te.le.ʃaʁ.ʒe",
+      "en": "to download",
+      "ex": "Téléchargez l’application."
+    },
+    {
+      "fr": "une application, une appli",
+      "ipa": "a.pli",
+      "en": "an app",
+      "ex": "J’ai installé l’appli."
+    },
+    {
+      "fr": "envoyer un mail",
+      "ipa": "me.jl",
+      "en": "to send an email",
+      "ex": "Je t’envoie un mail."
+    },
+    {
+      "fr": "une pièce jointe",
+      "ipa": "pjɛs ʒwɛ̃t",
+      "en": "an attachment",
+      "ex": "La pièce jointe est trop lourde."
+    },
+    {
+      "fr": "un réseau social",
+      "ipa": "ʁe.zo sɔ.sjal",
+      "en": "a social network",
+      "ex": "Je suis sur deux réseaux sociaux."
+    },
+    {
+      "fr": "publier",
+      "ipa": "py.blje",
+      "en": "to post",
+      "ex": "Elle a publié une photo."
+    },
+    {
+      "fr": "partager",
+      "ipa": "paʁ.ta.ʒe",
+      "en": "to share",
+      "ex": "J’ai partagé l’article."
+    },
+    {
+      "fr": "un message",
+      "ipa": "me.saʒ",
+      "en": "a message",
+      "ex": "J’ai reçu ton message."
+    },
+    {
+      "fr": "un appel",
+      "ipa": "a.pɛl",
+      "en": "a call",
+      "ex": "J’ai raté ton appel."
+    },
+    {
+      "fr": "une batterie",
+      "ipa": "ba.tʁi",
+      "en": "a battery",
+      "ex": "Ma batterie est faible."
+    },
+    {
+      "fr": "recharger",
+      "ipa": "ʁə.ʃaʁ.ʒe",
+      "en": "to charge",
+      "ex": "Je dois recharger mon téléphone."
+    },
+    {
+      "fr": "une panne",
+      "ipa": "pan",
+      "en": "a breakdown",
+      "ex": "Une panne de réseau."
+    },
+    {
+      "fr": "le réseau",
+      "ipa": "ʁe.zo",
+      "en": "the network, signal",
+      "ex": "Il n’y a pas de réseau ici."
+    },
+    {
+      "fr": "une imprimante",
+      "ipa": "ɛ̃.pʁi.mɑ̃t",
+      "en": "a printer",
+      "ex": "L’imprimante est en panne."
+    },
+    {
+      "fr": "sauvegarder",
+      "ipa": "sov.ɡaʁ.de",
+      "en": "to save",
+      "ex": "N’oublie pas de sauvegarder."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis le bon mot.",
+      "items": [
+        {
+          "q": "Le document envoyé avec un mail :",
+          "options": [
+            "une pièce jointe",
+            "un mot de passe",
+            "un réseau"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Il n’y a pas de réseau » signifie…",
+          "options": [
+            "pas de signal",
+            "pas de courant",
+            "pas d’argent"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Le clavier français s’appelle…",
+          "options": [
+            "QWERTY",
+            "AZERTY",
+            "ALPHA"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "tm-a2-subjonctif-figees",
+  "group": "temps-modes",
+  "level": "A2",
+  "order": 280,
+  "title": "Le subjonctif dans les expressions figées",
+  "summary": "Il faut que… : le subjonctif par la porte la plus utile.",
+  "essentiel": [
+    "Après [fr]il faut que[/fr], le verbe change de forme : [fr]Il faut que je **parte**.[/fr]",
+    "Formation simple : radical de [fr]ils[/fr] au présent + **-e, -es, -e, -ions, -iez, -ent**.",
+    "À ce niveau, retiens surtout trois déclencheurs : [fr]il faut que[/fr], [fr]je veux que[/fr], [fr]bien que[/fr]."
+  ],
+  "regle": "Le **subjonctif** ((subjunctive)) n’est pas un temps : c’est un **mode**. Il apparaît après certaines expressions, un peu comme un réflexe grammatical.\n\nÀ A2, on ne l’apprend pas en entier. On apprend les phrases où il est **obligatoire et fréquent** :\n\n[fr]**Il faut que** tu viennes.[/fr] ((you have to come))\n[fr]**Je veux que** tu viennes.[/fr]\n[fr]**Bien qu’**il soit tard, on continue.[/fr]\n\n**La formation.** On prend la forme [fr]ils[/fr] du présent, on enlève [fr]-ent[/fr], on ajoute la terminaison.\n[fr]ils parl**ent**[/fr] → [fr]que je parl**e**[/fr]\n[fr]ils finiss**ent**[/fr] → [fr]que je finiss**e**[/fr]\n\nQuelques verbes très courants sont irréguliers — et ce sont justement ceux qu’on utilise : [fr]être, avoir, aller, faire, pouvoir, savoir, vouloir[/fr].",
+  "exemples": [
+    {
+      "fr": "Il faut que je parte maintenant.",
+      "en": "I have to leave now."
+    },
+    {
+      "fr": "Il faut que tu sois à l’heure.",
+      "en": "You must be on time."
+    },
+    {
+      "fr": "Je veux que vous fassiez attention.",
+      "en": "I want you to be careful."
+    },
+    {
+      "fr": "Il faut qu’on aille à la banque.",
+      "en": "We need to go to the bank."
+    },
+    {
+      "fr": "Bien que ce soit cher, j’achète.",
+      "en": "Although it’s expensive, I’ll buy it."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les sept irréguliers indispensables",
+      "collapsed": false,
+      "headers": [
+        "Verbe",
+        "que je…",
+        "que nous…"
+      ],
+      "rows": [
+        [
+          "être",
+          "sois",
+          "soyons"
+        ],
+        [
+          "avoir",
+          "aie",
+          "ayons"
+        ],
+        [
+          "aller",
+          "aille",
+          "allions"
+        ],
+        [
+          "faire",
+          "fasse",
+          "fassions"
+        ],
+        [
+          "pouvoir",
+          "puisse",
+          "puissions"
+        ],
+        [
+          "savoir",
+          "sache",
+          "sachions"
+        ],
+        [
+          "vouloir",
+          "veuille",
+          "voulions"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "⚖️",
+    "title": "« Il faut » sans « que »",
+    "text": "Si le sujet ne change pas, on évite le subjonctif et on met l’infinitif : [fr]Il faut partir.[/fr] On ne dit [fr]il faut que je parte[/fr] que si l’on veut préciser **qui** doit partir."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets le verbe au subjonctif.",
+      "items": [
+        {
+          "before": "Il faut que tu ",
+          "after": " tes devoirs. (finir)",
+          "answer": "finisses",
+          "why": "[fr]ils finissent[/fr] → radical [fr]finiss-[/fr]."
+        },
+        {
+          "before": "Il faut que je ",
+          "after": " à la poste. (aller)",
+          "answer": "aille",
+          "why": "Irrégulier : [fr]que j’aille[/fr]."
+        },
+        {
+          "before": "Je veux que vous ",
+          "after": " patients. (être)",
+          "answer": "soyez",
+          "why": "Irrégulier : [fr]que vous soyez[/fr]."
+        },
+        {
+          "before": "Il faut qu’elle ",
+          "after": " plus tôt. (partir)",
+          "answer": "parte",
+          "why": "[fr]ils partent[/fr] → radical [fr]part-[/fr]."
+        },
+        {
+          "before": "Il faut que nous ",
+          "after": " un effort. (faire)",
+          "answer": "fassions",
+          "why": "Irrégulier : [fr]que nous fassions[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Subjonctif ou infinitif ?",
+      "items": [
+        {
+          "q": "Il faut ___ tôt demain. (pas de sujet précisé)",
+          "options": [
+            "partir",
+            "que je parte",
+            "partons"
+          ],
+          "answer": 0,
+          "why": "Sans changement de sujet, on met l’infinitif."
+        },
+        {
+          "q": "Il faut que tu ___ .",
+          "options": [
+            "viens",
+            "viennes",
+            "venir"
+          ],
+          "answer": 1,
+          "why": "Après [fr]il faut que[/fr] + sujet, subjonctif obligatoire."
+        },
+        {
+          "q": "Je veux que tu ___ la vérité.",
+          "options": [
+            "dis",
+            "dises",
+            "dire"
+          ],
+          "answer": 1,
+          "why": "[fr]vouloir que[/fr] déclenche le subjonctif."
+        }
+      ]
+    }
+  ]
+}

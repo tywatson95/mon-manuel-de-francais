@@ -1,0 +1,195 @@
+{
+  "id": "na-a1-partitifs",
+  "group": "noms-adjectifs",
+  "level": "A1",
+  "order": 140,
+  "title": "Les articles partitifs et « de » après la négation",
+  "summary": "Du pain, de la salade : une quantité qu’on ne compte pas.",
+  "essentiel": [
+    "[fr]du, de la, de l’, des[/fr] = **une partie** de quelque chose : [fr]Je bois **du** café.[/fr]",
+    "Après une **négation**, tout devient [fr]de[/fr] : [fr]Je ne bois **pas de** café.[/fr]",
+    "Après une **quantité**, aussi : [fr]beaucoup **de** café, un kilo **de** pommes[/fr]."
+  ],
+  "regle": "Quand on ne compte pas, le français utilise l’article **partitif**. L’anglais dit simplement *I eat bread* ; le français doit dire [fr]Je mange **du** pain[/fr].\n\n[fr]**du** pain[/fr] ((masculine)) · [fr]**de la** confiture[/fr] ((feminine)) · [fr]**de l’**eau[/fr] ((before a vowel)) · [fr]**des** légumes[/fr] ((plural))\n\n**La grande règle : la négation transforme tout en [fr]de[/fr].**\n[fr]Je mange **du** fromage.[/fr] → [fr]Je ne mange **pas de** fromage.[/fr]\n[fr]J’ai **un** frère.[/fr] → [fr]Je n’ai **pas de** frère.[/fr]\nDevant une voyelle : [fr]pas **d’**eau[/fr].\n\n**L’exception.** Avec le verbe [fr]être[/fr], l’article ne change pas :\n[fr]Ce n’est pas **un** problème.[/fr] ((not *pas de problème* here))\n\n**Après une expression de quantité**, c’est aussi [fr]de[/fr] tout seul :\n[fr]beaucoup **de** monde · un peu **de** sel · trop **de** bruit · une bouteille **d’**eau · assez **de** temps[/fr]",
+  "exemples": [
+    {
+      "fr": "Je prends du thé le matin.",
+      "en": "I have tea in the morning."
+    },
+    {
+      "fr": "Il n’y a pas de lait dans le frigo.",
+      "en": "There’s no milk in the fridge."
+    },
+    {
+      "fr": "Elle boit beaucoup d’eau.",
+      "en": "She drinks a lot of water."
+    },
+    {
+      "fr": "Tu veux de la salade ?",
+      "en": "Would you like some salad?"
+    },
+    {
+      "fr": "Ce n’est pas une bonne idée.",
+      "en": "That’s not a good idea."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Affirmation et négation",
+      "collapsed": false,
+      "headers": [
+        "Affirmation",
+        "Négation"
+      ],
+      "rows": [
+        [
+          "Je mange du pain.",
+          "Je ne mange pas de pain."
+        ],
+        [
+          "Elle boit de la bière.",
+          "Elle ne boit pas de bière."
+        ],
+        [
+          "Il y a de l’eau.",
+          "Il n’y a pas d’eau."
+        ],
+        [
+          "J’ai des amis ici.",
+          "Je n’ai pas d’amis ici."
+        ],
+        [
+          "C’est un problème.",
+          "Ce n’est pas un problème. *(exception : être)*"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : au petit-déjeuner",
+    "lines": [
+      {
+        "who": "Hôte",
+        "fr": "Vous voulez du café ou du thé ?",
+        "en": "Would you like coffee or tea?"
+      },
+      {
+        "who": "Invitée",
+        "fr": "Du thé, s’il vous plaît. Avec un peu de lait.",
+        "en": "Tea, please. With a little milk."
+      },
+      {
+        "who": "Hôte",
+        "fr": "Désolé, il n’y a plus de lait.",
+        "en": "Sorry, there’s no more milk."
+      },
+      {
+        "who": "Invitée",
+        "fr": "Ce n’est pas grave. Vous avez du sucre ?",
+        "en": "Never mind. Do you have sugar?"
+      },
+      {
+        "who": "Hôte",
+        "fr": "Oui, et il reste des croissants.",
+        "en": "Yes, and there are still some croissants."
+      },
+      {
+        "who": "Invitée",
+        "fr": "Parfait, j’en prends un. Merci beaucoup !",
+        "en": "Perfect, I’ll take one. Thank you!"
+      }
+    ],
+    "check": {
+      "q": "Pourquoi « il n’y a plus **de** lait » ?",
+      "options": [
+        "Après une négation, l’article devient « de ».",
+        "Parce que « lait » est masculin.",
+        "C’est une faute."
+      ],
+      "answer": 0,
+      "why": "[fr]ne… plus[/fr] est une négation : le partitif devient [fr]de[/fr]."
+    }
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Complète avec du, de la, de l’, des ou de.",
+      "items": [
+        {
+          "before": "Je voudrais ",
+          "after": " eau, s’il vous plaît.",
+          "answer": "de l’"
+        },
+        {
+          "before": "Il n’y a pas ",
+          "after": " sucre.",
+          "answer": "de"
+        },
+        {
+          "before": "Nous mangeons ",
+          "after": " légumes tous les jours.",
+          "answer": "des"
+        },
+        {
+          "before": "Elle boit beaucoup ",
+          "after": " café.",
+          "answer": "de"
+        },
+        {
+          "before": "Tu prends ",
+          "after": " confiture ?",
+          "answer": "de la"
+        },
+        {
+          "before": "Ce n’est pas ",
+          "after": " bonne solution.",
+          "answer": "une",
+          "why": "Après [fr]être[/fr], l’article ne change pas."
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Je ne mange pas ___ viande.",
+          "options": [
+            "de la",
+            "de",
+            "du"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Il y a ___ pain sur la table.",
+          "options": [
+            "du",
+            "de",
+            "de le"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "J’ai trop ___ travail.",
+          "options": [
+            "du",
+            "de",
+            "de la"
+          ],
+          "answer": 1,
+          "why": "Après une quantité → [fr]de[/fr] seul."
+        },
+        {
+          "q": "Elle n’a pas ___ frère.",
+          "options": [
+            "un",
+            "de",
+            "du"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

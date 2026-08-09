@@ -1,0 +1,272 @@
+{
+  "id": "voc-a2-hotel",
+  "title": "Hôtels & vacances",
+  "level": "A2",
+  "order": 220,
+  "summary": "Partir, se loger, profiter — et gérer les imprévus.",
+  "items": [
+    {
+      "fr": "les vacances (f)",
+      "ipa": "va.kɑ̃s",
+      "en": "holidays",
+      "ex": "Je pars en vacances en juillet."
+    },
+    {
+      "fr": "un séjour",
+      "ipa": "se.ʒuʁ",
+      "en": "a stay",
+      "ex": "Un séjour d’une semaine."
+    },
+    {
+      "fr": "un hôtel",
+      "ipa": "o.tɛl",
+      "en": "a hotel",
+      "ex": "L’hôtel est complet."
+    },
+    {
+      "fr": "une auberge de jeunesse",
+      "ipa": "o.bɛʁʒ",
+      "en": "a youth hostel",
+      "ex": "On dort en auberge de jeunesse."
+    },
+    {
+      "fr": "un gîte",
+      "ipa": "ʒit",
+      "en": "a self-catering cottage",
+      "ex": "Un gîte à la campagne."
+    },
+    {
+      "fr": "un camping",
+      "ipa": "kɑ̃.piŋ",
+      "en": "a campsite",
+      "ex": "Le camping est au bord du lac."
+    },
+    {
+      "fr": "une chambre d’hôtes",
+      "ipa": "ʃɑ̃bʁ dot",
+      "en": "a B&B",
+      "ex": "Une chambre d’hôtes charmante."
+    },
+    {
+      "fr": "la réception",
+      "ipa": "ʁe.sɛp.sjɔ̃",
+      "en": "reception",
+      "ex": "Laissez la clé à la réception."
+    },
+    {
+      "fr": "une réservation",
+      "ipa": "ʁe.zɛʁ.va.sjɔ̃",
+      "en": "a booking",
+      "ex": "J’ai une réservation."
+    },
+    {
+      "fr": "annuler",
+      "ipa": "a.ny.le",
+      "en": "to cancel",
+      "ex": "J’ai dû annuler ma réservation."
+    },
+    {
+      "fr": "confirmer",
+      "ipa": "kɔ̃.fiʁ.me",
+      "en": "to confirm",
+      "ex": "Pouvez-vous confirmer par mail ?"
+    },
+    {
+      "fr": "la clé, la carte",
+      "ipa": "kle",
+      "en": "the key, key card",
+      "ex": "La carte ne fonctionne plus."
+    },
+    {
+      "fr": "la climatisation",
+      "ipa": "kli.ma.ti.za.sjɔ̃",
+      "en": "air conditioning",
+      "ex": "La climatisation est en panne."
+    },
+    {
+      "fr": "le chauffage",
+      "ipa": "ʃo.faʒ",
+      "en": "heating",
+      "ex": "Le chauffage ne marche pas."
+    },
+    {
+      "fr": "une serviette",
+      "ipa": "sɛʁ.vjɛt",
+      "en": "a towel",
+      "ex": "Il manque une serviette."
+    },
+    {
+      "fr": "un lit double",
+      "ipa": "li dubl",
+      "en": "a double bed",
+      "ex": "Une chambre avec lit double."
+    },
+    {
+      "fr": "des lits simples",
+      "ipa": "li sɛ̃pl",
+      "en": "single beds",
+      "ex": "Deux lits simples, s’il vous plaît."
+    },
+    {
+      "fr": "le petit-déjeuner compris",
+      "ipa": "kɔ̃.pʁi",
+      "en": "breakfast included",
+      "ex": "Le petit-déjeuner est compris."
+    },
+    {
+      "fr": "la demi-pension",
+      "ipa": "də.mi pɑ̃.sjɔ̃",
+      "en": "half board",
+      "ex": "Nous sommes en demi-pension."
+    },
+    {
+      "fr": "le wifi",
+      "ipa": "wi.fi",
+      "en": "wifi",
+      "ex": "Le wifi est gratuit ?"
+    },
+    {
+      "fr": "l’ascenseur (m)",
+      "ipa": "a.sɑ̃.sœʁ",
+      "en": "the lift",
+      "ex": "L’ascenseur est en panne."
+    },
+    {
+      "fr": "une vue sur la mer",
+      "ipa": "vy",
+      "en": "a sea view",
+      "ex": "Une chambre avec vue sur la mer."
+    },
+    {
+      "fr": "bruyant(e)",
+      "ipa": "bʁɥi.jɑ̃",
+      "en": "noisy",
+      "ex": "La chambre est trop bruyante."
+    },
+    {
+      "fr": "calme",
+      "ipa": "kalm",
+      "en": "quiet",
+      "ex": "Un quartier très calme."
+    },
+    {
+      "fr": "propre",
+      "ipa": "pʁɔpʁ",
+      "en": "clean",
+      "ex": "La salle de bains est propre."
+    },
+    {
+      "fr": "sale",
+      "ipa": "sal",
+      "en": "dirty",
+      "ex": "Les draps sont sales."
+    },
+    {
+      "fr": "régler la note",
+      "ipa": "ʁe.ɡle la nɔt",
+      "en": "to settle the bill",
+      "ex": "Je voudrais régler la note."
+    },
+    {
+      "fr": "un supplément",
+      "ipa": "sy.ple.mɑ̃",
+      "en": "an extra charge",
+      "ex": "Il y a un supplément pour le parking."
+    },
+    {
+      "fr": "la station balnéaire",
+      "ipa": "bal.ne.ɛʁ",
+      "en": "the seaside resort",
+      "ex": "Une station balnéaire animée."
+    },
+    {
+      "fr": "la plage",
+      "ipa": "plaʒ",
+      "en": "the beach",
+      "ex": "La plage est à deux pas."
+    },
+    {
+      "fr": "la montagne",
+      "ipa": "mɔ̃.taɲ",
+      "en": "the mountains",
+      "ex": "On part à la montagne."
+    },
+    {
+      "fr": "la campagne",
+      "ipa": "kɑ̃.paɲ",
+      "en": "the countryside",
+      "ex": "Un week-end à la campagne."
+    },
+    {
+      "fr": "une excursion",
+      "ipa": "ɛks.kyʁ.sjɔ̃",
+      "en": "an excursion",
+      "ex": "Une excursion en bateau."
+    },
+    {
+      "fr": "un guide",
+      "ipa": "ɡid",
+      "en": "a guide, a guidebook",
+      "ex": "Le guide parle anglais."
+    },
+    {
+      "fr": "une visite guidée",
+      "ipa": "vi.zit ɡi.de",
+      "en": "a guided tour",
+      "ex": "Une visite guidée du château."
+    },
+    {
+      "fr": "un souvenir",
+      "ipa": "su.və.niʁ",
+      "en": "a souvenir, a memory",
+      "ex": "J’ai acheté un souvenir."
+    },
+    {
+      "fr": "la haute saison",
+      "ipa": "ot sɛ.zɔ̃",
+      "en": "high season",
+      "ex": "En haute saison, c’est plus cher."
+    },
+    {
+      "fr": "hors saison",
+      "ipa": "ɔʁ sɛ.zɔ̃",
+      "en": "off season",
+      "ex": "Hors saison, tout est calme."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que dire à l’hôtel ?",
+      "items": [
+        {
+          "q": "Le chauffage est en panne :",
+          "options": [
+            "Le chauffage ne fonctionne pas.",
+            "Le chauffage est compris.",
+            "Je voudrais le chauffage."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tu veux payer et partir :",
+          "options": [
+            "Je voudrais régler la note.",
+            "Je voudrais réserver.",
+            "Je voudrais confirmer."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Demi-pension » comprend…",
+          "options": [
+            "tous les repas",
+            "le petit-déjeuner et un repas",
+            "rien"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

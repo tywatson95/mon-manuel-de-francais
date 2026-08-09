@@ -1,0 +1,115 @@
+{
+  "id": "tm-a1-futur-proche",
+  "group": "temps-modes",
+  "level": "A1",
+  "order": 150,
+  "title": "Le futur proche",
+  "summary": "Aller + infinitif : le futur le plus simple et le plus parlé.",
+  "essentiel": [
+    "[fr]aller[/fr] au présent + **infinitif** : [fr]Je vais manger.[/fr] ((I’m going to eat.))",
+    "C’est le futur de la conversation — bien plus fréquent à l’oral que le futur simple.",
+    "À la négation, [fr]ne… pas[/fr] entoure **aller** : [fr]Je **ne** vais **pas** manger.[/fr]"
+  ],
+  "regle": "Le **futur proche** ((near future)) se construit en deux morceaux : le verbe [fr]aller[/fr] conjugué, puis un infinitif qui ne change jamais.\n\n[fr]Je **vais** partir. · Tu **vas** partir. · Nous **allons** partir.[/fr]\n\nOn l’utilise pour un projet, une décision, une intention — même lointaine. [fr]L’année prochaine, je vais déménager.[/fr]\n\nAvec un verbe pronominal, le pronom se place devant l’infinitif : [fr]Je vais **me** coucher.[/fr]",
+  "exemples": [
+    {
+      "fr": "Je vais prendre un café.",
+      "en": "I’m going to have a coffee."
+    },
+    {
+      "fr": "Nous allons visiter le musée demain.",
+      "en": "We’re going to visit the museum tomorrow."
+    },
+    {
+      "fr": "Tu vas te reposer un peu ?",
+      "en": "Are you going to rest a bit?"
+    },
+    {
+      "fr": "Il ne va pas venir ce soir.",
+      "en": "He isn’t going to come tonight."
+    },
+    {
+      "fr": "Qu’est-ce que vous allez faire ce week-end ?",
+      "en": "What are you going to do this weekend?"
+    }
+  ],
+  "culture": {
+    "icon": "🗣️",
+    "title": "Le futur de la vraie vie",
+    "text": "À l’oral, les Français utilisent le futur proche bien plus souvent que le futur simple. [fr]Je vais t’appeler[/fr] est beaucoup plus naturel que [fr]je t’appellerai[/fr] dans une conversation ordinaire."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets la phrase au futur proche.",
+      "items": [
+        {
+          "before": "Je ",
+          "after": " un gâteau. (faire)",
+          "answer": "vais faire",
+          "why": "[fr]aller[/fr] conjugué + infinitif."
+        },
+        {
+          "before": "Nous ",
+          "after": " à la plage. (aller)",
+          "answer": "allons aller",
+          "why": "Oui, [fr]aller[/fr] peut se répéter : [fr]nous allons aller[/fr]."
+        },
+        {
+          "before": "Ils ",
+          "after": " la maison. (vendre)",
+          "answer": "vont vendre"
+        },
+        {
+          "before": "Tu ",
+          "after": " tôt ? (se lever)",
+          "answer": "vas te lever",
+          "hint": "Le pronom se place devant l’infinitif.",
+          "why": "[fr]Tu vas **te** lever[/fr] — le pronom s’accorde avec le sujet."
+        },
+        {
+          "before": "Elle ne ",
+          "after": " pas ce film. (regarder)",
+          "answer": "va",
+          "why": "[fr]ne[/fr] et [fr]pas[/fr] entourent seulement [fr]va[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quelle phrase est correcte ?",
+      "items": [
+        {
+          "q": "Choisis la bonne phrase.",
+          "options": [
+            "Je vais mange.",
+            "Je vais manger.",
+            "Je vais mangé."
+          ],
+          "answer": 1,
+          "why": "Après [fr]aller[/fr], on met toujours l’**infinitif**."
+        },
+        {
+          "q": "Comment dire « We are not going to leave » ?",
+          "options": [
+            "Nous n’allons pas partir.",
+            "Nous allons ne pas partir.",
+            "Nous n’allons partir pas."
+          ],
+          "answer": 0,
+          "why": "[fr]ne… pas[/fr] entoure le verbe conjugué [fr]allons[/fr]."
+        },
+        {
+          "q": "« Il va se doucher » veut dire…",
+          "options": [
+            "He is showering.",
+            "He is going to shower.",
+            "He showered."
+          ],
+          "answer": 1,
+          "why": "Futur proche = intention, projet."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": "na-b1-adjectifs-nuances",
+  "group": "noms-adjectifs",
+  "level": "B1",
+  "order": 310,
+  "title": "Les adjectifs qui changent de sens selon leur place",
+  "summary": "Un grand homme n’est pas un homme grand.",
+  "essentiel": [
+    "Certains adjectifs ont un sens **figuré avant** le nom et **littéral après**.",
+    "[fr]un **ancien** professeur[/fr] ((former)) contre [fr]un professeur **ancien**[/fr] ((elderly, old-fashioned)).",
+    "La règle générale : **avant** = subjectif, **après** = objectif."
+  ],
+  "regle": "Placer l’adjectif n’est pas seulement une question de style : pour une dizaine de mots courants, la place **change le sens**.\n\n[fr]un **grand** homme[/fr] ((a great man)) · [fr]un homme **grand**[/fr] ((a tall man))\n[fr]mon **ancien** appartement[/fr] ((my former flat)) · [fr]un meuble **ancien**[/fr] ((an antique))\n[fr]un **certain** succès[/fr] ((a certain amount of)) · [fr]un succès **certain**[/fr] ((a guaranteed success))\n[fr]la **dernière** semaine[/fr] ((the final week)) · [fr]la semaine **dernière**[/fr] ((last week))\n[fr]un **pauvre** homme[/fr] ((a pitiable man)) · [fr]un homme **pauvre**[/fr] ((a man without money))\n[fr]ma **propre** chambre[/fr] ((my own room)) · [fr]une chambre **propre**[/fr] ((a clean room))\n[fr]un **seul** homme[/fr] ((only one man)) · [fr]un homme **seul**[/fr] ((a lonely man))\n[fr]la **même** idée[/fr] ((the same idea)) · [fr]l’idée **même**[/fr] ((the very idea))\n[fr]un **cher** ami[/fr] ((a dear friend)) · [fr]un restaurant **cher**[/fr] ((an expensive restaurant))\n\nLe principe qui les relie : **avant le nom, l’adjectif porte un jugement ; après, il décrit une propriété mesurable**.\n\nCela explique aussi pourquoi, en littérature, on peut déplacer un adjectif normalement postposé pour lui donner une valeur expressive : [fr]une **magnifique** journée[/fr] est plus enthousiaste que [fr]une journée **magnifique**[/fr].",
+  "exemples": [
+    {
+      "fr": "C’était un grand homme, mais il n’était pas très grand.",
+      "en": "He was a great man, but he wasn’t very tall."
+    },
+    {
+      "fr": "J’ai revu mon ancien collègue.",
+      "en": "I saw my former colleague again."
+    },
+    {
+      "fr": "Ils vivent dans une maison ancienne.",
+      "en": "They live in an old house."
+    },
+    {
+      "fr": "Elle a enfin sa propre voiture.",
+      "en": "She finally has her own car."
+    },
+    {
+      "fr": "La semaine dernière, j’étais à Rome.",
+      "en": "Last week I was in Rome."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir la liste complète",
+      "collapsed": true,
+      "headers": [
+        "Adjectif",
+        "Avant le nom",
+        "Après le nom"
+      ],
+      "rows": [
+        [
+          "ancien",
+          "ex-, précédent",
+          "vieux, antique"
+        ],
+        [
+          "certain",
+          "un peu de",
+          "sûr, garanti"
+        ],
+        [
+          "cher",
+          "affectueux",
+          "coûteux"
+        ],
+        [
+          "dernier",
+          "ultime",
+          "précédent (temps)"
+        ],
+        [
+          "grand",
+          "important, illustre",
+          "de haute taille"
+        ],
+        [
+          "même",
+          "identique",
+          "lui-même, précisément"
+        ],
+        [
+          "pauvre",
+          "à plaindre",
+          "sans argent"
+        ],
+        [
+          "propre",
+          "à soi",
+          "net"
+        ],
+        [
+          "seul",
+          "un unique",
+          "solitaire"
+        ],
+        [
+          "brave",
+          "sympathique",
+          "courageux"
+        ],
+        [
+          "curieux",
+          "étrange",
+          "qui veut savoir"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que signifie la phrase ?",
+      "items": [
+        {
+          "q": "« C’est mon ancien patron. »",
+          "options": [
+            "Il est vieux.",
+            "Ce n’est plus mon patron.",
+            "Il est démodé."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Ce n’est pas un homme pauvre. »",
+          "options": [
+            "Il n’est pas à plaindre.",
+            "Il a de l’argent.",
+            "Il n’est pas seul."
+          ],
+          "answer": 1,
+          "why": "Après le nom, [fr]pauvre[/fr] est littéral."
+        },
+        {
+          "q": "« J’ai ma propre chambre. »",
+          "options": [
+            "Elle est bien nettoyée.",
+            "Elle est à moi seul.",
+            "Elle est neuve."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Un succès certain » signifie…",
+          "options": [
+            "un succès garanti",
+            "un petit succès",
+            "un succès étrange"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« La dernière semaine du mois » signifie…",
+          "options": [
+            "la semaine passée",
+            "la semaine finale",
+            "n’importe quelle semaine"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe l’expression à son sens.",
+      "labelLeft": "Expression",
+      "labelRight": "Sens",
+      "pairs": [
+        [
+          "un grand homme",
+          "une personne illustre"
+        ],
+        [
+          "un homme grand",
+          "une personne de haute taille"
+        ],
+        [
+          "un cher ami",
+          "un ami que j’aime"
+        ],
+        [
+          "un hôtel cher",
+          "un hôtel coûteux"
+        ],
+        [
+          "la même erreur",
+          "une erreur identique"
+        ],
+        [
+          "un curieux personnage",
+          "un personnage étrange"
+        ]
+      ]
+    }
+  ]
+}

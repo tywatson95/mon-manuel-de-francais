@@ -1,0 +1,236 @@
+{
+  "id": "voc-b2-culture-arts",
+  "title": "Culture & arts",
+  "level": "B2",
+  "order": 590,
+  "summary": "Parler d’art, de patrimoine et de politique culturelle.",
+  "items": [
+    {
+      "fr": "la culture",
+      "ipa": "kyl.tyʁ",
+      "en": "culture",
+      "ex": "La culture est un enjeu politique."
+    },
+    {
+      "fr": "le patrimoine",
+      "ipa": "pa.tʁi.mwan",
+      "en": "heritage",
+      "ex": "Le patrimoine architectural."
+    },
+    {
+      "fr": "une œuvre",
+      "ipa": "œvʁ",
+      "en": "a work of art",
+      "ex": "Une œuvre majeure."
+    },
+    {
+      "fr": "un(e) artiste",
+      "ipa": "aʁ.tist",
+      "en": "an artist",
+      "ex": "Un artiste engagé."
+    },
+    {
+      "fr": "une exposition",
+      "ipa": "ɛks.po.zi.sjɔ̃",
+      "en": "an exhibition",
+      "ex": "Une exposition rétrospective."
+    },
+    {
+      "fr": "un(e) conservateur(trice)",
+      "ipa": "kɔ̃.sɛʁ.va.tœʁ",
+      "en": "a curator",
+      "ex": "Le conservateur du musée."
+    },
+    {
+      "fr": "une collection",
+      "ipa": "kɔ.lɛk.sjɔ̃",
+      "en": "a collection",
+      "ex": "Une collection permanente."
+    },
+    {
+      "fr": "un courant",
+      "ipa": "ku.ʁɑ̃",
+      "en": "a movement",
+      "ex": "Un courant artistique."
+    },
+    {
+      "fr": "une esthétique",
+      "ipa": "ɛs.te.tik",
+      "en": "an aesthetic",
+      "ex": "Une esthétique dépouillée."
+    },
+    {
+      "fr": "la scène",
+      "ipa": "sɛn",
+      "en": "the stage, the scene",
+      "ex": "La scène théâtrale française."
+    },
+    {
+      "fr": "une pièce de théâtre",
+      "ipa": "pjɛs",
+      "en": "a play",
+      "ex": "Une pièce de théâtre contemporaine."
+    },
+    {
+      "fr": "une mise en scène",
+      "ipa": "miz ɑ̃ sɛn",
+      "en": "a production, staging",
+      "ex": "Une mise en scène audacieuse."
+    },
+    {
+      "fr": "un spectacle",
+      "ipa": "spɛk.takl",
+      "en": "a show",
+      "ex": "Un spectacle complet."
+    },
+    {
+      "fr": "un(e) metteur(euse) en scène",
+      "ipa": "me.tœʁ",
+      "en": "a director",
+      "ex": "La metteuse en scène a osé."
+    },
+    {
+      "fr": "un festival",
+      "ipa": "fɛs.ti.val",
+      "en": "a festival",
+      "ex": "Le festival d’Avignon."
+    },
+    {
+      "fr": "la création",
+      "ipa": "kʁe.a.sjɔ̃",
+      "en": "creation, a new work",
+      "ex": "Une création originale."
+    },
+    {
+      "fr": "un(e) critique",
+      "ipa": "kʁi.tik",
+      "en": "a critic, a review",
+      "ex": "La critique a été sévère."
+    },
+    {
+      "fr": "une subvention",
+      "ipa": "syb.vɑ̃.sjɔ̃",
+      "en": "a subsidy",
+      "ex": "Une subvention publique."
+    },
+    {
+      "fr": "le mécénat",
+      "ipa": "me.se.na",
+      "en": "patronage",
+      "ex": "Le mécénat d’entreprise."
+    },
+    {
+      "fr": "l’exception culturelle",
+      "ipa": "ɛk.sɛp.sjɔ̃",
+      "en": "the cultural exception",
+      "ex": "L’exception culturelle française."
+    },
+    {
+      "fr": "la démocratisation",
+      "ipa": "de.mɔ.kʁa.ti.za.sjɔ̃",
+      "en": "widening access",
+      "ex": "La démocratisation de la culture."
+    },
+    {
+      "fr": "l’accès à la culture",
+      "ipa": "ak.sɛ",
+      "en": "access to culture",
+      "ex": "Faciliter l’accès à la culture."
+    },
+    {
+      "fr": "le droit d’auteur",
+      "ipa": "dʁwa do.tœʁ",
+      "en": "copyright",
+      "ex": "Le droit d’auteur protège l’artiste."
+    },
+    {
+      "fr": "une adaptation",
+      "ipa": "a.dap.ta.sjɔ̃",
+      "en": "an adaptation",
+      "ex": "Une adaptation cinématographique."
+    },
+    {
+      "fr": "une rétrospective",
+      "ipa": "ʁe.tʁɔs.pɛk.tiv",
+      "en": "a retrospective",
+      "ex": "Une rétrospective au Centre Pompidou."
+    },
+    {
+      "fr": "un chef-d’œuvre",
+      "ipa": "ʃɛ.dœvʁ",
+      "en": "a masterpiece",
+      "ex": "Un chef-d’œuvre reconnu."
+    },
+    {
+      "fr": "la restauration",
+      "ipa": "ʁɛs.to.ʁa.sjɔ̃",
+      "en": "restoration",
+      "ex": "La restauration de la cathédrale."
+    },
+    {
+      "fr": "classé(e)",
+      "ipa": "kla.se",
+      "en": "listed",
+      "ex": "Un bâtiment classé monument historique."
+    },
+    {
+      "fr": "contemporain(e)",
+      "ipa": "kɔ̃.tɑ̃.pɔ.ʁɛ̃",
+      "en": "contemporary",
+      "ex": "L’art contemporain divise."
+    },
+    {
+      "fr": "engagé(e)",
+      "ipa": "ɑ̃.ɡa.ʒe",
+      "en": "politically committed",
+      "ex": "Un cinéma engagé."
+    },
+    {
+      "fr": "populaire",
+      "ipa": "pɔ.py.lɛʁ",
+      "en": "popular",
+      "ex": "Une culture populaire riche."
+    },
+    {
+      "fr": "élitiste",
+      "ipa": "e.li.tist",
+      "en": "elitist",
+      "ex": "Un reproche d’élitisme."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "« L’exception culturelle » défend…",
+          "options": [
+            "la culture comme bien non soumis au seul marché",
+            "les artistes étrangers",
+            "les musées privés"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Un bâtiment « classé » est…",
+          "options": [
+            "protégé par l’État",
+            "à vendre",
+            "en ruine"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Le mécénat » est un financement…",
+          "options": [
+            "public",
+            "privé, par don",
+            "par abonnement"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

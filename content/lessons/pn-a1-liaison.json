@@ -1,0 +1,170 @@
+{
+  "id": "pn-a1-liaison",
+  "group": "prononciation",
+  "level": "A1",
+  "order": 150,
+  "title": "La liaison : premier contact",
+  "summary": "Pourquoi « les amis » se dit « lé-zami ».",
+  "essentiel": [
+    "Quand un mot finit par une consonne muette et que le suivant commence par une **voyelle**, on les relie.",
+    "[fr]les_amis[/fr] {{le.za.mi}} · [fr]un_enfant[/fr] {{œ̃.nɑ̃.fɑ̃}} · [fr]vous_avez[/fr] {{vu.za.ve}}",
+    "Certaines consonnes changent de son : [fr]s[/fr] et [fr]x[/fr] → {{z}} · [fr]d[/fr] → {{t}}."
+  ],
+  "regle": "Le français parlé n’enchaîne pas les mots comme des blocs séparés : il les **relie**. C’est ce qui rend la compréhension difficile au début — on n’entend pas où un mot finit.\n\n**Le principe.** Une consonne finale normalement muette se réveille devant une voyelle.\n[fr]les[/fr] {{le}} seul, mais [fr]les amis[/fr] {{le.za.mi}}\n\n**Les changements de son.**\n[fr]s[/fr] et [fr]x[/fr] → {{z}} : [fr]deux_heures[/fr] {{dø.zœʁ}}\n[fr]d[/fr] → {{t}} : [fr]un grand_homme[/fr] {{ɡʁɑ̃.tɔm}}\n[fr]f[/fr] → {{v}} : [fr]neuf_heures[/fr] {{nœ.vœʁ}}\n[fr]n[/fr] → la voyelle se dénasalise parfois : [fr]un bon_ami[/fr]\n\n**Les cas les plus fréquents à A1**, ceux qu’il faut faire automatiquement :\n- article + nom : [fr]les_enfants, un_ami, des_amis[/fr]\n- pronom + verbe : [fr]nous_avons, vous_êtes, ils_ont[/fr]\n- adjectif + nom : [fr]petit_ami, grand_arbre[/fr]\n- après [fr]très, chez, dans, sans, en[/fr] : [fr]très_intéressant, chez_elle[/fr]\n\n**Deux liaisons à ne jamais faire**, parce qu’elles changent le sens :\n[fr]ils sont[/fr] {{il.sɔ̃}} ((they are)) contre [fr]ils ont[/fr] {{il.zɔ̃}} ((they have))\nLa liaison est ici la **seule** différence audible.",
+  "exemples": [
+    {
+      "fr": "Nous avons deux enfants.",
+      "en": "We have two children."
+    },
+    {
+      "fr": "Vous êtes très aimable.",
+      "en": "You are very kind."
+    },
+    {
+      "fr": "Ils ont un grand appartement.",
+      "en": "They have a big flat."
+    },
+    {
+      "fr": "Elle habite chez elle, en Alsace.",
+      "en": "She lives at her place, in Alsace."
+    },
+    {
+      "fr": "C’est un petit ami de la famille.",
+      "en": "He’s a close friend of the family."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les consonnes de liaison",
+      "collapsed": false,
+      "headers": [
+        "Lettre finale",
+        "Son en liaison",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "s, x, z",
+          "{{z}}",
+          "les_amis, deux_ans"
+        ],
+        [
+          "d",
+          "{{t}}",
+          "un grand_arbre"
+        ],
+        [
+          "t",
+          "{{t}}",
+          "un petit_enfant"
+        ],
+        [
+          "n",
+          "{{n}}",
+          "un_an, mon_ami"
+        ],
+        [
+          "f",
+          "{{v}}",
+          "neuf_heures"
+        ],
+        [
+          "r",
+          "{{ʁ}}",
+          "le premier_étage"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "👂",
+    "title": "Pourquoi le français est difficile à écouter",
+    "text": "La liaison, l’enchaînement et le [fr]e[/fr] muet effacent les frontières entre les mots. [fr]Il n’y a pas d’eau[/fr] se dit {{i.nja.pa.do}} — cinq mots écrits, une seule coulée sonore. Ce n’est pas votre oreille qui est en cause : c’est la langue qui fonctionne ainsi."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Y a-t-il une liaison ?",
+      "items": [
+        {
+          "q": "« les enfants »",
+          "options": [
+            "oui, on entend {{z}}",
+            "non",
+            "oui, on entend {{s}}"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« les garçons »",
+          "options": [
+            "oui",
+            "non, le mot suivant commence par une consonne",
+            "oui, on entend {{z}}"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« ils ont » se prononce…",
+          "options": [
+            "{{il.sɔ̃}}",
+            "{{il.zɔ̃}}",
+            "{{i.lɔ̃}}"
+          ],
+          "answer": 1,
+          "why": "La liaison en {{z}} distingue [fr]ils ont[/fr] de [fr]ils sont[/fr]."
+        },
+        {
+          "q": "« un grand homme » : le [fr]d[/fr] se prononce…",
+          "options": [
+            "{{d}}",
+            "{{t}}",
+            "pas du tout"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« très intéressant »",
+          "options": [
+            "liaison en {{z}}",
+            "liaison en {{s}}",
+            "pas de liaison"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe l’expression à sa prononciation.",
+      "labelLeft": "Écrit",
+      "labelRight": "Prononcé",
+      "pairs": [
+        [
+          "les amis",
+          "{{le.za.mi}}"
+        ],
+        [
+          "nous avons",
+          "{{nu.za.vɔ̃}}"
+        ],
+        [
+          "un enfant",
+          "{{œ̃.nɑ̃.fɑ̃}}"
+        ],
+        [
+          "deux heures",
+          "{{dø.zœʁ}}"
+        ],
+        [
+          "ils sont",
+          "{{il.sɔ̃}}"
+        ],
+        [
+          "ils ont",
+          "{{il.zɔ̃}}"
+        ]
+      ]
+    }
+  ]
+}

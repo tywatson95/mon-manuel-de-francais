@@ -1,0 +1,187 @@
+{
+  "id": "voc-a1-couleurs",
+  "title": "Les couleurs",
+  "level": "A1",
+  "order": 160,
+  "summary": "Nommer les couleurs et les accorder.",
+  "items": [
+    {
+      "fr": "rouge",
+      "ipa": "ʁuʒ",
+      "en": "red",
+      "ex": "Une voiture rouge."
+    },
+    {
+      "fr": "bleu(e)",
+      "ipa": "blø",
+      "en": "blue",
+      "ex": "Le ciel est bleu."
+    },
+    {
+      "fr": "vert(e)",
+      "ipa": "vɛʁ",
+      "en": "green",
+      "ex": "Des haricots verts."
+    },
+    {
+      "fr": "jaune",
+      "ipa": "ʒon",
+      "en": "yellow",
+      "ex": "Un citron jaune."
+    },
+    {
+      "fr": "orange",
+      "ipa": "ɔ.ʁɑ̃ʒ",
+      "en": "orange",
+      "ex": "Un pull orange."
+    },
+    {
+      "fr": "rose",
+      "ipa": "ʁoz",
+      "en": "pink",
+      "ex": "Des fleurs roses."
+    },
+    {
+      "fr": "violet(te)",
+      "ipa": "vjɔ.lɛ",
+      "en": "purple",
+      "ex": "Une écharpe violette."
+    },
+    {
+      "fr": "marron",
+      "ipa": "ma.ʁɔ̃",
+      "en": "brown",
+      "ex": "Des chaussures marron."
+    },
+    {
+      "fr": "brun(e)",
+      "ipa": "bʁœ̃",
+      "en": "brown (hair, skin)",
+      "ex": "Des cheveux bruns."
+    },
+    {
+      "fr": "noir(e)",
+      "ipa": "nwaʁ",
+      "en": "black",
+      "ex": "Un chat noir."
+    },
+    {
+      "fr": "blanc, blanche",
+      "ipa": "blɑ̃, blɑ̃ʃ",
+      "en": "white",
+      "ex": "Une chemise blanche."
+    },
+    {
+      "fr": "gris(e)",
+      "ipa": "ɡʁi",
+      "en": "grey",
+      "ex": "Un ciel gris."
+    },
+    {
+      "fr": "beige",
+      "ipa": "bɛʒ",
+      "en": "beige",
+      "ex": "Un manteau beige."
+    },
+    {
+      "fr": "doré(e)",
+      "ipa": "dɔ.ʁe",
+      "en": "golden",
+      "ex": "Un cadre doré."
+    },
+    {
+      "fr": "argenté(e)",
+      "ipa": "aʁ.ʒɑ̃.te",
+      "en": "silver",
+      "ex": "Une montre argentée."
+    },
+    {
+      "fr": "clair",
+      "ipa": "klɛʁ",
+      "en": "light (colour)",
+      "ex": "Un bleu clair."
+    },
+    {
+      "fr": "foncé",
+      "ipa": "fɔ̃.se",
+      "en": "dark (colour)",
+      "ex": "Un vert foncé."
+    },
+    {
+      "fr": "vif, vive",
+      "ipa": "vif, viv",
+      "en": "bright",
+      "ex": "Des couleurs vives."
+    },
+    {
+      "fr": "pâle",
+      "ipa": "pɑl",
+      "en": "pale",
+      "ex": "Un rose pâle."
+    },
+    {
+      "fr": "multicolore",
+      "ipa": "myl.ti.kɔ.lɔʁ",
+      "en": "multicoloured",
+      "ex": "Un tissu multicolore."
+    },
+    {
+      "fr": "de quelle couleur ?",
+      "ipa": "də kɛl ku.lœʁ",
+      "en": "what colour?",
+      "ex": "De quelle couleur est ta voiture ?"
+    },
+    {
+      "fr": "la couleur",
+      "ipa": "ku.lœʁ",
+      "en": "the colour",
+      "ex": "Ma couleur préférée est le vert."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Accord des couleurs.",
+      "items": [
+        {
+          "q": "Des chaussures ___ (marron)",
+          "options": [
+            "marrons",
+            "marron",
+            "marronnes"
+          ],
+          "answer": 1,
+          "why": "Les couleurs venues d’un nom ([fr]marron, orange[/fr]) sont **invariables**."
+        },
+        {
+          "q": "Une chemise ___ (blanc)",
+          "options": [
+            "blanc",
+            "blanche",
+            "blanque"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Des yeux ___ (bleu clair)",
+          "options": [
+            "bleus clairs",
+            "bleu clair",
+            "bleus clair"
+          ],
+          "answer": 1,
+          "why": "Une couleur composée est invariable : [fr]bleu clair[/fr]."
+        },
+        {
+          "q": "Une jupe ___ (violet)",
+          "options": [
+            "violet",
+            "violette",
+            "violete"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

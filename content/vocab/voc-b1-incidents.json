@@ -1,0 +1,236 @@
+{
+  "id": "voc-b1-incidents",
+  "title": "Incidents de voyage",
+  "level": "B1",
+  "order": 440,
+  "summary": "Quand le voyage ne se passe pas comme prévu.",
+  "items": [
+    {
+      "fr": "un retard",
+      "ipa": "ʁə.taʁ",
+      "en": "a delay",
+      "ex": "Deux heures de retard."
+    },
+    {
+      "fr": "une annulation",
+      "ipa": "a.ny.la.sjɔ̃",
+      "en": "a cancellation",
+      "ex": "L’annulation du vol."
+    },
+    {
+      "fr": "une correspondance ratée",
+      "ipa": "ʁa.te",
+      "en": "a missed connection",
+      "ex": "J’ai raté ma correspondance."
+    },
+    {
+      "fr": "un bagage perdu",
+      "ipa": "ba.ɡaʒ",
+      "en": "lost luggage",
+      "ex": "Ma valise est perdue."
+    },
+    {
+      "fr": "une réclamation",
+      "ipa": "ʁe.kla.ma.sjɔ̃",
+      "en": "a claim",
+      "ex": "Faire une réclamation."
+    },
+    {
+      "fr": "un dédommagement",
+      "ipa": "de.dɔ.maʒ.mɑ̃",
+      "en": "compensation",
+      "ex": "Demander un dédommagement."
+    },
+    {
+      "fr": "un remboursement",
+      "ipa": "ʁɑ̃.buʁs.mɑ̃",
+      "en": "a refund",
+      "ex": "Le remboursement a été accepté."
+    },
+    {
+      "fr": "une grève",
+      "ipa": "ɡʁɛv",
+      "en": "a strike",
+      "ex": "Une grève des contrôleurs."
+    },
+    {
+      "fr": "une panne",
+      "ipa": "pan",
+      "en": "a breakdown",
+      "ex": "Une panne de moteur."
+    },
+    {
+      "fr": "un accident",
+      "ipa": "ak.si.dɑ̃",
+      "en": "an accident",
+      "ex": "Un accident sur l’autoroute."
+    },
+    {
+      "fr": "un constat",
+      "ipa": "kɔ̃s.ta",
+      "en": "an accident report form",
+      "ex": "Remplir un constat."
+    },
+    {
+      "fr": "une assurance",
+      "ipa": "a.sy.ʁɑ̃s",
+      "en": "insurance",
+      "ex": "Mon assurance couvre ça."
+    },
+    {
+      "fr": "un vol",
+      "ipa": "vɔl",
+      "en": "a theft, a flight",
+      "ex": "On m’a volé mon sac."
+    },
+    {
+      "fr": "porter plainte",
+      "ipa": "pɔʁ.te plɛ̃t",
+      "en": "to file a complaint",
+      "ex": "J’ai porté plainte au commissariat."
+    },
+    {
+      "fr": "un commissariat",
+      "ipa": "kɔ.mi.sa.ʁja",
+      "en": "a police station",
+      "ex": "Le commissariat est ouvert 24 h/24."
+    },
+    {
+      "fr": "une déclaration",
+      "ipa": "de.kla.ʁa.sjɔ̃",
+      "en": "a statement",
+      "ex": "Faire une déclaration de vol."
+    },
+    {
+      "fr": "un témoin",
+      "ipa": "te.mwɛ̃",
+      "en": "a witness",
+      "ex": "Il y avait deux témoins."
+    },
+    {
+      "fr": "une amende",
+      "ipa": "a.mɑ̃d",
+      "en": "a fine",
+      "ex": "J’ai eu une amende de 50 euros."
+    },
+    {
+      "fr": "un contrôle",
+      "ipa": "kɔ̃.tʁol",
+      "en": "a check",
+      "ex": "Un contrôle de billets."
+    },
+    {
+      "fr": "un(e) contrôleur(euse)",
+      "ipa": "kɔ̃.tʁo.lœʁ",
+      "en": "a ticket inspector",
+      "ex": "Le contrôleur passe."
+    },
+    {
+      "fr": "une consigne",
+      "ipa": "kɔ̃.siɲ",
+      "en": "a left-luggage locker",
+      "ex": "Laisser sa valise à la consigne."
+    },
+    {
+      "fr": "un objet trouvé",
+      "ipa": "ɔb.ʒɛ tʁu.ve",
+      "en": "lost property",
+      "ex": "Le bureau des objets trouvés."
+    },
+    {
+      "fr": "être bloqué(e)",
+      "ipa": "blɔ.ke",
+      "en": "to be stuck",
+      "ex": "Nous sommes bloqués à l’aéroport."
+    },
+    {
+      "fr": "un hébergement d’urgence",
+      "ipa": "y.ʁʒɑ̃s",
+      "en": "emergency accommodation",
+      "ex": "La compagnie a payé l’hébergement."
+    },
+    {
+      "fr": "un justificatif",
+      "ipa": "ʒys.ti.fi.ka.tif",
+      "en": "a receipt, proof",
+      "ex": "Gardez tous les justificatifs."
+    },
+    {
+      "fr": "une compagnie aérienne",
+      "ipa": "a.e.ʁjɛn",
+      "en": "an airline",
+      "ex": "La compagnie aérienne est responsable."
+    },
+    {
+      "fr": "un litige",
+      "ipa": "li.tiʒ",
+      "en": "a dispute",
+      "ex": "Un litige avec le transporteur."
+    },
+    {
+      "fr": "un(e) responsable",
+      "ipa": "ʁɛs.pɔ̃.sabl",
+      "en": "a manager",
+      "ex": "Je voudrais parler au responsable."
+    },
+    {
+      "fr": "prévenir",
+      "ipa": "pʁe.və.niʁ",
+      "en": "to inform",
+      "ex": "Prévenez la réception."
+    },
+    {
+      "fr": "se débrouiller",
+      "ipa": "sə de.bʁu.je",
+      "en": "to manage, to cope",
+      "ex": "On s’est débrouillés."
+    },
+    {
+      "fr": "une urgence",
+      "ipa": "y.ʁʒɑ̃s",
+      "en": "an emergency",
+      "ex": "En cas d’urgence, appelez le 112."
+    },
+    {
+      "fr": "un consulat",
+      "ipa": "kɔ̃.sy.la",
+      "en": "a consulate",
+      "ex": "Contactez votre consulat."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que faire ?",
+      "items": [
+        {
+          "q": "Ton sac a été volé. Tu vas…",
+          "options": [
+            "au commissariat porter plainte",
+            "à la consigne",
+            "au guichet"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Ton vol est annulé. Tu demandes…",
+          "options": [
+            "une amende",
+            "un dédommagement",
+            "un constat"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Garder les justificatifs » sert à…",
+          "options": [
+            "prouver ses dépenses",
+            "payer moins cher",
+            "voyager plus vite"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

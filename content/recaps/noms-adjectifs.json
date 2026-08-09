@@ -1,0 +1,66 @@
+{
+  "id": "noms-adjectifs",
+  "title": "Récap express — Noms, articles & adjectifs",
+  "level": "A2",
+  "summary": "Genre, nombre, articles, accord et comparaison en une page.",
+  "blocks": [
+    {
+      "level": "A1",
+      "title": "Genre et nombre",
+      "points": [
+        "Toujours apprendre le nom **avec son article**.",
+        "Féminin : [fr]-tion, -sion, -té, -ette, -ance, -ence, -ure, -ie[/fr]",
+        "Masculin : [fr]-age, -ment, -eau, -isme, -in, -oir[/fr] — exceptions : [fr]la page, la plage, l’image, l’eau[/fr]",
+        "Pluriel : **+ s** (muet) · [fr]-au, -eau, -eu[/fr] → **+ x** · [fr]-al[/fr] → **-aux** · déjà [fr]-s, -x, -z[/fr] → rien."
+      ]
+    },
+    {
+      "level": "A1",
+      "title": "Les articles",
+      "points": [
+        "Défini [fr]le, la, l’, les[/fr] · indéfini [fr]un, une, des[/fr] · partitif [fr]du, de la, de l’, des[/fr]",
+        "Contractions : [fr]à + le = **au** · à + les = **aux** · de + le = **du** · de + les = **des**[/fr]",
+        "**Après une négation, tout devient [fr]de[/fr]** : [fr]pas de pain[/fr] — sauf après [fr]être[/fr].",
+        "Après une quantité aussi : [fr]beaucoup **de** monde[/fr]."
+      ]
+    },
+    {
+      "level": "A1",
+      "title": "L’adjectif",
+      "points": [
+        "Accord : **+ e** au féminin, **+ s** au pluriel.",
+        "Place normale : **après** le nom. Avant : beauté, âge, nombre, qualité, taille.",
+        "Devant une voyelle : [fr]bel homme, nouvel an, vieil ami[/fr].",
+        "Possessifs et démonstratifs s’accordent avec **la chose**, pas le possesseur : [fr]sa voiture[/fr] = *his* **ou** *her*."
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Comparer",
+      "points": [
+        "[fr]plus / moins / aussi + adjectif + **que**[/fr] · avec un nom : [fr]plus **de**… que[/fr]",
+        "Superlatif : article + comparatif → [fr]le plus grand **de** la ville[/fr]",
+        "[fr]bon → **meilleur**[/fr] (adjectif) · [fr]bien → **mieux**[/fr] (adverbe) — c’est le test décisif."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "La place change le sens",
+      "points": [
+        "[fr]un **grand** homme[/fr] (illustre) / [fr]un homme **grand**[/fr] (de haute taille)",
+        "[fr]mon **ancien** appartement[/fr] (ex-) / [fr]un meuble **ancien**[/fr] (antique)",
+        "[fr]ma **propre** chambre[/fr] (à moi) / [fr]une chambre **propre**[/fr] (nette)",
+        "Règle générale : **avant** = jugement, **après** = propriété mesurable."
+      ]
+    },
+    {
+      "level": "B2",
+      "title": "Nominaliser",
+      "points": [
+        "[fr]augmenter → l’augmentation[/fr] · [fr]fermer → la fermeture[/fr] · [fr]partir → le départ[/fr]",
+        "[fr]-tion, -ure, -ance, -té, -esse[/fr] → féminin · [fr]-ment, -age[/fr] → masculin",
+        "C’est la marque du titre de presse : [fr]Hausse des taux, inquiétude des ménages.[/fr]"
+      ]
+    }
+  ]
+}

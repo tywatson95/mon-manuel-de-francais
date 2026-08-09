@@ -1,0 +1,236 @@
+{
+  "id": "voc-b1-sante-mode-vie",
+  "title": "Santé & mode de vie",
+  "level": "B1",
+  "order": 490,
+  "summary": "Bien-être, alimentation, habitudes.",
+  "items": [
+    {
+      "fr": "le bien-être",
+      "ipa": "bjɛ̃.nɛtʁ",
+      "en": "well-being",
+      "ex": "Le bien-être au travail."
+    },
+    {
+      "fr": "un mode de vie",
+      "ipa": "mɔd də vi",
+      "en": "a lifestyle",
+      "ex": "Un mode de vie sain."
+    },
+    {
+      "fr": "une habitude",
+      "ipa": "a.bi.tyd",
+      "en": "a habit",
+      "ex": "Changer ses habitudes."
+    },
+    {
+      "fr": "l’alimentation (f)",
+      "ipa": "a.li.mɑ̃.ta.sjɔ̃",
+      "en": "diet, nutrition",
+      "ex": "Une alimentation équilibrée."
+    },
+    {
+      "fr": "équilibré(e)",
+      "ipa": "e.ki.li.bʁe",
+      "en": "balanced",
+      "ex": "Un repas équilibré."
+    },
+    {
+      "fr": "un régime",
+      "ipa": "ʁe.ʒim",
+      "en": "a diet",
+      "ex": "Je fais un régime."
+    },
+    {
+      "fr": "une carence",
+      "ipa": "ka.ʁɑ̃s",
+      "en": "a deficiency",
+      "ex": "Une carence en fer."
+    },
+    {
+      "fr": "un complément",
+      "ipa": "kɔ̃.ple.mɑ̃",
+      "en": "a supplement",
+      "ex": "Un complément alimentaire."
+    },
+    {
+      "fr": "le sommeil",
+      "ipa": "sɔ.mɛj",
+      "en": "sleep",
+      "ex": "Le manque de sommeil fatigue."
+    },
+    {
+      "fr": "l’insomnie (f)",
+      "ipa": "ɛ̃.sɔm.ni",
+      "en": "insomnia",
+      "ex": "Des insomnies fréquentes."
+    },
+    {
+      "fr": "le stress",
+      "ipa": "stʁɛs",
+      "en": "stress",
+      "ex": "Gérer son stress."
+    },
+    {
+      "fr": "la fatigue",
+      "ipa": "fa.tiɡ",
+      "en": "tiredness",
+      "ex": "Une fatigue persistante."
+    },
+    {
+      "fr": "se détendre",
+      "ipa": "sə de.tɑ̃dʁ",
+      "en": "to relax",
+      "ex": "Je me détends en marchant."
+    },
+    {
+      "fr": "la méditation",
+      "ipa": "me.di.ta.sjɔ̃",
+      "en": "meditation",
+      "ex": "La méditation aide beaucoup."
+    },
+    {
+      "fr": "l’activité physique",
+      "ipa": "ak.ti.vi.te",
+      "en": "physical activity",
+      "ex": "Trente minutes d’activité physique."
+    },
+    {
+      "fr": "la sédentarité",
+      "ipa": "se.dɑ̃.ta.ʁi.te",
+      "en": "sedentary lifestyle",
+      "ex": "La sédentarité est un risque."
+    },
+    {
+      "fr": "la prévention",
+      "ipa": "pʁe.vɑ̃.sjɔ̃",
+      "en": "prevention",
+      "ex": "Une campagne de prévention."
+    },
+    {
+      "fr": "un dépistage",
+      "ipa": "de.pis.taʒ",
+      "en": "a screening",
+      "ex": "Un dépistage gratuit."
+    },
+    {
+      "fr": "un vaccin",
+      "ipa": "vak.sɛ̃",
+      "en": "a vaccine",
+      "ex": "Le rappel du vaccin."
+    },
+    {
+      "fr": "une maladie chronique",
+      "ipa": "kʁɔ.nik",
+      "en": "a chronic illness",
+      "ex": "Une maladie chronique bien suivie."
+    },
+    {
+      "fr": "un symptôme",
+      "ipa": "sɛ̃p.tom",
+      "en": "a symptom",
+      "ex": "Les symptômes ont disparu."
+    },
+    {
+      "fr": "un traitement",
+      "ipa": "tʁɛt.mɑ̃",
+      "en": "a treatment",
+      "ex": "Un traitement de trois semaines."
+    },
+    {
+      "fr": "un(e) spécialiste",
+      "ipa": "spe.sja.list",
+      "en": "a specialist",
+      "ex": "Consulter un spécialiste."
+    },
+    {
+      "fr": "une addiction",
+      "ipa": "a.dik.sjɔ̃",
+      "en": "an addiction",
+      "ex": "Une addiction au tabac."
+    },
+    {
+      "fr": "arrêter de fumer",
+      "ipa": "fy.me",
+      "en": "to quit smoking",
+      "ex": "Il a arrêté de fumer."
+    },
+    {
+      "fr": "l’alcool (m)",
+      "ipa": "al.kɔl",
+      "en": "alcohol",
+      "ex": "Modérer sa consommation d’alcool."
+    },
+    {
+      "fr": "le tabac",
+      "ipa": "ta.ba",
+      "en": "tobacco",
+      "ex": "Le tabac reste la première cause."
+    },
+    {
+      "fr": "une ordonnance",
+      "ipa": "ɔʁ.dɔ.nɑ̃s",
+      "en": "a prescription",
+      "ex": "Renouveler l’ordonnance."
+    },
+    {
+      "fr": "un(e) généraliste",
+      "ipa": "ʒe.ne.ʁa.list",
+      "en": "a GP",
+      "ex": "Mon généraliste est débordé."
+    },
+    {
+      "fr": "un désert médical",
+      "ipa": "de.zɛʁ",
+      "en": "a medical desert",
+      "ex": "Un désert médical en zone rurale."
+    },
+    {
+      "fr": "être en forme",
+      "ipa": "ɑ̃ fɔʁm",
+      "en": "to be fit",
+      "ex": "Je suis en pleine forme."
+    },
+    {
+      "fr": "se remettre",
+      "ipa": "sə ʁə.mɛtʁ",
+      "en": "to recover",
+      "ex": "Il se remet doucement."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "« Un désert médical » est une zone…",
+          "options": [
+            "sans eau",
+            "sans médecins",
+            "sans pharmacie de garde"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Une alimentation équilibrée » est…",
+          "options": [
+            "un régime strict",
+            "une alimentation variée et proportionnée",
+            "un jeûne"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« La sédentarité » désigne…",
+          "options": [
+            "le manque d’activité physique",
+            "un excès de sport",
+            "un mode de vie nomade"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

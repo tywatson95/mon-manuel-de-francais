@@ -1,0 +1,149 @@
+{
+  "id": "cm-b2-synthese",
+  "group": "communication",
+  "level": "B2",
+  "order": 430,
+  "title": "Résumer et synthétiser un document",
+  "summary": "Restituer l’essentiel d’un texte avec ses propres mots — l’épreuve reine du B2.",
+  "essentiel": [
+    "Résumer = **réduire** un texte en gardant sa logique, sans y ajouter son avis.",
+    "Synthétiser = **croiser plusieurs documents** et dégager accords et désaccords.",
+    "On reformule ; on ne recopie pas de phrases entières."
+  ],
+  "regle": "**Le résumé.** L’objectif est de restituer l’essentiel d’un texte, généralement au quart de sa longueur.\n\n*Méthode en quatre temps.*\n1. Repérer la **thèse** : qu’est-ce que l’auteur veut démontrer ?\n2. Repérer les **articulations** : [fr]d’abord, cependant, en revanche, par conséquent[/fr] — elles donnent le squelette.\n3. Supprimer : exemples, répétitions, citations, chiffres secondaires.\n4. Reformuler avec **son propre vocabulaire**, en gardant le point de vue de l’auteur.\n\n*Les verbes de restitution* — indispensables, et il faut les varier :\n[fr]l’auteur **affirme / soutient / rappelle / souligne / nuance / conteste / démontre / s’interroge sur / met en garde contre / conclut que**[/fr]\n\n**La synthèse.** On ne résume plus un texte mais **plusieurs**, et on les fait dialoguer.\n\n*Les formules du croisement.*\n[fr]Les deux auteurs s’accordent sur… · En revanche, X insiste sur… tandis que Y privilégie… · Ce point de vue rejoint celui de… · À l’inverse de X, Y considère que…[/fr]\n\n**Les trois interdits.**\n1. Donner son opinion personnelle — sauf si la consigne le demande.\n2. Recopier des phrases du texte.\n3. Ajouter des informations extérieures.\n\n**Un repère de longueur.** Un résumé au quart : un texte de 600 mots donne 150 mots, tolérance de 10 %. Annoncer son nombre de mots à la fin est attendu au DELF.",
+  "exemples": [
+    {
+      "fr": "L’auteur soutient que la ville doit repenser sa place dans le paysage.",
+      "en": "The author argues that the city must rethink its place in the landscape."
+    },
+    {
+      "fr": "Il nuance toutefois ce constat en rappelant le coût des réformes.",
+      "en": "He qualifies this observation, however, by recalling the cost of reform."
+    },
+    {
+      "fr": "Les deux textes s’accordent sur l’urgence, mais divergent sur les moyens.",
+      "en": "The two texts agree on the urgency but differ on the means."
+    },
+    {
+      "fr": "À l’inverse du premier auteur, la seconde privilégie une approche locale.",
+      "en": "Unlike the first author, the second favours a local approach."
+    },
+    {
+      "fr": "En conclusion, l’auteur met en garde contre une lecture trop simple du phénomène.",
+      "en": "In conclusion, the author warns against too simple a reading of the phenomenon."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les verbes de restitution",
+      "collapsed": false,
+      "headers": [
+        "Intention de l’auteur",
+        "Verbes"
+      ],
+      "rows": [
+        [
+          "poser une thèse",
+          "affirmer · soutenir · avancer · défendre"
+        ],
+        [
+          "appuyer",
+          "rappeler · souligner · insister sur · illustrer"
+        ],
+        [
+          "nuancer",
+          "nuancer · relativiser · tempérer · admettre"
+        ],
+        [
+          "s’opposer",
+          "contester · réfuter · s’élever contre · dénoncer"
+        ],
+        [
+          "interroger",
+          "s’interroger sur · se demander si · mettre en question"
+        ],
+        [
+          "conclure",
+          "conclure que · en venir à · aboutir à"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "📝",
+    "title": "Le résumé, exercice national",
+    "text": "Le résumé et la synthèse sont enseignés dès le lycée français et figurent aux concours d’entrée des grandes écoles. Ils valorisent une compétence précise : restituer fidèlement une pensée qui n’est pas la vôtre, avant d’avoir le droit de la juger."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que faire dans un résumé ?",
+      "items": [
+        {
+          "q": "Peut-on donner son avis ?",
+          "options": [
+            "Oui, toujours",
+            "Non, sauf si la consigne le demande",
+            "Seulement à la fin"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Peut-on recopier une phrase du texte ?",
+          "options": [
+            "Oui",
+            "Non, il faut reformuler",
+            "Oui, entre guillemets"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Un texte de 800 mots, résumé au quart :",
+          "options": [
+            "environ 200 mots",
+            "environ 400 mots",
+            "environ 80 mots"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« L’auteur nuance son propos » signifie…",
+          "options": [
+            "il change complètement d’avis",
+            "il apporte une réserve",
+            "il conclut"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le verbe à l’intention.",
+      "labelLeft": "Verbe",
+      "labelRight": "Intention",
+      "pairs": [
+        [
+          "soutenir",
+          "poser une thèse"
+        ],
+        [
+          "souligner",
+          "appuyer"
+        ],
+        [
+          "relativiser",
+          "nuancer"
+        ],
+        [
+          "réfuter",
+          "s’opposer"
+        ],
+        [
+          "s’interroger sur",
+          "questionner"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "id": "voc-b2-economie",
+  "title": "Économie & entreprise",
+  "level": "B2",
+  "order": 520,
+  "summary": "Le vocabulaire du débat économique.",
+  "items": [
+    {
+      "fr": "l’économie (f)",
+      "ipa": "e.kɔ.nɔ.mi",
+      "en": "the economy",
+      "ex": "L’économie ralentit."
+    },
+    {
+      "fr": "la croissance",
+      "ipa": "kʁwa.sɑ̃s",
+      "en": "growth",
+      "ex": "Une croissance faible."
+    },
+    {
+      "fr": "la récession",
+      "ipa": "ʁe.se.sjɔ̃",
+      "en": "a recession",
+      "ex": "Le pays évite la récession."
+    },
+    {
+      "fr": "le PIB",
+      "ipa": "pe i be",
+      "en": "GDP",
+      "ex": "Le PIB progresse de 1 %."
+    },
+    {
+      "fr": "l’inflation (f)",
+      "ipa": "ɛ̃.fla.sjɔ̃",
+      "en": "inflation",
+      "ex": "L’inflation ronge les salaires."
+    },
+    {
+      "fr": "le chômage",
+      "ipa": "ʃo.maʒ",
+      "en": "unemployment",
+      "ex": "Le taux de chômage recule."
+    },
+    {
+      "fr": "la précarité",
+      "ipa": "pʁe.ka.ʁi.te",
+      "en": "job insecurity",
+      "ex": "La précarité des jeunes actifs."
+    },
+    {
+      "fr": "le marché du travail",
+      "ipa": "maʁ.ʃe",
+      "en": "the labour market",
+      "ex": "Un marché du travail tendu."
+    },
+    {
+      "fr": "la main-d’œuvre",
+      "ipa": "mɛ̃ dœvʁ",
+      "en": "the workforce",
+      "ex": "Une pénurie de main-d’œuvre."
+    },
+    {
+      "fr": "la productivité",
+      "ipa": "pʁɔ.dyk.ti.vi.te",
+      "en": "productivity",
+      "ex": "La productivité stagne."
+    },
+    {
+      "fr": "une entreprise",
+      "ipa": "ɑ̃.tʁə.pʁiz",
+      "en": "a company",
+      "ex": "Une entreprise familiale."
+    },
+    {
+      "fr": "une PME",
+      "ipa": "pe ɛm ə",
+      "en": "an SME",
+      "ex": "Les PME créent des emplois."
+    },
+    {
+      "fr": "une multinationale",
+      "ipa": "myl.ti.na.sjɔ.nal",
+      "en": "a multinational",
+      "ex": "Une multinationale du numérique."
+    },
+    {
+      "fr": "un actionnaire",
+      "ipa": "ak.sjɔ.nɛʁ",
+      "en": "a shareholder",
+      "ex": "Les actionnaires exigent des résultats."
+    },
+    {
+      "fr": "un bénéfice",
+      "ipa": "be.ne.fis",
+      "en": "a profit",
+      "ex": "Des bénéfices record."
+    },
+    {
+      "fr": "une perte",
+      "ipa": "pɛʁt",
+      "en": "a loss",
+      "ex": "L’entreprise annonce des pertes."
+    },
+    {
+      "fr": "un chiffre d’affaires",
+      "ipa": "ʃifʁ da.fɛʁ",
+      "en": "turnover",
+      "ex": "Un chiffre d’affaires en hausse."
+    },
+    {
+      "fr": "un investissement",
+      "ipa": "ɛ̃.vɛs.tis.mɑ̃",
+      "en": "an investment",
+      "ex": "Un investissement à long terme."
+    },
+    {
+      "fr": "la concurrence",
+      "ipa": "kɔ̃.ky.ʁɑ̃s",
+      "en": "competition",
+      "ex": "Une concurrence féroce."
+    },
+    {
+      "fr": "la mondialisation",
+      "ipa": "mɔ̃.dja.li.za.sjɔ̃",
+      "en": "globalisation",
+      "ex": "Les effets de la mondialisation."
+    },
+    {
+      "fr": "la délocalisation",
+      "ipa": "de.lo.ka.li.za.sjɔ̃",
+      "en": "offshoring",
+      "ex": "La délocalisation des usines."
+    },
+    {
+      "fr": "la relocalisation",
+      "ipa": "ʁə.lo",
+      "en": "reshoring",
+      "ex": "Une politique de relocalisation."
+    },
+    {
+      "fr": "une filière",
+      "ipa": "fi.ljɛʁ",
+      "en": "an industry, a sector",
+      "ex": "La filière automobile."
+    },
+    {
+      "fr": "un secteur",
+      "ipa": "sɛk.tœʁ",
+      "en": "a sector",
+      "ex": "Le secteur tertiaire domine."
+    },
+    {
+      "fr": "une pénurie",
+      "ipa": "pe.ny.ʁi",
+      "en": "a shortage",
+      "ex": "Une pénurie de composants."
+    },
+    {
+      "fr": "l’offre et la demande",
+      "ipa": "ɔfʁ",
+      "en": "supply and demand",
+      "ex": "La loi de l’offre et de la demande."
+    },
+    {
+      "fr": "un impôt",
+      "ipa": "ɛ̃.po",
+      "en": "a tax",
+      "ex": "Une hausse des impôts."
+    },
+    {
+      "fr": "une taxe",
+      "ipa": "taks",
+      "en": "a levy",
+      "ex": "Une taxe sur le carbone."
+    },
+    {
+      "fr": "une subvention",
+      "ipa": "syb.vɑ̃.sjɔ̃",
+      "en": "a subsidy",
+      "ex": "Des subventions publiques."
+    },
+    {
+      "fr": "la dette publique",
+      "ipa": "dɛt",
+      "en": "public debt",
+      "ex": "La dette publique s’alourdit."
+    },
+    {
+      "fr": "le déficit",
+      "ipa": "de.fi.si",
+      "en": "the deficit",
+      "ex": "Réduire le déficit."
+    },
+    {
+      "fr": "le pouvoir d’achat",
+      "ipa": "pu.vwaʁ",
+      "en": "purchasing power",
+      "ex": "Le pouvoir d’achat stagne."
+    },
+    {
+      "fr": "une négociation",
+      "ipa": "ne.ɡɔ.sja.sjɔ̃",
+      "en": "a negotiation",
+      "ex": "Des négociations salariales."
+    },
+    {
+      "fr": "le patronat",
+      "ipa": "pa.tʁɔ.na",
+      "en": "employers’ organisations",
+      "ex": "Le patronat s’y oppose."
+    },
+    {
+      "fr": "un syndicat",
+      "ipa": "sɛ̃.di.ka",
+      "en": "a trade union",
+      "ex": "Les syndicats appellent à la grève."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe le terme à sa définition.",
+      "labelLeft": "Terme",
+      "labelRight": "Définition",
+      "pairs": [
+        [
+          "le PIB",
+          "la richesse produite par un pays"
+        ],
+        [
+          "la précarité",
+          "l’instabilité de l’emploi"
+        ],
+        [
+          "la délocalisation",
+          "déplacer la production à l’étranger"
+        ],
+        [
+          "le déficit",
+          "les dépenses dépassent les recettes"
+        ],
+        [
+          "une PME",
+          "une petite ou moyenne entreprise"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "id": "tm-b1-indicatif-vs-subjonctif",
+  "group": "temps-modes",
+  "level": "B1",
+  "order": 330,
+  "title": "Je pense que / Je ne pense pas que",
+  "summary": "Le même verbe, deux modes : quand la négation change tout.",
+  "essentiel": [
+    "À l’**affirmatif**, les verbes d’opinion prennent l’**indicatif** : [fr]Je crois qu’il **vient**.[/fr]",
+    "Au **négatif** ou à l’**interrogatif**, le doute apparaît → **subjonctif** : [fr]Je ne crois pas qu’il **vienne**.[/fr]",
+    "Concerne surtout : [fr]penser, croire, trouver, être sûr, il est certain[/fr]."
+  ],
+  "regle": "Voici l’un des rares endroits où le français fait dépendre le mode d’une simple négation.\n\nUn verbe d’opinion à l’affirmatif **pose un fait** : le locuteur y croit. On reste donc à l’indicatif.\n[fr]Je pense qu’il **est** honnête.[/fr]\n\nLe même verbe nié **retire cette certitude**. Le subjonctif traduit ce flottement.\n[fr]Je ne pense pas qu’il **soit** honnête.[/fr]\n\nÀ la forme interrogative, l’usage hésite. Le subjonctif fait plus soigné, l’indicatif plus courant à l’oral :\n[fr]Pensez-vous qu’il **soit** honnête ?[/fr] ((soutenu))\n[fr]Tu penses qu’il **est** honnête ?[/fr] ((courant))\n\n**Nuance utile.** Le subjonctif après une négation reste facultatif dans la langue parlée. Personne ne te corrigera si tu dis [fr]Je ne pense pas qu’il vient[/fr] — mais à l’écrit et au DELF, le subjonctif est attendu.",
+  "exemples": [
+    {
+      "fr": "Je trouve que ce film est excellent.",
+      "en": "I think this film is excellent."
+    },
+    {
+      "fr": "Je ne trouve pas que ce film soit excellent.",
+      "en": "I don’t think this film is excellent."
+    },
+    {
+      "fr": "Il est certain qu’elle réussira.",
+      "en": "She will certainly succeed."
+    },
+    {
+      "fr": "Il n’est pas certain qu’elle réussisse.",
+      "en": "It’s not certain she will succeed."
+    },
+    {
+      "fr": "Croyez-vous que ce soit une bonne idée ?",
+      "en": "Do you think that’s a good idea?"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le basculement",
+      "collapsed": false,
+      "headers": [
+        "Affirmatif → indicatif",
+        "Négatif → subjonctif"
+      ],
+      "rows": [
+        [
+          "Je pense qu’il **a** raison.",
+          "Je ne pense pas qu’il **ait** raison."
+        ],
+        [
+          "Je crois qu’elle **peut** venir.",
+          "Je ne crois pas qu’elle **puisse** venir."
+        ],
+        [
+          "Il est sûr que c’**est** vrai.",
+          "Il n’est pas sûr que ce **soit** vrai."
+        ],
+        [
+          "Je trouve que tu **as** tort.",
+          "Je ne trouve pas que tu **aies** tort."
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme attendue à l’écrit.",
+      "items": [
+        {
+          "q": "Je crois qu’il ___ malade.",
+          "options": [
+            "est",
+            "soit"
+          ],
+          "answer": 0,
+          "why": "Affirmatif → indicatif."
+        },
+        {
+          "q": "Je ne crois pas qu’il ___ malade.",
+          "options": [
+            "est",
+            "soit"
+          ],
+          "answer": 1,
+          "why": "Négatif → subjonctif."
+        },
+        {
+          "q": "Penses-tu que ce ___ utile ?",
+          "options": [
+            "est",
+            "soit"
+          ],
+          "answer": 1,
+          "why": "Interrogatif soutenu → subjonctif."
+        },
+        {
+          "q": "Il est évident que tu ___ raison.",
+          "options": [
+            "as",
+            "aies"
+          ],
+          "answer": 0,
+          "why": "Certitude → indicatif."
+        },
+        {
+          "q": "Il n’est pas évident que tu ___ raison.",
+          "options": [
+            "as",
+            "aies"
+          ],
+          "answer": 1,
+          "why": "La négation introduit le doute → subjonctif."
+        },
+        {
+          "q": "Je suis sûr qu’il ___ demain.",
+          "options": [
+            "viendra",
+            "vienne"
+          ],
+          "answer": 0,
+          "why": "[fr]être sûr que[/fr] affirmatif → indicatif, ici au futur."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Mets le verbe au mode correct.",
+      "items": [
+        {
+          "before": "Je ne pense pas qu’elle ",
+          "after": " le temps. (avoir)",
+          "answer": "ait"
+        },
+        {
+          "before": "Nous pensons que ce projet ",
+          "after": " réalisable. (être)",
+          "answer": "est"
+        },
+        {
+          "before": "Il n’est pas certain que nous ",
+          "after": " finir à temps. (pouvoir)",
+          "answer": "puissions"
+        },
+        {
+          "before": "Je trouve que tu ",
+          "after": " très bien. (parler)",
+          "answer": "parles"
+        }
+      ]
+    }
+  ]
+}

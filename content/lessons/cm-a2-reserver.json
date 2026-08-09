@@ -1,0 +1,152 @@
+{
+  "id": "cm-a2-reserver",
+  "group": "communication",
+  "level": "A2",
+  "order": 230,
+  "title": "Réserver un hébergement",
+  "summary": "Réserver, confirmer, signaler un problème à l’hôtel.",
+  "essentiel": [
+    "[fr]Je voudrais réserver une chambre pour deux nuits.[/fr]",
+    "[fr]une chambre simple / double · avec salle de bains · petit-déjeuner compris[/fr].",
+    "Signaler un souci : [fr]Il y a un problème avec…[/fr]"
+  ],
+  "regle": "**Réserver.**\n[fr]Je voudrais réserver une chambre pour deux personnes, du 12 au 15 mars.[/fr]\n[fr]Vous avez de la disponibilité ce week-end ?[/fr]\n[fr]C’est à quel prix la nuit ? · Le petit-déjeuner est compris ?[/fr]\n\n**Le vocabulaire.**\n[fr]une chambre simple / double · un lit double / deux lits simples · avec vue sur… · la climatisation · le wifi · l’ascenseur · le parking · la réception · la clé[/fr]\n\n**À l’arrivée.**\n[fr]J’ai une réservation au nom de Grobler. · Le check-in est à quelle heure ? · Vous pouvez garder mes bagages ?[/fr]\n\n**Signaler un problème.** La formule polie est [fr]il y a un problème avec…[/fr] ou [fr]…ne fonctionne pas[/fr].\n[fr]La climatisation ne marche pas. · Il n’y a pas d’eau chaude. · La chambre est très bruyante. · Est-ce qu’on pourrait changer de chambre ?[/fr]\n\n**Au départ.**\n[fr]Je voudrais régler la note. · Le check-out est à midi ? · Vous pouvez appeler un taxi ?[/fr]",
+  "exemples": [
+    {
+      "fr": "Je voudrais réserver une chambre double pour trois nuits.",
+      "en": "I’d like to book a double room for three nights."
+    },
+    {
+      "fr": "Le petit-déjeuner est compris dans le prix ?",
+      "en": "Is breakfast included in the price?"
+    },
+    {
+      "fr": "J’ai une réservation au nom de Dupont.",
+      "en": "I have a reservation under the name Dupont."
+    },
+    {
+      "fr": "La climatisation ne fonctionne pas dans ma chambre.",
+      "en": "The air conditioning isn’t working in my room."
+    },
+    {
+      "fr": "Je voudrais régler la note, s’il vous plaît.",
+      "en": "I’d like to settle the bill, please."
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : au téléphone",
+    "lines": [
+      {
+        "who": "Hôtel",
+        "fr": "Hôtel des Voyageurs, bonjour.",
+        "en": "Hôtel des Voyageurs, hello."
+      },
+      {
+        "who": "Client",
+        "fr": "Bonjour, je voudrais réserver une chambre pour le week-end du 8.",
+        "en": "Hello, I’d like to book a room for the weekend of the 8th."
+      },
+      {
+        "who": "Hôtel",
+        "fr": "Pour combien de personnes ?",
+        "en": "For how many people?"
+      },
+      {
+        "who": "Client",
+        "fr": "Deux, avec un lit double si possible.",
+        "en": "Two, with a double bed if possible."
+      },
+      {
+        "who": "Hôtel",
+        "fr": "Il nous reste une chambre avec vue sur le jardin, à 95 euros la nuit.",
+        "en": "We have one room left with a garden view, at 95 euros a night."
+      },
+      {
+        "who": "Client",
+        "fr": "Très bien, je la prends. Le petit-déjeuner est compris ?",
+        "en": "Very good, I’ll take it. Is breakfast included?"
+      }
+    ],
+    "check": {
+      "q": "Que demande le client à la fin ?",
+      "options": [
+        "Si le petit-déjeuner est inclus.",
+        "Le numéro de la chambre.",
+        "Un lit supplémentaire."
+      ],
+      "answer": 0
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que dire ?",
+      "items": [
+        {
+          "q": "Tu arrives à l’hôtel :",
+          "options": [
+            "J’ai une réservation au nom de…",
+            "Je voudrais réserver.",
+            "Je voudrais régler la note."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "La douche est cassée :",
+          "options": [
+            "La douche ne fonctionne pas.",
+            "La douche est comprise.",
+            "Je voudrais une douche."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tu veux savoir si le déjeuner du matin est inclus :",
+          "options": [
+            "Le petit-déjeuner est compris ?",
+            "Où est le restaurant ?",
+            "C’est à quelle heure ?"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tu pars et tu veux payer :",
+          "options": [
+            "Je voudrais régler la note.",
+            "Je voudrais réserver.",
+            "Je voudrais un taxi."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le mot à son sens.",
+      "labelLeft": "Français",
+      "labelRight": "Anglais",
+      "pairs": [
+        [
+          "une chambre double",
+          "a double room"
+        ],
+        [
+          "le petit-déjeuner compris",
+          "breakfast included"
+        ],
+        [
+          "la réception",
+          "reception"
+        ],
+        [
+          "régler la note",
+          "to settle the bill"
+        ],
+        [
+          "la climatisation",
+          "air conditioning"
+        ]
+      ]
+    }
+  ]
+}

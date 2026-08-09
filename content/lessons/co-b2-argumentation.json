@@ -1,0 +1,173 @@
+{
+  "id": "co-b2-argumentation",
+  "group": "connecteurs",
+  "level": "B2",
+  "order": 430,
+  "title": "Structurer une argumentation",
+  "summary": "Le plan dialectique et les connecteurs qui l’articulent.",
+  "essentiel": [
+    "Le plan français type : **thèse → antithèse → synthèse**.",
+    "Chaque partie a ses connecteurs d’ouverture, de développement et de transition.",
+    "On annonce, on illustre, on nuance, on conclut — dans cet ordre."
+  ],
+  "regle": "L’essai français ne cherche pas à défendre un camp d’emblée : il **expose, oppose, puis dépasse**. C’est le plan dialectique, attendu au DELF B2.\n\n**1 · L’introduction.** On amène le sujet, on pose la question, on annonce le plan.\n[fr]De nos jours, … · La question se pose de savoir si … · Nous verrons d’abord …, puis …[/fr]\n\n**2 · La thèse.** On présente le premier point de vue.\n[fr]Tout d’abord · En premier lieu · Il est vrai que · On peut soutenir que[/fr]\n\n**3 · Illustrer.** Une idée sans exemple ne convainc pas.\n[fr]Par exemple · Ainsi · Notamment · C’est le cas de · Prenons l’exemple de · En effet[/fr]\n([fr]en effet[/fr] confirme ; ne le confonds pas avec [fr]en fait[/fr], qui **corrige**.)\n\n**4 · L’antithèse.** On bascule.\n[fr]Cependant · Toutefois · En revanche · Néanmoins · Il n’en reste pas moins que · On peut objecter que[/fr]\n\n**5 · Ajouter et hiérarchiser.**\n[fr]De plus · En outre · Par ailleurs · Qui plus est · Non seulement… mais encore[/fr]\n\n**6 · La synthèse et la conclusion.**\n[fr]En définitive · En somme · Tout bien considéré · Force est de constater que · Pour conclure[/fr]\n\n**Un conseil de correcteur** : un connecteur par idée suffit. Trois connecteurs dans un paragraphe donnent une impression de récitation, pas de raisonnement.",
+  "exemples": [
+    {
+      "fr": "Tout d’abord, il convient de rappeler les faits.",
+      "en": "First of all, we should recall the facts."
+    },
+    {
+      "fr": "En effet, plusieurs études confirment cette tendance.",
+      "en": "Indeed, several studies confirm this trend."
+    },
+    {
+      "fr": "Cependant, cette analyse mérite d’être nuancée.",
+      "en": "However, this analysis deserves to be qualified."
+    },
+    {
+      "fr": "Par ailleurs, le coût de la mesure reste inconnu.",
+      "en": "Moreover, the cost of the measure remains unknown."
+    },
+    {
+      "fr": "En définitive, les avantages l’emportent sur les inconvénients.",
+      "en": "Ultimately, the advantages outweigh the drawbacks."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "La boîte à outils de l’essai",
+      "collapsed": false,
+      "headers": [
+        "Fonction",
+        "Connecteurs"
+      ],
+      "rows": [
+        [
+          "ouvrir",
+          "tout d’abord · en premier lieu · pour commencer"
+        ],
+        [
+          "ajouter",
+          "de plus · en outre · par ailleurs · qui plus est"
+        ],
+        [
+          "illustrer",
+          "par exemple · ainsi · notamment · c’est le cas de"
+        ],
+        [
+          "confirmer",
+          "en effet · d’ailleurs · effectivement"
+        ],
+        [
+          "corriger",
+          "en fait · en réalité · à vrai dire"
+        ],
+        [
+          "opposer",
+          "cependant · toutefois · en revanche · néanmoins"
+        ],
+        [
+          "concéder",
+          "certes… mais · il est vrai que… néanmoins"
+        ],
+        [
+          "conclure",
+          "en définitive · en somme · pour conclure · au total"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "🎓",
+    "title": "Le plan en trois parties",
+    "text": "La dissertation française est un rituel scolaire : deux parties sont jugées trop simples, quatre trop dispersées. Trois parties équilibrées, chacune avec deux sous-parties, restent le format attendu du lycée jusqu’au DELF B2."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel connecteur convient ?",
+      "items": [
+        {
+          "q": "« Ce projet est coûteux. ___ , il est indispensable. »",
+          "options": [
+            "En effet",
+            "Cependant",
+            "Par exemple"
+          ],
+          "answer": 1,
+          "why": "On oppose deux idées."
+        },
+        {
+          "q": "« Il n’a pas répondu. ___ , il était en réunion. »",
+          "options": [
+            "En effet",
+            "Cependant",
+            "En revanche"
+          ],
+          "answer": 0,
+          "why": "On confirme et on explique."
+        },
+        {
+          "q": "« Ce n’est pas une erreur. ___ , c’est un choix. »",
+          "options": [
+            "En effet",
+            "En fait",
+            "De plus"
+          ],
+          "answer": 1,
+          "why": "[fr]en fait[/fr] corrige ce qui précède."
+        },
+        {
+          "q": "Pour conclure un essai :",
+          "options": [
+            "Tout d’abord",
+            "En définitive",
+            "Notamment"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pour ajouter un argument :",
+          "options": [
+            "Par ailleurs",
+            "Toutefois",
+            "En fait"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le connecteur à sa fonction.",
+      "labelLeft": "Connecteur",
+      "labelRight": "Fonction",
+      "pairs": [
+        [
+          "tout d’abord",
+          "ouvrir"
+        ],
+        [
+          "en outre",
+          "ajouter"
+        ],
+        [
+          "notamment",
+          "illustrer"
+        ],
+        [
+          "en revanche",
+          "opposer"
+        ],
+        [
+          "en somme",
+          "conclure"
+        ],
+        [
+          "en fait",
+          "corriger"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "cm-b2-registres",
+  "group": "communication",
+  "level": "B2",
+  "order": 420,
+  "title": "Les registres : familier, standard, soutenu",
+  "summary": "Le même sens, trois niveaux de langue — et savoir lequel utiliser.",
+  "essentiel": [
+    "**Familier** : entre proches. **Standard** : partout. **Soutenu** : écrit, discours, littérature.",
+    "Le registre se voit dans le **vocabulaire**, la **syntaxe** et la **prononciation**.",
+    "L’erreur n’est pas de connaître le familier : c’est de l’utiliser au mauvais moment."
+  ],
+  "regle": "Un francophone change de registre en permanence. À B2, on attend que vous **reconnaissiez** les trois et que vous produisiez au moins les deux premiers.\n\n**Le vocabulaire.**\n[fr]bosser[/fr] ((fam.)) → [fr]travailler[/fr] ((std)) → [fr]exercer une activité[/fr] ((sout.))\n[fr]bouquin[/fr] → [fr]livre[/fr] → [fr]ouvrage[/fr]\n[fr]fric[/fr] → [fr]argent[/fr] → [fr]ressources financières[/fr]\n[fr]bagnole[/fr] → [fr]voiture[/fr] → [fr]véhicule[/fr]\n[fr]flic[/fr] → [fr]policier[/fr] → [fr]agent des forces de l’ordre[/fr]\n\n**La syntaxe.**\n- familier : suppression du [fr]ne[/fr] ([fr]J’sais pas[/fr]), question par intonation ([fr]Tu viens ?[/fr]), [fr]on[/fr] pour [fr]nous[/fr]\n- standard : [fr]Est-ce que tu viens ?[/fr], [fr]Je ne sais pas.[/fr]\n- soutenu : inversion ([fr]Viens-tu ?[/fr]), subjonctif complet, passé simple à l’écrit\n\n**La prononciation.**\nLe familier avale les syllabes : [fr]il y a[/fr] → {{ja}}, [fr]tu as[/fr] → {{ta}}, [fr]celui-là[/fr] → {{sɥi.la}}.\n\n**Le verlan.** Le français familier inverse les syllabes : [fr]meuf[/fr] ((femme)), [fr]ouf[/fr] ((fou)), [fr]relou[/fr] ((lourd)), [fr]chelou[/fr] ((louche)). À comprendre, pas forcément à produire.\n\n**La règle d’or.** Le mauvais registre est plus gênant qu’une faute de grammaire. Dire [fr]Salut, ça roule ?[/fr] à un recruteur coûte plus cher qu’un accord de participe manqué.",
+  "exemples": [
+    {
+      "fr": "Je bosse demain. / Je travaille demain.",
+      "en": "Two registers for the same fact."
+    },
+    {
+      "fr": "J’sais pas ce qu’il veut.",
+      "en": "Dunno what he wants. (familiar)"
+    },
+    {
+      "fr": "Je ne sais pas ce qu’il souhaite.",
+      "en": "I don’t know what he wishes. (formal)"
+    },
+    {
+      "fr": "C’est un truc chelou.",
+      "en": "It’s a dodgy thing. (very familiar, verlan)"
+    },
+    {
+      "fr": "Il s’agit d’une situation pour le moins singulière.",
+      "en": "It is a somewhat singular situation. (elevated)"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le même mot en trois registres",
+      "collapsed": true,
+      "headers": [
+        "Familier",
+        "Standard",
+        "Soutenu"
+      ],
+      "rows": [
+        [
+          "bosser",
+          "travailler",
+          "exercer une activité"
+        ],
+        [
+          "bouquin",
+          "livre",
+          "ouvrage"
+        ],
+        [
+          "fric",
+          "argent",
+          "ressources"
+        ],
+        [
+          "bagnole",
+          "voiture",
+          "véhicule"
+        ],
+        [
+          "gosse, môme",
+          "enfant",
+          "progéniture"
+        ],
+        [
+          "flic",
+          "policier",
+          "agent"
+        ],
+        [
+          "bouffer",
+          "manger",
+          "se restaurer"
+        ],
+        [
+          "fringues",
+          "vêtements",
+          "tenue"
+        ],
+        [
+          "se barrer",
+          "partir",
+          "prendre congé"
+        ],
+        [
+          "nickel",
+          "parfait",
+          "irréprochable"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel registre ?",
+      "items": [
+        {
+          "q": "« Je vous prie d’agréer mes salutations distinguées. »",
+          "options": [
+            "familier",
+            "standard",
+            "soutenu"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "« J’ai pas envie de bosser aujourd’hui. »",
+          "options": [
+            "familier",
+            "standard",
+            "soutenu"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Dans un entretien d’embauche, on dit :",
+          "options": [
+            "Je cherche un job sympa.",
+            "Je souhaite intégrer votre équipe.",
+            "Je veux du fric."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Chelou » est le verlan de…",
+          "options": [
+            "louche",
+            "chaud",
+            "cheval"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Le plus gênant en contexte professionnel :",
+          "options": [
+            "une erreur d’accord",
+            "un registre trop familier",
+            "une hésitation"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le mot familier à son équivalent standard.",
+      "labelLeft": "Familier",
+      "labelRight": "Standard",
+      "pairs": [
+        [
+          "bosser",
+          "travailler"
+        ],
+        [
+          "bouquin",
+          "livre"
+        ],
+        [
+          "bagnole",
+          "voiture"
+        ],
+        [
+          "fringues",
+          "vêtements"
+        ],
+        [
+          "bouffer",
+          "manger"
+        ],
+        [
+          "se barrer",
+          "partir"
+        ]
+      ]
+    }
+  ]
+}

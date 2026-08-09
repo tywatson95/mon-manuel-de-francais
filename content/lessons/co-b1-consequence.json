@@ -1,0 +1,151 @@
+{
+  "id": "co-b1-consequence",
+  "group": "connecteurs",
+  "level": "B1",
+  "order": 320,
+  "title": "La conséquence",
+  "summary": "Donc, alors, si bien que, c’est pourquoi — dire ce qui en résulte.",
+  "essentiel": [
+    "[fr]**donc**[/fr] et [fr]**alors**[/fr] sont les plus courants ; [fr]alors[/fr] est plus oral.",
+    "[fr]**si bien que**, **de sorte que**[/fr] + indicatif : conséquence réelle.",
+    "[fr]**si… que**, **tellement… que**[/fr] : intensité qui produit un effet."
+  ],
+  "regle": "La conséquence est la face inverse de la cause. Le même lien logique, lu dans l’autre sens.\n\n**Les connecteurs simples.**\n[fr]**donc**[/fr] ((so, therefore)) — le plus neutre, oral et écrit.\n[fr]**alors**[/fr] ((so)) — plus oral, plus narratif.\n[fr]**du coup**[/fr] ((so)) — très fréquent à l’oral, à éviter à l’écrit.\n[fr]**par conséquent**, **c’est pourquoi**[/fr] — registre écrit et argumentatif.\n[fr]**ainsi**[/fr] — soutenu, souvent en tête de phrase.\n\n**Les structures avec intensité.** C’est la partie la plus utile à B1.\n[fr]Il fait **si** froid **que** je ne sors pas.[/fr] ((so cold that))\n[fr]Il y a **tellement de** monde **que** je ne vois rien.[/fr] ((so many that))\n[fr]Il a **tant** travaillé **qu’**il est épuisé.[/fr] ((so much that))\n\n**[fr]si bien que[/fr] / [fr]de sorte que[/fr]** relient deux faits — toujours à l’**indicatif** quand la conséquence est réelle :\n[fr]Il a oublié son badge, **si bien qu’**il n’a pas pu entrer.[/fr]\n\nAttention : [fr]de sorte que[/fr] + **subjonctif** change de sens et exprime le **but** : [fr]Parle plus fort **de sorte qu’**on t’**entende**.[/fr]",
+  "exemples": [
+    {
+      "fr": "Il pleuvait, donc nous sommes restés à la maison.",
+      "en": "It was raining, so we stayed at home."
+    },
+    {
+      "fr": "Le magasin était fermé ; du coup, je n’ai rien acheté.",
+      "en": "The shop was closed, so I didn’t buy anything."
+    },
+    {
+      "fr": "Elle a tellement insisté qu’il a fini par accepter.",
+      "en": "She insisted so much that he ended up agreeing."
+    },
+    {
+      "fr": "Le film était si long que je me suis endormi.",
+      "en": "The film was so long that I fell asleep."
+    },
+    {
+      "fr": "Les prix ont augmenté ; par conséquent, la demande a baissé.",
+      "en": "Prices went up; consequently, demand fell."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les structures d’intensité",
+      "collapsed": false,
+      "headers": [
+        "Structure",
+        "Avec quoi",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "si… que",
+          "un adjectif ou adverbe",
+          "Il est **si** gentil **que** tout le monde l’aime."
+        ],
+        [
+          "tellement… que",
+          "un adjectif, adverbe ou verbe",
+          "Il a **tellement** couru **qu’**il est essoufflé."
+        ],
+        [
+          "tellement de / tant de… que",
+          "un nom",
+          "Il y a **tant de** bruit **que** je n’entends rien."
+        ],
+        [
+          "un(e) tel(le)… que",
+          "un nom",
+          "C’était **une telle** surprise **qu’**elle a pleuré."
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la structure correcte.",
+      "items": [
+        {
+          "q": "Il y avait ___ monde que nous sommes partis.",
+          "options": [
+            "si",
+            "tellement de",
+            "tant"
+          ],
+          "answer": 1,
+          "why": "Devant un **nom** → [fr]tellement de[/fr] ou [fr]tant de[/fr]."
+        },
+        {
+          "q": "Il était ___ fatigué qu’il s’est endormi debout.",
+          "options": [
+            "si",
+            "tellement de",
+            "tant de"
+          ],
+          "answer": 0,
+          "why": "Devant un **adjectif** → [fr]si[/fr] ou [fr]tellement[/fr]."
+        },
+        {
+          "q": "Registre écrit et formel :",
+          "options": [
+            "du coup",
+            "par conséquent",
+            "alors"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Il a oublié ses clés, ___ il a dû attendre.",
+          "options": [
+            "si bien qu’",
+            "pour qu’",
+            "bien qu’"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Parle fort de sorte qu’on t’entende » exprime…",
+          "options": [
+            "une conséquence",
+            "un but",
+            "une cause"
+          ],
+          "answer": 1,
+          "why": "Avec le subjonctif, [fr]de sorte que[/fr] exprime le but."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "Il a ",
+          "after": " plu que la rivière a débordé.",
+          "answer": "tellement"
+        },
+        {
+          "before": "C’était ",
+          "after": " bruyant que j’ai changé de table.",
+          "answer": "si"
+        },
+        {
+          "before": "Elle était malade, ",
+          "after": " elle n’est pas venue. (donc)",
+          "answer": "donc"
+        },
+        {
+          "before": "Il y avait ",
+          "after": " de gens qu’on ne pouvait pas avancer.",
+          "answer": "tellement"
+        }
+      ]
+    }
+  ]
+}

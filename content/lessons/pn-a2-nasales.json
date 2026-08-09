@@ -1,0 +1,153 @@
+{
+  "id": "pn-a2-nasales",
+  "group": "prononciation",
+  "level": "A2",
+  "order": 210,
+  "title": "Les voyelles nasales",
+  "summary": "Trois sons qui n’existent pas en anglais — et qui distinguent des mots entiers.",
+  "essentiel": [
+    "Trois sons : {{ɑ̃}} ([fr]dans[/fr]) · {{ɛ̃}} ([fr]vin[/fr]) · {{ɔ̃}} ([fr]bon[/fr]).",
+    "Le [fr]n[/fr] ou le [fr]m[/fr] écrit **ne se prononce pas** : c’est un signal, pas un son.",
+    "Si une **voyelle** ou un **deuxième n/m** suit, la nasale disparaît : [fr]bon[/fr] {{bɔ̃}} mais [fr]bonne[/fr] {{bɔn}}."
+  ],
+  "regle": "Une voyelle nasale se produit en laissant passer l’air par le nez. Le français en a trois d’usage courant.\n\n**{{ɑ̃}}** — écrit [fr]an, am, en, em[/fr] : [fr]dans, chambre, vent, temps[/fr]\n**{{ɛ̃}}** — écrit [fr]in, im, ain, ein, un, yn[/fr] : [fr]vin, important, pain, plein, brun[/fr]\n**{{ɔ̃}}** — écrit [fr]on, om[/fr] : [fr]bon, nom, pont, tomber[/fr]\n\n((Historiquement, [fr]un[/fr] se disait {{œ̃}}, mais la plupart des francophones ne distinguent plus {{œ̃}} de {{ɛ̃}}.))\n\n**La règle de dénasalisation.** La voyelle redevient orale dans deux cas :\n1. une **voyelle** suit : [fr]an[/fr] {{ɑ̃}} mais [fr]âne[/fr] {{an}}\n2. la consonne est **doublée** : [fr]bon[/fr] {{bɔ̃}} mais [fr]bonne[/fr] {{bɔn}}\n\nC’est ce qui explique la différence masculin / féminin à l’oral :\n[fr]un Américain[/fr] {{a.me.ʁi.kɛ̃}} contre [fr]une Américaine[/fr] {{a.me.ʁi.kɛn}}\n[fr]il est brun[/fr] contre [fr]elle est brune[/fr]\n\n**Les paires à travailler.** Elles ne diffèrent que par la nasale — se tromper change le mot.\n[fr]blanc[/fr] {{blɑ̃}} / [fr]blond[/fr] {{blɔ̃}} · [fr]sans[/fr] {{sɑ̃}} / [fr]son[/fr] {{sɔ̃}} · [fr]pain[/fr] {{pɛ̃}} / [fr]paon[/fr] {{pɑ̃}} / [fr]pont[/fr] {{pɔ̃}}\n\nLa phrase d’entraînement classique : [fr]**un bon vin blanc**[/fr] {{œ̃ bɔ̃ vɛ̃ blɑ̃}} — les trois nasales à la suite.",
+  "exemples": [
+    {
+      "fr": "Un bon vin blanc.",
+      "en": "A good white wine."
+    },
+    {
+      "fr": "Il est américain ; elle est américaine.",
+      "en": "He is American; she is American."
+    },
+    {
+      "fr": "Prends un pain et rentre à la maison.",
+      "en": "Get a loaf and come home."
+    },
+    {
+      "fr": "Nous partons en vacances en septembre.",
+      "en": "We are going on holiday in September."
+    },
+    {
+      "fr": "Mon oncle habite dans une bonne maison.",
+      "en": "My uncle lives in a good house."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les trois nasales et leurs orthographes",
+      "collapsed": false,
+      "headers": [
+        "Son",
+        "Orthographes",
+        "Exemples",
+        "Dénasalisé"
+      ],
+      "rows": [
+        [
+          "{{ɑ̃}}",
+          "an, am, en, em",
+          "dans, chambre, vent",
+          "âne, femme"
+        ],
+        [
+          "{{ɛ̃}}",
+          "in, im, ain, ein, un",
+          "vin, pain, plein, brun",
+          "fine, pleine, brune"
+        ],
+        [
+          "{{ɔ̃}}",
+          "on, om",
+          "bon, nom, pont",
+          "bonne, homme"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Le son est-il nasal ?",
+      "items": [
+        {
+          "q": "« bonne »",
+          "options": [
+            "nasal {{ɔ̃}}",
+            "oral {{ɔ}}"
+          ],
+          "answer": 1,
+          "why": "Le [fr]nn[/fr] double supprime la nasale."
+        },
+        {
+          "q": "« bon »",
+          "options": [
+            "nasal {{ɔ̃}}",
+            "oral {{ɔ}}"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« américaine »",
+          "options": [
+            "nasal {{ɛ̃}}",
+            "oral {{ɛ}}"
+          ],
+          "answer": 1,
+          "why": "Le [fr]e[/fr] final ouvre la syllabe : la nasale tombe."
+        },
+        {
+          "q": "« important »",
+          "options": [
+            "deux nasales",
+            "une nasale",
+            "aucune"
+          ],
+          "answer": 0,
+          "why": "{{ɛ̃}} puis {{ɑ̃}}."
+        },
+        {
+          "q": "Dans « pain », le [fr]n[/fr]…",
+          "options": [
+            "se prononce",
+            "ne se prononce pas",
+            "se dit {{m}}"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe chaque mot à son son nasal.",
+      "labelLeft": "Mot",
+      "labelRight": "Son",
+      "pairs": [
+        [
+          "dans",
+          "{{ɑ̃}}"
+        ],
+        [
+          "vin",
+          "{{ɛ̃}}"
+        ],
+        [
+          "bon",
+          "{{ɔ̃}}"
+        ],
+        [
+          "temps",
+          "{{ɑ̃}}"
+        ],
+        [
+          "pain",
+          "{{ɛ̃}}"
+        ],
+        [
+          "nom",
+          "{{ɔ̃}}"
+        ]
+      ]
+    }
+  ]
+}

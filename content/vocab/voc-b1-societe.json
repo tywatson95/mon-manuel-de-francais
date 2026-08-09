@@ -1,0 +1,242 @@
+{
+  "id": "voc-b1-societe",
+  "title": "Société & engagement",
+  "level": "B1",
+  "order": 480,
+  "summary": "Ville, campagne, bénévolat et vie collective.",
+  "items": [
+    {
+      "fr": "la société",
+      "ipa": "sɔ.sje.te",
+      "en": "society",
+      "ex": "Une société en mutation."
+    },
+    {
+      "fr": "un citoyen, une citoyenne",
+      "ipa": "si.twa.jɛ̃",
+      "en": "a citizen",
+      "ex": "Un citoyen engagé."
+    },
+    {
+      "fr": "la citoyenneté",
+      "ipa": "si.twa.jɛn.te",
+      "en": "citizenship",
+      "ex": "La citoyenneté implique des devoirs."
+    },
+    {
+      "fr": "un droit",
+      "ipa": "dʁwa",
+      "en": "a right",
+      "ex": "Le droit de vote."
+    },
+    {
+      "fr": "un devoir",
+      "ipa": "də.vwaʁ",
+      "en": "a duty",
+      "ex": "Un devoir civique."
+    },
+    {
+      "fr": "une association",
+      "ipa": "a.sɔ.sja.sjɔ̃",
+      "en": "a charity, association",
+      "ex": "Une association locale."
+    },
+    {
+      "fr": "le bénévolat",
+      "ipa": "be.ne.vɔ.la",
+      "en": "volunteering",
+      "ex": "Le bénévolat se développe."
+    },
+    {
+      "fr": "un(e) bénévole",
+      "ipa": "be.ne.vɔl",
+      "en": "a volunteer",
+      "ex": "Les bénévoles distribuent des repas."
+    },
+    {
+      "fr": "la solidarité",
+      "ipa": "sɔ.li.da.ʁi.te",
+      "en": "solidarity",
+      "ex": "Un élan de solidarité."
+    },
+    {
+      "fr": "l’entraide (f)",
+      "ipa": "ɑ̃.tʁɛd",
+      "en": "mutual help",
+      "ex": "Un réseau d’entraide."
+    },
+    {
+      "fr": "une inégalité",
+      "ipa": "i.ne.ɡa.li.te",
+      "en": "an inequality",
+      "ex": "Les inégalités se creusent."
+    },
+    {
+      "fr": "la pauvreté",
+      "ipa": "pov.ʁə.te",
+      "en": "poverty",
+      "ex": "Lutter contre la pauvreté."
+    },
+    {
+      "fr": "l’exclusion (f)",
+      "ipa": "ɛks.kly.zjɔ̃",
+      "en": "exclusion",
+      "ex": "L’exclusion sociale."
+    },
+    {
+      "fr": "l’intégration (f)",
+      "ipa": "ɛ̃.te.ɡʁa.sjɔ̃",
+      "en": "integration",
+      "ex": "L’intégration prend du temps."
+    },
+    {
+      "fr": "un logement social",
+      "ipa": "lɔʒ.mɑ̃",
+      "en": "social housing",
+      "ex": "Une demande de logement social."
+    },
+    {
+      "fr": "la banlieue",
+      "ipa": "bɑ̃.ljø",
+      "en": "the suburbs",
+      "ex": "Il habite en banlieue."
+    },
+    {
+      "fr": "le centre-ville",
+      "ipa": "sɑ̃tʁ vil",
+      "en": "the town centre",
+      "ex": "Le centre-ville se vide."
+    },
+    {
+      "fr": "la campagne",
+      "ipa": "kɑ̃.paɲ",
+      "en": "the countryside",
+      "ex": "Un retour à la campagne."
+    },
+    {
+      "fr": "un village",
+      "ipa": "vi.laʒ",
+      "en": "a village",
+      "ex": "Un village de 300 habitants."
+    },
+    {
+      "fr": "la désertification",
+      "ipa": "de.zɛʁ.ti.fi.ka.sjɔ̃",
+      "en": "rural depopulation",
+      "ex": "La désertification des campagnes."
+    },
+    {
+      "fr": "les transports en commun",
+      "ipa": "tʁɑ̃s.pɔʁ",
+      "en": "public transport",
+      "ex": "Les transports en commun sont saturés."
+    },
+    {
+      "fr": "un service public",
+      "ipa": "sɛʁ.vis",
+      "en": "a public service",
+      "ex": "Défendre les services publics."
+    },
+    {
+      "fr": "une commune",
+      "ipa": "kɔ.myn",
+      "en": "a municipality",
+      "ex": "La commune a voté le budget."
+    },
+    {
+      "fr": "un(e) maire",
+      "ipa": "mɛʁ",
+      "en": "a mayor",
+      "ex": "Le maire a inauguré l’école."
+    },
+    {
+      "fr": "une élection",
+      "ipa": "e.lɛk.sjɔ̃",
+      "en": "an election",
+      "ex": "Les élections municipales."
+    },
+    {
+      "fr": "voter",
+      "ipa": "vɔ.te",
+      "en": "to vote",
+      "ex": "J’ai voté ce matin."
+    },
+    {
+      "fr": "une manifestation",
+      "ipa": "ma.ni.fɛs.ta.sjɔ̃",
+      "en": "a demonstration",
+      "ex": "Une manifestation pacifique."
+    },
+    {
+      "fr": "une pétition",
+      "ipa": "pe.ti.sjɔ̃",
+      "en": "a petition",
+      "ex": "Signer une pétition."
+    },
+    {
+      "fr": "s’engager",
+      "ipa": "sɑ̃.ɡa.ʒe",
+      "en": "to get involved",
+      "ex": "Je me suis engagé dans une association."
+    },
+    {
+      "fr": "militer",
+      "ipa": "mi.li.te",
+      "en": "to campaign",
+      "ex": "Elle milite pour le climat."
+    },
+    {
+      "fr": "sensibiliser",
+      "ipa": "sɑ̃.si.bi.li.ze",
+      "en": "to raise awareness",
+      "ex": "Sensibiliser le public."
+    },
+    {
+      "fr": "un débat",
+      "ipa": "de.ba",
+      "en": "a debate",
+      "ex": "Un débat public."
+    },
+    {
+      "fr": "le vivre-ensemble",
+      "ipa": "vivʁ ɑ̃.sɑ̃bl",
+      "en": "living together",
+      "ex": "Le vivre-ensemble au quotidien."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "Un « bénévole » travaille…",
+          "options": [
+            "contre un salaire",
+            "gratuitement",
+            "à temps partiel"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« La désertification des campagnes » désigne…",
+          "options": [
+            "la sécheresse",
+            "le départ des habitants",
+            "la déforestation"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Militer » veut dire…",
+          "options": [
+            "être soldat",
+            "défendre activement une cause",
+            "manifester une fois"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

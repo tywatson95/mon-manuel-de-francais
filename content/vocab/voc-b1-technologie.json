@@ -1,0 +1,236 @@
+{
+  "id": "voc-b1-technologie",
+  "title": "Technologie & internet",
+  "level": "B1",
+  "order": 430,
+  "summary": "Vocabulaire du numérique au quotidien.",
+  "items": [
+    {
+      "fr": "le numérique",
+      "ipa": "ny.me.ʁik",
+      "en": "digital",
+      "ex": "La transition numérique."
+    },
+    {
+      "fr": "un logiciel",
+      "ipa": "lɔ.ʒi.sjɛl",
+      "en": "a software",
+      "ex": "Un logiciel gratuit."
+    },
+    {
+      "fr": "un appareil",
+      "ipa": "a.pa.ʁɛj",
+      "en": "a device",
+      "ex": "Un appareil connecté."
+    },
+    {
+      "fr": "une mise à jour",
+      "ipa": "miz a ʒuʁ",
+      "en": "an update",
+      "ex": "Faites la mise à jour."
+    },
+    {
+      "fr": "un bug",
+      "ipa": "bœɡ",
+      "en": "a bug",
+      "ex": "Il y a un bug dans l’appli."
+    },
+    {
+      "fr": "un piratage",
+      "ipa": "pi.ʁa.taʒ",
+      "en": "hacking",
+      "ex": "Un piratage de données."
+    },
+    {
+      "fr": "un mot de passe",
+      "ipa": "mo də pas",
+      "en": "a password",
+      "ex": "Un mot de passe solide."
+    },
+    {
+      "fr": "la sécurité",
+      "ipa": "se.ky.ʁi.te",
+      "en": "security",
+      "ex": "La sécurité des données."
+    },
+    {
+      "fr": "les données (f)",
+      "ipa": "dɔ.ne",
+      "en": "data",
+      "ex": "Vos données sont protégées."
+    },
+    {
+      "fr": "la vie privée",
+      "ipa": "vi pʁi.ve",
+      "en": "privacy",
+      "ex": "Le respect de la vie privée."
+    },
+    {
+      "fr": "un cookie",
+      "ipa": "ku.ki",
+      "en": "a cookie",
+      "ex": "Refuser les cookies."
+    },
+    {
+      "fr": "un moteur de recherche",
+      "ipa": "mɔ.tœʁ",
+      "en": "a search engine",
+      "ex": "Le moteur de recherche par défaut."
+    },
+    {
+      "fr": "un navigateur",
+      "ipa": "na.vi.ɡa.tœʁ",
+      "en": "a browser",
+      "ex": "Change de navigateur."
+    },
+    {
+      "fr": "le stockage",
+      "ipa": "stɔ.kaʒ",
+      "en": "storage",
+      "ex": "Le stockage est plein."
+    },
+    {
+      "fr": "le cloud",
+      "ipa": "klaud",
+      "en": "the cloud",
+      "ex": "Tout est dans le cloud."
+    },
+    {
+      "fr": "sauvegarder",
+      "ipa": "sov.ɡaʁ.de",
+      "en": "to back up",
+      "ex": "Sauvegardez vos fichiers."
+    },
+    {
+      "fr": "un fichier",
+      "ipa": "fi.ʃje",
+      "en": "a file",
+      "ex": "Le fichier est corrompu."
+    },
+    {
+      "fr": "une plateforme",
+      "ipa": "plat.fɔʁm",
+      "en": "a platform",
+      "ex": "Une plateforme de streaming."
+    },
+    {
+      "fr": "un écran",
+      "ipa": "e.kʁɑ̃",
+      "en": "a screen",
+      "ex": "Trop de temps devant l’écran."
+    },
+    {
+      "fr": "la fracture numérique",
+      "ipa": "fʁak.tyʁ",
+      "en": "the digital divide",
+      "ex": "La fracture numérique s’aggrave."
+    },
+    {
+      "fr": "une addiction",
+      "ipa": "a.dik.sjɔ̃",
+      "en": "an addiction",
+      "ex": "Une addiction aux écrans."
+    },
+    {
+      "fr": "un influenceur",
+      "ipa": "ɛ̃.fly.ɑ̃.sœʁ",
+      "en": "an influencer",
+      "ex": "Un influenceur suivi par des milliers."
+    },
+    {
+      "fr": "un algorithme",
+      "ipa": "al.ɡɔ.ʁitm",
+      "en": "an algorithm",
+      "ex": "L’algorithme choisit ce qu’on voit."
+    },
+    {
+      "fr": "l’intelligence artificielle",
+      "ipa": "ɛ̃.te.li.ʒɑ̃s",
+      "en": "artificial intelligence",
+      "ex": "L’intelligence artificielle progresse vite."
+    },
+    {
+      "fr": "un objet connecté",
+      "ipa": "ɔb.ʒɛ",
+      "en": "a connected device",
+      "ex": "Une maison pleine d’objets connectés."
+    },
+    {
+      "fr": "la 5G",
+      "ipa": "sɛ̃k ʒe",
+      "en": "5G",
+      "ex": "Le déploiement de la 5G."
+    },
+    {
+      "fr": "un abonnement",
+      "ipa": "a.bɔn.mɑ̃",
+      "en": "a subscription",
+      "ex": "Résilier son abonnement."
+    },
+    {
+      "fr": "gratuit(e)",
+      "ipa": "ɡʁa.tɥi",
+      "en": "free",
+      "ex": "Une version gratuite."
+    },
+    {
+      "fr": "payant(e)",
+      "ipa": "pɛ.jɑ̃",
+      "en": "paid",
+      "ex": "Le contenu est payant."
+    },
+    {
+      "fr": "un tutoriel",
+      "ipa": "ty.tɔ.ʁjɛl",
+      "en": "a tutorial",
+      "ex": "J’ai suivi un tutoriel."
+    },
+    {
+      "fr": "dépanner",
+      "ipa": "de.pa.ne",
+      "en": "to fix, to help out",
+      "ex": "Il m’a dépanné mon ordinateur."
+    },
+    {
+      "fr": "s’équiper",
+      "ipa": "se.ki.pe",
+      "en": "to get equipped",
+      "ex": "S’équiper en matériel."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "« La fracture numérique » désigne…",
+          "options": [
+            "un écran cassé",
+            "l’inégalité d’accès au numérique",
+            "une panne de réseau"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Sauvegarder » signifie…",
+          "options": [
+            "supprimer",
+            "enregistrer une copie",
+            "partager"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Le respect de « la vie privée » concerne…",
+          "options": [
+            "les données personnelles",
+            "le prix des abonnements",
+            "la vitesse du réseau"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

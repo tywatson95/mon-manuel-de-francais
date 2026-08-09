@@ -1,0 +1,107 @@
+{
+  "id": "co-a2-cause-simple",
+  "group": "connecteurs",
+  "level": "A2",
+  "order": 230,
+  "title": "Exprimer la cause simplement",
+  "summary": "Parce que, car, comme : dire pourquoi.",
+  "essentiel": [
+    "[fr]**parce que**[/fr] répond à [fr]pourquoi ?[/fr] et se place **après** : [fr]Je reste **parce qu’**il pleut.[/fr]",
+    "[fr]**comme**[/fr] se place **en tête** : [fr]**Comme** il pleut, je reste.[/fr]",
+    "[fr]**car**[/fr] est l’équivalent écrit de [fr]parce que[/fr] ; il ne commence jamais une phrase."
+  ],
+  "regle": "**[fr]parce que[/fr]** est le connecteur de base. Il introduit la cause **après** la conséquence, et c’est le seul qui peut répondre seul à une question.\n[fr]— Pourquoi tu ne viens pas ? — **Parce que** je travaille.[/fr]\n\n**[fr]comme[/fr]** met la cause **en premier**. Elle est présentée comme connue, évidente.\n[fr]**Comme** il n’y avait plus de place, nous sommes partis.[/fr]\n\n**[fr]car[/fr]** appartient à l’écrit. Il ressemble à [fr]parce que[/fr] mais ne peut jamais ouvrir une phrase ni répondre à une question.\n[fr]Il n’est pas venu, **car** il était souffrant.[/fr]\n\n**[fr]à cause de[/fr] et [fr]grâce à[/fr]** sont suivis d’un **nom**, pas d’une phrase — et ils s’opposent.\n[fr]**à cause de**[/fr] → conséquence négative : [fr]Le vol est annulé **à cause du** brouillard.[/fr]\n[fr]**grâce à**[/fr] → conséquence positive : [fr]J’ai réussi **grâce à** ton aide.[/fr]\n\nC’est une distinction que le français tient beaucoup ; l’anglais dit *because of* dans les deux cas.",
+  "exemples": [
+    {
+      "fr": "Je ne sors pas parce qu’il fait trop froid.",
+      "en": "I’m not going out because it’s too cold."
+    },
+    {
+      "fr": "Comme j’étais fatigué, je me suis couché tôt.",
+      "en": "As I was tired, I went to bed early."
+    },
+    {
+      "fr": "Il a réussi grâce à sa persévérance.",
+      "en": "He succeeded thanks to his perseverance."
+    },
+    {
+      "fr": "Le match a été annulé à cause de la pluie.",
+      "en": "The match was cancelled because of the rain."
+    },
+    {
+      "fr": "Nous partons tôt, car la route est longue.",
+      "en": "We are leaving early, for the journey is long."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Grâce à ou à cause de ?",
+      "items": [
+        {
+          "q": "J’ai trouvé ce travail ___ mon ancien professeur.",
+          "options": [
+            "grâce à",
+            "à cause de"
+          ],
+          "answer": 0,
+          "why": "Résultat positif."
+        },
+        {
+          "q": "Nous sommes en retard ___ la circulation.",
+          "options": [
+            "grâce à",
+            "à cause de"
+          ],
+          "answer": 1,
+          "why": "Résultat négatif."
+        },
+        {
+          "q": "Elle a guéri ___ ce traitement.",
+          "options": [
+            "grâce à",
+            "à cause de"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Il a perdu son emploi ___ la crise.",
+          "options": [
+            "grâce à",
+            "à cause de"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec parce que, comme ou car.",
+      "items": [
+        {
+          "before": "",
+          "after": " il pleuvait, nous avons pris un taxi.",
+          "answer": "Comme",
+          "alt": [
+            "comme"
+          ]
+        },
+        {
+          "before": "Je ne peux pas venir ",
+          "after": " je travaille.",
+          "answer": "parce que"
+        },
+        {
+          "before": "Il faut réserver, ",
+          "after": " le restaurant est petit. (écrit)",
+          "answer": "car"
+        },
+        {
+          "before": "Le vol est annulé ",
+          "after": " du mauvais temps.",
+          "answer": "à cause"
+        }
+      ]
+    }
+  ]
+}

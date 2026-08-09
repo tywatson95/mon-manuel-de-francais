@@ -1,0 +1,150 @@
+{
+  "id": "cm-b1-opinion",
+  "group": "communication",
+  "level": "B1",
+  "order": 320,
+  "title": "Donner et justifier son opinion",
+  "summary": "Dire ce qu’on pense, nuancer, et être en désaccord poliment.",
+  "essentiel": [
+    "Donner : [fr]À mon avis · Je trouve que · Selon moi · J’ai l’impression que[/fr].",
+    "Justifier : une opinion sans **parce que** ou **par exemple** ne convainc personne.",
+    "Nuancer : [fr]ça dépend · dans une certaine mesure · je ne suis pas totalement d’accord[/fr]."
+  ],
+  "regle": "**Donner son avis.**\n[fr]À mon avis, … · Je pense que… · Je trouve que… · Selon moi, … · Personnellement, je crois que… · J’ai l’impression que…[/fr]\n\nRappel de grammaire : à l’affirmatif, ces verbes prennent l’**indicatif** ; au négatif, le **subjonctif**.\n[fr]Je pense qu’il **a** raison.[/fr] / [fr]Je ne pense pas qu’il **ait** raison.[/fr]\n\n**Justifier — la partie qui compte.**\n[fr]parce que · car · en effet · c’est pourquoi · par exemple · notamment · d’ailleurs[/fr]\n[fr]Je trouve ce film trop long, **parce que** l’histoire n’avance pas pendant une heure.[/fr]\n\n**Être d’accord.**\n[fr]Je suis tout à fait d’accord. · Vous avez raison. · C’est exactement ce que je pense. · Effectivement.[/fr]\n\n**Ne pas être d’accord — sans agressivité.**\n[fr]Je ne suis pas (tout à fait) d’accord. · Je ne vois pas les choses comme ça. · Permettez-moi de ne pas partager votre avis. · Ce n’est pas si simple.[/fr]\n\n**Nuancer.**\n[fr]Ça dépend. · Dans une certaine mesure, oui. · C’est vrai en partie. · Tout dépend du contexte.[/fr]\n\n**Attention au faux ami [fr]actuellement[/fr]** : il veut dire *currently*, pas *actually*. Pour *actually*, dites [fr]en fait[/fr] ou [fr]en réalité[/fr].",
+  "exemples": [
+    {
+      "fr": "À mon avis, ce n’est pas une bonne solution, parce qu’elle coûte trop cher.",
+      "en": "In my view it isn’t a good solution, because it costs too much."
+    },
+    {
+      "fr": "Je ne suis pas tout à fait d’accord avec vous.",
+      "en": "I don’t entirely agree with you."
+    },
+    {
+      "fr": "C’est vrai en partie, mais ça dépend du contexte.",
+      "en": "That’s partly true, but it depends on the context."
+    },
+    {
+      "fr": "Je trouve que le film est trop long, notamment la fin.",
+      "en": "I find the film too long, particularly the ending."
+    },
+    {
+      "fr": "Effectivement, vous avez raison sur ce point.",
+      "en": "Indeed, you’re right on that point."
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : un désaccord poli",
+    "lines": [
+      {
+        "who": "Chloé",
+        "fr": "À mon avis, le télétravail devrait devenir la norme.",
+        "en": "In my opinion, remote work should become the norm."
+      },
+      {
+        "who": "Marc",
+        "fr": "Je ne suis pas tout à fait d’accord. Ça dépend des métiers.",
+        "en": "I don’t entirely agree. It depends on the job."
+      },
+      {
+        "who": "Chloé",
+        "fr": "C’est vrai en partie. Mais beaucoup de gens sont plus efficaces chez eux.",
+        "en": "That’s partly true. But many people are more efficient at home."
+      },
+      {
+        "who": "Marc",
+        "fr": "Peut-être. Cela dit, on perd le lien avec l’équipe.",
+        "en": "Maybe. That said, you lose the link with the team."
+      },
+      {
+        "who": "Chloé",
+        "fr": "Là, vous avez raison. Il faudrait sans doute un système mixte.",
+        "en": "There, you’re right. A hybrid system would probably be needed."
+      },
+      {
+        "who": "Marc",
+        "fr": "Voilà, c’est exactement ce que je pense.",
+        "en": "Exactly, that’s just what I think."
+      }
+    ],
+    "check": {
+      "q": "Comment Marc exprime-t-il son désaccord ?",
+      "options": [
+        "Il dit que Chloé a tort.",
+        "Il nuance : « pas tout à fait d’accord ».",
+        "Il ne répond pas."
+      ],
+      "answer": 1
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la formulation adaptée.",
+      "items": [
+        {
+          "q": "Tu es totalement d’accord :",
+          "options": [
+            "Je suis tout à fait d’accord.",
+            "Ça dépend.",
+            "Je ne vois pas les choses comme ça."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tu es partiellement d’accord :",
+          "options": [
+            "C’est vrai en partie.",
+            "Vous avez tort.",
+            "Absolument pas."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Je ne pense pas qu’il ___ raison.",
+          "options": [
+            "a",
+            "ait",
+            "aura"
+          ],
+          "answer": 1,
+          "why": "Négation d’un verbe d’opinion → subjonctif."
+        },
+        {
+          "q": "« Actuellement » signifie…",
+          "options": [
+            "en fait",
+            "en ce moment",
+            "vraiment"
+          ],
+          "answer": 1,
+          "why": "Faux ami : *actually* se dit [fr]en fait[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "",
+          "after": " mon avis, c’est une erreur.",
+          "answer": "À",
+          "alt": [
+            "à"
+          ]
+        },
+        {
+          "before": "Je trouve que ce projet ",
+          "after": " intéressant. (être)",
+          "answer": "est"
+        },
+        {
+          "before": "Je ne crois pas que ce ",
+          "after": " possible. (être)",
+          "answer": "soit"
+        }
+      ]
+    }
+  ]
+}

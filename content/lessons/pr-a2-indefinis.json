@@ -1,0 +1,171 @@
+{
+  "id": "pr-a2-indefinis",
+  "group": "pronoms",
+  "level": "A2",
+  "order": 260,
+  "title": "Tout, quelques, chacun : les indéfinis",
+  "summary": "Dire « tout », « quelques-uns », « personne » sans se tromper d’accord.",
+  "essentiel": [
+    "[fr]tout[/fr] varie devant un nom ([fr]tout le, toute la, tous les, toutes les[/fr]) mais reste [fr]tout[/fr] seul : [fr]Tout va bien.[/fr]",
+    "[fr]quelques[/fr] + nom · [fr]quelques-uns / quelques-unes[/fr] seuls.",
+    "[fr]chaque[/fr] + nom (singulier) · [fr]chacun / chacune[/fr] seul."
+  ],
+  "regle": "Les indéfinis vont souvent par paire : une forme **devant un nom** (adjectif) et une forme **seule** (pronom).\n\n[fr]**chaque** étudiant[/fr] → [fr]**chacun** doit s’inscrire[/fr]\n[fr]**quelques** amis[/fr] → [fr]**quelques-uns** sont venus[/fr]\n[fr]**tous les** jours[/fr] → [fr]**tous** sont là[/fr]\n\n**Le cas de [fr]tout[/fr].**\n- pronom neutre : [fr]**Tout** est prêt.[/fr] ((everything))\n- adjectif : [fr]**toute** la journée, **tous** les matins[/fr]\n- pronom pluriel : [fr]Ils sont **tous** venus.[/fr] — ici, le **s final se prononce** {{tus}}.\n\n**Les négatifs.** [fr]personne[/fr] et [fr]rien[/fr] s’emploient avec [fr]ne[/fr] :\n[fr]**Personne n’**est venu. · Je **n’**ai **rien** compris.[/fr]\n\n**Quelqu’un / quelque chose** sont invariables : [fr]Quelqu’un a appelé.[/fr]\nAvec un adjectif, on ajoute [fr]de[/fr] : [fr]quelque chose **de** beau[/fr], [fr]quelqu’un **d’**intéressant[/fr].",
+  "exemples": [
+    {
+      "fr": "Tout le monde est arrivé à l’heure.",
+      "en": "Everyone arrived on time."
+    },
+    {
+      "fr": "Quelques-uns préfèrent rester.",
+      "en": "A few prefer to stay."
+    },
+    {
+      "fr": "Chacun apporte quelque chose à manger.",
+      "en": "Everyone brings something to eat."
+    },
+    {
+      "fr": "Personne ne connaît la réponse.",
+      "en": "Nobody knows the answer."
+    },
+    {
+      "fr": "J’ai vu quelque chose d’étrange.",
+      "en": "I saw something strange."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Devant un nom / tout seul",
+      "collapsed": false,
+      "headers": [
+        "Devant un nom",
+        "Tout seul"
+      ],
+      "rows": [
+        [
+          "chaque jour",
+          "chacun, chacune"
+        ],
+        [
+          "quelques livres",
+          "quelques-uns, quelques-unes"
+        ],
+        [
+          "tous les jours",
+          "tous, toutes"
+        ],
+        [
+          "plusieurs personnes",
+          "plusieurs"
+        ],
+        [
+          "aucun élève",
+          "aucun, aucune"
+        ],
+        [
+          "certains amis",
+          "certains, certaines"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "___ le monde est là.",
+          "options": [
+            "Tout",
+            "Tous",
+            "Toute"
+          ],
+          "answer": 0,
+          "why": "[fr]tout le monde[/fr] est une expression figée."
+        },
+        {
+          "q": "Ils sont ___ venus.",
+          "options": [
+            "tout",
+            "tous",
+            "toutes"
+          ],
+          "answer": 1,
+          "why": "Pronom masculin pluriel ; le [fr]s[/fr] se prononce."
+        },
+        {
+          "q": "___ étudiant doit s’inscrire.",
+          "options": [
+            "Chacun",
+            "Chaque",
+            "Chaques"
+          ],
+          "answer": 1,
+          "why": "Devant un nom → [fr]chaque[/fr], toujours singulier."
+        },
+        {
+          "q": "J’ai invité dix personnes ; ___ sont venues.",
+          "options": [
+            "quelques",
+            "quelques-unes",
+            "chaque"
+          ],
+          "answer": 1,
+          "why": "Seul, féminin pluriel → [fr]quelques-unes[/fr]."
+        },
+        {
+          "q": "Je cherche quelqu’un ___ sérieux.",
+          "options": [
+            "de",
+            "du",
+            "—"
+          ],
+          "answer": 0,
+          "why": "[fr]quelqu’un **de** + adjectif[/fr]."
+        },
+        {
+          "q": "___ n’a répondu.",
+          "options": [
+            "Personne",
+            "Rien",
+            "Aucun"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète la phrase.",
+      "items": [
+        {
+          "before": "",
+          "after": " la journée, il a plu. (tout)",
+          "answer": "Toute",
+          "alt": [
+            "toute"
+          ]
+        },
+        {
+          "before": "",
+          "after": " des invités a reçu un cadeau. (chaque)",
+          "answer": "Chacun",
+          "alt": [
+            "chacun"
+          ]
+        },
+        {
+          "before": "Je n’ai ",
+          "after": " compris.",
+          "answer": "rien"
+        },
+        {
+          "before": "J’ai lu ",
+          "after": " pages seulement. (quelques)",
+          "answer": "quelques"
+        }
+      ]
+    }
+  ]
+}

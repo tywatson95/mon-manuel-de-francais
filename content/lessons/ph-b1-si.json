@@ -1,0 +1,198 @@
+{
+  "id": "ph-b1-si",
+  "group": "phrase",
+  "level": "B1",
+  "order": 340,
+  "title": "Les phrases avec si",
+  "summary": "Trois combinaisons fixes — et jamais de futur après « si ».",
+  "essentiel": [
+    "[fr]si + **présent** → **futur**[/fr] : [fr]S’il pleut, je resterai.[/fr] ((likely))",
+    "[fr]si + **imparfait** → **conditionnel présent**[/fr] : [fr]S’il pleuvait, je resterais.[/fr] ((hypothetical))",
+    "[fr]si + **plus-que-parfait** → **conditionnel passé**[/fr] : [fr]S’il avait plu, je serais resté.[/fr] ((too late))"
+  ],
+  "regle": "Trois structures, trois degrés de réalité. Elles sont **fixes** : on ne mélange pas.\n\n**1 · Le possible.** [fr]si[/fr] + présent → futur (ou présent, ou impératif).\n[fr]**Si** tu **veux**, on **ira** au cinéma.[/fr]\n[fr]**Si** tu **as** faim, **sers-toi**.[/fr]\n\n**2 · L’imaginaire présent.** [fr]si[/fr] + imparfait → conditionnel présent.\n[fr]**Si** j’**avais** le temps, je **voyagerais** davantage.[/fr] ((but I don’t))\n\n**3 · Le regret.** [fr]si[/fr] + plus-que-parfait → conditionnel passé.\n[fr]**Si** j’**avais su**, je **serais venu**.[/fr] ((but I didn’t know))\n\n**La règle d’or : jamais de futur ni de conditionnel après [fr]si[/fr].**\nOn écrit [fr]si j’ai[/fr], jamais « si j’aurai » ; [fr]si j’avais[/fr], jamais « si j’aurais ».\nUn moyen mnémotechnique français : *« Les si n’aiment pas les -rais. »*\n\n**L’ordre est libre.** [fr]Si tu viens, je serai content[/fr] = [fr]Je serai content si tu viens.[/fr]\n\n**[fr]si[/fr] a un autre sens** : *whether*, dans le discours rapporté. Là, le futur est permis : [fr]Je ne sais pas **s’il viendra**.[/fr]",
+  "exemples": [
+    {
+      "fr": "Si tu as le temps, appelle-moi.",
+      "en": "If you have time, call me."
+    },
+    {
+      "fr": "Si j’étais riche, j’achèterais une maison en Provence.",
+      "en": "If I were rich, I’d buy a house in Provence."
+    },
+    {
+      "fr": "Si nous étions partis plus tôt, nous n’aurions pas raté le train.",
+      "en": "If we had left earlier, we wouldn’t have missed the train."
+    },
+    {
+      "fr": "S’il fait beau demain, on ira à la mer.",
+      "en": "If the weather is nice tomorrow, we’ll go to the sea."
+    },
+    {
+      "fr": "Je me demande si elle viendra.",
+      "en": "I wonder whether she’ll come."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les trois structures",
+      "collapsed": false,
+      "headers": [
+        "Après « si »",
+        "Dans l’autre partie",
+        "Sens"
+      ],
+      "rows": [
+        [
+          "présent",
+          "futur / présent / impératif",
+          "c’est possible"
+        ],
+        [
+          "imparfait",
+          "conditionnel présent",
+          "c’est imaginaire"
+        ],
+        [
+          "plus-que-parfait",
+          "conditionnel passé",
+          "c’est trop tard"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : le projet de vacances",
+    "lines": [
+      {
+        "who": "Nour",
+        "fr": "Si on partait en août, ce serait moins cher ?",
+        "en": "If we left in August, would it be cheaper?"
+      },
+      {
+        "who": "Sami",
+        "fr": "Non, c’est le contraire. Si tu veux économiser, il faut partir en juin.",
+        "en": "No, it’s the opposite. If you want to save, you have to leave in June."
+      },
+      {
+        "who": "Nour",
+        "fr": "Si j’avais su, j’aurais posé mes congés plus tôt.",
+        "en": "If I’d known, I’d have booked my leave earlier."
+      },
+      {
+        "who": "Sami",
+        "fr": "Ce n’est pas grave. Si ton chef accepte, tu peux encore changer.",
+        "en": "Never mind. If your boss agrees, you can still change."
+      },
+      {
+        "who": "Nour",
+        "fr": "Je lui demanderai demain. S’il refuse, on ira en août.",
+        "en": "I’ll ask him tomorrow. If he refuses, we’ll go in August."
+      },
+      {
+        "who": "Sami",
+        "fr": "Parfait. Et si on réservait l’hôtel ce soir ?",
+        "en": "Perfect. And what if we booked the hotel tonight?"
+      }
+    ],
+    "check": {
+      "q": "« Si j’avais su, j’aurais posé mes congés » exprime…",
+      "options": [
+        "un projet",
+        "un regret",
+        "une condition possible"
+      ],
+      "answer": 1,
+      "why": "Plus-que-parfait + conditionnel passé = regret sur le passé."
+    }
+  },
+  "culture": {
+    "icon": "💡",
+    "title": "« Et si on… ? » : la proposition",
+    "text": "À l’oral, [fr]si[/fr] + imparfait tout seul sert à proposer : [fr]Et si on allait au restaurant ?[/fr] ((how about going to a restaurant?)) C’est une des tournures les plus utiles de la conversation courante."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel temps après « si » ?",
+      "items": [
+        {
+          "q": "Si tu ___ , dis-le-moi.",
+          "options": [
+            "veux",
+            "voudras",
+            "voudrais"
+          ],
+          "answer": 0,
+          "why": "Jamais de futur après [fr]si[/fr]."
+        },
+        {
+          "q": "Si j’___ plus d’argent, je voyagerais.",
+          "options": [
+            "ai",
+            "aurai",
+            "avais"
+          ],
+          "answer": 2,
+          "why": "Conditionnel présent dans l’autre partie → imparfait après [fr]si[/fr]."
+        },
+        {
+          "q": "Si elle ___ , elle serait venue.",
+          "options": [
+            "savait",
+            "avait su",
+            "saurait"
+          ],
+          "answer": 1,
+          "why": "Conditionnel passé → plus-que-parfait après [fr]si[/fr]."
+        },
+        {
+          "q": "Quelle phrase est fausse ?",
+          "options": [
+            "Si j’avais su…",
+            "Si j’aurais su…",
+            "Si je savais…"
+          ],
+          "answer": 1,
+          "why": "« Les si n’aiment pas les -rais. »"
+        },
+        {
+          "q": "Je ne sais pas s’il ___ demain.",
+          "options": [
+            "vient",
+            "viendra",
+            "viendrait"
+          ],
+          "answer": 1,
+          "why": "Ici [fr]si[/fr] signifie *whether* : le futur est permis."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète la phrase.",
+      "items": [
+        {
+          "before": "S’il fait beau, nous ",
+          "after": " à la plage. (aller, futur)",
+          "answer": "irons"
+        },
+        {
+          "before": "Si j’",
+          "after": " le temps, je t’aiderais. (avoir)",
+          "answer": "avais"
+        },
+        {
+          "before": "Si tu m’avais prévenu, je ",
+          "after": " . (venir)",
+          "answer": "serais venu"
+        },
+        {
+          "before": "Si vous ",
+          "after": " fatigué, reposez-vous. (être)",
+          "answer": "êtes"
+        }
+      ]
+    }
+  ]
+}

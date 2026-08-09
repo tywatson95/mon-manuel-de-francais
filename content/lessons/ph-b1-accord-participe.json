@@ -1,0 +1,183 @@
+{
+  "id": "ph-b1-accord-participe",
+  "group": "phrase",
+  "level": "B1",
+  "order": 310,
+  "title": "L’accord du participe passé",
+  "summary": "Les trois règles — et celle qui piège même les Français.",
+  "essentiel": [
+    "Avec [fr]**être**[/fr] → accord avec le **sujet** : [fr]Elle est parti**e**.[/fr]",
+    "Avec [fr]**avoir**[/fr] → accord avec le **COD**, mais **seulement s’il est placé avant** : [fr]Les fleurs que j’ai achet**ées**.[/fr]",
+    "Sans COD avant, **aucun accord** : [fr]Elle a mangé.[/fr]"
+  ],
+  "regle": "Trois situations, trois comportements.\n\n**1 · Auxiliaire [fr]être[/fr] : accord avec le sujet.**\n[fr]Ils sont arriv**és**. · Elles sont rest**ées**.[/fr]\n\n**2 · Auxiliaire [fr]avoir[/fr] : accord avec le COD placé avant.**\nC’est la règle qui demande de l’attention. Le participe ne s’accorde que si le complément d’objet direct est **déjà passé** avant le verbe.\n\n[fr]J’ai vu **les filles**.[/fr] → COD après → pas d’accord\n[fr]**Les filles** que j’ai vu**es**.[/fr] → COD avant → accord\n[fr]Je **les** ai vu**es**.[/fr] → COD avant → accord\n\nTrois façons de placer le COD avant : un pronom ([fr]les[/fr]), le relatif [fr]que[/fr], ou une question avec [fr]quel[/fr].\n\n**3 · Les verbes pronominaux.** Ils prennent [fr]être[/fr], mais l’accord suit en réalité la règle du COD.\n[fr]Elle s’est lavé**e**.[/fr] ((she washed herself — *se* is the direct object))\n[fr]Elle s’est lavé les mains.[/fr] ((no agreement — the direct object is *les mains*, placed after))\n[fr]Ils se sont parlé.[/fr] ((no agreement — *se parler à quelqu’un*, indirect))\n\n**Le test utile :** pose la question *qui ?* ou *quoi ?* juste après le verbe. Si la réponse est **déjà passée** dans la phrase, accorde.",
+  "exemples": [
+    {
+      "fr": "Les lettres que j’ai écrites sont sur le bureau.",
+      "en": "The letters I wrote are on the desk."
+    },
+    {
+      "fr": "Elle a écrit trois lettres.",
+      "en": "She wrote three letters."
+    },
+    {
+      "fr": "Je les ai vus hier soir.",
+      "en": "I saw them last night."
+    },
+    {
+      "fr": "Elles se sont téléphoné longuement.",
+      "en": "They talked on the phone at length."
+    },
+    {
+      "fr": "Quelles chansons as-tu choisies ?",
+      "en": "Which songs did you choose?"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les cas de figure",
+      "collapsed": false,
+      "headers": [
+        "Phrase",
+        "COD",
+        "Accord"
+      ],
+      "rows": [
+        [
+          "Elle est partie.",
+          "—",
+          "oui, avec le sujet"
+        ],
+        [
+          "Elle a mangé la pomme.",
+          "après",
+          "non"
+        ],
+        [
+          "La pomme qu’elle a mangée.",
+          "avant",
+          "oui"
+        ],
+        [
+          "Elle l’a mangée.",
+          "avant",
+          "oui"
+        ],
+        [
+          "Elle s’est lavée.",
+          "se (direct)",
+          "oui"
+        ],
+        [
+          "Elle s’est lavé les mains.",
+          "les mains (après)",
+          "non"
+        ],
+        [
+          "Ils se sont parlé.",
+          "indirect",
+          "non"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "✍️",
+    "title": "La règle la plus discutée de France",
+    "text": "L’accord du participe avec [fr]avoir[/fr] a été codifié au XVIᵉ siècle par le poète Clément Marot, sur un modèle italien. Des linguistes proposent régulièrement de la supprimer — sans succès pour l’instant. Même les francophones natifs s’y trompent à l’écrit."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Faut-il accorder ?",
+      "items": [
+        {
+          "q": "Les photos que j’ai ___ .",
+          "options": [
+            "pris",
+            "prises",
+            "prise"
+          ],
+          "answer": 1,
+          "why": "COD [fr]les photos[/fr] placé avant → accord au féminin pluriel."
+        },
+        {
+          "q": "J’ai ___ des photos.",
+          "options": [
+            "pris",
+            "prises",
+            "prise"
+          ],
+          "answer": 0,
+          "why": "COD placé après → pas d’accord."
+        },
+        {
+          "q": "Elle est ___ à midi.",
+          "options": [
+            "arrivé",
+            "arrivée",
+            "arrivés"
+          ],
+          "answer": 1,
+          "why": "Auxiliaire [fr]être[/fr] → accord avec le sujet."
+        },
+        {
+          "q": "Elles se sont ___ les mains.",
+          "options": [
+            "lavé",
+            "lavées",
+            "lavés"
+          ],
+          "answer": 0,
+          "why": "Le COD [fr]les mains[/fr] est après → pas d’accord."
+        },
+        {
+          "q": "Elles se sont ___ tôt.",
+          "options": [
+            "levé",
+            "levées",
+            "levés"
+          ],
+          "answer": 1,
+          "why": "[fr]se[/fr] est COD et placé avant → accord."
+        },
+        {
+          "q": "Ils se sont ___ hier.",
+          "options": [
+            "téléphoné",
+            "téléphonés",
+            "téléphonées"
+          ],
+          "answer": 0,
+          "why": "[fr]téléphoner **à**[/fr] → COI, jamais d’accord."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Écris le participe correctement accordé.",
+      "items": [
+        {
+          "before": "La lettre que tu m’as ",
+          "after": " était très gentille. (envoyer)",
+          "answer": "envoyée"
+        },
+        {
+          "before": "Nous avons ",
+          "after": " toute la journée. (travailler)",
+          "answer": "travaillé"
+        },
+        {
+          "before": "Mes sœurs sont ",
+          "after": " hier. (partir)",
+          "answer": "parties"
+        },
+        {
+          "before": "Ces livres, je les ai déjà ",
+          "after": " . (lire)",
+          "answer": "lus"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "tm-a1-pronominaux",
+  "group": "temps-modes",
+  "level": "A1",
+  "order": 140,
+  "title": "Les verbes pronominaux au présent",
+  "summary": "Se lever, se coucher : le verbe revient sur son sujet.",
+  "essentiel": [
+    "Un pronom accompagne le verbe et **change avec le sujet** : [fr]je **me** lève, tu **te** lèves, il **se** lève[/fr].",
+    "Devant une voyelle : [fr]me → m’[/fr], [fr]te → t’[/fr], [fr]se → s’[/fr]. [fr]Je m’appelle Arno.[/fr]",
+    "À la négation, le pronom reste collé au verbe : [fr]je **ne me** lève **pas**[/fr]."
+  ],
+  "regle": "Un verbe **pronominal** ((reflexive verb)) se conjugue avec un petit pronom en plus. Ce pronom dit que l’action revient sur le sujet.\n\n[fr]Je lave la voiture.[/fr] ((I wash the car — the action goes outward))\n[fr]Je **me** lave.[/fr] ((I wash myself — the action comes back))\n\nC’est le temps des routines : [fr]se réveiller, se lever, se doucher, s’habiller, se coucher[/fr].\n\nL’ordre est toujours : **sujet + pronom + verbe**.",
+  "exemples": [
+    {
+      "fr": "Je me réveille à six heures et demie.",
+      "en": "I wake up at half past six."
+    },
+    {
+      "fr": "Tu te couches tard ?",
+      "en": "Do you go to bed late?"
+    },
+    {
+      "fr": "Elle s’habille très vite.",
+      "en": "She gets dressed very quickly."
+    },
+    {
+      "fr": "Nous nous promenons dans le parc.",
+      "en": "We go for a walk in the park."
+    },
+    {
+      "fr": "Ils ne se dépêchent pas.",
+      "en": "They are not hurrying."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "se lever — présent",
+      "collapsed": false,
+      "headers": [
+        "Sujet",
+        "Pronom",
+        "Verbe"
+      ],
+      "rows": [
+        [
+          "je",
+          "me",
+          "lève"
+        ],
+        [
+          "tu",
+          "te",
+          "lèves"
+        ],
+        [
+          "il / elle",
+          "se",
+          "lève"
+        ],
+        [
+          "nous",
+          "nous",
+          "levons"
+        ],
+        [
+          "vous",
+          "vous",
+          "levez"
+        ],
+        [
+          "ils / elles",
+          "se",
+          "lèvent"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : la journée d’Amina",
+    "lines": [
+      {
+        "who": "Luc",
+        "fr": "Tu te lèves à quelle heure ?",
+        "en": "What time do you get up?"
+      },
+      {
+        "who": "Amina",
+        "fr": "Je me réveille à six heures, mais je me lève à six heures et quart.",
+        "en": "I wake up at six, but I get up at quarter past six."
+      },
+      {
+        "who": "Luc",
+        "fr": "C’est tôt ! Et tu te couches tôt aussi ?",
+        "en": "That’s early! And do you go to bed early too?"
+      },
+      {
+        "who": "Amina",
+        "fr": "Non, je me couche vers minuit. Je ne dors pas beaucoup.",
+        "en": "No, I go to bed around midnight. I don’t sleep much."
+      },
+      {
+        "who": "Luc",
+        "fr": "Tu ne te reposes jamais !",
+        "en": "You never rest!"
+      },
+      {
+        "who": "Amina",
+        "fr": "Le dimanche, si. On se promène en famille.",
+        "en": "On Sundays, yes. We go for a family walk."
+      }
+    ],
+    "check": {
+      "q": "À quelle heure Amina sort-elle du lit ?",
+      "options": [
+        "À six heures.",
+        "À six heures et quart.",
+        "À minuit."
+      ],
+      "answer": 1,
+      "why": "[fr]Se réveiller[/fr] = ouvrir les yeux ; [fr]se lever[/fr] = sortir du lit."
+    }
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Ajoute le bon pronom.",
+      "items": [
+        {
+          "before": "Je ",
+          "after": " couche à onze heures.",
+          "answer": "me",
+          "why": "[fr]je[/fr] → [fr]me[/fr]."
+        },
+        {
+          "before": "Elle s’",
+          "after": " Camille.",
+          "answer": "appelle",
+          "why": "[fr]elle s’appelle[/fr] — le [fr]se[/fr] devient [fr]s’[/fr] devant la voyelle."
+        },
+        {
+          "before": "Nous ",
+          "after": " promenons le soir.",
+          "answer": "nous",
+          "why": "[fr]nous[/fr] → [fr]nous[/fr]."
+        },
+        {
+          "before": "Vous ",
+          "after": " dépêchez ?",
+          "answer": "vous",
+          "why": "[fr]vous[/fr] → [fr]vous[/fr]."
+        },
+        {
+          "before": "Ils ",
+          "after": " reposent.",
+          "answer": "se",
+          "why": "[fr]ils[/fr] → [fr]se[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Remets la phrase dans l’ordre.",
+      "items": [
+        {
+          "tokens": [
+            "Je",
+            "me",
+            "lève",
+            "à",
+            "sept",
+            "heures"
+          ],
+          "answer": "Je me lève à sept heures"
+        },
+        {
+          "tokens": [
+            "Tu",
+            "ne",
+            "te",
+            "couches",
+            "pas",
+            "tôt"
+          ],
+          "answer": "Tu ne te couches pas tôt",
+          "why": "À la négation : [fr]ne[/fr] + pronom + verbe + [fr]pas[/fr]."
+        },
+        {
+          "tokens": [
+            "Comment",
+            "est-ce",
+            "que",
+            "vous",
+            "vous",
+            "appelez"
+          ],
+          "answer": "Comment est-ce que vous vous appelez"
+        }
+      ]
+    }
+  ]
+}

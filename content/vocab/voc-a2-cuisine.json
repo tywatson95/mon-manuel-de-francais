@@ -1,0 +1,272 @@
+{
+  "id": "voc-a2-cuisine",
+  "title": "Cuisine & recettes",
+  "level": "A2",
+  "order": 260,
+  "summary": "Les gestes, les ustensiles et le vocabulaire des recettes.",
+  "items": [
+    {
+      "fr": "une recette",
+      "ipa": "ʁə.sɛt",
+      "en": "a recipe",
+      "ex": "Une recette de grand-mère."
+    },
+    {
+      "fr": "un ingrédient",
+      "ipa": "ɛ̃.ɡʁe.djɑ̃",
+      "en": "an ingredient",
+      "ex": "Il manque un ingrédient."
+    },
+    {
+      "fr": "une casserole",
+      "ipa": "kas.ʁɔl",
+      "en": "a saucepan",
+      "ex": "Fais bouillir l’eau dans une casserole."
+    },
+    {
+      "fr": "une poêle",
+      "ipa": "pwal",
+      "en": "a frying pan",
+      "ex": "Fais chauffer la poêle."
+    },
+    {
+      "fr": "un couvercle",
+      "ipa": "ku.vɛʁkl",
+      "en": "a lid",
+      "ex": "Mets le couvercle."
+    },
+    {
+      "fr": "un saladier",
+      "ipa": "sa.la.dje",
+      "en": "a mixing bowl",
+      "ex": "Mélange dans un saladier."
+    },
+    {
+      "fr": "couper",
+      "ipa": "ku.pe",
+      "en": "to cut",
+      "ex": "Coupez les légumes en dés."
+    },
+    {
+      "fr": "éplucher",
+      "ipa": "e.ply.ʃe",
+      "en": "to peel",
+      "ex": "Épluchez les pommes de terre."
+    },
+    {
+      "fr": "mélanger",
+      "ipa": "me.lɑ̃.ʒe",
+      "en": "to mix",
+      "ex": "Mélangez bien le tout."
+    },
+    {
+      "fr": "battre",
+      "ipa": "batʁ",
+      "en": "to beat",
+      "ex": "Battez les œufs en neige."
+    },
+    {
+      "fr": "verser",
+      "ipa": "vɛʁ.se",
+      "en": "to pour",
+      "ex": "Versez le lait doucement."
+    },
+    {
+      "fr": "ajouter",
+      "ipa": "a.ʒu.te",
+      "en": "to add",
+      "ex": "Ajoutez une pincée de sel."
+    },
+    {
+      "fr": "faire cuire",
+      "ipa": "fɛʁ kɥiʁ",
+      "en": "to cook",
+      "ex": "Faites cuire vingt minutes."
+    },
+    {
+      "fr": "faire bouillir",
+      "ipa": "bu.jiʁ",
+      "en": "to boil",
+      "ex": "Faites bouillir l’eau."
+    },
+    {
+      "fr": "faire revenir",
+      "ipa": "ʁə.və.niʁ",
+      "en": "to fry lightly",
+      "ex": "Faites revenir l’oignon."
+    },
+    {
+      "fr": "faire rôtir",
+      "ipa": "ʁo.tiʁ",
+      "en": "to roast",
+      "ex": "Faites rôtir le poulet."
+    },
+    {
+      "fr": "cuire au four",
+      "ipa": "kɥiʁ o fuʁ",
+      "en": "to bake",
+      "ex": "Cuire au four à 180 degrés."
+    },
+    {
+      "fr": "assaisonner",
+      "ipa": "a.sɛ.zɔ.ne",
+      "en": "to season",
+      "ex": "Assaisonnez selon votre goût."
+    },
+    {
+      "fr": "goûter",
+      "ipa": "ɡu.te",
+      "en": "to taste",
+      "ex": "Goûtez et rectifiez."
+    },
+    {
+      "fr": "une pincée",
+      "ipa": "pɛ̃.se",
+      "en": "a pinch",
+      "ex": "Une pincée de sel."
+    },
+    {
+      "fr": "une cuillère à soupe",
+      "ipa": "kɥi.jɛʁ",
+      "en": "a tablespoon",
+      "ex": "Deux cuillères à soupe d’huile."
+    },
+    {
+      "fr": "une cuillère à café",
+      "ipa": "a ka.fe",
+      "en": "a teaspoon",
+      "ex": "Une cuillère à café de sucre."
+    },
+    {
+      "fr": "un gramme",
+      "ipa": "ɡʁam",
+      "en": "a gram",
+      "ex": "200 grammes de farine."
+    },
+    {
+      "fr": "un litre",
+      "ipa": "litʁ",
+      "en": "a litre",
+      "ex": "Un demi-litre de lait."
+    },
+    {
+      "fr": "la farine",
+      "ipa": "fa.ʁin",
+      "en": "flour",
+      "ex": "Tamisez la farine."
+    },
+    {
+      "fr": "la crème",
+      "ipa": "kʁɛm",
+      "en": "cream",
+      "ex": "Ajoutez la crème fraîche."
+    },
+    {
+      "fr": "un oignon",
+      "ipa": "ɔ.ɲɔ̃",
+      "en": "an onion",
+      "ex": "Émincez un oignon."
+    },
+    {
+      "fr": "l’ail (m)",
+      "ipa": "aj",
+      "en": "garlic",
+      "ex": "Une gousse d’ail."
+    },
+    {
+      "fr": "le persil",
+      "ipa": "pɛʁ.si",
+      "en": "parsley",
+      "ex": "Parsemez de persil."
+    },
+    {
+      "fr": "une herbe",
+      "ipa": "ɛʁb",
+      "en": "a herb",
+      "ex": "Des herbes de Provence."
+    },
+    {
+      "fr": "une épice",
+      "ipa": "e.pis",
+      "en": "a spice",
+      "ex": "Ajoutez une épice douce."
+    },
+    {
+      "fr": "cru(e)",
+      "ipa": "kʁy",
+      "en": "raw",
+      "ex": "Des légumes crus."
+    },
+    {
+      "fr": "cuit(e)",
+      "ipa": "kɥi",
+      "en": "cooked",
+      "ex": "Le riz est cuit."
+    },
+    {
+      "fr": "fondre",
+      "ipa": "fɔ̃dʁ",
+      "en": "to melt",
+      "ex": "Faites fondre le beurre."
+    },
+    {
+      "fr": "le feu doux",
+      "ipa": "fø du",
+      "en": "low heat",
+      "ex": "Laissez mijoter à feu doux."
+    },
+    {
+      "fr": "mijoter",
+      "ipa": "mi.ʒɔ.te",
+      "en": "to simmer",
+      "ex": "Laissez mijoter une heure."
+    },
+    {
+      "fr": "un plat",
+      "ipa": "pla",
+      "en": "a dish",
+      "ex": "Un plat traditionnel."
+    },
+    {
+      "fr": "savoureux, savoureuse",
+      "ipa": "sa.vu.ʁø",
+      "en": "tasty",
+      "ex": "Un plat très savoureux."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que fait-on ?",
+      "items": [
+        {
+          "q": "Avant de cuire des pommes de terre, on les…",
+          "options": [
+            "épluche",
+            "bat",
+            "verse"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Faire revenir » signifie…",
+          "options": [
+            "cuire au four",
+            "faire dorer à la poêle",
+            "faire bouillir"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« À feu doux » veut dire…",
+          "options": [
+            "très fort",
+            "doucement",
+            "sans feu"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

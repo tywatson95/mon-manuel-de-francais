@@ -1,0 +1,150 @@
+{
+  "id": "cm-a1-inviter",
+  "group": "communication",
+  "level": "A1",
+  "order": 160,
+  "title": "Inviter, accepter, refuser",
+  "summary": "Proposer quelque chose — et refuser sans blesser.",
+  "essentiel": [
+    "Inviter : [fr]Tu veux… ? · Ça te dit de… ? · On pourrait…[/fr]",
+    "Accepter : [fr]Avec plaisir ! · Volontiers ! · Bonne idée ![/fr]",
+    "Refuser poliment : **on s’excuse, on donne une raison, on propose autre chose**."
+  ],
+  "regle": "**Inviter.**\n[fr]Tu veux venir au cinéma ?[/fr] ((simple))\n[fr]Ça te dit d’aller boire un verre ?[/fr] ((very common, informal))\n[fr]On pourrait dîner ensemble vendredi ?[/fr] ((soft, with conditional))\n[fr]Est-ce que vous seriez libre jeudi ?[/fr] ((formal))\n\n**Accepter.**\n[fr]Avec plaisir ! · Volontiers ! · Bonne idée ! · Oui, super ! · C’est gentil, merci ![/fr]\n\n**Refuser.** En français, un [fr]non[/fr] sec est très brutal. La formule attendue tient en trois temps :\n1. **regret** — [fr]Désolé…[/fr] · [fr]C’est gentil, mais…[/fr]\n2. **raison** — [fr]…je travaille ce soir.[/fr]\n3. **contre-proposition** — [fr]Une autre fois ? · On peut faire ça samedi ?[/fr]\n\n[fr]C’est gentil, mais je ne peux pas ce soir. Une autre fois, avec plaisir ![/fr]\n\n**Fixer les détails.**\n[fr]On se retrouve où ? · À quelle heure ? · Ça marche ! · Je te confirme demain.[/fr]",
+  "exemples": [
+    {
+      "fr": "Ça te dit d’aller au marché samedi ?",
+      "en": "Do you fancy going to the market on Saturday?"
+    },
+    {
+      "fr": "Avec plaisir ! On se retrouve où ?",
+      "en": "Gladly! Where shall we meet?"
+    },
+    {
+      "fr": "C’est gentil, mais je ne suis pas libre ce soir.",
+      "en": "That’s kind, but I’m not free tonight."
+    },
+    {
+      "fr": "On pourrait plutôt faire ça dimanche ?",
+      "en": "Could we do it on Sunday instead?"
+    },
+    {
+      "fr": "Ça marche, à vendredi !",
+      "en": "Sounds good, see you Friday!"
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : une invitation",
+    "lines": [
+      {
+        "who": "Manon",
+        "fr": "Salut ! Ça te dit de venir dîner samedi ?",
+        "en": "Hi! Do you fancy coming for dinner on Saturday?"
+      },
+      {
+        "who": "Karim",
+        "fr": "C’est gentil ! Mais samedi je travaille.",
+        "en": "That’s kind! But I’m working on Saturday."
+      },
+      {
+        "who": "Manon",
+        "fr": "Ah dommage. Et dimanche midi ?",
+        "en": "Oh, shame. What about Sunday lunchtime?"
+      },
+      {
+        "who": "Karim",
+        "fr": "Dimanche, avec plaisir ! J’apporte le dessert.",
+        "en": "Sunday, gladly! I’ll bring dessert."
+      },
+      {
+        "who": "Manon",
+        "fr": "Parfait. Vers treize heures, ça va ?",
+        "en": "Perfect. Around one, is that okay?"
+      },
+      {
+        "who": "Karim",
+        "fr": "Ça marche. À dimanche !",
+        "en": "Sounds good. See you Sunday!"
+      }
+    ],
+    "check": {
+      "q": "Comment Karim refuse-t-il samedi ?",
+      "options": [
+        "Il remercie, donne une raison, et accepte un autre jour.",
+        "Il dit simplement non.",
+        "Il ne répond pas."
+      ],
+      "answer": 0,
+      "why": "C’est la structure attendue d’un refus poli."
+    }
+  },
+  "culture": {
+    "icon": "🍽️",
+    "title": "Ne jamais arriver les mains vides",
+    "text": "Invité à dîner chez quelqu’un en France, on apporte quelque chose : des fleurs, une bouteille de vin, ou un dessert. Et on arrive **un quart d’heure après** l’heure dite — c’est le fameux *quart d’heure de politesse*."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle réponse est la plus appropriée ?",
+      "items": [
+        {
+          "q": "« Ça te dit d’aller au cinéma ? » (tu veux y aller)",
+          "options": [
+            "Non.",
+            "Avec plaisir !",
+            "Peut-être."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Tu viens dîner ce soir ? » (tu ne peux pas)",
+          "options": [
+            "Non, je ne veux pas.",
+            "Désolé, je travaille ce soir. Une autre fois ?",
+            "Impossible."
+          ],
+          "answer": 1,
+          "why": "Regret + raison + contre-proposition."
+        },
+        {
+          "q": "« On se retrouve à 19 h ? »",
+          "options": [
+            "Ça marche !",
+            "Je ne sais pas où.",
+            "C’est gentil."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe la phrase à sa fonction.",
+      "labelLeft": "Phrase",
+      "labelRight": "Fonction",
+      "pairs": [
+        [
+          "Ça te dit de… ?",
+          "inviter"
+        ],
+        [
+          "Volontiers !",
+          "accepter"
+        ],
+        [
+          "C’est gentil, mais…",
+          "refuser poliment"
+        ],
+        [
+          "Une autre fois ?",
+          "proposer autre chose"
+        ],
+        [
+          "Ça marche !",
+          "confirmer"
+        ]
+      ]
+    }
+  ]
+}

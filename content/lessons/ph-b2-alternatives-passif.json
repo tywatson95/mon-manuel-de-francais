@@ -1,0 +1,137 @@
+{
+  "id": "ph-b2-alternatives-passif",
+  "group": "phrase",
+  "level": "B2",
+  "order": 420,
+  "title": "Les alternatives au passif",
+  "summary": "On, se faire, le passif pronominal : ce que le français préfère au vrai passif.",
+  "essentiel": [
+    "[fr]**on**[/fr] est la solution la plus française : [fr]**On** a volé ma voiture.[/fr]",
+    "[fr]**se faire** + infinitif[/fr] : [fr]Il **s’est fait** voler son portable.[/fr]",
+    "**Passif pronominal** pour une propriété générale : [fr]Ça **se vend** bien.[/fr]"
+  ],
+  "regle": "Le français utilise beaucoup moins le passif que l’anglais. Là où l’anglais dit *My car was stolen*, le français dira spontanément [fr]**On** m’a volé ma voiture.[/fr]\n\n**1 · [fr]on[/fr].** C’est l’outil par défaut quand l’auteur de l’action est inconnu ou sans importance.\n[fr]**On** m’a dit que… · **On** construit un nouveau pont. · **On** parle français ici.[/fr]\n\n**2 · [fr]se faire[/fr] + infinitif.** Le sujet subit l’action, souvent à son détriment — mais parfois à son initiative.\n[fr]Il **s’est fait** renvoyer.[/fr] ((he got fired))\n[fr]Elle **s’est fait** couper les cheveux.[/fr] ((she had her hair cut — she wanted it))\nLe participe [fr]fait[/fr] reste **invariable** dans cette construction.\n\nVariante : [fr]se voir[/fr] + infinitif, plus soutenu : [fr]Il **s’est vu** refuser l’entrée.[/fr]\n\n**3 · Le passif pronominal.** Pour une caractéristique générale, sans agent.\n[fr]Ce plat **se mange** froid. · Le vin blanc **se sert** frais. · Ça **ne se fait pas**.[/fr]\n\n**4 · Quand garder le vrai passif ?** Dans l’écrit formel, administratif, journalistique — surtout quand l’agent compte :\n[fr]La loi **a été votée par** l’Assemblée.[/fr]",
+  "exemples": [
+    {
+      "fr": "On m’a demandé de venir plus tôt.",
+      "en": "I was asked to come earlier."
+    },
+    {
+      "fr": "Il s’est fait arrêter par la police.",
+      "en": "He got arrested by the police."
+    },
+    {
+      "fr": "Ce livre se lit très facilement.",
+      "en": "This book reads very easily."
+    },
+    {
+      "fr": "Elle s’est fait construire une maison.",
+      "en": "She had a house built."
+    },
+    {
+      "fr": "Ça ne se dit pas en français.",
+      "en": "You don’t say that in French."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Quatre façons de dire la même chose",
+      "collapsed": false,
+      "headers": [
+        "Structure",
+        "Exemple",
+        "Registre"
+      ],
+      "rows": [
+        [
+          "on",
+          "On a annulé le vol.",
+          "courant, oral et écrit"
+        ],
+        [
+          "se faire + inf.",
+          "Il s’est fait voler son sac.",
+          "courant, surtout parlé"
+        ],
+        [
+          "passif pronominal",
+          "Ça se vend bien.",
+          "généralité"
+        ],
+        [
+          "passif avec être",
+          "Le vol a été annulé par la compagnie.",
+          "formel, écrit"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle est la formulation la plus naturelle en français courant ?",
+      "items": [
+        {
+          "q": "*My bike was stolen.*",
+          "options": [
+            "Mon vélo a été volé.",
+            "On m’a volé mon vélo.",
+            "Mon vélo s’est volé."
+          ],
+          "answer": 1,
+          "why": "[fr]on[/fr] est la solution spontanée du français parlé."
+        },
+        {
+          "q": "*He got fired.*",
+          "options": [
+            "Il a été renvoyé.",
+            "Il s’est fait renvoyer.",
+            "Il se renvoie."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "*White wine is served chilled.*",
+          "options": [
+            "Le vin blanc est servi frais.",
+            "Le vin blanc se sert frais.",
+            "On sert le vin blanc."
+          ],
+          "answer": 1,
+          "why": "Généralité → passif pronominal."
+        },
+        {
+          "q": "Dans « elle s’est fait couper les cheveux », « fait » est…",
+          "options": [
+            "accordé au féminin",
+            "invariable",
+            "au pluriel"
+          ],
+          "answer": 1,
+          "why": "Dans [fr]se faire + infinitif[/fr], [fr]fait[/fr] ne s’accorde jamais."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Reformule sans le passif.",
+      "items": [
+        {
+          "before": "La réunion a été annulée. → ",
+          "after": " a annulé la réunion.",
+          "answer": "On"
+        },
+        {
+          "before": "Il a été licencié. → Il ",
+          "after": " licencier.",
+          "answer": "s’est fait"
+        },
+        {
+          "before": "Ce plat est mangé froid. → Ce plat ",
+          "after": " froid.",
+          "answer": "se mange"
+        }
+      ]
+    }
+  ]
+}

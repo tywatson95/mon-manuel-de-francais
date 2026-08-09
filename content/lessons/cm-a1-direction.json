@@ -1,0 +1,147 @@
+{
+  "id": "cm-a1-direction",
+  "group": "communication",
+  "level": "A1",
+  "order": 140,
+  "title": "Demander son chemin",
+  "summary": "Poser la question, et surtout comprendre la réponse.",
+  "essentiel": [
+    "[fr]Excusez-moi, où est… ? / Pardon, je cherche…[/fr]",
+    "Les réponses tournent autour de six verbes : [fr]aller, tourner, prendre, continuer, traverser, passer[/fr].",
+    "Repères : [fr]à droite, à gauche, tout droit, en face, à côté de, au bout de[/fr]."
+  ],
+  "regle": "**Poser la question.** On commence toujours par [fr]excusez-moi[/fr] ou [fr]pardon[/fr].\n[fr]Excusez-moi, où est la gare, s’il vous plaît ?[/fr]\n[fr]Pardon, je cherche la rue Victor-Hugo.[/fr]\n[fr]Il y a une pharmacie près d’ici ?[/fr]\n[fr]C’est loin ? · C’est à combien de minutes à pied ?[/fr]\n\n**Comprendre la réponse.** Elle vient presque toujours à l’impératif [fr]vous[/fr].\n[fr]Allez tout droit. · Tournez à droite. · Prenez la deuxième rue à gauche. · Continuez jusqu’au feu. · Traversez la place. · Passez devant la mairie.[/fr]\n\n**Les repères de lieu.**\n[fr]à droite / à gauche · tout droit · en face de · à côté de · devant / derrière · entre · au coin de · au bout de · jusqu’à[/fr]\n\n**Attention au faux ami :** [fr]tout droit[/fr] = *straight ahead*, [fr]à droite[/fr] = *to the right*. Une seule syllabe les sépare.\n\n**Si on ne comprend pas.**\n[fr]Pardon ? Vous pouvez répéter plus lentement ? · Vous pouvez me montrer sur le plan ?[/fr]",
+  "exemples": [
+    {
+      "fr": "Excusez-moi, où est la station de métro la plus proche ?",
+      "en": "Excuse me, where is the nearest metro station?"
+    },
+    {
+      "fr": "Allez tout droit, puis tournez à gauche au feu.",
+      "en": "Go straight on, then turn left at the lights."
+    },
+    {
+      "fr": "C’est en face de la boulangerie.",
+      "en": "It’s opposite the bakery."
+    },
+    {
+      "fr": "C’est à cinq minutes à pied.",
+      "en": "It’s a five-minute walk."
+    },
+    {
+      "fr": "Vous pouvez me montrer sur le plan ?",
+      "en": "Can you show me on the map?"
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : trouver la poste",
+    "lines": [
+      {
+        "who": "Touriste",
+        "fr": "Excusez-moi, je cherche la poste.",
+        "en": "Excuse me, I’m looking for the post office."
+      },
+      {
+        "who": "Passant",
+        "fr": "La poste ? Alors, vous allez tout droit jusqu’au carrefour.",
+        "en": "The post office? So, go straight on to the crossroads."
+      },
+      {
+        "who": "Touriste",
+        "fr": "Tout droit, d’accord.",
+        "en": "Straight on, okay."
+      },
+      {
+        "who": "Passant",
+        "fr": "Ensuite vous tournez à droite, et c’est en face de la mairie.",
+        "en": "Then you turn right, and it’s opposite the town hall."
+      },
+      {
+        "who": "Touriste",
+        "fr": "C’est loin ?",
+        "en": "Is it far?"
+      },
+      {
+        "who": "Passant",
+        "fr": "Non, cinq minutes à pied. Vous ne pouvez pas la rater.",
+        "en": "No, five minutes on foot. You can’t miss it."
+      }
+    ],
+    "check": {
+      "q": "Où se trouve la poste ?",
+      "options": [
+        "En face de la mairie.",
+        "À côté du carrefour.",
+        "À gauche après le feu."
+      ],
+      "answer": 0
+    }
+  },
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe l’expression française à son sens.",
+      "labelLeft": "Français",
+      "labelRight": "Anglais",
+      "pairs": [
+        [
+          "tout droit",
+          "straight ahead"
+        ],
+        [
+          "à droite",
+          "to the right"
+        ],
+        [
+          "en face de",
+          "opposite"
+        ],
+        [
+          "au bout de",
+          "at the end of"
+        ],
+        [
+          "au coin de",
+          "on the corner of"
+        ],
+        [
+          "jusqu’au feu",
+          "as far as the traffic lights"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Que veut dire cette instruction ?",
+      "items": [
+        {
+          "q": "« Prenez la deuxième à gauche. »",
+          "options": [
+            "Tournez à la deuxième rue à gauche.",
+            "Allez tout droit deux fois.",
+            "Traversez deux places."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« C’est juste après le pont. »",
+          "options": [
+            "avant le pont",
+            "tout de suite après le pont",
+            "sur le pont"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Vous ne pouvez pas la rater. »",
+          "options": [
+            "c’est facile à trouver",
+            "c’est très loin",
+            "c’est fermé"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

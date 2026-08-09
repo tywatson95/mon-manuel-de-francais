@@ -1,0 +1,149 @@
+{
+  "id": "cm-b2-debattre",
+  "group": "communication",
+  "level": "B2",
+  "order": 410,
+  "title": "Débattre : prendre et garder la parole",
+  "summary": "Interrompre, se défendre, relancer — les mécaniques du débat français.",
+  "essentiel": [
+    "Prendre la parole : [fr]Si je peux me permettre… · Justement, …[/fr]",
+    "Garder la parole : [fr]Laissez-moi terminer. · J’y viens.[/fr]",
+    "Relancer : [fr]Pour en revenir à… · Cela dit, …[/fr]"
+  ],
+  "regle": "Le débat français accepte l’interruption. Ne pas interrompre du tout peut même passer pour du désintérêt — mais il y a des formules pour le faire correctement.\n\n**Prendre la parole.**\n[fr]Si je peux me permettre… · Puis-je intervenir ? · Un mot, si vous permettez. · Justement ![/fr]\n[fr]Justement[/fr] est très utile : il signale que ce qu’on va dire répond exactement au point précédent.\n\n**Garder la parole quand on vous coupe.**\n[fr]Laissez-moi terminer, s’il vous plaît. · Un instant, j’y viens. · Je finis ma phrase et je vous écoute.[/fr]\n\n**Rendre la parole.**\n[fr]Qu’en pensez-vous ? · Je vous laisse réagir. · Vous vouliez dire quelque chose ?[/fr]\n\n**Recentrer le débat.**\n[fr]Pour en revenir à notre sujet… · Ce n’est pas la question. · Nous nous éloignons du sujet.[/fr]\n\n**Reformuler l’autre — l’arme la plus efficace.**\n[fr]Si je vous comprends bien, vous dites que… · Autrement dit, selon vous… · Vous voulez dire que… ?[/fr]\nReformuler prouve qu’on écoute et permet de corriger un malentendu avant qu’il ne dégénère.\n\n**Marquer un désaccord fort mais correct.**\n[fr]Là, je ne peux pas vous suivre. · C’est précisément ce que je conteste. · Permettez-moi d’en douter.[/fr]",
+  "exemples": [
+    {
+      "fr": "Si je peux me permettre, les chiffres disent autre chose.",
+      "en": "If I may, the figures say something else."
+    },
+    {
+      "fr": "Laissez-moi terminer, j’y viens.",
+      "en": "Let me finish, I’m getting to that."
+    },
+    {
+      "fr": "Si je vous comprends bien, vous dites que le coût est secondaire ?",
+      "en": "If I understand you correctly, you’re saying the cost is secondary?"
+    },
+    {
+      "fr": "Pour en revenir à notre sujet…",
+      "en": "To get back to our subject…"
+    },
+    {
+      "fr": "Permettez-moi d’en douter.",
+      "en": "Allow me to doubt that."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "La boîte à outils du débat",
+      "collapsed": false,
+      "headers": [
+        "Objectif",
+        "Formules"
+      ],
+      "rows": [
+        [
+          "prendre la parole",
+          "Si je peux me permettre… · Puis-je intervenir ? · Justement !"
+        ],
+        [
+          "garder la parole",
+          "Laissez-moi terminer. · J’y viens. · Un instant."
+        ],
+        [
+          "rendre la parole",
+          "Qu’en pensez-vous ? · Je vous laisse réagir."
+        ],
+        [
+          "reformuler",
+          "Si je vous comprends bien… · Autrement dit…"
+        ],
+        [
+          "recentrer",
+          "Pour en revenir à… · Ce n’est pas la question."
+        ],
+        [
+          "contester",
+          "Là, je ne peux pas vous suivre. · Permettez-moi d’en douter."
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "🗣️",
+    "title": "Interrompre n’est pas impoli",
+    "text": "Dans un débat télévisé français, les participants se coupent constamment la parole. Cela surprend les anglophones, qui y voient de l’agressivité. C’est en réalité un signe d’engagement — à condition que la contradiction porte sur les idées, jamais sur la personne."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle formule utiliser ?",
+      "items": [
+        {
+          "q": "On vous coupe la parole et vous voulez finir :",
+          "options": [
+            "Taisez-vous.",
+            "Laissez-moi terminer, s’il vous plaît.",
+            "Vous avez tort."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Vous voulez vérifier que vous avez bien compris :",
+          "options": [
+            "Si je vous comprends bien, vous dites que…",
+            "C’est faux.",
+            "Peu importe."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "La discussion dérive :",
+          "options": [
+            "Pour en revenir à notre sujet…",
+            "Justement !",
+            "Qu’en pensez-vous ?"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Justement ! » sert à…",
+          "options": [
+            "changer de sujet",
+            "montrer que ce qu’on va dire répond au point précédent",
+            "conclure"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe la formule à sa fonction.",
+      "labelLeft": "Formule",
+      "labelRight": "Fonction",
+      "pairs": [
+        [
+          "Si je peux me permettre…",
+          "prendre la parole"
+        ],
+        [
+          "J’y viens.",
+          "garder la parole"
+        ],
+        [
+          "Qu’en pensez-vous ?",
+          "rendre la parole"
+        ],
+        [
+          "Autrement dit…",
+          "reformuler"
+        ],
+        [
+          "Permettez-moi d’en douter.",
+          "contester"
+        ]
+      ]
+    }
+  ]
+}

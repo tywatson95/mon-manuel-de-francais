@@ -1,0 +1,178 @@
+{
+  "id": "pr-a2-demonstratifs-possessifs",
+  "group": "pronoms",
+  "level": "A2",
+  "order": 250,
+  "title": "Les pronoms démonstratifs et possessifs",
+  "summary": "Celui-ci, le mien : montrer et posséder sans répéter le nom.",
+  "essentiel": [
+    "**Démonstratifs** : [fr]celui, celle, ceux, celles[/fr] + [fr]-ci / -là[/fr] ou + [fr]de / qui / que[/fr].",
+    "**Possessifs** : [fr]le mien, le tien, le sien, le nôtre, le vôtre, le leur[/fr] — avec article.",
+    "Ils s’accordent avec **l’objet possédé**, pas avec le possesseur."
+  ],
+  "regle": "**Les démonstratifs.** Ils remplacent [fr]ce + nom[/fr]. Ils ne s’emploient jamais seuls : il leur faut une suite.\n\n- + [fr]-ci[/fr] / [fr]-là[/fr] pour opposer : [fr]Je prends celui-**ci**, pas celui-**là**.[/fr]\n- + [fr]de[/fr] pour la possession : [fr]C’est la voiture de Paul ou **celle de** Marie ?[/fr]\n- + [fr]qui / que[/fr] : [fr]**Ceux qui** veulent partir peuvent y aller.[/fr]\n\n**Les possessifs.** Ils remplacent [fr]mon / ton / son + nom[/fr] et gardent l’article.\n\n[fr]C’est ton manteau ? — Non, ce n’est pas **le mien**.[/fr]\n\nLe piège classique : l’accord se fait avec la **chose**, pas avec la personne.\n[fr]Marie a pris **son** livre → c’est **le sien**.[/fr]\n[fr]Paul a pris **sa** valise → c’est **la sienne**.[/fr]\n\n**Ne pas confondre** [fr]leur[/fr] (pronom COI, invariable) et [fr]le leur[/fr] (pronom possessif).",
+  "exemples": [
+    {
+      "fr": "Quelle veste ? Celle-ci ou celle-là ?",
+      "en": "Which jacket? This one or that one?"
+    },
+    {
+      "fr": "Mon vélo est cassé ; je prends celui de mon frère.",
+      "en": "My bike is broken; I’m taking my brother’s."
+    },
+    {
+      "fr": "Ceux qui n’ont pas de billet doivent attendre.",
+      "en": "Those who don’t have a ticket must wait."
+    },
+    {
+      "fr": "Ton appartement est plus grand que le mien.",
+      "en": "Your flat is bigger than mine."
+    },
+    {
+      "fr": "Nos enfants et les leurs vont à la même école.",
+      "en": "Our children and theirs go to the same school."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir les deux tableaux complets",
+      "collapsed": true,
+      "headers": [
+        "",
+        "masc. sing.",
+        "fém. sing.",
+        "masc. plur.",
+        "fém. plur."
+      ],
+      "rows": [
+        [
+          "démonstratif",
+          "celui",
+          "celle",
+          "ceux",
+          "celles"
+        ],
+        [
+          "à moi",
+          "le mien",
+          "la mienne",
+          "les miens",
+          "les miennes"
+        ],
+        [
+          "à toi",
+          "le tien",
+          "la tienne",
+          "les tiens",
+          "les tiennes"
+        ],
+        [
+          "à lui / elle",
+          "le sien",
+          "la sienne",
+          "les siens",
+          "les siennes"
+        ],
+        [
+          "à nous",
+          "le nôtre",
+          "la nôtre",
+          "les nôtres",
+          "les nôtres"
+        ],
+        [
+          "à vous",
+          "le vôtre",
+          "la vôtre",
+          "les vôtres",
+          "les vôtres"
+        ],
+        [
+          "à eux / elles",
+          "le leur",
+          "la leur",
+          "les leurs",
+          "les leurs"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Ma voiture est en panne, je prends ___ de ma sœur.",
+          "options": [
+            "celui",
+            "celle",
+            "ceux"
+          ],
+          "answer": 1,
+          "why": "[fr]voiture[/fr] est féminin singulier → [fr]celle[/fr]."
+        },
+        {
+          "q": "Tes chaussures sont plus belles que ___ .",
+          "options": [
+            "les miens",
+            "les miennes",
+            "la mienne"
+          ],
+          "answer": 1,
+          "why": "[fr]chaussures[/fr] est féminin pluriel."
+        },
+        {
+          "q": "___ qui arrivent en retard attendront dehors.",
+          "options": [
+            "Celui",
+            "Ceux",
+            "Celles-ci"
+          ],
+          "answer": 1,
+          "why": "Pluriel général → [fr]ceux[/fr]."
+        },
+        {
+          "q": "C’est votre sac ? — Oui, c’est ___ .",
+          "options": [
+            "le nôtre",
+            "les nôtres",
+            "la nôtre"
+          ],
+          "answer": 0,
+          "why": "[fr]sac[/fr] est masculin singulier."
+        },
+        {
+          "q": "Paul a oublié sa clé ; heureusement, j’ai ___ .",
+          "options": [
+            "la mienne",
+            "le mien",
+            "les miennes"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "Ce n’est pas mon manteau, c’est ",
+          "after": " . (à toi)",
+          "answer": "le tien"
+        },
+        {
+          "before": "Je préfère ce modèle-ci à ",
+          "after": " . (l’autre)",
+          "answer": "celui-là"
+        },
+        {
+          "before": "Nos résultats sont bons, mais ",
+          "after": " sont meilleurs. (à eux)",
+          "answer": "les leurs"
+        }
+      ]
+    }
+  ]
+}

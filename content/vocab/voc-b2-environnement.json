@@ -1,0 +1,248 @@
+{
+  "id": "voc-b2-environnement",
+  "title": "Environnement & climat",
+  "level": "B2",
+  "order": 530,
+  "summary": "Le vocabulaire du débat écologique.",
+  "items": [
+    {
+      "fr": "le réchauffement climatique",
+      "ipa": "ʁe.ʃof.mɑ̃",
+      "en": "global warming",
+      "ex": "Le réchauffement climatique s’accélère."
+    },
+    {
+      "fr": "une émission",
+      "ipa": "e.mi.sjɔ̃",
+      "en": "an emission",
+      "ex": "Réduire les émissions de CO₂."
+    },
+    {
+      "fr": "un gaz à effet de serre",
+      "ipa": "ɡaz",
+      "en": "a greenhouse gas",
+      "ex": "Les gaz à effet de serre s’accumulent."
+    },
+    {
+      "fr": "l’empreinte carbone",
+      "ipa": "ɑ̃.pʁɛ̃t",
+      "en": "carbon footprint",
+      "ex": "Calculer son empreinte carbone."
+    },
+    {
+      "fr": "la neutralité carbone",
+      "ipa": "nø.tʁa.li.te",
+      "en": "carbon neutrality",
+      "ex": "Viser la neutralité carbone."
+    },
+    {
+      "fr": "une énergie renouvelable",
+      "ipa": "ʁə.nu.və.labl",
+      "en": "renewable energy",
+      "ex": "Développer les énergies renouvelables."
+    },
+    {
+      "fr": "une énergie fossile",
+      "ipa": "fɔ.sil",
+      "en": "fossil fuel",
+      "ex": "Sortir des énergies fossiles."
+    },
+    {
+      "fr": "le nucléaire",
+      "ipa": "ny.kle.ɛʁ",
+      "en": "nuclear power",
+      "ex": "Le nucléaire divise l’opinion."
+    },
+    {
+      "fr": "une éolienne",
+      "ipa": "e.ɔ.ljɛn",
+      "en": "a wind turbine",
+      "ex": "Un parc d’éoliennes."
+    },
+    {
+      "fr": "un panneau solaire",
+      "ipa": "pa.no",
+      "en": "a solar panel",
+      "ex": "Des panneaux solaires sur le toit."
+    },
+    {
+      "fr": "la transition écologique",
+      "ipa": "tʁɑ̃.zi.sjɔ̃",
+      "en": "the green transition",
+      "ex": "Financer la transition écologique."
+    },
+    {
+      "fr": "la biodiversité",
+      "ipa": "bjo.di.vɛʁ.si.te",
+      "en": "biodiversity",
+      "ex": "L’effondrement de la biodiversité."
+    },
+    {
+      "fr": "un écosystème",
+      "ipa": "e.ko.sis.tɛm",
+      "en": "an ecosystem",
+      "ex": "Un écosystème fragile."
+    },
+    {
+      "fr": "une espèce menacée",
+      "ipa": "ɛs.pɛs",
+      "en": "an endangered species",
+      "ex": "Des espèces menacées d’extinction."
+    },
+    {
+      "fr": "la déforestation",
+      "ipa": "de.fɔ.ʁɛs.ta.sjɔ̃",
+      "en": "deforestation",
+      "ex": "La déforestation progresse."
+    },
+    {
+      "fr": "la pollution",
+      "ipa": "pɔ.ly.sjɔ̃",
+      "en": "pollution",
+      "ex": "La pollution de l’air tue."
+    },
+    {
+      "fr": "un polluant",
+      "ipa": "pɔ.lɥɑ̃",
+      "en": "a pollutant",
+      "ex": "Un polluant persistant."
+    },
+    {
+      "fr": "les déchets (m)",
+      "ipa": "de.ʃɛ",
+      "en": "waste",
+      "ex": "La gestion des déchets."
+    },
+    {
+      "fr": "le recyclage",
+      "ipa": "ʁə.si.klaʒ",
+      "en": "recycling",
+      "ex": "Le recyclage plafonne."
+    },
+    {
+      "fr": "l’économie circulaire",
+      "ipa": "siʁ.ky.lɛʁ",
+      "en": "circular economy",
+      "ex": "Passer à l’économie circulaire."
+    },
+    {
+      "fr": "le gaspillage alimentaire",
+      "ipa": "ɡas.pi.jaʒ",
+      "en": "food waste",
+      "ex": "Lutter contre le gaspillage alimentaire."
+    },
+    {
+      "fr": "la sobriété",
+      "ipa": "sɔ.bʁi.je.te",
+      "en": "frugality, moderation",
+      "ex": "La sobriété énergétique."
+    },
+    {
+      "fr": "durable",
+      "ipa": "dy.ʁabl",
+      "en": "sustainable",
+      "ex": "Un développement durable."
+    },
+    {
+      "fr": "un aléa climatique",
+      "ipa": "a.le.a",
+      "en": "an extreme weather event",
+      "ex": "Les aléas climatiques se multiplient."
+    },
+    {
+      "fr": "la montée des eaux",
+      "ipa": "mɔ̃.te",
+      "en": "rising sea levels",
+      "ex": "La montée des eaux menace les côtes."
+    },
+    {
+      "fr": "la fonte des glaces",
+      "ipa": "fɔ̃t",
+      "en": "ice melt",
+      "ex": "La fonte des glaces s’accélère."
+    },
+    {
+      "fr": "un accord climatique",
+      "ipa": "a.kɔʁ",
+      "en": "a climate agreement",
+      "ex": "L’accord de Paris."
+    },
+    {
+      "fr": "un objectif",
+      "ipa": "ɔb.ʒɛk.tif",
+      "en": "a target",
+      "ex": "Un objectif contraignant."
+    },
+    {
+      "fr": "une norme",
+      "ipa": "nɔʁm",
+      "en": "a standard",
+      "ex": "Des normes environnementales strictes."
+    },
+    {
+      "fr": "le greenwashing, l’écoblanchiment",
+      "ipa": "e.ko.blɑ̃.ʃi.mɑ̃",
+      "en": "greenwashing",
+      "ex": "Une campagne d’écoblanchiment."
+    },
+    {
+      "fr": "un militant écologiste",
+      "ipa": "mi.li.tɑ̃",
+      "en": "an environmental activist",
+      "ex": "Des militants écologistes bloquent le site."
+    },
+    {
+      "fr": "l’urgence climatique",
+      "ipa": "y.ʁʒɑ̃s",
+      "en": "climate emergency",
+      "ex": "Déclarer l’urgence climatique."
+    },
+    {
+      "fr": "s’adapter",
+      "ipa": "sa.dap.te",
+      "en": "to adapt",
+      "ex": "Les villes doivent s’adapter."
+    },
+    {
+      "fr": "atténuer",
+      "ipa": "a.te.nɥe",
+      "en": "to mitigate",
+      "ex": "Atténuer les effets du changement."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "« L’écoblanchiment » désigne…",
+          "options": [
+            "un vrai engagement écologique",
+            "une communication trompeuse sur l’écologie",
+            "le recyclage du papier"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« La sobriété énergétique » consiste à…",
+          "options": [
+            "produire plus d’énergie",
+            "réduire la consommation",
+            "changer de fournisseur"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Atténuer » le changement climatique, c’est…",
+          "options": [
+            "en limiter les causes",
+            "s’y adapter",
+            "le nier"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "na-a1-adjectifs",
+  "group": "noms-adjectifs",
+  "level": "A1",
+  "order": 150,
+  "title": "L’accord et la place de l’adjectif",
+  "summary": "L’adjectif s’accorde — et se place le plus souvent après le nom.",
+  "essentiel": [
+    "L’adjectif s’accorde en **genre** et en **nombre** : [fr]un petit chat / une petit**e** chatt**e**[/fr].",
+    "La place normale est **après** le nom : [fr]une voiture rouge[/fr].",
+    "Une courte liste passe **avant** — beauté, âge, nombre, qualité, taille : [fr]un **beau** jardin, une **vieille** maison, le **premier** jour, un **bon** café, une **grande** ville[/fr]."
+  ],
+  "regle": "**L’accord.** On ajoute [fr]-e[/fr] au féminin, [fr]-s[/fr] au pluriel, [fr]-es[/fr] aux deux.\n[fr]un livre intéressant · une histoire intéressante · des livres intéressants[/fr]\n\nSi l’adjectif finit déjà par [fr]-e[/fr], il ne change pas au féminin : [fr]un homme calme / une femme calme[/fr].\n\nQuelques féminins sont irréguliers : [fr]beau → belle[/fr], [fr]nouveau → nouvelle[/fr], [fr]vieux → vieille[/fr], [fr]blanc → blanche[/fr], [fr]heureux → heureuse[/fr], [fr]sportif → sportive[/fr].\n\n**La place.** Contrairement à l’anglais, l’adjectif français se place **après** le nom : [fr]une chemise **bleue**[/fr].\n\nMais un petit groupe très fréquent passe **avant**. On les retient par le sigle **BANGS** :\n- **B**eauté : [fr]beau, joli[/fr]\n- **A**ge : [fr]jeune, vieux, nouveau[/fr]\n- **N**ombre : [fr]premier, deuxième, dernier[/fr]\n- **G**oodness ((bon ou mauvais)) : [fr]bon, mauvais[/fr]\n- **S**ize : [fr]grand, petit, gros, long[/fr]\n\n**Devant un nom masculin commençant par une voyelle**, trois adjectifs changent de forme :\n[fr]beau → **bel** homme[/fr] · [fr]nouveau → **nouvel** an[/fr] · [fr]vieux → **vieil** ami[/fr]",
+  "exemples": [
+    {
+      "fr": "C’est une grande maison blanche.",
+      "en": "It’s a big white house."
+    },
+    {
+      "fr": "Il porte une belle chemise bleue.",
+      "en": "He is wearing a nice blue shirt."
+    },
+    {
+      "fr": "Ce sont de bons amis.",
+      "en": "They are good friends."
+    },
+    {
+      "fr": "J’ai rencontré un vieil ami.",
+      "en": "I met an old friend."
+    },
+    {
+      "fr": "Elle est très heureuse.",
+      "en": "She is very happy."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir les féminins irréguliers",
+      "collapsed": true,
+      "headers": [
+        "Masculin",
+        "Féminin",
+        "Terminaison"
+      ],
+      "rows": [
+        [
+          "grand",
+          "grande",
+          "+ e"
+        ],
+        [
+          "heureux",
+          "heureuse",
+          "-x → -se"
+        ],
+        [
+          "sportif",
+          "sportive",
+          "-f → -ve"
+        ],
+        [
+          "premier",
+          "première",
+          "-er → -ère"
+        ],
+        [
+          "bon",
+          "bonne",
+          "+ ne"
+        ],
+        [
+          "gentil",
+          "gentille",
+          "+ le"
+        ],
+        [
+          "beau",
+          "belle",
+          "irrégulier"
+        ],
+        [
+          "nouveau",
+          "nouvelle",
+          "irrégulier"
+        ],
+        [
+          "vieux",
+          "vieille",
+          "irrégulier"
+        ],
+        [
+          "blanc",
+          "blanche",
+          "irrégulier"
+        ],
+        [
+          "long",
+          "longue",
+          "irrégulier"
+        ],
+        [
+          "doux",
+          "douce",
+          "irrégulier"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Accorde l’adjectif.",
+      "items": [
+        {
+          "before": "une robe ",
+          "after": " (blanc)",
+          "answer": "blanche"
+        },
+        {
+          "before": "des filles ",
+          "after": " (heureux)",
+          "answer": "heureuses"
+        },
+        {
+          "before": "une ",
+          "after": " idée (bon)",
+          "answer": "bonne"
+        },
+        {
+          "before": "un ",
+          "after": " hôtel (beau)",
+          "answer": "bel",
+          "why": "Devant une voyelle : [fr]bel[/fr]."
+        },
+        {
+          "before": "des livres ",
+          "after": " (intéressant)",
+          "answer": "intéressants"
+        },
+        {
+          "before": "une ",
+          "after": " amie (vieux)",
+          "answer": "vieille"
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Mets l’adjectif à sa place.",
+      "items": [
+        {
+          "tokens": [
+            "une",
+            "voiture",
+            "rouge"
+          ],
+          "answer": "une voiture rouge",
+          "why": "Couleur → après le nom."
+        },
+        {
+          "tokens": [
+            "une",
+            "grande",
+            "maison"
+          ],
+          "answer": "une grande maison",
+          "why": "Taille → avant le nom (BANGS)."
+        },
+        {
+          "tokens": [
+            "un",
+            "bon",
+            "restaurant",
+            "italien"
+          ],
+          "answer": "un bon restaurant italien",
+          "why": "[fr]bon[/fr] avant, la nationalité après."
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Où placer l’adjectif ?",
+      "items": [
+        {
+          "q": "(petit) un ___ chien ___",
+          "options": [
+            "petit chien",
+            "chien petit",
+            "les deux"
+          ],
+          "answer": 0,
+          "why": "Taille → avant."
+        },
+        {
+          "q": "(français) un ___ film ___",
+          "options": [
+            "français film",
+            "film français",
+            "les deux"
+          ],
+          "answer": 1,
+          "why": "Nationalité → après."
+        },
+        {
+          "q": "(dernier) le ___ train ___",
+          "options": [
+            "dernier train",
+            "train dernier",
+            "les deux"
+          ],
+          "answer": 0,
+          "why": "Ordre/nombre → avant."
+        }
+      ]
+    }
+  ]
+}

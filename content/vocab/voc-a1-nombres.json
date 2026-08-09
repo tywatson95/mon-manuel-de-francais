@@ -1,0 +1,361 @@
+{
+  "id": "voc-a1-nombres",
+  "title": "Nombres, dates & heure",
+  "level": "A1",
+  "order": 120,
+  "summary": "Compter, donner une date, dire l’heure et le prix.",
+  "items": [
+    {
+      "fr": "un, une",
+      "ipa": "œ̃, yn",
+      "en": "one",
+      "ex": "J’ai une question."
+    },
+    {
+      "fr": "deux",
+      "ipa": "dø",
+      "en": "two",
+      "ex": "Deux cafés, s’il vous plaît."
+    },
+    {
+      "fr": "trois",
+      "ipa": "tʁwa",
+      "en": "three",
+      "ex": "Il est trois heures."
+    },
+    {
+      "fr": "quatre",
+      "ipa": "katʁ",
+      "en": "four",
+      "ex": "Une table pour quatre."
+    },
+    {
+      "fr": "cinq",
+      "ipa": "sɛ̃k",
+      "en": "five",
+      "ex": "Cinq euros, merci."
+    },
+    {
+      "fr": "six",
+      "ipa": "sis",
+      "en": "six",
+      "ex": "Le bus numéro six."
+    },
+    {
+      "fr": "sept",
+      "ipa": "sɛt",
+      "en": "seven",
+      "ex": "Sept jours par semaine."
+    },
+    {
+      "fr": "huit",
+      "ipa": "ɥit",
+      "en": "eight",
+      "ex": "Il part à huit heures."
+    },
+    {
+      "fr": "neuf",
+      "ipa": "nœf",
+      "en": "nine",
+      "ex": "Neuf heures du matin."
+    },
+    {
+      "fr": "dix",
+      "ipa": "dis",
+      "en": "ten",
+      "ex": "Dix minutes à pied."
+    },
+    {
+      "fr": "onze",
+      "ipa": "ɔ̃z",
+      "en": "eleven",
+      "ex": "Onze personnes attendent."
+    },
+    {
+      "fr": "douze",
+      "ipa": "duz",
+      "en": "twelve",
+      "ex": "Une douzaine, c’est douze."
+    },
+    {
+      "fr": "vingt",
+      "ipa": "vɛ̃",
+      "en": "twenty",
+      "ex": "Vingt ans déjà !"
+    },
+    {
+      "fr": "trente",
+      "ipa": "tʁɑ̃t",
+      "en": "thirty",
+      "ex": "Trente degrés au soleil."
+    },
+    {
+      "fr": "quarante",
+      "ipa": "ka.ʁɑ̃t",
+      "en": "forty",
+      "ex": "Quarante euros la nuit."
+    },
+    {
+      "fr": "cinquante",
+      "ipa": "sɛ̃.kɑ̃t",
+      "en": "fifty",
+      "ex": "Cinquante pour cent."
+    },
+    {
+      "fr": "soixante",
+      "ipa": "swa.sɑ̃t",
+      "en": "sixty",
+      "ex": "Soixante minutes."
+    },
+    {
+      "fr": "soixante-dix",
+      "ipa": "swa.sɑ̃t dis",
+      "en": "seventy",
+      "ex": "Soixante-dix euros."
+    },
+    {
+      "fr": "quatre-vingts",
+      "ipa": "ka.tʁə vɛ̃",
+      "en": "eighty",
+      "ex": "Quatre-vingts kilomètres."
+    },
+    {
+      "fr": "quatre-vingt-dix",
+      "ipa": "ka.tʁə vɛ̃ dis",
+      "en": "ninety",
+      "ex": "Quatre-vingt-dix ans."
+    },
+    {
+      "fr": "cent",
+      "ipa": "sɑ̃",
+      "en": "hundred",
+      "ex": "Cent euros exactement."
+    },
+    {
+      "fr": "mille",
+      "ipa": "mil",
+      "en": "thousand",
+      "ex": "Mille excuses !"
+    },
+    {
+      "fr": "premier, première",
+      "ipa": "pʁə.mje",
+      "en": "first",
+      "ex": "C’est le premier janvier."
+    },
+    {
+      "fr": "deuxième",
+      "ipa": "dø.zjɛm",
+      "en": "second",
+      "ex": "La deuxième rue à gauche."
+    },
+    {
+      "fr": "lundi",
+      "ipa": "lœ̃.di",
+      "en": "Monday",
+      "ex": "Je travaille lundi."
+    },
+    {
+      "fr": "mardi",
+      "ipa": "maʁ.di",
+      "en": "Tuesday",
+      "ex": "Mardi, c’est le marché."
+    },
+    {
+      "fr": "mercredi",
+      "ipa": "mɛʁ.kʁə.di",
+      "en": "Wednesday",
+      "ex": "Mercredi après-midi."
+    },
+    {
+      "fr": "jeudi",
+      "ipa": "ʒø.di",
+      "en": "Thursday",
+      "ex": "On se voit jeudi ?"
+    },
+    {
+      "fr": "vendredi",
+      "ipa": "vɑ̃.dʁə.di",
+      "en": "Friday",
+      "ex": "Vendredi soir, enfin !"
+    },
+    {
+      "fr": "samedi",
+      "ipa": "sam.di",
+      "en": "Saturday",
+      "ex": "Samedi, je fais la grasse matinée."
+    },
+    {
+      "fr": "dimanche",
+      "ipa": "di.mɑ̃ʃ",
+      "en": "Sunday",
+      "ex": "Les magasins ferment le dimanche."
+    },
+    {
+      "fr": "janvier",
+      "ipa": "ʒɑ̃.vje",
+      "en": "January",
+      "ex": "Les soldes commencent en janvier."
+    },
+    {
+      "fr": "février",
+      "ipa": "fe.vʁi.je",
+      "en": "February",
+      "ex": "Février est le mois le plus court."
+    },
+    {
+      "fr": "mars",
+      "ipa": "maʁs",
+      "en": "March",
+      "ex": "Le printemps commence en mars."
+    },
+    {
+      "fr": "juillet",
+      "ipa": "ʒɥi.jɛ",
+      "en": "July",
+      "ex": "Le 14 juillet est la fête nationale."
+    },
+    {
+      "fr": "août",
+      "ipa": "ut",
+      "en": "August",
+      "ex": "En août, Paris est vide."
+    },
+    {
+      "fr": "décembre",
+      "ipa": "de.sɑ̃bʁ",
+      "en": "December",
+      "ex": "Noël, c’est le 25 décembre."
+    },
+    {
+      "fr": "une heure",
+      "ipa": "œ̃.nœʁ",
+      "en": "an hour, one o’clock",
+      "ex": "Il est une heure et demie."
+    },
+    {
+      "fr": "une minute",
+      "ipa": "mi.nyt",
+      "en": "a minute",
+      "ex": "Attendez une minute."
+    },
+    {
+      "fr": "et quart",
+      "ipa": "e kaʁ",
+      "en": "quarter past",
+      "ex": "Il est huit heures et quart."
+    },
+    {
+      "fr": "et demie",
+      "ipa": "e də.mi",
+      "en": "half past",
+      "ex": "Rendez-vous à midi et demie."
+    },
+    {
+      "fr": "moins le quart",
+      "ipa": "mwɛ̃ lə kaʁ",
+      "en": "quarter to",
+      "ex": "Il est dix heures moins le quart."
+    },
+    {
+      "fr": "midi",
+      "ipa": "mi.di",
+      "en": "midday",
+      "ex": "On déjeune à midi."
+    },
+    {
+      "fr": "minuit",
+      "ipa": "mi.nɥi",
+      "en": "midnight",
+      "ex": "Le train de minuit."
+    },
+    {
+      "fr": "aujourd’hui",
+      "ipa": "o.ʒuʁ.dɥi",
+      "en": "today",
+      "ex": "Aujourd’hui il fait beau."
+    },
+    {
+      "fr": "demain",
+      "ipa": "də.mɛ̃",
+      "en": "tomorrow",
+      "ex": "À demain !"
+    },
+    {
+      "fr": "hier",
+      "ipa": "jɛʁ",
+      "en": "yesterday",
+      "ex": "Hier, j’étais malade."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "70 se dit…",
+          "options": [
+            "septante",
+            "soixante-dix",
+            "sept-dix"
+          ],
+          "answer": 1,
+          "why": "En France, on dit [fr]soixante-dix[/fr] ; [fr]septante[/fr] s’emploie en Belgique et en Suisse."
+        },
+        {
+          "q": "« Il est 10 h 45 » se dit…",
+          "options": [
+            "dix heures quarante-cinq",
+            "onze heures moins le quart",
+            "les deux"
+          ],
+          "answer": 2,
+          "why": "Les deux formes sont correctes et courantes."
+        },
+        {
+          "q": "Le premier jour de la semaine en France est…",
+          "options": [
+            "dimanche",
+            "lundi",
+            "samedi"
+          ],
+          "answer": 1,
+          "why": "Les calendriers français commencent le lundi."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le chiffre au mot.",
+      "labelLeft": "Français",
+      "labelRight": "Chiffre",
+      "pairs": [
+        [
+          "quatre-vingts",
+          "80"
+        ],
+        [
+          "soixante-dix",
+          "70"
+        ],
+        [
+          "quatre-vingt-dix",
+          "90"
+        ],
+        [
+          "cinquante",
+          "50"
+        ],
+        [
+          "quinze",
+          "15"
+        ],
+        [
+          "cent",
+          "100"
+        ]
+      ]
+    }
+  ]
+}

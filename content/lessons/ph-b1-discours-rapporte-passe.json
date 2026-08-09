@@ -1,0 +1,147 @@
+{
+  "id": "ph-b1-discours-rapporte-passe",
+  "group": "phrase",
+  "level": "B1",
+  "order": 350,
+  "title": "Le discours rapporté au passé",
+  "summary": "Quand le verbe introducteur recule, tout recule avec lui.",
+  "essentiel": [
+    "Présent → **imparfait** · passé composé → **plus-que-parfait** · futur → **conditionnel**.",
+    "Les repères de temps changent : [fr]demain → **le lendemain**[/fr], [fr]hier → **la veille**[/fr].",
+    "Les mots de liaison ([fr]que, si, ce que[/fr]) restent les mêmes qu’au présent."
+  ],
+  "regle": "Quand on rapporte des paroles avec un verbe introducteur au passé ([fr]il a dit, elle a demandé, j’ai expliqué[/fr]), les temps reculent d’un cran.\n\n[fr]« Je **suis** fatigué. » → Il a dit qu’il **était** fatigué.[/fr]\n[fr]« J’**ai fini**. » → Il a dit qu’il **avait fini**.[/fr]\n[fr]« Je **viendrai**. » → Il a dit qu’il **viendrait**.[/fr]\n\n**Ce qui ne recule pas :** l’imparfait, le plus-que-parfait, le conditionnel — ils sont déjà au fond.\n\n**Les repères temporels se décalent aussi.** C’est le détail que l’on oublie le plus souvent.\n[fr]aujourd’hui → ce jour-là · hier → la veille · demain → le lendemain · la semaine prochaine → la semaine suivante · maintenant → à ce moment-là · ici → là[/fr]\n\n[fr]« Je pars **demain**. » → Il a dit qu’il partait **le lendemain**.[/fr]\n\n**Les verbes introducteurs sont plus riches que [fr]dire[/fr].** À B1, il faut varier : [fr]affirmer, expliquer, ajouter, répondre, annoncer, avouer, prétendre, promettre, suggérer, reprocher[/fr].",
+  "exemples": [
+    {
+      "fr": "Elle a expliqué qu’elle ne pouvait pas venir.",
+      "en": "She explained that she couldn’t come."
+    },
+    {
+      "fr": "Il m’a promis qu’il me rappellerait le lendemain.",
+      "en": "He promised me he would call me back the next day."
+    },
+    {
+      "fr": "Ils ont annoncé qu’ils avaient trouvé une solution.",
+      "en": "They announced that they had found a solution."
+    },
+    {
+      "fr": "Je lui ai demandé s’il avait besoin d’aide.",
+      "en": "I asked him whether he needed help."
+    },
+    {
+      "fr": "Le médecin a conseillé de se reposer.",
+      "en": "The doctor advised resting."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le décalage complet",
+      "collapsed": false,
+      "headers": [
+        "Direct",
+        "Rapporté au passé"
+      ],
+      "rows": [
+        [
+          "présent",
+          "imparfait"
+        ],
+        [
+          "passé composé",
+          "plus-que-parfait"
+        ],
+        [
+          "futur simple",
+          "conditionnel présent"
+        ],
+        [
+          "futur proche",
+          "allait + infinitif"
+        ],
+        [
+          "imparfait",
+          "imparfait *(inchangé)*"
+        ],
+        [
+          "demain",
+          "le lendemain"
+        ],
+        [
+          "hier",
+          "la veille"
+        ],
+        [
+          "maintenant",
+          "à ce moment-là"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Rapporte la phrase au passé.",
+      "items": [
+        {
+          "before": "« Je suis malade. » → Il a dit qu’il ",
+          "after": " malade.",
+          "answer": "était"
+        },
+        {
+          "before": "« J’ai tout compris. » → Elle a dit qu’elle ",
+          "after": " tout compris.",
+          "answer": "avait"
+        },
+        {
+          "before": "« Je viendrai demain. » → Il a dit qu’il ",
+          "after": " le lendemain.",
+          "answer": "viendrait"
+        },
+        {
+          "before": "« Tu es prêt ? » → Il m’a demandé si j’",
+          "after": " prêt.",
+          "answer": "étais"
+        },
+        {
+          "before": "« Ne bougez pas ! » → Il nous a dit ",
+          "after": " pas bouger.",
+          "answer": "de ne"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la transformation correcte.",
+      "items": [
+        {
+          "q": "« Je pars demain. » (rapporté au passé)",
+          "options": [
+            "Il a dit qu’il part demain.",
+            "Il a dit qu’il partait le lendemain.",
+            "Il a dit qu’il partira demain."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« J’étais fatigué. » (rapporté au passé)",
+          "options": [
+            "Il a dit qu’il était fatigué.",
+            "Il a dit qu’il avait été fatigué.",
+            "Il a dit qu’il serait fatigué."
+          ],
+          "answer": 0,
+          "why": "L’imparfait ne recule pas."
+        },
+        {
+          "q": "« Qu’est-ce que tu fais ? » (rapporté)",
+          "options": [
+            "Il m’a demandé qu’est-ce que je faisais.",
+            "Il m’a demandé ce que je faisais.",
+            "Il m’a demandé que je faisais."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

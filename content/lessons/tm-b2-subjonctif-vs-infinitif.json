@@ -1,0 +1,171 @@
+{
+  "id": "tm-b2-subjonctif-vs-infinitif",
+  "group": "temps-modes",
+  "level": "B2",
+  "order": 450,
+  "title": "Subjonctif ou infinitif ?",
+  "summary": "Même sujet : infinitif. Sujet différent : subjonctif.",
+  "essentiel": [
+    "Un seul test : **le sujet change-t-il ?**",
+    "Même sujet → **infinitif** : [fr]Je veux **partir**.[/fr]",
+    "Sujet différent → **subjonctif** : [fr]Je veux que tu **partes**.[/fr]"
+  ],
+  "regle": "Le français évite le subjonctif quand il peut. S’il n’y a qu’un seul sujet, on passe à l’infinitif — c’est plus léger et plus naturel.\n\n[fr]Je suis content de **partir**.[/fr] ((I’m glad to leave — I leave))\n[fr]Je suis content que tu **partes**.[/fr] ((I’m glad you’re leaving — you leave))\n\nAttention : la préposition change souvent avec la construction.\n\n**Les conjonctions et leurs équivalents infinitifs.**\n[fr]pour que → pour[/fr] · [fr]afin que → afin de[/fr] · [fr]avant que → avant de[/fr]\n[fr]à condition que → à condition de[/fr] · [fr]à moins que → à moins de[/fr]\n[fr]sans que → sans[/fr] · [fr]de peur que → de peur de[/fr]\n\n[fr]Je t’écris **pour que** tu **comprennes**.[/fr] → deux sujets\n[fr]Je t’écris **pour** t’**expliquer**.[/fr] → un seul sujet\n\n**Le cas de [fr]après que[/fr].** Il n’a pas d’équivalent infinitif au présent : on utilise l’**infinitif passé**.\n[fr]**Après avoir** mangé, il est sorti.[/fr] · [fr]**Après être** arrivée, elle a appelé.[/fr]",
+  "exemples": [
+    {
+      "fr": "Je préfère rester ici.",
+      "en": "I’d rather stay here."
+    },
+    {
+      "fr": "Je préfère que tu restes ici.",
+      "en": "I’d rather you stayed here."
+    },
+    {
+      "fr": "Il est parti sans dire au revoir.",
+      "en": "He left without saying goodbye."
+    },
+    {
+      "fr": "Il est parti sans que personne ne s’en aperçoive.",
+      "en": "He left without anyone noticing."
+    },
+    {
+      "fr": "Après avoir terminé, appelle-moi.",
+      "en": "After finishing, call me."
+    },
+    {
+      "fr": "Nous travaillons afin d’améliorer le service.",
+      "en": "We are working in order to improve the service."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les paires à connaître",
+      "collapsed": false,
+      "headers": [
+        "Deux sujets → subjonctif",
+        "Un sujet → infinitif"
+      ],
+      "rows": [
+        [
+          "pour que tu comprennes",
+          "pour comprendre"
+        ],
+        [
+          "avant qu’il parte",
+          "avant de partir"
+        ],
+        [
+          "sans qu’elle le sache",
+          "sans le savoir"
+        ],
+        [
+          "à condition que vous veniez",
+          "à condition de venir"
+        ],
+        [
+          "bien qu’il soit fatigué",
+          "malgré sa fatigue *(pas d’infinitif)*"
+        ],
+        [
+          "après qu’il est parti",
+          "après être parti"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Subjonctif ou infinitif ?",
+      "items": [
+        {
+          "q": "Je suis heureux de ___ ici.",
+          "options": [
+            "être",
+            "sois",
+            "que je sois"
+          ],
+          "answer": 0,
+          "why": "Même sujet → infinitif."
+        },
+        {
+          "q": "Je suis heureux que tu ___ ici.",
+          "options": [
+            "être",
+            "sois",
+            "es"
+          ],
+          "answer": 1,
+          "why": "Sujet différent → subjonctif."
+        },
+        {
+          "q": "Téléphone-moi avant de ___ .",
+          "options": [
+            "partir",
+            "partes",
+            "tu pars"
+          ],
+          "answer": 0,
+          "why": "Même sujet → [fr]avant de[/fr] + infinitif."
+        },
+        {
+          "q": "Téléphone-moi avant qu’il ne ___ .",
+          "options": [
+            "part",
+            "parte",
+            "partir"
+          ],
+          "answer": 1,
+          "why": "Sujet différent → [fr]avant que[/fr] + subjonctif."
+        },
+        {
+          "q": "Il a réussi sans ___ d’aide.",
+          "options": [
+            "demander",
+            "qu’il demande",
+            "demande"
+          ],
+          "answer": 0,
+          "why": "Même sujet → [fr]sans[/fr] + infinitif."
+        },
+        {
+          "q": "___ mangé, ils sont sortis.",
+          "options": [
+            "Après avoir",
+            "Après qu’ils ont",
+            "Après être"
+          ],
+          "answer": 0,
+          "why": "[fr]manger[/fr] prend [fr]avoir[/fr] → [fr]après avoir mangé[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec la bonne construction.",
+      "items": [
+        {
+          "before": "Je travaille beaucoup ",
+          "after": " réussir. (pour)",
+          "answer": "pour",
+          "why": "Un seul sujet → [fr]pour[/fr] + infinitif."
+        },
+        {
+          "before": "J’explique tout ",
+          "after": " vous compreniez. (pour que)",
+          "answer": "pour que"
+        },
+        {
+          "before": "Il est sorti ",
+          "after": " avoir fermé la porte. (après)",
+          "answer": "après"
+        },
+        {
+          "before": "Nous viendrons à condition ",
+          "after": " avoir le temps. (de)",
+          "answer": "d’"
+        }
+      ]
+    }
+  ]
+}

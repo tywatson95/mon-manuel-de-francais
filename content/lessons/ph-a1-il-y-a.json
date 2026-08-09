@@ -1,0 +1,107 @@
+{
+  "id": "ph-a1-il-y-a",
+  "group": "phrase",
+  "level": "A1",
+  "order": 150,
+  "title": "Il y a",
+  "summary": "Une seule forme pour dire « there is » et « there are ».",
+  "essentiel": [
+    "[fr]il y a[/fr] est **invariable** : singulier et pluriel.",
+    "Négation : [fr]il n’y a **pas de**…[/fr]",
+    "[fr]il y a[/fr] + durée = *ago* : [fr]il y a deux ans[/fr]."
+  ],
+  "regle": "[fr]Il y a[/fr] annonce l’existence de quelque chose. Contrairement à l’anglais, la forme ne change **jamais**.\n\n[fr]**Il y a** un problème. · **Il y a** trois problèmes.[/fr]\n\n**Question** : [fr]**Est-ce qu’il y a**…? · **Y a-t-il**…?[/fr]\n**Négation** : [fr]**Il n’y a pas de**…[/fr] — l’article devient [fr]de[/fr].\n\n**Les autres temps** existent : [fr]il y avait[/fr] ((there was)), [fr]il y aura[/fr] ((there will be)), [fr]il y a eu[/fr] ((there has been)).\n\n**Le double sens.** Suivi d’une durée, [fr]il y a[/fr] signifie *ago* :\n[fr]Je suis arrivé **il y a** trois jours.[/fr] ((three days ago))\nNe pas confondre avec [fr]depuis[/fr] ((for/since)) : [fr]Je suis ici **depuis** trois jours.[/fr]\n\n**Attention à l’oral.** [fr]il y a[/fr] se prononce souvent {{ja}} : [fr]Y a un problème.[/fr]",
+  "exemples": [
+    {
+      "fr": "Il y a beaucoup de monde dans le métro.",
+      "en": "There are a lot of people on the metro."
+    },
+    {
+      "fr": "Il n’y a pas de place, désolé.",
+      "en": "There’s no room, sorry."
+    },
+    {
+      "fr": "Est-ce qu’il y a une pharmacie près d’ici ?",
+      "en": "Is there a chemist near here?"
+    },
+    {
+      "fr": "Il y avait un grand marché sur la place.",
+      "en": "There was a big market on the square."
+    },
+    {
+      "fr": "Nous avons déménagé il y a six mois.",
+      "en": "We moved six months ago."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la phrase correcte.",
+      "items": [
+        {
+          "q": "Comment dire « There are three books » ?",
+          "options": [
+            "Il y a trois livres.",
+            "Ils y ont trois livres.",
+            "Il y sont trois livres."
+          ],
+          "answer": 0,
+          "why": "[fr]il y a[/fr] est invariable."
+        },
+        {
+          "q": "« Il n’y a pas ___ pain. »",
+          "options": [
+            "du",
+            "de",
+            "le"
+          ],
+          "answer": 1,
+          "why": "Négation → [fr]de[/fr]."
+        },
+        {
+          "q": "« Je l’ai vu il y a deux jours » signifie…",
+          "options": [
+            "dans deux jours",
+            "depuis deux jours",
+            "deux jours plus tôt"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "« J’habite ici ___ 2019. »",
+          "options": [
+            "il y a",
+            "depuis",
+            "pendant"
+          ],
+          "answer": 1,
+          "why": "[fr]depuis[/fr] pour un point de départ qui continue."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec « il y a » ou « depuis ».",
+      "items": [
+        {
+          "before": "Je travaille dans cette entreprise ",
+          "after": " cinq ans.",
+          "answer": "depuis"
+        },
+        {
+          "before": "Elle est partie ",
+          "after": " une heure.",
+          "answer": "il y a"
+        },
+        {
+          "before": "",
+          "after": " un problème avec ma réservation.",
+          "answer": "Il y a",
+          "alt": [
+            "il y a"
+          ]
+        }
+      ]
+    }
+  ]
+}

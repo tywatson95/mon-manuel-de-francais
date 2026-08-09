@@ -1,0 +1,252 @@
+{
+  "id": "voc-b2-politique",
+  "title": "Politique & institutions",
+  "level": "B2",
+  "order": 510,
+  "summary": "Les mots de la vie publique française.",
+  "items": [
+    {
+      "fr": "la République",
+      "ipa": "ʁe.py.blik",
+      "en": "the Republic",
+      "ex": "La Ve République date de 1958."
+    },
+    {
+      "fr": "la Constitution",
+      "ipa": "kɔ̃s.ti.ty.sjɔ̃",
+      "en": "the Constitution",
+      "ex": "La Constitution garantit ces droits."
+    },
+    {
+      "fr": "le président de la République",
+      "ipa": "pʁe.zi.dɑ̃",
+      "en": "the President",
+      "ex": "Le président nomme le Premier ministre."
+    },
+    {
+      "fr": "le Premier ministre",
+      "ipa": "pʁə.mje",
+      "en": "the Prime Minister",
+      "ex": "Le Premier ministre dirige le gouvernement."
+    },
+    {
+      "fr": "le gouvernement",
+      "ipa": "ɡu.vɛʁ.nə.mɑ̃",
+      "en": "the government",
+      "ex": "Le gouvernement a été remanié."
+    },
+    {
+      "fr": "l’Assemblée nationale",
+      "ipa": "a.sɑ̃.ble",
+      "en": "the National Assembly",
+      "ex": "L’Assemblée a voté le texte."
+    },
+    {
+      "fr": "le Sénat",
+      "ipa": "se.na",
+      "en": "the Senate",
+      "ex": "Le Sénat a modifié la loi."
+    },
+    {
+      "fr": "un(e) député(e)",
+      "ipa": "de.py.te",
+      "en": "an MP",
+      "ex": "Les députés siègent au Palais-Bourbon."
+    },
+    {
+      "fr": "un(e) sénateur(trice)",
+      "ipa": "se.na.tœʁ",
+      "en": "a senator",
+      "ex": "Une sénatrice de la Gironde."
+    },
+    {
+      "fr": "un mandat",
+      "ipa": "mɑ̃.da",
+      "en": "a term of office",
+      "ex": "Un mandat de cinq ans."
+    },
+    {
+      "fr": "un scrutin",
+      "ipa": "skʁy.tɛ̃",
+      "en": "a ballot",
+      "ex": "Un scrutin à deux tours."
+    },
+    {
+      "fr": "le suffrage universel",
+      "ipa": "sy.fʁaʒ",
+      "en": "universal suffrage",
+      "ex": "Élu au suffrage universel."
+    },
+    {
+      "fr": "une abstention",
+      "ipa": "ap.stɑ̃.sjɔ̃",
+      "en": "abstention",
+      "ex": "Une forte abstention."
+    },
+    {
+      "fr": "un(e) électeur(trice)",
+      "ipa": "e.lɛk.tœʁ",
+      "en": "a voter",
+      "ex": "Les électeurs se sont mobilisés."
+    },
+    {
+      "fr": "une circonscription",
+      "ipa": "siʁ.kɔ̃s.kʁip.sjɔ̃",
+      "en": "a constituency",
+      "ex": "Une circonscription rurale."
+    },
+    {
+      "fr": "un parti politique",
+      "ipa": "paʁ.ti",
+      "en": "a political party",
+      "ex": "Un parti d’opposition."
+    },
+    {
+      "fr": "la majorité",
+      "ipa": "ma.ʒɔ.ʁi.te",
+      "en": "the majority",
+      "ex": "La majorité présidentielle."
+    },
+    {
+      "fr": "l’opposition (f)",
+      "ipa": "ɔ.po.zi.sjɔ̃",
+      "en": "the opposition",
+      "ex": "L’opposition dénonce le texte."
+    },
+    {
+      "fr": "un projet de loi",
+      "ipa": "pʁɔ.ʒɛ də lwa",
+      "en": "a government bill",
+      "ex": "Un projet de loi controversé."
+    },
+    {
+      "fr": "une proposition de loi",
+      "ipa": "pʁɔ.po.zi.sjɔ̃",
+      "en": "a private member’s bill",
+      "ex": "Une proposition de loi transpartisane."
+    },
+    {
+      "fr": "un décret",
+      "ipa": "de.kʁɛ",
+      "en": "a decree",
+      "ex": "Un décret d’application."
+    },
+    {
+      "fr": "un amendement",
+      "ipa": "a.mɑ̃d.mɑ̃",
+      "en": "an amendment",
+      "ex": "Des centaines d’amendements."
+    },
+    {
+      "fr": "promulguer",
+      "ipa": "pʁɔ.myl.ɡe",
+      "en": "to enact",
+      "ex": "La loi a été promulguée."
+    },
+    {
+      "fr": "une motion de censure",
+      "ipa": "mo.sjɔ̃",
+      "en": "a no-confidence motion",
+      "ex": "La motion de censure a échoué."
+    },
+    {
+      "fr": "la décentralisation",
+      "ipa": "de.sɑ̃.tʁa.li.za.sjɔ̃",
+      "en": "devolution",
+      "ex": "La décentralisation se poursuit."
+    },
+    {
+      "fr": "une collectivité territoriale",
+      "ipa": "kɔ.lɛk.ti.vi.te",
+      "en": "a local authority",
+      "ex": "Les collectivités territoriales gèrent les lycées."
+    },
+    {
+      "fr": "une région",
+      "ipa": "ʁe.ʒjɔ̃",
+      "en": "a region",
+      "ex": "La région finance les transports."
+    },
+    {
+      "fr": "un département",
+      "ipa": "de.paʁ.tə.mɑ̃",
+      "en": "a department",
+      "ex": "Il y a 101 départements."
+    },
+    {
+      "fr": "un(e) élu(e)",
+      "ipa": "e.ly",
+      "en": "an elected official",
+      "ex": "Les élus locaux protestent."
+    },
+    {
+      "fr": "la souveraineté",
+      "ipa": "su.vʁɛn.te",
+      "en": "sovereignty",
+      "ex": "La souveraineté nationale."
+    },
+    {
+      "fr": "un référendum",
+      "ipa": "ʁe.fe.ʁɛ̃.dɔm",
+      "en": "a referendum",
+      "ex": "Un référendum est envisagé."
+    },
+    {
+      "fr": "l’Union européenne",
+      "ipa": "y.njɔ̃",
+      "en": "the European Union",
+      "ex": "La France est membre de l’Union européenne."
+    },
+    {
+      "fr": "un traité",
+      "ipa": "tʁɛ.te",
+      "en": "a treaty",
+      "ex": "Le traité a été ratifié."
+    },
+    {
+      "fr": "une réforme",
+      "ipa": "ʁe.fɔʁm",
+      "en": "a reform",
+      "ex": "Une réforme impopulaire."
+    },
+    {
+      "fr": "un remaniement",
+      "ipa": "ʁə.ma.ni.mɑ̃",
+      "en": "a reshuffle",
+      "ex": "Un remaniement ministériel."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Vrai ou faux ?",
+      "items": [
+        {
+          "q": "L’Assemblée nationale et le Sénat forment le Parlement.",
+          "options": [
+            "vrai",
+            "faux"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Un « projet de loi » vient des députés.",
+          "options": [
+            "vrai",
+            "faux"
+          ],
+          "answer": 1,
+          "why": "Un [fr]projet[/fr] vient du gouvernement ; une [fr]proposition[/fr] vient des parlementaires."
+        },
+        {
+          "q": "Le président nomme le Premier ministre.",
+          "options": [
+            "vrai",
+            "faux"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

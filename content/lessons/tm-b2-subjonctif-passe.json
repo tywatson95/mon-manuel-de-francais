@@ -1,0 +1,135 @@
+{
+  "id": "tm-b2-subjonctif-passe",
+  "group": "temps-modes",
+  "level": "B2",
+  "order": 410,
+  "title": "Le subjonctif passé",
+  "summary": "Le subjonctif quand l’action est déjà accomplie.",
+  "essentiel": [
+    "Auxiliaire au **subjonctif présent** + participe passé : [fr]que j’**aie** fait[/fr], [fr]que je **sois** venu[/fr].",
+    "Il s’emploie quand l’action de la subordonnée est **antérieure** à celle de la principale.",
+    "Même déclencheurs que le subjonctif présent — seul le rapport temporel change."
+  ],
+  "regle": "Le subjonctif présent et le subjonctif passé ne s’opposent pas comme *présent* et *passé*, mais comme *simultané* et *antérieur*.\n\n[fr]Je suis content que tu **viennes**.[/fr] → tu viens maintenant ou plus tard\n[fr]Je suis content que tu **sois venu**.[/fr] → tu es déjà venu\n\nLe déclencheur ne change pas : ce sont toujours la volonté, la nécessité, le sentiment, le doute.\n\n[fr]Bien qu’il **ait plu** toute la nuit, la route est sèche.[/fr]\n[fr]Je doute qu’elle **ait compris**.[/fr]\n[fr]Il est possible qu’ils **soient partis** sans nous.[/fr]\n\n**Avec [fr]avant que[/fr] et [fr]après que[/fr].** [fr]avant que[/fr] demande le subjonctif ; [fr]après que[/fr] demande en principe l’indicatif, même si l’usage courant l’ignore souvent.\n[fr]Avant qu’il **ne soit** trop tard…[/fr] · [fr]Après qu’il **est** parti…[/fr]",
+  "exemples": [
+    {
+      "fr": "Je regrette qu’elle n’ait pas pu venir.",
+      "en": "I’m sorry she wasn’t able to come."
+    },
+    {
+      "fr": "Bien que nous ayons prévenu, personne n’a réagi.",
+      "en": "Although we warned them, nobody reacted."
+    },
+    {
+      "fr": "Il est possible que le colis soit déjà arrivé.",
+      "en": "The parcel may have already arrived."
+    },
+    {
+      "fr": "C’est le meilleur discours que j’aie jamais entendu.",
+      "en": "It’s the best speech I have ever heard."
+    },
+    {
+      "fr": "Je ne crois pas qu’ils se soient rendu compte du problème.",
+      "en": "I don’t think they realised the problem."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Présent ou passé ?",
+      "collapsed": false,
+      "headers": [
+        "Rapport de temps",
+        "Subjonctif",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "en même temps ou après",
+          "présent",
+          "Je veux qu’il **parte**."
+        ],
+        [
+          "avant",
+          "passé",
+          "Je regrette qu’il **soit parti**."
+        ],
+        [
+          "bilan accompli",
+          "passé",
+          "Bien qu’il **ait travaillé**, il a échoué."
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Subjonctif présent ou passé ?",
+      "items": [
+        {
+          "before": "Je suis heureux que tu ",
+          "after": " hier. (venir)",
+          "answer": "sois venu",
+          "why": "L’action est antérieure → subjonctif passé."
+        },
+        {
+          "before": "Il faut que tu ",
+          "after": " demain. (venir)",
+          "answer": "viennes",
+          "why": "Action à venir → subjonctif présent."
+        },
+        {
+          "before": "Bien qu’elle ",
+          "after": " beaucoup, elle a échoué. (réviser)",
+          "answer": "ait révisé"
+        },
+        {
+          "before": "Je doute qu’ils ",
+          "after": " la vérité. (dire)",
+          "answer": "aient dit"
+        },
+        {
+          "before": "C’est dommage que vous ne ",
+          "after": " pas rester plus longtemps. (pouvoir)",
+          "answer": "puissiez"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Je suis surpris qu’il ___ si vite.",
+          "options": [
+            "réagisse",
+            "ait réagi",
+            "réagira"
+          ],
+          "answer": 1,
+          "why": "La réaction a déjà eu lieu → subjonctif passé."
+        },
+        {
+          "q": "Avant qu’il ne ___ trop tard, agissons.",
+          "options": [
+            "est",
+            "soit",
+            "sera"
+          ],
+          "answer": 1,
+          "why": "[fr]avant que[/fr] → subjonctif."
+        },
+        {
+          "q": "C’est le plus beau film que j’___ vu.",
+          "options": [
+            "ai",
+            "aie",
+            "aurai"
+          ],
+          "answer": 1,
+          "why": "Après un superlatif, le subjonctif est de règle."
+        }
+      ]
+    }
+  ]
+}

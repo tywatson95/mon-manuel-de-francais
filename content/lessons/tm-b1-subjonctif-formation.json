@@ -1,0 +1,239 @@
+{
+  "id": "tm-b1-subjonctif-formation",
+  "group": "temps-modes",
+  "level": "B1",
+  "order": 310,
+  "title": "Le subjonctif présent : la formation",
+  "summary": "Une méthode, deux radicaux, sept irréguliers. Rien de plus.",
+  "essentiel": [
+    "Radical de la 3e personne du pluriel + **-e, -es, -e, -ions, -iez, -ent**.",
+    "Pour [fr]nous[/fr] et [fr]vous[/fr], on reprend souvent les formes de l’imparfait : [fr]que nous prenions[/fr].",
+    "Sept verbes sont irréguliers ; ce sont ceux qu’on emploie le plus."
+  ],
+  "regle": "Le subjonctif fait peur, mais sa formation est mécanique.\n\n**Étape 1** — prends la forme [fr]ils[/fr] du présent et enlève [fr]-ent[/fr].\n[fr]ils finiss**ent**[/fr] → radical [fr]finiss-[/fr]\n\n**Étape 2** — ajoute les terminaisons [fr]-e, -es, -e, -ions, -iez, -ent[/fr].\n[fr]que je finisse, que tu finisses, qu’il finisse, que nous finissions, que vous finissiez, qu’ils finissent[/fr]\n\n**Le cas des deux radicaux.** Les verbes qui changent de radical au présent le font aussi au subjonctif : [fr]nous[/fr] et [fr]vous[/fr] gardent le radical « long », identique à l’imparfait.\n[fr]que je **prenn**e[/fr] mais [fr]que nous **pren**ions[/fr]\n[fr]que je **boiv**e[/fr] mais [fr]que nous **buv**ions[/fr]\n\nBonne nouvelle : pour la majorité des verbes, le subjonctif et le présent se prononcent pareil — [fr]que je parle[/fr] = [fr]je parle[/fr]. La difficulté est plus visuelle que sonore.",
+  "exemples": [
+    {
+      "fr": "Il faut que tu prennes une décision.",
+      "en": "You need to make a decision."
+    },
+    {
+      "fr": "Je doute qu’elle vienne ce soir.",
+      "en": "I doubt she’ll come tonight."
+    },
+    {
+      "fr": "Nous voulons que vous soyez à l’aise.",
+      "en": "We want you to feel comfortable."
+    },
+    {
+      "fr": "Bien qu’il pleuve, la fête continue.",
+      "en": "Although it’s raining, the party goes on."
+    },
+    {
+      "fr": "Je suis content que vous puissiez venir.",
+      "en": "I’m glad you can come."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "La méthode en images",
+      "collapsed": false,
+      "headers": [
+        "Verbe",
+        "ils… (présent)",
+        "que je…",
+        "que nous…"
+      ],
+      "rows": [
+        [
+          "parler",
+          "parlent",
+          "parle",
+          "parlions"
+        ],
+        [
+          "finir",
+          "finissent",
+          "finisse",
+          "finissions"
+        ],
+        [
+          "attendre",
+          "attendent",
+          "attende",
+          "attendions"
+        ],
+        [
+          "prendre",
+          "prennent",
+          "prenne",
+          "prenions"
+        ],
+        [
+          "boire",
+          "boivent",
+          "boive",
+          "buvions"
+        ],
+        [
+          "venir",
+          "viennent",
+          "vienne",
+          "venions"
+        ]
+      ]
+    },
+    {
+      "title": "Voir les sept irréguliers",
+      "collapsed": true,
+      "headers": [
+        "Verbe",
+        "que je",
+        "que tu",
+        "qu’il",
+        "que nous",
+        "que vous",
+        "qu’ils"
+      ],
+      "rows": [
+        [
+          "être",
+          "sois",
+          "sois",
+          "soit",
+          "soyons",
+          "soyez",
+          "soient"
+        ],
+        [
+          "avoir",
+          "aie",
+          "aies",
+          "ait",
+          "ayons",
+          "ayez",
+          "aient"
+        ],
+        [
+          "aller",
+          "aille",
+          "ailles",
+          "aille",
+          "allions",
+          "alliez",
+          "aillent"
+        ],
+        [
+          "faire",
+          "fasse",
+          "fasses",
+          "fasse",
+          "fassions",
+          "fassiez",
+          "fassent"
+        ],
+        [
+          "pouvoir",
+          "puisse",
+          "puisses",
+          "puisse",
+          "puissions",
+          "puissiez",
+          "puissent"
+        ],
+        [
+          "savoir",
+          "sache",
+          "saches",
+          "sache",
+          "sachions",
+          "sachiez",
+          "sachent"
+        ],
+        [
+          "vouloir",
+          "veuille",
+          "veuilles",
+          "veuille",
+          "voulions",
+          "vouliez",
+          "veuillent"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets le verbe au subjonctif présent.",
+      "items": [
+        {
+          "before": "Il faut que nous ",
+          "after": " plus vite. (aller)",
+          "answer": "allions"
+        },
+        {
+          "before": "Je doute qu’il ",
+          "after": " la réponse. (savoir)",
+          "answer": "sache"
+        },
+        {
+          "before": "Il est possible qu’ils ",
+          "after": " en retard. (être)",
+          "answer": "soient"
+        },
+        {
+          "before": "Bien que vous ",
+          "after": " raison, je ne suis pas d’accord. (avoir)",
+          "answer": "ayez"
+        },
+        {
+          "before": "Je souhaite que tu ",
+          "after": " du repos. (prendre)",
+          "answer": "prennes"
+        },
+        {
+          "before": "Il faut que nous ",
+          "after": " cette bouteille. (boire)",
+          "answer": "buvions",
+          "why": "Deux radicaux : [fr]que je boive[/fr] mais [fr]que nous buvions[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le verbe à sa forme au subjonctif (que je…).",
+      "labelLeft": "Infinitif",
+      "labelRight": "que je…",
+      "pairs": [
+        [
+          "être",
+          "sois"
+        ],
+        [
+          "avoir",
+          "aie"
+        ],
+        [
+          "aller",
+          "aille"
+        ],
+        [
+          "faire",
+          "fasse"
+        ],
+        [
+          "pouvoir",
+          "puisse"
+        ],
+        [
+          "savoir",
+          "sache"
+        ],
+        [
+          "venir",
+          "vienne"
+        ]
+      ]
+    }
+  ]
+}

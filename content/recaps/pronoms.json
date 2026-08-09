@@ -1,0 +1,66 @@
+{
+  "id": "pronoms",
+  "title": "Récap express — Pronoms",
+  "level": "B1",
+  "summary": "Tous les pronoms, du sujet au relatif composé.",
+  "blocks": [
+    {
+      "level": "A1",
+      "title": "Sujets et toniques",
+      "points": [
+        "Le sujet est **obligatoire** : jamais de verbe seul.",
+        "[fr]tu[/fr] = proche · [fr]vous[/fr] = inconnu **ou** pluriel · [fr]on[/fr] = *nous* à l’oral.",
+        "Toniques [fr]moi, toi, lui, elle, nous, vous, eux, elles[/fr] : seuls, après préposition, ou pour insister."
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "COD, COI, y et en",
+      "points": [
+        "**COD** [fr]me, te, le/la, nous, vous, les[/fr] — pas de préposition",
+        "**COI** [fr]me, te, **lui**, nous, vous, **leur**[/fr] — verbe + [fr]à[/fr] ([fr]parler à, téléphoner à, écrire à[/fr])",
+        "[fr]**y**[/fr] = lieu, ou [fr]à[/fr] + chose · [fr]**en**[/fr] = [fr]de[/fr] + chose, ou une **quantité**",
+        "Avec un nombre, on garde le nombre : [fr]J’**en** ai **deux**.[/fr]",
+        "Place : **devant le verbe conjugué**, ou devant l’infinitif."
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Relatifs simples",
+      "points": [
+        "[fr]**qui**[/fr] = sujet → suivi d’un **verbe**",
+        "[fr]**que**[/fr] = COD → suivi d’un **sujet**",
+        "[fr]**où**[/fr] = lieu **et moment** : [fr]le jour où…[/fr]",
+        "Après [fr]que[/fr], le participe s’accorde : [fr]les photos que j’ai prises[/fr]."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Relatifs complexes",
+      "points": [
+        "[fr]**dont**[/fr] = tout complément en [fr]de[/fr] — et **pas** de possessif après : [fr]dont **la** femme[/fr]",
+        "[fr]**lequel**[/fr] après préposition · contractions [fr]auquel, duquel, auxquels, desquelles[/fr]",
+        "Pour une personne, [fr]qui[/fr] est plus naturel : [fr]l’ami **avec qui** je travaille[/fr]",
+        "[fr]**ce qui / ce que / ce dont**[/fr] = *what*, sans nom devant."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Doubles pronoms",
+      "points": [
+        "Ordre devant le verbe : **me/te/se/nous/vous → le/la/les → lui/leur → y → en**",
+        "À l’impératif **affirmatif**, tout passe derrière et s’inverse : [fr]Donne-**le-moi** ![/fr]",
+        "À l’impératif **négatif**, l’ordre normal revient : [fr]Ne **me le** donne pas ![/fr]"
+      ]
+    },
+    {
+      "level": "B2",
+      "title": "La finesse",
+      "points": [
+        "Locution en [fr]de[/fr] ([fr]à côté de, au cours de[/fr]) → **duquel**, jamais [fr]dont[/fr]",
+        "[fr]parmi lesquels[/fr] pour détailler un groupe",
+        "[fr]quoi[/fr] quand l’antécédent est indéfini : [fr]ce **à quoi** je pense[/fr], [fr]rien **sur quoi** compter[/fr]."
+      ]
+    }
+  ]
+}

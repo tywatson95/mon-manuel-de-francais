@@ -1,0 +1,314 @@
+{
+  "id": "tm-a2-passe-compose-avoir",
+  "group": "temps-modes",
+  "level": "A2",
+  "order": 210,
+  "title": "Le passé composé avec avoir",
+  "summary": "Le temps du récit : ce qui s’est passé, une fois, et c’est fini.",
+  "essentiel": [
+    "[fr]avoir[/fr] au présent + **participe passé** : [fr]J’ai mangé.[/fr]",
+    "Participe passé : [fr]-er → -é[/fr] · [fr]-ir → -i[/fr] · [fr]-re → -u[/fr].",
+    "La négation entoure l’auxiliaire : [fr]Je **n’**ai **pas** mangé.[/fr]"
+  ],
+  "regle": "Le **passé composé** raconte une action **terminée**. Il est « composé » parce qu’il a deux morceaux : un **auxiliaire** ((helper verb)) et un **participe passé**.\n\nLa grande majorité des verbes prend [fr]avoir[/fr].\n\n[fr]J’ai travaillé. · Tu as fini. · Elle a vendu sa voiture.[/fr]\n\nAvec [fr]avoir[/fr], le participe passé **ne s’accorde pas** avec le sujet : [fr]Elle a mangé[/fr] et non « mangée ».\n\nLes adverbes courts se glissent entre les deux morceaux : [fr]J’ai **bien** dormi. · Il a **déjà** fini.[/fr]",
+  "exemples": [
+    {
+      "fr": "Hier, j’ai visité le musée d’Orsay.",
+      "en": "Yesterday I visited the Musée d’Orsay."
+    },
+    {
+      "fr": "Nous avons pris le train de sept heures.",
+      "en": "We took the seven o’clock train."
+    },
+    {
+      "fr": "Tu as vu ce film ?",
+      "en": "Have you seen this film?"
+    },
+    {
+      "fr": "Elle n’a pas compris la question.",
+      "en": "She didn’t understand the question."
+    },
+    {
+      "fr": "Ils ont beaucoup travaillé cette semaine.",
+      "en": "They worked a lot this week."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir les participes passés irréguliers les plus fréquents",
+      "collapsed": true,
+      "headers": [
+        "Infinitif",
+        "Participe passé",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "avoir",
+          "eu",
+          "J’ai eu peur."
+        ],
+        [
+          "être",
+          "été",
+          "J’ai été malade."
+        ],
+        [
+          "faire",
+          "fait",
+          "J’ai fait la cuisine."
+        ],
+        [
+          "prendre",
+          "pris",
+          "J’ai pris le bus."
+        ],
+        [
+          "mettre",
+          "mis",
+          "J’ai mis mon manteau."
+        ],
+        [
+          "voir",
+          "vu",
+          "J’ai vu Marie."
+        ],
+        [
+          "boire",
+          "bu",
+          "J’ai bu un café."
+        ],
+        [
+          "lire",
+          "lu",
+          "J’ai lu ce livre."
+        ],
+        [
+          "écrire",
+          "écrit",
+          "J’ai écrit un mail."
+        ],
+        [
+          "dire",
+          "dit",
+          "J’ai dit la vérité."
+        ],
+        [
+          "pouvoir",
+          "pu",
+          "Je n’ai pas pu venir."
+        ],
+        [
+          "vouloir",
+          "voulu",
+          "J’ai voulu essayer."
+        ],
+        [
+          "devoir",
+          "dû",
+          "J’ai dû partir."
+        ],
+        [
+          "savoir",
+          "su",
+          "Je n’ai pas su répondre."
+        ],
+        [
+          "connaître",
+          "connu",
+          "J’ai connu son frère."
+        ],
+        [
+          "ouvrir",
+          "ouvert",
+          "J’ai ouvert la fenêtre."
+        ],
+        [
+          "offrir",
+          "offert",
+          "J’ai offert des fleurs."
+        ],
+        [
+          "recevoir",
+          "reçu",
+          "J’ai reçu ton message."
+        ],
+        [
+          "vivre",
+          "vécu",
+          "J’ai vécu à Lyon."
+        ],
+        [
+          "comprendre",
+          "compris",
+          "J’ai compris."
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : le week-end",
+    "lines": [
+      {
+        "who": "Sofia",
+        "fr": "Alors, tu as passé un bon week-end ?",
+        "en": "So, did you have a good weekend?"
+      },
+      {
+        "who": "Karim",
+        "fr": "Excellent ! J’ai vu une exposition formidable.",
+        "en": "Excellent! I saw a great exhibition."
+      },
+      {
+        "who": "Sofia",
+        "fr": "Ah bon ? Tu y es allé seul ?",
+        "en": "Really? Did you go alone?"
+      },
+      {
+        "who": "Karim",
+        "fr": "Non, j’ai invité ma sœur. On a beaucoup marché.",
+        "en": "No, I invited my sister. We walked a lot."
+      },
+      {
+        "who": "Sofia",
+        "fr": "Et vous avez mangé quelque part ?",
+        "en": "And did you eat somewhere?"
+      },
+      {
+        "who": "Karim",
+        "fr": "On a pris un sandwich au parc. Je n’ai pas dépensé grand-chose !",
+        "en": "We had a sandwich in the park. I didn’t spend much!"
+      }
+    ],
+    "check": {
+      "q": "Qu’est-ce que Karim n’a pas fait ?",
+      "options": [
+        "Il n’a pas dépensé beaucoup d’argent.",
+        "Il n’a pas vu l’exposition.",
+        "Il n’a pas invité sa sœur."
+      ],
+      "answer": 0,
+      "why": "[fr]Je n’ai pas dépensé grand-chose[/fr] = je n’ai pas dépensé beaucoup."
+    }
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Écris le verbe au passé composé.",
+      "items": [
+        {
+          "before": "Hier, j’",
+          "after": " un bon film. (regarder)",
+          "answer": "ai regardé",
+          "why": "[fr]avoir[/fr] + participe en [fr]-é[/fr]."
+        },
+        {
+          "before": "Nous ",
+          "after": " nos devoirs. (finir)",
+          "answer": "avons fini",
+          "why": "Verbe en [fr]-ir[/fr] → participe en [fr]-i[/fr]."
+        },
+        {
+          "before": "Elle ",
+          "after": " sa voiture. (vendre)",
+          "answer": "a vendu",
+          "why": "Verbe en [fr]-re[/fr] → participe en [fr]-u[/fr]."
+        },
+        {
+          "before": "Tu ",
+          "after": " le train ? (prendre)",
+          "answer": "as pris",
+          "why": "[fr]prendre[/fr] → [fr]pris[/fr]."
+        },
+        {
+          "before": "Ils ",
+          "after": " un mail. (écrire)",
+          "answer": "ont écrit",
+          "why": "[fr]écrire[/fr] → [fr]écrit[/fr]."
+        },
+        {
+          "before": "Je n’",
+          "after": " pas venir. (pouvoir)",
+          "answer": "ai pas pu",
+          "why": "[fr]ne… pas[/fr] entoure l’auxiliaire : [fr]je n’ai pas pu[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe l’infinitif à son participe passé.",
+      "labelLeft": "Infinitif",
+      "labelRight": "Participe passé",
+      "pairs": [
+        [
+          "faire",
+          "fait"
+        ],
+        [
+          "voir",
+          "vu"
+        ],
+        [
+          "mettre",
+          "mis"
+        ],
+        [
+          "boire",
+          "bu"
+        ],
+        [
+          "offrir",
+          "offert"
+        ],
+        [
+          "recevoir",
+          "reçu"
+        ],
+        [
+          "devoir",
+          "dû"
+        ],
+        [
+          "comprendre",
+          "compris"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la phrase correcte.",
+      "items": [
+        {
+          "q": "Comment dire « She ate a sandwich » ?",
+          "options": [
+            "Elle a mangée un sandwich.",
+            "Elle a mangé un sandwich.",
+            "Elle est mangé un sandwich."
+          ],
+          "answer": 1,
+          "why": "Avec [fr]avoir[/fr], le participe ne s’accorde pas avec le sujet."
+        },
+        {
+          "q": "Où va « déjà » ?",
+          "options": [
+            "J’ai déjà mangé.",
+            "J’ai mangé déjà.",
+            "Déjà j’ai mangé."
+          ],
+          "answer": 0,
+          "why": "Les adverbes courts se placent entre l’auxiliaire et le participe."
+        },
+        {
+          "q": "Comment dire « We didn’t see him » ?",
+          "options": [
+            "Nous n’avons pas vu.",
+            "Nous avons ne pas vu.",
+            "Nous n’avons vu pas."
+          ],
+          "answer": 0,
+          "why": "[fr]ne[/fr] + auxiliaire + [fr]pas[/fr] + participe."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "ph-b1-passif",
+  "group": "phrase",
+  "level": "B1",
+  "order": 320,
+  "title": "La voix passive",
+  "summary": "Quand le complément devient sujet — et qui l’a fait devient secondaire.",
+  "essentiel": [
+    "[fr]**être** + participe passé[/fr], accordé avec le sujet : [fr]La lettre **est écrite**.[/fr]",
+    "Le complément d’agent s’introduit par [fr]**par**[/fr] : [fr]écrite **par** Marie[/fr].",
+    "C’est [fr]être[/fr] qui porte le temps : [fr]a été écrite, sera écrite, était écrite[/fr]."
+  ],
+  "regle": "Le passif déplace l’attention : ce n’est plus l’auteur de l’action qui compte, mais ce qui la subit.\n\n[fr]Le maire **inaugure** la médiathèque.[/fr] ((active))\n[fr]La médiathèque **est inaugurée par** le maire.[/fr] ((passive))\n\n**La mécanique.** Le COD de la phrase active devient sujet ; le verbe devient [fr]être[/fr] + participe ; le sujet passe après [fr]par[/fr].\n\n**Le participe s’accorde toujours avec le sujet** : [fr]Les résultats **seront publiés** demain.[/fr]\n\n**C’est [fr]être[/fr] qui se conjugue.**\n[fr]est construit · a été construit · était construit · sera construit · serait construit · ait été construit[/fr]\n\n**[fr]par[/fr] ou [fr]de[/fr] ?** Avec des verbes de sentiment ou de description, on préfère [fr]de[/fr] :\n[fr]Il est respecté **de** tous. · La table était couverte **de** fleurs.[/fr]\n\n**Seuls les verbes transitifs directs** peuvent se mettre au passif. On ne peut pas passiver [fr]téléphoner à[/fr] ou [fr]obéir à[/fr].\n\n**Le complément d’agent est souvent absent** quand on ne sait pas ou peu importe : [fr]La route a été fermée.[/fr]",
+  "exemples": [
+    {
+      "fr": "Ce pont a été construit en 1890.",
+      "en": "This bridge was built in 1890."
+    },
+    {
+      "fr": "Les résultats seront annoncés lundi.",
+      "en": "The results will be announced on Monday."
+    },
+    {
+      "fr": "La décision est prise par le conseil.",
+      "en": "The decision is taken by the council."
+    },
+    {
+      "fr": "Elle est appréciée de ses collègues.",
+      "en": "She is well liked by her colleagues."
+    },
+    {
+      "fr": "Le magasin a été cambriolé cette nuit.",
+      "en": "The shop was burgled last night."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le passif à tous les temps",
+      "collapsed": true,
+      "headers": [
+        "Temps",
+        "Actif",
+        "Passif"
+      ],
+      "rows": [
+        [
+          "présent",
+          "On répare la route.",
+          "La route est réparée."
+        ],
+        [
+          "passé composé",
+          "On a réparé la route.",
+          "La route a été réparée."
+        ],
+        [
+          "imparfait",
+          "On réparait la route.",
+          "La route était réparée."
+        ],
+        [
+          "futur",
+          "On réparera la route.",
+          "La route sera réparée."
+        ],
+        [
+          "conditionnel",
+          "On réparerait la route.",
+          "La route serait réparée."
+        ],
+        [
+          "subjonctif",
+          "… qu’on répare la route.",
+          "… que la route soit réparée."
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets la phrase au passif.",
+      "items": [
+        {
+          "before": "On a vendu la maison. → La maison ",
+          "after": " .",
+          "answer": "a été vendue"
+        },
+        {
+          "before": "Le chef prépare le menu. → Le menu ",
+          "after": " par le chef.",
+          "answer": "est préparé"
+        },
+        {
+          "before": "On publiera les résultats. → Les résultats ",
+          "after": " .",
+          "answer": "seront publiés"
+        },
+        {
+          "before": "Tout le monde le respecte. → Il est respecté ",
+          "after": " tous.",
+          "answer": "de"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Ce livre ___ traduit en douze langues.",
+          "options": [
+            "a été",
+            "a",
+            "est eu"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Les fenêtres ___ nettoyées hier.",
+          "options": [
+            "ont été",
+            "ont",
+            "sont eu"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Quel verbe ne peut PAS se mettre au passif ?",
+          "options": [
+            "construire",
+            "téléphoner à",
+            "réparer"
+          ],
+          "answer": 1,
+          "why": "Seuls les verbes transitifs **directs** se passivent."
+        },
+        {
+          "q": "« La table était couverte ___ neige. »",
+          "options": [
+            "par la",
+            "de",
+            "par de la"
+          ],
+          "answer": 1,
+          "why": "Description → [fr]de[/fr]."
+        }
+      ]
+    }
+  ]
+}

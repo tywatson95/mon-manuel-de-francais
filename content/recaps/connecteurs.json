@@ -1,0 +1,66 @@
+{
+  "id": "connecteurs",
+  "title": "Récap express — Connecteurs & discours",
+  "level": "B1",
+  "summary": "Tous les liens logiques, du récit A2 à l’essai B2.",
+  "blocks": [
+    {
+      "level": "A2",
+      "title": "Raconter et situer",
+      "points": [
+        "[fr]d’abord → ensuite / puis → enfin[/fr] · [fr]finalement[/fr] = *in the end* (changement d’avis)",
+        "[fr]**depuis**[/fr] ça continue (+ présent) · [fr]**il y a**[/fr] c’est fini (+ passé)",
+        "[fr]**pendant**[/fr] durée terminée · [fr]**dans**[/fr] à venir · [fr]**en**[/fr] temps nécessaire."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Cause et conséquence",
+      "points": [
+        "+ phrase : [fr]parce que, car, comme, puisque, étant donné que[/fr]",
+        "+ nom : [fr]grâce à[/fr] (positif) · [fr]à cause de[/fr] (négatif) · [fr]en raison de[/fr] · [fr]faute de[/fr]",
+        "Conséquence : [fr]donc, alors, du coup, par conséquent, c’est pourquoi, si bien que[/fr]",
+        "Intensité : [fr]**si** + adj. **que**[/fr] · [fr]**tellement de** + nom **que**[/fr]."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Opposition et concession",
+      "points": [
+        "**+ subjonctif** : [fr]bien que, quoique[/fr] · **+ indicatif** : [fr]même si, alors que, tandis que[/fr] · **+ nom** : [fr]malgré[/fr]",
+        "[fr]malgré que[/fr] est **fautif**.",
+        "Adverbes : [fr]pourtant, cependant, néanmoins, en revanche, quand même[/fr]."
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Temps",
+      "points": [
+        "[fr]avant de[/fr] + inf. / [fr]avant que[/fr] + **subj.** · [fr]après[/fr] + **infinitif passé**",
+        "[fr]jusqu’à ce que[/fr] + **subj.** · [fr]dès que, pendant que, depuis que[/fr] + indicatif",
+        "Après [fr]quand[/fr] et [fr]dès que[/fr], le français met le **futur**.",
+        "Adverbes : féminin + [fr]-ment[/fr] · [fr]-ant → -amment[/fr] · [fr]-ent → -emment[/fr]."
+      ]
+    },
+    {
+      "level": "B2",
+      "title": "But, condition, hypothèse",
+      "points": [
+        "But + **subjonctif** : [fr]pour que, afin que, de peur que[/fr] · même sujet → [fr]pour, afin de[/fr] + infinitif",
+        "Condition + **subjonctif** : [fr]à condition que, pourvu que, à moins que[/fr]",
+        "[fr]**au cas où**[/fr] + **conditionnel** — la particularité à retenir",
+        "Conséquence négative : [fr]sinon, sans quoi, faute de quoi[/fr]."
+      ]
+    },
+    {
+      "level": "B2",
+      "title": "Argumenter",
+      "points": [
+        "Ouvrir : [fr]tout d’abord, en premier lieu[/fr] · Ajouter : [fr]de plus, en outre, par ailleurs[/fr]",
+        "Illustrer : [fr]par exemple, ainsi, notamment[/fr] · Confirmer : [fr]en effet[/fr] · **Corriger** : [fr]en fait[/fr]",
+        "Opposer : [fr]cependant, toutefois, en revanche, néanmoins[/fr] · Conclure : [fr]en définitive, en somme[/fr]",
+        "Concéder puis contrer : [fr]**Certes**…, **mais**…[/fr] · [fr]Il est vrai que…, **il n’en demeure pas moins que**…[/fr]"
+      ]
+    }
+  ]
+}

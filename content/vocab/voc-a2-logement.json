@@ -1,0 +1,266 @@
+{
+  "id": "voc-a2-logement",
+  "title": "Logement & déménagement",
+  "level": "A2",
+  "order": 270,
+  "summary": "Chercher, louer, s’installer.",
+  "items": [
+    {
+      "fr": "un logement",
+      "ipa": "lɔʒ.mɑ̃",
+      "en": "accommodation",
+      "ex": "Je cherche un logement."
+    },
+    {
+      "fr": "louer",
+      "ipa": "lwe",
+      "en": "to rent",
+      "ex": "Je loue un studio."
+    },
+    {
+      "fr": "un(e) locataire",
+      "ipa": "lɔ.ka.tɛʁ",
+      "en": "a tenant",
+      "ex": "Le locataire paie le 5 du mois."
+    },
+    {
+      "fr": "un(e) propriétaire",
+      "ipa": "pʁɔ.pʁje.tɛʁ",
+      "en": "a landlord, an owner",
+      "ex": "Le propriétaire est sympa."
+    },
+    {
+      "fr": "le loyer",
+      "ipa": "lwa.je",
+      "en": "the rent",
+      "ex": "Le loyer a augmenté."
+    },
+    {
+      "fr": "les charges (f)",
+      "ipa": "ʃaʁʒ",
+      "en": "service charges",
+      "ex": "Charges comprises."
+    },
+    {
+      "fr": "une caution",
+      "ipa": "ko.sjɔ̃",
+      "en": "a deposit",
+      "ex": "La caution est d’un mois."
+    },
+    {
+      "fr": "un bail",
+      "ipa": "baj",
+      "en": "a lease",
+      "ex": "Signer un bail de trois ans."
+    },
+    {
+      "fr": "un studio",
+      "ipa": "sty.djo",
+      "en": "a studio flat",
+      "ex": "Un studio de 25 m²."
+    },
+    {
+      "fr": "un deux-pièces",
+      "ipa": "dø pjɛs",
+      "en": "a one-bedroom flat",
+      "ex": "Un deux-pièces bien situé."
+    },
+    {
+      "fr": "meublé(e)",
+      "ipa": "mœ.ble",
+      "en": "furnished",
+      "ex": "Un appartement meublé."
+    },
+    {
+      "fr": "vide",
+      "ipa": "vid",
+      "en": "unfurnished, empty",
+      "ex": "L’appartement est vide."
+    },
+    {
+      "fr": "lumineux, lumineuse",
+      "ipa": "ly.mi.nø",
+      "en": "bright",
+      "ex": "Un salon très lumineux."
+    },
+    {
+      "fr": "spacieux, spacieuse",
+      "ipa": "spa.sjø",
+      "en": "spacious",
+      "ex": "Une chambre spacieuse."
+    },
+    {
+      "fr": "une agence immobilière",
+      "ipa": "a.ʒɑ̃s",
+      "en": "an estate agency",
+      "ex": "Passer par une agence immobilière."
+    },
+    {
+      "fr": "une annonce",
+      "ipa": "a.nɔ̃s",
+      "en": "an advert",
+      "ex": "J’ai vu l’annonce en ligne."
+    },
+    {
+      "fr": "une visite",
+      "ipa": "vi.zit",
+      "en": "a viewing",
+      "ex": "Une visite est prévue samedi."
+    },
+    {
+      "fr": "un état des lieux",
+      "ipa": "e.ta de ljø",
+      "en": "an inventory check",
+      "ex": "L’état des lieux est obligatoire."
+    },
+    {
+      "fr": "déménager",
+      "ipa": "de.me.na.ʒe",
+      "en": "to move out",
+      "ex": "On déménage samedi."
+    },
+    {
+      "fr": "emménager",
+      "ipa": "ɑ̃.me.na.ʒe",
+      "en": "to move in",
+      "ex": "J’emménage le 1er."
+    },
+    {
+      "fr": "un carton",
+      "ipa": "kaʁ.tɔ̃",
+      "en": "a box",
+      "ex": "Il reste dix cartons."
+    },
+    {
+      "fr": "un camion",
+      "ipa": "ka.mjɔ̃",
+      "en": "a van, lorry",
+      "ex": "On a loué un camion."
+    },
+    {
+      "fr": "s’installer",
+      "ipa": "sɛ̃s.ta.le",
+      "en": "to settle in",
+      "ex": "Je m’installe doucement."
+    },
+    {
+      "fr": "un voisin, une voisine",
+      "ipa": "vwa.zɛ̃",
+      "en": "a neighbour",
+      "ex": "Les voisins sont discrets."
+    },
+    {
+      "fr": "le voisinage",
+      "ipa": "vwa.zi.naʒ",
+      "en": "the neighbourhood",
+      "ex": "Un voisinage agréable."
+    },
+    {
+      "fr": "une copropriété",
+      "ipa": "ko.pʁo.pʁje.te",
+      "en": "a co-ownership",
+      "ex": "Les règles de la copropriété."
+    },
+    {
+      "fr": "le gardien",
+      "ipa": "ɡaʁ.djɛ̃",
+      "en": "the caretaker",
+      "ex": "Le gardien a les clés."
+    },
+    {
+      "fr": "la boîte aux lettres",
+      "ipa": "bwat o lɛtʁ",
+      "en": "the letterbox",
+      "ex": "La boîte aux lettres est pleine."
+    },
+    {
+      "fr": "l’interphone (m)",
+      "ipa": "ɛ̃.tɛʁ.fɔn",
+      "en": "the intercom",
+      "ex": "Sonnez à l’interphone."
+    },
+    {
+      "fr": "le compteur",
+      "ipa": "kɔ̃.tœʁ",
+      "en": "the meter",
+      "ex": "Relevez le compteur."
+    },
+    {
+      "fr": "l’électricité (f)",
+      "ipa": "e.lɛk.tʁi.si.te",
+      "en": "electricity",
+      "ex": "L’électricité est comprise."
+    },
+    {
+      "fr": "le gaz",
+      "ipa": "ɡaz",
+      "en": "gas",
+      "ex": "Le gaz est coupé."
+    },
+    {
+      "fr": "une facture",
+      "ipa": "fak.tyʁ",
+      "en": "a bill",
+      "ex": "La facture d’eau est arrivée."
+    },
+    {
+      "fr": "des travaux (m)",
+      "ipa": "tʁa.vo",
+      "en": "building works",
+      "ex": "Des travaux dans l’immeuble."
+    },
+    {
+      "fr": "réparer",
+      "ipa": "ʁe.pa.ʁe",
+      "en": "to repair",
+      "ex": "Le propriétaire va réparer la fuite."
+    },
+    {
+      "fr": "une fuite",
+      "ipa": "fɥit",
+      "en": "a leak",
+      "ex": "Il y a une fuite d’eau."
+    },
+    {
+      "fr": "une panne",
+      "ipa": "pan",
+      "en": "a breakdown",
+      "ex": "Panne de chauffage."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "La somme rendue à la fin du bail :",
+          "options": [
+            "le loyer",
+            "la caution",
+            "les charges"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Charges comprises » signifie…",
+          "options": [
+            "électricité et eau incluses",
+            "meublé",
+            "avec parking"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Emménager » veut dire…",
+          "options": [
+            "quitter un logement",
+            "entrer dans un nouveau logement",
+            "réparer"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

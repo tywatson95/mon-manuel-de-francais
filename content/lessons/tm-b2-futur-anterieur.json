@@ -1,0 +1,106 @@
+{
+  "id": "tm-b2-futur-anterieur",
+  "group": "temps-modes",
+  "level": "B2",
+  "order": 420,
+  "title": "Le futur antérieur",
+  "summary": "Ce qui sera fini avant un autre moment du futur.",
+  "essentiel": [
+    "Auxiliaire au **futur simple** + participe passé : [fr]j’**aurai** fini[/fr], [fr]je **serai** parti[/fr].",
+    "Il exprime une action **achevée avant** un point du futur : [fr]Quand j’aurai fini, je t’appellerai.[/fr]",
+    "Il sert aussi à formuler une **supposition** : [fr]Il aura oublié.[/fr] ((he must have forgotten))"
+  ],
+  "regle": "Le **futur antérieur** est au futur ce que le plus-que-parfait est au passé : il recule d’un cran.\n\n**Emploi principal : l’antériorité dans le futur.** Il apparaît presque toujours après [fr]quand, dès que, lorsque, une fois que, après que[/fr].\n[fr]Dès que tu **auras terminé**, préviens-moi.[/fr]\n[fr]Quand nous **serons arrivés**, nous vous appellerons.[/fr]\n\nNotez la différence avec l’anglais, qui met un présent : *as soon as you have finished*.\n\n**Emploi secondaire : la supposition.** Pour expliquer un fait présent par une hypothèse passée.\n[fr]Elle n’est pas là — elle **aura** encore **raté** son bus.[/fr]\n[fr]Il n’a pas répondu ; il **n’aura pas vu** le message.[/fr]",
+  "exemples": [
+    {
+      "fr": "Quand j’aurai fini ce rapport, je prendrai des vacances.",
+      "en": "When I have finished this report, I’ll take a holiday."
+    },
+    {
+      "fr": "Dans deux ans, ils auront remboursé leur prêt.",
+      "en": "In two years they will have paid off their loan."
+    },
+    {
+      "fr": "Une fois que tu te seras reposé, tu verras les choses autrement.",
+      "en": "Once you have rested, you’ll see things differently."
+    },
+    {
+      "fr": "Le train est en retard — il y aura eu un incident.",
+      "en": "The train is late — there must have been an incident."
+    },
+    {
+      "fr": "Elle n’a pas appelé : elle aura oublié.",
+      "en": "She hasn’t called: she must have forgotten."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Mets le verbe au futur antérieur.",
+      "items": [
+        {
+          "before": "Quand tu ",
+          "after": " , on partira. (finir)",
+          "answer": "auras fini"
+        },
+        {
+          "before": "Dès qu’ils ",
+          "after": " , nous commencerons. (arriver)",
+          "answer": "seront arrivés"
+        },
+        {
+          "before": "Dans un mois, j’",
+          "after": " mon permis. (obtenir)",
+          "answer": "aurai obtenu"
+        },
+        {
+          "before": "Elle ne répond pas : elle ",
+          "after": " son téléphone. (perdre)",
+          "answer": "aura perdu",
+          "why": "Supposition sur une cause passée."
+        },
+        {
+          "before": "Une fois que vous vous ",
+          "after": " , on discutera. (installer)",
+          "answer": "serez installés"
+        }
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quel temps convient ?",
+      "items": [
+        {
+          "q": "Quand j’___ mon travail, je sortirai.",
+          "options": [
+            "finis",
+            "aurai fini",
+            "avais fini"
+          ],
+          "answer": 1,
+          "why": "Antériorité dans le futur."
+        },
+        {
+          "q": "« Il aura manqué son train » exprime…",
+          "options": [
+            "une certitude",
+            "une supposition",
+            "un ordre"
+          ],
+          "answer": 1,
+          "why": "Futur antérieur de supposition."
+        },
+        {
+          "q": "Dès que le soleil ___ , nous partirons.",
+          "options": [
+            "se lèvera",
+            "se sera levé",
+            "se levait"
+          ],
+          "answer": 1,
+          "why": "L’action doit être **achevée** avant le départ."
+        }
+      ]
+    }
+  ]
+}

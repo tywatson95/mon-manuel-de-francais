@@ -1,0 +1,270 @@
+{
+  "id": "voc-a1-restaurant",
+  "title": "Au café & au restaurant",
+  "level": "A1",
+  "order": 180,
+  "summary": "Commander, comprendre la carte, payer.",
+  "items": [
+    {
+      "fr": "un restaurant",
+      "ipa": "ʁɛs.to.ʁɑ̃",
+      "en": "a restaurant",
+      "ex": "On réserve au restaurant ?"
+    },
+    {
+      "fr": "un café",
+      "ipa": "ka.fe",
+      "en": "a café",
+      "ex": "Rendez-vous au café du coin."
+    },
+    {
+      "fr": "une brasserie",
+      "ipa": "bʁa.sʁi",
+      "en": "a brasserie",
+      "ex": "Une brasserie ouverte tard."
+    },
+    {
+      "fr": "la carte",
+      "ipa": "kaʁt",
+      "en": "the menu (à la carte)",
+      "ex": "Je peux voir la carte ?"
+    },
+    {
+      "fr": "le menu",
+      "ipa": "mə.ny",
+      "en": "the set menu",
+      "ex": "Le menu à 22 euros."
+    },
+    {
+      "fr": "la formule",
+      "ipa": "fɔʁ.myl",
+      "en": "the deal, set lunch",
+      "ex": "La formule du midi."
+    },
+    {
+      "fr": "une entrée",
+      "ipa": "ɑ̃.tʁe",
+      "en": "a starter",
+      "ex": "Comme entrée, une soupe."
+    },
+    {
+      "fr": "un plat",
+      "ipa": "pla",
+      "en": "a main course",
+      "ex": "Le plat du jour."
+    },
+    {
+      "fr": "un dessert",
+      "ipa": "de.sɛʁ",
+      "en": "a dessert",
+      "ex": "Un dessert, peut-être ?"
+    },
+    {
+      "fr": "la boisson",
+      "ipa": "bwa.sɔ̃",
+      "en": "the drink",
+      "ex": "Boisson comprise."
+    },
+    {
+      "fr": "une table",
+      "ipa": "tabl",
+      "en": "a table",
+      "ex": "Une table pour deux."
+    },
+    {
+      "fr": "la terrasse",
+      "ipa": "te.ʁas",
+      "en": "the terrace",
+      "ex": "On peut s’asseoir en terrasse ?"
+    },
+    {
+      "fr": "réserver",
+      "ipa": "ʁe.zɛʁ.ve",
+      "en": "to book",
+      "ex": "J’ai réservé au nom de Grobler."
+    },
+    {
+      "fr": "commander",
+      "ipa": "kɔ.mɑ̃.de",
+      "en": "to order",
+      "ex": "Vous avez commandé ?"
+    },
+    {
+      "fr": "un serveur, une serveuse",
+      "ipa": "sɛʁ.vœʁ",
+      "en": "a waiter",
+      "ex": "Le serveur arrive."
+    },
+    {
+      "fr": "l’addition (f)",
+      "ipa": "a.di.sjɔ̃",
+      "en": "the bill",
+      "ex": "L’addition, s’il vous plaît."
+    },
+    {
+      "fr": "le pourboire",
+      "ipa": "puʁ.bwaʁ",
+      "en": "the tip",
+      "ex": "Le pourboire n’est pas obligatoire."
+    },
+    {
+      "fr": "payer par carte",
+      "ipa": "pe.je paʁ kaʁt",
+      "en": "to pay by card",
+      "ex": "Je peux payer par carte ?"
+    },
+    {
+      "fr": "saignant",
+      "ipa": "sɛ.ɲɑ̃",
+      "en": "rare (steak)",
+      "ex": "Un steak saignant."
+    },
+    {
+      "fr": "à point",
+      "ipa": "a pwɛ̃",
+      "en": "medium",
+      "ex": "Une entrecôte à point."
+    },
+    {
+      "fr": "bien cuit",
+      "ipa": "bjɛ̃ kɥi",
+      "en": "well done",
+      "ex": "Bien cuit, s’il vous plaît."
+    },
+    {
+      "fr": "la note",
+      "ipa": "nɔt",
+      "en": "the bill (hotel)",
+      "ex": "Je règle la note."
+    },
+    {
+      "fr": "sur place",
+      "ipa": "syʁ plas",
+      "en": "to eat in",
+      "ex": "Sur place ou à emporter ?"
+    },
+    {
+      "fr": "à emporter",
+      "ipa": "a ɑ̃.pɔʁ.te",
+      "en": "takeaway",
+      "ex": "Deux cafés à emporter."
+    },
+    {
+      "fr": "une entrecôte",
+      "ipa": "ɑ̃.tʁə.kot",
+      "en": "a rib steak",
+      "ex": "L’entrecôte est excellente."
+    },
+    {
+      "fr": "une soupe",
+      "ipa": "sup",
+      "en": "a soup",
+      "ex": "Une soupe à l’oignon."
+    },
+    {
+      "fr": "des frites (f)",
+      "ipa": "fʁit",
+      "en": "chips",
+      "ex": "Un steak-frites."
+    },
+    {
+      "fr": "le plat du jour",
+      "ipa": "pla dy ʒuʁ",
+      "en": "today’s special",
+      "ex": "Quel est le plat du jour ?"
+    },
+    {
+      "fr": "végétarien(ne)",
+      "ipa": "ve.ʒe.ta.ʁjɛ̃",
+      "en": "vegetarian",
+      "ex": "Vous avez un plat végétarien ?"
+    },
+    {
+      "fr": "une allergie",
+      "ipa": "a.lɛʁ.ʒi",
+      "en": "an allergy",
+      "ex": "J’ai une allergie aux fruits de mer."
+    },
+    {
+      "fr": "un apéritif, un apéro",
+      "ipa": "a.pe.ʁo",
+      "en": "a pre-dinner drink",
+      "ex": "On prend l’apéro ?"
+    },
+    {
+      "fr": "santé !",
+      "ipa": "sɑ̃.te",
+      "en": "cheers!",
+      "ex": "Santé, tout le monde !"
+    },
+    {
+      "fr": "bon appétit",
+      "ipa": "bɔ.na.pe.ti",
+      "en": "enjoy your meal",
+      "ex": "Bon appétit !"
+    },
+    {
+      "fr": "c’était très bon",
+      "ipa": "se.tɛ tʁɛ bɔ̃",
+      "en": "it was very good",
+      "ex": "C’était très bon, merci."
+    },
+    {
+      "fr": "une carafe d’eau",
+      "ipa": "ka.ʁaf do",
+      "en": "a jug of tap water",
+      "ex": "Une carafe d’eau, s’il vous plaît."
+    },
+    {
+      "fr": "le service compris",
+      "ipa": "sɛʁ.vis kɔ̃.pʁi",
+      "en": "service included",
+      "ex": "Le service est compris."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que dire ?",
+      "items": [
+        {
+          "q": "Tu veux la note :",
+          "options": [
+            "L’addition, s’il vous plaît.",
+            "La carte, s’il vous plaît.",
+            "Le menu, s’il vous plaît."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tu veux un steak cuit longtemps :",
+          "options": [
+            "saignant",
+            "à point",
+            "bien cuit"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "« Sur place ou à emporter ? » demande…",
+          "options": [
+            "si tu manges ici ou dehors",
+            "si tu paies par carte",
+            "si tu veux du sel"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "En France, le pourboire est…",
+          "options": [
+            "obligatoire",
+            "facultatif",
+            "interdit"
+          ],
+          "answer": 1,
+          "why": "Le service est compris dans le prix ; on laisse quelques euros si l’on veut."
+        }
+      ]
+    }
+  ]
+}

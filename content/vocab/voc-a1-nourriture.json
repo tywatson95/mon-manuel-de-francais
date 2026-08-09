@@ -1,0 +1,318 @@
+{
+  "id": "voc-a1-nourriture",
+  "title": "Nourriture & boissons",
+  "level": "A1",
+  "order": 170,
+  "summary": "Ce qu’on met dans son panier et dans son assiette.",
+  "items": [
+    {
+      "fr": "le pain",
+      "ipa": "pɛ̃",
+      "en": "bread",
+      "ex": "Je vais chercher le pain."
+    },
+    {
+      "fr": "une baguette",
+      "ipa": "ba.ɡɛt",
+      "en": "a baguette",
+      "ex": "Une baguette, s’il vous plaît."
+    },
+    {
+      "fr": "un croissant",
+      "ipa": "kʁwa.sɑ̃",
+      "en": "a croissant",
+      "ex": "Un croissant au beurre."
+    },
+    {
+      "fr": "le beurre",
+      "ipa": "bœʁ",
+      "en": "butter",
+      "ex": "Du beurre salé, s’il vous plaît."
+    },
+    {
+      "fr": "le fromage",
+      "ipa": "fʁɔ.maʒ",
+      "en": "cheese",
+      "ex": "La France a 300 fromages."
+    },
+    {
+      "fr": "le lait",
+      "ipa": "lɛ",
+      "en": "milk",
+      "ex": "Il n’y a plus de lait."
+    },
+    {
+      "fr": "un œuf, des œufs",
+      "ipa": "œf, ø",
+      "en": "an egg, eggs",
+      "ex": "Deux œufs sur le plat."
+    },
+    {
+      "fr": "la viande",
+      "ipa": "vjɑ̃d",
+      "en": "meat",
+      "ex": "Je ne mange pas de viande."
+    },
+    {
+      "fr": "le poulet",
+      "ipa": "pu.lɛ",
+      "en": "chicken",
+      "ex": "Du poulet rôti."
+    },
+    {
+      "fr": "le poisson",
+      "ipa": "pwa.sɔ̃",
+      "en": "fish",
+      "ex": "Le poisson est très frais."
+    },
+    {
+      "fr": "le jambon",
+      "ipa": "ʒɑ̃.bɔ̃",
+      "en": "ham",
+      "ex": "Un sandwich au jambon."
+    },
+    {
+      "fr": "les légumes (m)",
+      "ipa": "le.ɡym",
+      "en": "vegetables",
+      "ex": "Mange tes légumes !"
+    },
+    {
+      "fr": "une tomate",
+      "ipa": "tɔ.mat",
+      "en": "a tomato",
+      "ex": "Une salade de tomates."
+    },
+    {
+      "fr": "une pomme de terre",
+      "ipa": "pɔm də tɛʁ",
+      "en": "a potato",
+      "ex": "Des pommes de terre au four."
+    },
+    {
+      "fr": "une carotte",
+      "ipa": "ka.ʁɔt",
+      "en": "a carrot",
+      "ex": "Des carottes râpées."
+    },
+    {
+      "fr": "une salade",
+      "ipa": "sa.lad",
+      "en": "salad, lettuce",
+      "ex": "Une salade verte."
+    },
+    {
+      "fr": "les fruits (m)",
+      "ipa": "fʁɥi",
+      "en": "fruit",
+      "ex": "J’achète des fruits au marché."
+    },
+    {
+      "fr": "une pomme",
+      "ipa": "pɔm",
+      "en": "an apple",
+      "ex": "Une pomme par jour."
+    },
+    {
+      "fr": "une banane",
+      "ipa": "ba.nan",
+      "en": "a banana",
+      "ex": "Les bananes sont mûres."
+    },
+    {
+      "fr": "une orange",
+      "ipa": "ɔ.ʁɑ̃ʒ",
+      "en": "an orange",
+      "ex": "Un jus d’orange pressé."
+    },
+    {
+      "fr": "une fraise",
+      "ipa": "fʁɛz",
+      "en": "a strawberry",
+      "ex": "Des fraises en juin."
+    },
+    {
+      "fr": "le riz",
+      "ipa": "ʁi",
+      "en": "rice",
+      "ex": "Du riz au curry."
+    },
+    {
+      "fr": "les pâtes (f)",
+      "ipa": "pɑt",
+      "en": "pasta",
+      "ex": "On mange des pâtes ce soir."
+    },
+    {
+      "fr": "le sucre",
+      "ipa": "sykʁ",
+      "en": "sugar",
+      "ex": "Sans sucre, merci."
+    },
+    {
+      "fr": "le sel",
+      "ipa": "sɛl",
+      "en": "salt",
+      "ex": "Passe-moi le sel."
+    },
+    {
+      "fr": "le poivre",
+      "ipa": "pwavʁ",
+      "en": "pepper",
+      "ex": "Sel et poivre."
+    },
+    {
+      "fr": "l’huile (f)",
+      "ipa": "ɥil",
+      "en": "oil",
+      "ex": "De l’huile d’olive."
+    },
+    {
+      "fr": "l’eau (f)",
+      "ipa": "o",
+      "en": "water",
+      "ex": "Une carafe d’eau."
+    },
+    {
+      "fr": "le vin",
+      "ipa": "vɛ̃",
+      "en": "wine",
+      "ex": "Un verre de vin rouge."
+    },
+    {
+      "fr": "la bière",
+      "ipa": "bjɛʁ",
+      "en": "beer",
+      "ex": "Une bière pression."
+    },
+    {
+      "fr": "le café",
+      "ipa": "ka.fe",
+      "en": "coffee",
+      "ex": "Un café serré."
+    },
+    {
+      "fr": "le thé",
+      "ipa": "te",
+      "en": "tea",
+      "ex": "Un thé vert, merci."
+    },
+    {
+      "fr": "le jus de fruits",
+      "ipa": "ʒy də fʁɥi",
+      "en": "fruit juice",
+      "ex": "Un jus de pomme."
+    },
+    {
+      "fr": "un gâteau",
+      "ipa": "ɡɑ.to",
+      "en": "a cake",
+      "ex": "Elle a fait un gâteau."
+    },
+    {
+      "fr": "le chocolat",
+      "ipa": "ʃɔ.kɔ.la",
+      "en": "chocolate",
+      "ex": "Du chocolat noir."
+    },
+    {
+      "fr": "une glace",
+      "ipa": "ɡlas",
+      "en": "an ice cream",
+      "ex": "Une glace à la vanille."
+    },
+    {
+      "fr": "avoir faim",
+      "ipa": "a.vwaʁ fɛ̃",
+      "en": "to be hungry",
+      "ex": "J’ai très faim."
+    },
+    {
+      "fr": "avoir soif",
+      "ipa": "a.vwaʁ swaf",
+      "en": "to be thirsty",
+      "ex": "Tu as soif ?"
+    },
+    {
+      "fr": "délicieux, délicieuse",
+      "ipa": "de.li.sjø",
+      "en": "delicious",
+      "ex": "C’était délicieux !"
+    },
+    {
+      "fr": "le marché",
+      "ipa": "maʁ.ʃe",
+      "en": "the market",
+      "ex": "Le marché est le samedi."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "« J’ai faim » se construit avec…",
+          "options": [
+            "être",
+            "avoir",
+            "faire"
+          ],
+          "answer": 1,
+          "why": "[fr]avoir faim, avoir soif[/fr] — comme l’âge."
+        },
+        {
+          "q": "Une carafe d’eau au restaurant est…",
+          "options": [
+            "payante",
+            "gratuite",
+            "interdite"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Des œufs » se prononce…",
+          "options": [
+            "{{de.zœf}}",
+            "{{de.zø}}",
+            "{{dez.œf}}"
+          ],
+          "answer": 1,
+          "why": "Au pluriel, [fr]œufs[/fr] se dit {{ø}}."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le mot à sa traduction.",
+      "labelLeft": "Français",
+      "labelRight": "Anglais",
+      "pairs": [
+        [
+          "le beurre",
+          "butter"
+        ],
+        [
+          "la viande",
+          "meat"
+        ],
+        [
+          "les pâtes",
+          "pasta"
+        ],
+        [
+          "une fraise",
+          "a strawberry"
+        ],
+        [
+          "le poivre",
+          "pepper"
+        ],
+        [
+          "une glace",
+          "an ice cream"
+        ]
+      ]
+    }
+  ]
+}

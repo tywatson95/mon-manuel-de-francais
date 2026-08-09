@@ -1,0 +1,188 @@
+{
+  "id": "co-b1-temporelles",
+  "group": "connecteurs",
+  "level": "B1",
+  "order": 340,
+  "title": "Les propositions temporelles",
+  "summary": "Avant de, après, dès que, jusqu’à ce que — situer deux actions l’une par rapport à l’autre.",
+  "essentiel": [
+    "[fr]**avant que**[/fr] + subjonctif · [fr]**avant de**[/fr] + infinitif (même sujet).",
+    "[fr]**après**[/fr] + infinitif **passé** : [fr]après avoir mangé[/fr].",
+    "[fr]**jusqu’à ce que**[/fr] + subjonctif ; [fr]**dès que**, **pendant que**[/fr] + indicatif."
+  ],
+  "regle": "Le choix dépend de deux choses : **le sujet change-t-il ?** et **le connecteur demande-t-il le subjonctif ?**\n\n**Antériorité — avant.**\n[fr]**avant de** + infinitif[/fr] (un seul sujet) : [fr]Lave-toi les mains **avant de** manger.[/fr]\n[fr]**avant que** + subjonctif[/fr] (deux sujets) : [fr]Partons **avant qu’**il **pleuve**.[/fr]\n\n**Postériorité — après.** Le français impose l’**infinitif passé**, ce qui surprend souvent.\n[fr]**Après avoir** déjeuné, il est sorti.[/fr]\n[fr]**Après être** arrivée, elle a appelé.[/fr]\n[fr]**Après s’être** reposés, ils sont repartis.[/fr]\n\n**Simultanéité.**\n[fr]**pendant que**[/fr] ((while — two parallel actions)) : [fr]**Pendant que** tu cuisines, je range.[/fr]\n[fr]**quand, lorsque**[/fr] ((when)) — [fr]lorsque[/fr] est simplement plus soutenu.\n[fr]**au moment où**[/fr] ((just as)) : précision maximale.\n\n**Le point de départ et la limite.**\n[fr]**dès que**, **aussitôt que**[/fr] + indicatif : [fr]**Dès que** j’aurai fini, je t’appelle.[/fr]\n[fr]**depuis que**[/fr] + indicatif : [fr]**Depuis qu’**il travaille ici, tout va mieux.[/fr]\n[fr]**jusqu’à ce que**[/fr] + **subjonctif** : [fr]Attends **jusqu’à ce que** je **revienne**.[/fr]\n\nSouviens-toi : après [fr]quand[/fr] et [fr]dès que[/fr], le français met le **futur** là où l’anglais met un présent.",
+  "exemples": [
+    {
+      "fr": "Avant de partir, ferme les fenêtres.",
+      "en": "Before leaving, close the windows."
+    },
+    {
+      "fr": "Après avoir terminé, nous avons pris un café.",
+      "en": "After finishing, we had a coffee."
+    },
+    {
+      "fr": "Pendant que je conduisais, elle dormait.",
+      "en": "While I was driving, she was sleeping."
+    },
+    {
+      "fr": "Dès que tu arriveras, préviens-moi.",
+      "en": "As soon as you arrive, let me know."
+    },
+    {
+      "fr": "Restez ici jusqu’à ce que je revienne.",
+      "en": "Stay here until I come back."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Indicatif, subjonctif ou infinitif ?",
+      "collapsed": false,
+      "headers": [
+        "Connecteur",
+        "Mode",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "avant de",
+          "infinitif",
+          "avant de sortir"
+        ],
+        [
+          "avant que",
+          "**subjonctif**",
+          "avant qu’il sorte"
+        ],
+        [
+          "après",
+          "infinitif **passé**",
+          "après être sorti"
+        ],
+        [
+          "après que",
+          "indicatif",
+          "après qu’il est sorti"
+        ],
+        [
+          "pendant que",
+          "indicatif",
+          "pendant qu’il sortait"
+        ],
+        [
+          "dès que / aussitôt que",
+          "indicatif (futur)",
+          "dès qu’il sortira"
+        ],
+        [
+          "depuis que",
+          "indicatif",
+          "depuis qu’il est sorti"
+        ],
+        [
+          "jusqu’à ce que",
+          "**subjonctif**",
+          "jusqu’à ce qu’il sorte"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quelle forme convient ?",
+      "items": [
+        {
+          "q": "Téléphone-moi avant de ___ .",
+          "options": [
+            "partir",
+            "partes",
+            "tu pars"
+          ],
+          "answer": 0,
+          "why": "Même sujet → [fr]avant de[/fr] + infinitif."
+        },
+        {
+          "q": "Partons avant qu’il ne ___ trop tard.",
+          "options": [
+            "est",
+            "soit",
+            "sera"
+          ],
+          "answer": 1,
+          "why": "[fr]avant que[/fr] → subjonctif."
+        },
+        {
+          "q": "___ mangé, il a fait la vaisselle.",
+          "options": [
+            "Après avoir",
+            "Après être",
+            "Après"
+          ],
+          "answer": 0,
+          "why": "[fr]manger[/fr] prend [fr]avoir[/fr]."
+        },
+        {
+          "q": "Attends ici jusqu’à ce que je ___ .",
+          "options": [
+            "reviens",
+            "revienne",
+            "reviendrai"
+          ],
+          "answer": 1,
+          "why": "[fr]jusqu’à ce que[/fr] → subjonctif."
+        },
+        {
+          "q": "Dès que tu ___ , appelle-moi.",
+          "options": [
+            "arrives",
+            "arriveras",
+            "arriverais"
+          ],
+          "answer": 1,
+          "why": "Après [fr]dès que[/fr], le français met le futur."
+        },
+        {
+          "q": "___ elle travaillait, les enfants jouaient.",
+          "options": [
+            "Pendant qu’",
+            "Avant qu’",
+            "Jusqu’à ce qu’"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "",
+          "after": " avoir lu le contrat, il a signé.",
+          "answer": "Après",
+          "alt": [
+            "après"
+          ]
+        },
+        {
+          "before": "Je resterai ",
+          "after": " à ce que tu reviennes.",
+          "answer": "jusqu’"
+        },
+        {
+          "before": "Réfléchis bien avant ",
+          "after": " répondre.",
+          "answer": "de"
+        },
+        {
+          "before": "",
+          "after": " qu’il est arrivé, tout a changé. (depuis)",
+          "answer": "Depuis",
+          "alt": [
+            "depuis"
+          ]
+        }
+      ]
+    }
+  ]
+}

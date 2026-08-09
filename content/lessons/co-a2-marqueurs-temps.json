@@ -1,0 +1,174 @@
+{
+  "id": "co-a2-marqueurs-temps",
+  "group": "connecteurs",
+  "level": "A2",
+  "order": 220,
+  "title": "Depuis, il y a, pendant, dans",
+  "summary": "Quatre mots de temps que les anglophones confondent systématiquement.",
+  "essentiel": [
+    "[fr]**depuis**[/fr] : ça a commencé et **ça continue** — [fr]depuis 2020[/fr].",
+    "[fr]**il y a**[/fr] : c’est **fini**, on compte en arrière — [fr]il y a deux ans[/fr] ((two years ago)).",
+    "[fr]**pendant**[/fr] : la durée complète · [fr]**dans**[/fr] : dans le futur — [fr]dans dix minutes[/fr]."
+  ],
+  "regle": "Ces quatre mots répondent tous à *how long / when*, mais chacun a sa logique.\n\n**[fr]depuis[/fr] — le point de départ d’une situation qui dure.**\n[fr]J’habite ici **depuis** cinq ans.[/fr] ((for five years — and I still live here))\n[fr]Je travaille **depuis** 2019.[/fr] ((since 2019))\nPoint important : le français met le **présent** là où l’anglais met un present perfect.\n\n**[fr]il y a[/fr] — un moment révolu.**\n[fr]Je suis arrivé **il y a** trois jours.[/fr] ((three days ago))\nLe verbe est au passé.\n\n**[fr]pendant[/fr] — la durée entière d’une action terminée.**\n[fr]J’ai vécu à Lyon **pendant** deux ans.[/fr] ((for two years — and it’s over))\n\n**[fr]dans[/fr] — un moment à venir.**\n[fr]Le train part **dans** dix minutes.[/fr] ((in ten minutes))\n\n**[fr]en[/fr] — le temps qu’il faut pour accomplir quelque chose.**\n[fr]J’ai fini **en** deux heures.[/fr] ((it took me two hours))\n\nLe contraste [fr]dans[/fr] / [fr]en[/fr] est le plus subtil : [fr]Je le fais **dans** une heure[/fr] ((I’ll start in an hour)) contre [fr]Je le fais **en** une heure[/fr] ((it takes me an hour)).",
+  "exemples": [
+    {
+      "fr": "J’apprends le français depuis deux ans.",
+      "en": "I have been learning French for two years."
+    },
+    {
+      "fr": "Nous sommes arrivés il y a une semaine.",
+      "en": "We arrived a week ago."
+    },
+    {
+      "fr": "Il a plu pendant toute la nuit.",
+      "en": "It rained all night."
+    },
+    {
+      "fr": "Le film commence dans cinq minutes.",
+      "en": "The film starts in five minutes."
+    },
+    {
+      "fr": "Elle a écrit ce livre en six mois.",
+      "en": "She wrote this book in six months."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le tableau de décision",
+      "collapsed": false,
+      "headers": [
+        "Mot",
+        "Sens",
+        "Temps du verbe",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "depuis",
+          "ça continue",
+          "présent",
+          "J’habite ici depuis 2020."
+        ],
+        [
+          "il y a",
+          "c’est passé",
+          "passé",
+          "Je suis venu il y a un mois."
+        ],
+        [
+          "pendant",
+          "durée terminée",
+          "passé",
+          "J’ai étudié pendant trois heures."
+        ],
+        [
+          "dans",
+          "à venir",
+          "futur / présent",
+          "Je pars dans une heure."
+        ],
+        [
+          "en",
+          "temps nécessaire",
+          "tous",
+          "Je l’ai fait en dix minutes."
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Depuis, il y a, pendant ou dans ?",
+      "items": [
+        {
+          "q": "J’habite à Lille ___ 2018.",
+          "options": [
+            "depuis",
+            "il y a",
+            "pendant"
+          ],
+          "answer": 0,
+          "why": "La situation continue."
+        },
+        {
+          "q": "Je suis arrivé ___ deux heures.",
+          "options": [
+            "depuis",
+            "il y a",
+            "dans"
+          ],
+          "answer": 1,
+          "why": "Moment révolu → [fr]il y a[/fr]."
+        },
+        {
+          "q": "Le magasin ouvre ___ dix minutes.",
+          "options": [
+            "depuis",
+            "il y a",
+            "dans"
+          ],
+          "answer": 2,
+          "why": "Futur → [fr]dans[/fr]."
+        },
+        {
+          "q": "Nous avons attendu ___ une heure.",
+          "options": [
+            "depuis",
+            "pendant",
+            "dans"
+          ],
+          "answer": 1,
+          "why": "Durée terminée → [fr]pendant[/fr]."
+        },
+        {
+          "q": "Il a couru le marathon ___ trois heures.",
+          "options": [
+            "en",
+            "dans",
+            "depuis"
+          ],
+          "answer": 0,
+          "why": "Temps nécessaire pour accomplir → [fr]en[/fr]."
+        },
+        {
+          "q": "Quelle phrase est correcte ?",
+          "options": [
+            "Je travaille ici depuis trois ans.",
+            "J’ai travaillé ici depuis trois ans.",
+            "Je travaille ici il y a trois ans."
+          ],
+          "answer": 0,
+          "why": "[fr]depuis[/fr] va avec le présent quand ça continue."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "Je ne l’ai pas vu ",
+          "after": " l’été dernier.",
+          "answer": "depuis"
+        },
+        {
+          "before": "Nous partons ",
+          "after": " deux jours.",
+          "answer": "dans"
+        },
+        {
+          "before": "Il a dormi ",
+          "after": " douze heures.",
+          "answer": "pendant"
+        },
+        {
+          "before": "Elle est partie ",
+          "after": " cinq minutes.",
+          "answer": "il y a"
+        }
+      ]
+    }
+  ]
+}

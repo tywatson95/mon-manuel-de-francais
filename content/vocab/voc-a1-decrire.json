@@ -1,0 +1,285 @@
+{
+  "id": "voc-a1-decrire",
+  "title": "Décrire une personne",
+  "level": "A1",
+  "order": 150,
+  "summary": "Le physique, le caractère et l’âge.",
+  "items": [
+    {
+      "fr": "grand(e)",
+      "ipa": "ɡʁɑ̃",
+      "en": "tall, big",
+      "ex": "Il est très grand."
+    },
+    {
+      "fr": "petit(e)",
+      "ipa": "pə.ti",
+      "en": "short, small",
+      "ex": "Ma sœur est petite."
+    },
+    {
+      "fr": "mince",
+      "ipa": "mɛ̃s",
+      "en": "slim",
+      "ex": "Elle est mince et sportive."
+    },
+    {
+      "fr": "gros(se)",
+      "ipa": "ɡʁo",
+      "en": "fat, big",
+      "ex": "Un gros chat noir."
+    },
+    {
+      "fr": "jeune",
+      "ipa": "ʒœn",
+      "en": "young",
+      "ex": "Un homme jeune."
+    },
+    {
+      "fr": "vieux, vieille",
+      "ipa": "vjø, vjɛj",
+      "en": "old",
+      "ex": "Une vieille dame."
+    },
+    {
+      "fr": "âgé(e)",
+      "ipa": "a.ʒe",
+      "en": "elderly",
+      "ex": "Mes parents sont âgés."
+    },
+    {
+      "fr": "beau, belle",
+      "ipa": "bo, bɛl",
+      "en": "handsome, beautiful",
+      "ex": "Quelle belle journée !"
+    },
+    {
+      "fr": "joli(e)",
+      "ipa": "ʒɔ.li",
+      "en": "pretty",
+      "ex": "Une jolie maison."
+    },
+    {
+      "fr": "les cheveux",
+      "ipa": "ʃə.vø",
+      "en": "hair",
+      "ex": "Elle a les cheveux courts."
+    },
+    {
+      "fr": "blond(e)",
+      "ipa": "blɔ̃",
+      "en": "blond",
+      "ex": "Il est blond."
+    },
+    {
+      "fr": "brun(e)",
+      "ipa": "bʁœ̃",
+      "en": "dark-haired",
+      "ex": "Elle est brune."
+    },
+    {
+      "fr": "roux, rousse",
+      "ipa": "ʁu, ʁus",
+      "en": "red-haired",
+      "ex": "Mon frère est roux."
+    },
+    {
+      "fr": "chauve",
+      "ipa": "ʃov",
+      "en": "bald",
+      "ex": "Mon oncle est chauve."
+    },
+    {
+      "fr": "les yeux",
+      "ipa": "jø",
+      "en": "eyes",
+      "ex": "Il a les yeux bleus."
+    },
+    {
+      "fr": "le visage",
+      "ipa": "vi.zaʒ",
+      "en": "face",
+      "ex": "Elle a un visage doux."
+    },
+    {
+      "fr": "la barbe",
+      "ipa": "baʁb",
+      "en": "beard",
+      "ex": "Il porte la barbe."
+    },
+    {
+      "fr": "les lunettes",
+      "ipa": "ly.nɛt",
+      "en": "glasses",
+      "ex": "Je porte des lunettes."
+    },
+    {
+      "fr": "sympathique, sympa",
+      "ipa": "sɛ̃.pa",
+      "en": "nice, friendly",
+      "ex": "Ton frère est très sympa."
+    },
+    {
+      "fr": "gentil(le)",
+      "ipa": "ʒɑ̃.ti",
+      "en": "kind",
+      "ex": "Elle est gentille avec tout le monde."
+    },
+    {
+      "fr": "drôle",
+      "ipa": "dʁol",
+      "en": "funny",
+      "ex": "C’est un garçon très drôle."
+    },
+    {
+      "fr": "timide",
+      "ipa": "ti.mid",
+      "en": "shy",
+      "ex": "Je suis un peu timide."
+    },
+    {
+      "fr": "bavard(e)",
+      "ipa": "ba.vaʁ",
+      "en": "talkative",
+      "ex": "Ma voisine est bavarde."
+    },
+    {
+      "fr": "calme",
+      "ipa": "kalm",
+      "en": "calm",
+      "ex": "Un enfant calme."
+    },
+    {
+      "fr": "sérieux, sérieuse",
+      "ipa": "se.ʁjø",
+      "en": "serious",
+      "ex": "C’est une étudiante sérieuse."
+    },
+    {
+      "fr": "travailleur, travailleuse",
+      "ipa": "tʁa.va.jœʁ",
+      "en": "hard-working",
+      "ex": "Il est très travailleur."
+    },
+    {
+      "fr": "paresseux, paresseuse",
+      "ipa": "pa.ʁɛ.sø",
+      "en": "lazy",
+      "ex": "Ne sois pas paresseux !"
+    },
+    {
+      "fr": "généreux, généreuse",
+      "ipa": "ʒe.ne.ʁø",
+      "en": "generous",
+      "ex": "Elle est très généreuse."
+    },
+    {
+      "fr": "sportif, sportive",
+      "ipa": "spɔʁ.tif",
+      "en": "sporty",
+      "ex": "Mon fils est très sportif."
+    },
+    {
+      "fr": "intelligent(e)",
+      "ipa": "ɛ̃.te.li.ʒɑ̃",
+      "en": "intelligent",
+      "ex": "Une remarque intelligente."
+    },
+    {
+      "fr": "patient(e)",
+      "ipa": "pa.sjɑ̃",
+      "en": "patient",
+      "ex": "Sois patient !"
+    },
+    {
+      "fr": "fatigué(e)",
+      "ipa": "fa.ti.ɡe",
+      "en": "tired",
+      "ex": "Je suis fatigué ce soir."
+    },
+    {
+      "fr": "heureux, heureuse",
+      "ipa": "ø.ʁø",
+      "en": "happy",
+      "ex": "Ils sont heureux ensemble."
+    },
+    {
+      "fr": "triste",
+      "ipa": "tʁist",
+      "en": "sad",
+      "ex": "Elle a l’air triste."
+    },
+    {
+      "fr": "de taille moyenne",
+      "ipa": "tɑj mwa.jɛn",
+      "en": "of average height",
+      "ex": "Il est de taille moyenne."
+    },
+    {
+      "fr": "avoir l’air",
+      "ipa": "a.vwaʁ lɛʁ",
+      "en": "to look, to seem",
+      "ex": "Tu as l’air fatigué."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe l’adjectif à son contraire.",
+      "labelLeft": "Adjectif",
+      "labelRight": "Contraire",
+      "pairs": [
+        [
+          "grand",
+          "petit"
+        ],
+        [
+          "jeune",
+          "vieux"
+        ],
+        [
+          "travailleur",
+          "paresseux"
+        ],
+        [
+          "bavard",
+          "timide"
+        ],
+        [
+          "heureux",
+          "triste"
+        ],
+        [
+          "mince",
+          "gros"
+        ]
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Accorde l’adjectif au féminin.",
+      "items": [
+        {
+          "before": "Elle est ",
+          "after": " . (sportif)",
+          "answer": "sportive"
+        },
+        {
+          "before": "Une femme ",
+          "after": " . (généreux)",
+          "answer": "généreuse"
+        },
+        {
+          "before": "Une ",
+          "after": " dame. (vieux)",
+          "answer": "vieille"
+        },
+        {
+          "before": "Elle est très ",
+          "after": " . (gentil)",
+          "answer": "gentille"
+        }
+      ]
+    }
+  ]
+}

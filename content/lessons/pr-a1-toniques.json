@@ -1,0 +1,157 @@
+{
+  "id": "pr-a1-toniques",
+  "group": "pronoms",
+  "level": "A1",
+  "order": 120,
+  "title": "Les pronoms toniques",
+  "summary": "Moi, toi, lui : le pronom qu’on utilise seul, ou après une préposition.",
+  "essentiel": [
+    "[fr]moi, toi, lui, elle, nous, vous, eux, elles[/fr].",
+    "Après une **préposition** : [fr]avec **moi**, chez **lui**, pour **eux**[/fr].",
+    "Pour **insister** : [fr]**Moi**, je préfère le thé.[/fr]"
+  ],
+  "regle": "Les pronoms sujets ne peuvent pas rester seuls. Pour répondre [fr]— Qui veut du café ? — Moi ![/fr], il faut un **pronom tonique**.\n\n**Quatre emplois.**\n1. **Seul**, dans une réponse : [fr]— Qui a fait ça ? — Lui.[/fr]\n2. **Après une préposition** : [fr]avec moi, sans toi, chez elle, pour eux, à côté de nous[/fr].\n3. **Pour insister** : [fr]**Moi**, je ne suis pas d’accord.[/fr]\n4. **Après [fr]c’est[/fr]** : [fr]C’est moi. · C’est eux.[/fr] ((the careful written form is [fr]ce sont eux[/fr]))\n\nAttention : [fr]lui[/fr] sert pour *him* **et** pour *her* après une préposition… non : après une préposition, *her* est [fr]elle[/fr]. [fr]Je pars avec **lui**[/fr] / [fr]avec **elle**[/fr].",
+  "exemples": [
+    {
+      "fr": "Tu viens avec moi ?",
+      "en": "Are you coming with me?"
+    },
+    {
+      "fr": "C’est pour toi.",
+      "en": "It’s for you."
+    },
+    {
+      "fr": "Moi, je préfère rester ici.",
+      "en": "Me, I’d rather stay here."
+    },
+    {
+      "fr": "Nous dînons chez eux ce soir.",
+      "en": "We’re having dinner at their place tonight."
+    },
+    {
+      "fr": "— Qui a téléphoné ? — Elle.",
+      "en": "— Who called? — She did."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Sujet et tonique côte à côte",
+      "collapsed": false,
+      "headers": [
+        "Sujet",
+        "Tonique",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "je",
+          "moi",
+          "avec moi"
+        ],
+        [
+          "tu",
+          "toi",
+          "pour toi"
+        ],
+        [
+          "il",
+          "lui",
+          "chez lui"
+        ],
+        [
+          "elle",
+          "elle",
+          "sans elle"
+        ],
+        [
+          "nous",
+          "nous",
+          "entre nous"
+        ],
+        [
+          "vous",
+          "vous",
+          "devant vous"
+        ],
+        [
+          "ils",
+          "eux",
+          "à côté d’eux"
+        ],
+        [
+          "elles",
+          "elles",
+          "grâce à elles"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Complète avec le pronom tonique.",
+      "items": [
+        {
+          "before": "Tu peux venir avec ",
+          "after": " ? (je)",
+          "answer": "moi"
+        },
+        {
+          "before": "On dîne chez ",
+          "after": " ce soir. (ils)",
+          "answer": "eux"
+        },
+        {
+          "before": "Ce cadeau est pour ",
+          "after": " . (tu)",
+          "answer": "toi"
+        },
+        {
+          "before": "",
+          "after": " , je ne comprends pas. (je)",
+          "answer": "Moi",
+          "alt": [
+            "moi"
+          ]
+        },
+        {
+          "before": "Je pars sans ",
+          "after": " . (elle)",
+          "answer": "elle"
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le pronom sujet à son pronom tonique.",
+      "labelLeft": "Sujet",
+      "labelRight": "Tonique",
+      "pairs": [
+        [
+          "je",
+          "moi"
+        ],
+        [
+          "tu",
+          "toi"
+        ],
+        [
+          "il",
+          "lui"
+        ],
+        [
+          "ils",
+          "eux"
+        ],
+        [
+          "nous",
+          "nous"
+        ],
+        [
+          "elles",
+          "elles"
+        ]
+      ]
+    }
+  ]
+}

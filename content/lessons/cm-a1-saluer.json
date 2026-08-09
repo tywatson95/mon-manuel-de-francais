@@ -1,0 +1,160 @@
+{
+  "id": "cm-a1-saluer",
+  "group": "communication",
+  "level": "A1",
+  "order": 110,
+  "title": "Saluer et prendre congé",
+  "summary": "Bonjour, au revoir — et le geste qui va avec.",
+  "essentiel": [
+    "[fr]Bonjour[/fr] jusqu’au soir, [fr]bonsoir[/fr] à partir de 18 h environ.",
+    "[fr]Salut[/fr] uniquement entre proches — jamais à un commerçant.",
+    "[fr]Bonne nuit[/fr] veut dire *je vais dormir*, pas *au revoir*."
+  ],
+  "regle": "**Arriver.** [fr]Bonjour[/fr] est obligatoire. En France, entrer dans un lieu sans dire bonjour est ressenti comme impoli — dans un magasin, un ascenseur, une salle d’attente.\n\n[fr]Bonjour madame. · Bonjour messieurs-dames.[/fr]\n\n**Demander comment ça va.**\n[fr]— Comment allez-vous ? — Très bien, merci. Et vous ?[/fr] ((formal))\n[fr]— Ça va ? — Ça va, et toi ?[/fr] ((informal))\nAttention : [fr]Ça va ?[/fr] est une formule, pas une vraie question. On répond brièvement.\n\n**Partir.**\n[fr]Au revoir[/fr] ((standard)) · [fr]Bonne journée · Bonne soirée · Bon week-end[/fr]\n[fr]À bientôt · À demain · À tout à l’heure[/fr] ((later today)) · [fr]Salut ![/fr] ((informal, both hello and goodbye))\n\n**Le piège de [fr]bonne nuit[/fr].** Elle se dit seulement quand on va se coucher. Pour quitter quelqu’un le soir, c’est [fr]bonne soirée[/fr].",
+  "exemples": [
+    {
+      "fr": "Bonjour madame, je voudrais un café.",
+      "en": "Hello, I’d like a coffee."
+    },
+    {
+      "fr": "Bonsoir, une table pour deux, s’il vous plaît.",
+      "en": "Good evening, a table for two, please."
+    },
+    {
+      "fr": "Au revoir et bonne journée !",
+      "en": "Goodbye and have a good day!"
+    },
+    {
+      "fr": "Salut ! Ça va ? — Ça va, et toi ?",
+      "en": "Hi! How’s it going? — Fine, and you?"
+    },
+    {
+      "fr": "À demain, bonne soirée.",
+      "en": "See you tomorrow, have a good evening."
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : deux rencontres",
+    "lines": [
+      {
+        "who": "Client",
+        "fr": "Bonjour madame.",
+        "en": "Hello."
+      },
+      {
+        "who": "Vendeuse",
+        "fr": "Bonjour monsieur, je peux vous aider ?",
+        "en": "Hello, can I help you?"
+      },
+      {
+        "who": "Client",
+        "fr": "Non merci, je regarde.",
+        "en": "No thanks, I’m just looking."
+      },
+      {
+        "who": "Vendeuse",
+        "fr": "Je vous en prie. Bonne journée !",
+        "en": "You’re welcome. Have a good day!"
+      },
+      {
+        "who": "Léa",
+        "fr": "Salut Tom ! Ça va ?",
+        "en": "Hi Tom! How’s it going?"
+      },
+      {
+        "who": "Tom",
+        "fr": "Salut ! Ça va bien. On se voit demain ?",
+        "en": "Hi! I’m fine. See you tomorrow?"
+      }
+    ],
+    "check": {
+      "q": "Pourquoi la vendeuse dit « bonjour monsieur » et non « salut » ?",
+      "options": [
+        "Parce que le client est un inconnu.",
+        "Parce qu’il est plus âgé.",
+        "Parce que c’est le matin."
+      ],
+      "answer": 0,
+      "why": "[fr]Salut[/fr] est réservé aux proches."
+    }
+  },
+  "culture": {
+    "icon": "😘",
+    "title": "La bise ou la poignée de main ?",
+    "text": "Entre amis et en famille, on fait **la bise** — deux bisous en général, quatre dans le Nord, trois dans le Sud-Est. Au travail et avec des inconnus, c’est une **poignée de main**. Beaucoup de Français se contentent aujourd’hui d’un signe de tête ; observez ce que fait l’autre et suivez."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Que dis-tu dans cette situation ?",
+      "items": [
+        {
+          "q": "Tu entres dans une pharmacie à 10 h.",
+          "options": [
+            "Bonjour",
+            "Bonsoir",
+            "Salut"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Tu quittes un collègue à 19 h.",
+          "options": [
+            "Bonne nuit",
+            "Bonne soirée",
+            "Bonjour"
+          ],
+          "answer": 1,
+          "why": "[fr]Bonne nuit[/fr] = on va dormir."
+        },
+        {
+          "q": "Tu vois un ami que tu reverras dans une heure.",
+          "options": [
+            "Au revoir",
+            "À tout à l’heure",
+            "À bientôt"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "On te dit « Ça va ? ». Tu réponds :",
+          "options": [
+            "Ça va, merci. Et toi ?",
+            "Je suis fatigué depuis lundi…",
+            "Oui."
+          ],
+          "answer": 0,
+          "why": "C’est une formule : la réponse est brève."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe la formule au moment.",
+      "labelLeft": "Formule",
+      "labelRight": "Moment",
+      "pairs": [
+        [
+          "Bonjour",
+          "on arrive, la journée"
+        ],
+        [
+          "Bonsoir",
+          "on arrive, le soir"
+        ],
+        [
+          "Bonne nuit",
+          "on va se coucher"
+        ],
+        [
+          "Bonne soirée",
+          "on part, le soir"
+        ],
+        [
+          "À demain",
+          "on se revoit le lendemain"
+        ]
+      ]
+    }
+  ]
+}

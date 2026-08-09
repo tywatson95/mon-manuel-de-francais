@@ -1,0 +1,284 @@
+{
+  "id": "voc-a1-loisirs",
+  "title": "Loisirs & sports",
+  "level": "A1",
+  "order": 240,
+  "summary": "Ce qu’on fait pour le plaisir.",
+  "items": [
+    {
+      "fr": "un loisir",
+      "ipa": "lwa.ziʁ",
+      "en": "a leisure activity",
+      "ex": "Quels sont tes loisirs ?"
+    },
+    {
+      "fr": "le sport",
+      "ipa": "spɔʁ",
+      "en": "sport",
+      "ex": "Je fais du sport trois fois par semaine."
+    },
+    {
+      "fr": "le football",
+      "ipa": "fut.bol",
+      "en": "football",
+      "ex": "Il joue au football."
+    },
+    {
+      "fr": "le tennis",
+      "ipa": "te.nis",
+      "en": "tennis",
+      "ex": "On joue au tennis samedi ?"
+    },
+    {
+      "fr": "la natation",
+      "ipa": "na.ta.sjɔ̃",
+      "en": "swimming",
+      "ex": "Je fais de la natation."
+    },
+    {
+      "fr": "nager",
+      "ipa": "na.ʒe",
+      "en": "to swim",
+      "ex": "Elle nage très bien."
+    },
+    {
+      "fr": "courir",
+      "ipa": "ku.ʁiʁ",
+      "en": "to run",
+      "ex": "Je cours le matin."
+    },
+    {
+      "fr": "la course à pied",
+      "ipa": "kuʁs a pje",
+      "en": "running",
+      "ex": "La course à pied me détend."
+    },
+    {
+      "fr": "le vélo",
+      "ipa": "ve.lo",
+      "en": "cycling, bike",
+      "ex": "Je vais au travail à vélo."
+    },
+    {
+      "fr": "la randonnée",
+      "ipa": "ʁɑ̃.dɔ.ne",
+      "en": "hiking",
+      "ex": "On fait une randonnée dimanche."
+    },
+    {
+      "fr": "le ski",
+      "ipa": "ski",
+      "en": "skiing",
+      "ex": "Ils font du ski en février."
+    },
+    {
+      "fr": "la danse",
+      "ipa": "dɑ̃s",
+      "en": "dancing",
+      "ex": "Elle prend des cours de danse."
+    },
+    {
+      "fr": "la musique",
+      "ipa": "my.zik",
+      "en": "music",
+      "ex": "J’écoute de la musique."
+    },
+    {
+      "fr": "jouer d’un instrument",
+      "ipa": "ɛ̃s.tʁy.mɑ̃",
+      "en": "to play an instrument",
+      "ex": "Je joue du piano."
+    },
+    {
+      "fr": "le piano",
+      "ipa": "pja.no",
+      "en": "the piano",
+      "ex": "Il joue du piano depuis dix ans."
+    },
+    {
+      "fr": "la guitare",
+      "ipa": "ɡi.taʁ",
+      "en": "the guitar",
+      "ex": "Elle joue de la guitare."
+    },
+    {
+      "fr": "chanter",
+      "ipa": "ʃɑ̃.te",
+      "en": "to sing",
+      "ex": "Je chante sous la douche."
+    },
+    {
+      "fr": "la lecture",
+      "ipa": "lɛk.tyʁ",
+      "en": "reading",
+      "ex": "La lecture est mon loisir préféré."
+    },
+    {
+      "fr": "un livre",
+      "ipa": "livʁ",
+      "en": "a book",
+      "ex": "Je lis un livre par mois."
+    },
+    {
+      "fr": "le cinéma",
+      "ipa": "si.ne.ma",
+      "en": "the cinema",
+      "ex": "On va au cinéma ce soir ?"
+    },
+    {
+      "fr": "un film",
+      "ipa": "film",
+      "en": "a film",
+      "ex": "Un film français."
+    },
+    {
+      "fr": "une série",
+      "ipa": "se.ʁi",
+      "en": "a series",
+      "ex": "Je regarde une série le soir."
+    },
+    {
+      "fr": "la photographie",
+      "ipa": "fɔ.tɔ.ɡʁa.fi",
+      "en": "photography",
+      "ex": "Il fait de la photographie."
+    },
+    {
+      "fr": "le jardinage",
+      "ipa": "ʒaʁ.di.naʒ",
+      "en": "gardening",
+      "ex": "Le jardinage me détend."
+    },
+    {
+      "fr": "la cuisine",
+      "ipa": "kɥi.zin",
+      "en": "cooking",
+      "ex": "J’adore la cuisine."
+    },
+    {
+      "fr": "le jeu vidéo",
+      "ipa": "ʒø vi.de.o",
+      "en": "video game",
+      "ex": "Il joue à des jeux vidéo."
+    },
+    {
+      "fr": "les jeux de société",
+      "ipa": "ʒø də sɔ.sje.te",
+      "en": "board games",
+      "ex": "On joue à des jeux de société."
+    },
+    {
+      "fr": "sortir",
+      "ipa": "sɔʁ.tiʁ",
+      "en": "to go out",
+      "ex": "On sort ce soir ?"
+    },
+    {
+      "fr": "se promener",
+      "ipa": "sə pʁɔm.ne",
+      "en": "to go for a walk",
+      "ex": "On se promène au parc."
+    },
+    {
+      "fr": "voyager",
+      "ipa": "vwa.ja.ʒe",
+      "en": "to travel",
+      "ex": "J’aime beaucoup voyager."
+    },
+    {
+      "fr": "jouer à",
+      "ipa": "ʒwe a",
+      "en": "to play (a sport, game)",
+      "ex": "Je joue au foot."
+    },
+    {
+      "fr": "jouer de",
+      "ipa": "ʒwe də",
+      "en": "to play (an instrument)",
+      "ex": "Je joue de la guitare."
+    },
+    {
+      "fr": "faire du / de la",
+      "ipa": "fɛʁ dy",
+      "en": "to do (an activity)",
+      "ex": "Je fais de la natation."
+    },
+    {
+      "fr": "un club",
+      "ipa": "klœb",
+      "en": "a club",
+      "ex": "Je suis inscrit au club de tennis."
+    },
+    {
+      "fr": "une équipe",
+      "ipa": "e.kip",
+      "en": "a team",
+      "ex": "Mon équipe a gagné."
+    },
+    {
+      "fr": "gagner",
+      "ipa": "ɡa.ɲe",
+      "en": "to win",
+      "ex": "Nous avons gagné !"
+    },
+    {
+      "fr": "perdre",
+      "ipa": "pɛʁdʁ",
+      "en": "to lose",
+      "ex": "Ils ont perdu 2-0."
+    },
+    {
+      "fr": "s’entraîner",
+      "ipa": "sɑ̃.tʁɛ.ne",
+      "en": "to train",
+      "ex": "Je m’entraîne le mardi."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Jouer à, jouer de, ou faire de ?",
+      "items": [
+        {
+          "q": "Je joue ___ tennis.",
+          "options": [
+            "au",
+            "du",
+            "de la"
+          ],
+          "answer": 0,
+          "why": "Un sport ou un jeu → [fr]jouer **à**[/fr]."
+        },
+        {
+          "q": "Elle joue ___ piano.",
+          "options": [
+            "au",
+            "du",
+            "de la"
+          ],
+          "answer": 1,
+          "why": "Un instrument → [fr]jouer **de**[/fr]."
+        },
+        {
+          "q": "Il joue ___ guitare.",
+          "options": [
+            "à la",
+            "de la",
+            "du"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Nous faisons ___ natation.",
+          "options": [
+            "de la",
+            "à la",
+            "du"
+          ],
+          "answer": 0,
+          "why": "[fr]faire **de la** natation[/fr]."
+        }
+      ]
+    }
+  ]
+}

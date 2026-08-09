@@ -1,0 +1,257 @@
+{
+  "id": "tm-a1-present-etre-avoir",
+  "group": "temps-modes",
+  "level": "A1",
+  "order": 110,
+  "title": "Le présent : être, avoir, aller, faire",
+  "summary": "Les quatre verbes qui ouvrent presque toutes les phrases françaises.",
+  "essentiel": [
+    "Quatre verbes irréguliers à connaître par cœur : [fr]être, avoir, aller, faire[/fr] ((to be, to have, to go, to do)).",
+    "Ils servent aussi à construire d’autres temps : [fr]je **suis** allé[/fr], [fr]j’**ai** mangé[/fr], [fr]je **vais** partir[/fr].",
+    "[fr]Je[/fr] devient [fr]j’[/fr] devant une voyelle : [fr]j’ai[/fr] ((I have))."
+  ],
+  "regle": "Ces quatre verbes sont irréguliers ((irregular)). On ne peut pas les deviner : on les apprend.\n\n[fr]**Être**[/fr] ((to be)) dit ce qu’on est : [fr]Je suis étudiant.[/fr]\n\n[fr]**Avoir**[/fr] ((to have)) dit ce qu’on possède — et aussi l’âge : [fr]J’ai 30 ans.[/fr] ((I am 30)). Attention : en français, on **a** un âge, on n’**est** pas un âge.\n\n[fr]**Aller**[/fr] ((to go)) dit le mouvement, et répond à [fr]Ça va ?[/fr]\n\n[fr]**Faire**[/fr] ((to do, to make)) est partout : [fr]faire du sport, faire la cuisine, il fait froid[/fr].",
+  "exemples": [
+    {
+      "fr": "Je suis sud-africain et j’habite à Paris.",
+      "en": "I am South African and I live in Paris."
+    },
+    {
+      "fr": "Tu as quel âge ? — J’ai trente-deux ans.",
+      "en": "How old are you? — I am thirty-two."
+    },
+    {
+      "fr": "Nous allons au marché le samedi.",
+      "en": "We go to the market on Saturdays."
+    },
+    {
+      "fr": "Qu’est-ce que vous faites dans la vie ?",
+      "en": "What do you do for a living?"
+    },
+    {
+      "fr": "Il fait beau aujourd’hui.",
+      "en": "The weather is nice today."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les quatre verbes au présent",
+      "collapsed": false,
+      "headers": [
+        "",
+        "être",
+        "avoir",
+        "aller",
+        "faire"
+      ],
+      "rows": [
+        [
+          "je / j’",
+          "suis",
+          "ai",
+          "vais",
+          "fais"
+        ],
+        [
+          "tu",
+          "es",
+          "as",
+          "vas",
+          "fais"
+        ],
+        [
+          "il / elle",
+          "est",
+          "a",
+          "va",
+          "fait"
+        ],
+        [
+          "nous",
+          "sommes",
+          "avons",
+          "allons",
+          "faisons"
+        ],
+        [
+          "vous",
+          "êtes",
+          "avez",
+          "allez",
+          "faites"
+        ],
+        [
+          "ils / elles",
+          "sont",
+          "ont",
+          "vont",
+          "font"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : à la boulangerie",
+    "lines": [
+      {
+        "who": "Client",
+        "fr": "Bonjour madame ! Ça va ?",
+        "en": "Hello! How are you?"
+      },
+      {
+        "who": "Boulangère",
+        "fr": "Bonjour ! Ça va très bien, merci. Et vous ?",
+        "en": "Hello! Very well, thanks. And you?"
+      },
+      {
+        "who": "Client",
+        "fr": "Ça va. Vous avez des croissants ?",
+        "en": "I’m fine. Do you have any croissants?"
+      },
+      {
+        "who": "Boulangère",
+        "fr": "Oui, ils sont tout chauds.",
+        "en": "Yes, they’re still warm."
+      },
+      {
+        "who": "Client",
+        "fr": "Parfait. J’en prends deux.",
+        "en": "Perfect. I’ll take two."
+      },
+      {
+        "who": "Boulangère",
+        "fr": "Ça fait deux euros vingt.",
+        "en": "That’s two euros twenty."
+      }
+    ],
+    "check": {
+      "q": "Pourquoi la boulangère dit « Et vous ? »",
+      "options": [
+        "Elle pose la même question au client.",
+        "Elle ne comprend pas.",
+        "Elle demande le prix."
+      ],
+      "answer": 0,
+      "why": "[fr]Et vous ?[/fr] renvoie poliment la question."
+    }
+  },
+  "culture": {
+    "icon": "🥖",
+    "title": "On dit « bonjour » avant tout",
+    "text": "En France, on entre dans un magasin et on dit [fr]bonjour[/fr] **avant** de demander quelque chose. Commencer directement par sa demande est ressenti comme impoli."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne forme.",
+      "items": [
+        {
+          "q": "Je ___ étudiant.",
+          "options": [
+            "suis",
+            "ai",
+            "vais"
+          ],
+          "answer": 0,
+          "why": "[fr]Être[/fr] pour dire ce qu’on est."
+        },
+        {
+          "q": "Elle ___ vingt ans.",
+          "options": [
+            "est",
+            "a",
+            "va"
+          ],
+          "answer": 1,
+          "why": "L’âge se dit avec [fr]avoir[/fr]."
+        },
+        {
+          "q": "Nous ___ au cinéma.",
+          "options": [
+            "sommes",
+            "avons",
+            "allons"
+          ],
+          "answer": 2,
+          "why": "[fr]Aller[/fr] pour le mouvement."
+        },
+        {
+          "q": "Vous ___ du sport ?",
+          "options": [
+            "faites",
+            "faisez",
+            "fais"
+          ],
+          "answer": 0,
+          "why": "[fr]Vous faites[/fr] — une forme irrégulière à retenir."
+        },
+        {
+          "q": "Ils ___ français.",
+          "options": [
+            "sont",
+            "ont",
+            "vont"
+          ],
+          "answer": 0,
+          "why": "La nationalité se dit avec [fr]être[/fr]."
+        },
+        {
+          "q": "Tu ___ un frère ?",
+          "options": [
+            "es",
+            "as",
+            "vas"
+          ],
+          "answer": 1,
+          "why": "La possession se dit avec [fr]avoir[/fr]."
+        },
+        {
+          "q": "Il ___ froid ce matin.",
+          "options": [
+            "est",
+            "a",
+            "fait"
+          ],
+          "answer": 2,
+          "why": "La météo se dit avec [fr]faire[/fr] : [fr]il fait froid[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Écris le verbe qui manque.",
+      "items": [
+        {
+          "before": "Nous ",
+          "after": " à Lyon.",
+          "answer": "sommes",
+          "why": "[fr]nous[/fr] + être = [fr]sommes[/fr]."
+        },
+        {
+          "before": "J’",
+          "after": " deux enfants.",
+          "answer": "ai",
+          "why": "[fr]j’[/fr] + avoir = [fr]ai[/fr]."
+        },
+        {
+          "before": "Vous ",
+          "after": " en vacances ?",
+          "answer": "allez",
+          "why": "[fr]vous[/fr] + aller = [fr]allez[/fr]."
+        },
+        {
+          "before": "Ils ",
+          "after": " la cuisine ensemble.",
+          "answer": "font",
+          "why": "[fr]ils[/fr] + faire = [fr]font[/fr]."
+        },
+        {
+          "before": "Tu ",
+          "after": " très gentil.",
+          "answer": "es",
+          "why": "[fr]tu[/fr] + être = [fr]es[/fr]."
+        }
+      ]
+    }
+  ]
+}

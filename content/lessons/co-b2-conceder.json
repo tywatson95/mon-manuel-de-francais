@@ -1,0 +1,159 @@
+{
+  "id": "co-b2-conceder",
+  "group": "connecteurs",
+  "level": "B2",
+  "order": 440,
+  "title": "Concéder puis contrer",
+  "summary": "Certes… mais : la figure la plus utile du débat français.",
+  "essentiel": [
+    "Le schéma : **je te donne raison sur un point**, *puis* **je reprends la main**.",
+    "[fr]**Certes**…, **mais**…[/fr] · [fr]**Il est vrai que**…, **néanmoins**…[/fr] · [fr]**Je vous l’accorde**, **cependant**…[/fr]",
+    "La concession renforce l’argument : elle prouve qu’on a écouté."
+  ],
+  "regle": "Dans un débat français, attaquer frontalement passe mal. La technique attendue est la **concession**, puis le retournement.\n\n**Le squelette.**\n[fr]**Certes**, cette solution coûte cher. **Mais** elle est la seule qui règle le problème durablement.[/fr]\n\n**Les formules d’ouverture de concession.**\n[fr]Certes · Il est vrai que · Je vous l’accorde · J’en conviens · Bien entendu · On peut comprendre que[/fr]\n\n**Les formules de retournement.**\n[fr]mais · cependant · toutefois · néanmoins · il n’en demeure pas moins que · reste que · pour autant[/fr]\n\n**Nuancer sans céder.**\n[fr]dans une certaine mesure · jusqu’à un certain point · en apparence · à première vue[/fr]\n[fr]**À première vue**, l’idée séduit. **En réalité**, elle est inapplicable.[/fr]\n\n**Prendre et rendre la parole.** C’est aussi du B2 :\n[fr]Si je peux me permettre… · Vous avez raison sur ce point, mais… · Justement ! · Attendez, laissez-moi finir. · Pour en revenir à…[/fr]\n\n**Le ton compte.** Le débat français accepte la contradiction vive, mais mal accepte l’attaque personnelle. On attaque l’argument, jamais la personne.",
+  "exemples": [
+    {
+      "fr": "Certes, le texte est ambitieux ; il reste toutefois très vague.",
+      "en": "Admittedly, the text is ambitious; it nonetheless remains very vague."
+    },
+    {
+      "fr": "Je vous l’accorde, les chiffres sont bons. Il n’en demeure pas moins que la tendance s’inverse.",
+      "en": "I grant you, the figures are good. The fact remains that the trend is reversing."
+    },
+    {
+      "fr": "À première vue, c’est séduisant. En réalité, c’est irréalisable.",
+      "en": "At first sight it’s appealing. In reality, it’s unworkable."
+    },
+    {
+      "fr": "Vous avez raison sur ce point, mais permettez-moi de nuancer.",
+      "en": "You’re right on that point, but let me qualify it."
+    },
+    {
+      "fr": "Attendez, laissez-moi terminer, s’il vous plaît.",
+      "en": "Wait, let me finish, please."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le mouvement en deux temps",
+      "collapsed": false,
+      "headers": [
+        "1 · Je concède",
+        "2 · Je reprends"
+      ],
+      "rows": [
+        [
+          "Certes,",
+          "mais / toutefois"
+        ],
+        [
+          "Il est vrai que",
+          "il n’en demeure pas moins que"
+        ],
+        [
+          "Je vous l’accorde,",
+          "cependant"
+        ],
+        [
+          "Bien entendu,",
+          "reste que"
+        ],
+        [
+          "À première vue,",
+          "en réalité"
+        ],
+        [
+          "Dans une certaine mesure,",
+          "néanmoins"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Complète la concession.",
+      "items": [
+        {
+          "q": "« ___ , c’est un bon film, mais il est trop long. »",
+          "options": [
+            "Certes",
+            "Donc",
+            "En effet"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Il est vrai que le prix est élevé. ___ , la qualité le justifie. »",
+          "options": [
+            "Ainsi",
+            "Néanmoins",
+            "Par exemple"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« ___ , la proposition semble juste. En réalité, elle est biaisée. »",
+          "options": [
+            "À première vue",
+            "Par conséquent",
+            "En somme"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Pour interrompre poliment :",
+          "options": [
+            "Taisez-vous.",
+            "Si je peux me permettre…",
+            "C’est faux."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Il n’en demeure pas moins que… » sert à…",
+          "options": [
+            "concéder",
+            "reprendre la main",
+            "conclure"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Reconstruis l’argument concessif.",
+      "items": [
+        {
+          "tokens": [
+            "Certes,",
+            "le",
+            "projet",
+            "est",
+            "coûteux,",
+            "mais",
+            "il",
+            "est",
+            "nécessaire"
+          ],
+          "answer": "Certes, le projet est coûteux, mais il est nécessaire"
+        },
+        {
+          "tokens": [
+            "Je",
+            "vous",
+            "l’accorde,",
+            "cependant",
+            "les",
+            "chiffres",
+            "disent",
+            "le",
+            "contraire"
+          ],
+          "answer": "Je vous l’accorde, cependant les chiffres disent le contraire"
+        }
+      ]
+    }
+  ]
+}

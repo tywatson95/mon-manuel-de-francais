@@ -1,0 +1,284 @@
+{
+  "id": "tm-a1-present-irreguliers",
+  "group": "temps-modes",
+  "level": "A1",
+  "order": 130,
+  "title": "Le présent : les irréguliers indispensables",
+  "summary": "Dix verbes qui ne suivent aucune règle — et qu’on utilise tous les jours.",
+  "essentiel": [
+    "Beaucoup d’irréguliers ont **deux radicaux** : un au singulier, un au pluriel. [fr]je **veux** / nous **voulons**[/fr].",
+    "La 3e personne du pluriel reprend souvent le radical du singulier : [fr]ils **veul**ent[/fr].",
+    "Les terminaisons, elles, sont presque toujours **-s, -s, -t, -ons, -ez, -ent**."
+  ],
+  "regle": "Un verbe irrégulier ((irregular verb)) change de **radical** ((stem)) selon la personne. C’est le point difficile — mais il y a une logique : le radical « court » va avec [fr]je, tu, il, ils[/fr] ; le radical « long » va avec [fr]nous[/fr] et [fr]vous[/fr].\n\n[fr]je peux · tu peux · il peut[/fr] → radical court\n[fr]nous pouvons · vous pouvez[/fr] → radical long\n[fr]ils peuvent[/fr] → retour au radical court\n\nRetiens le couple [fr]je[/fr] / [fr]nous[/fr] pour chaque verbe : le reste se déduit.",
+  "exemples": [
+    {
+      "fr": "Je peux vous aider ?",
+      "en": "Can I help you?"
+    },
+    {
+      "fr": "Nous voulons réserver une table.",
+      "en": "We would like to book a table."
+    },
+    {
+      "fr": "Tu dois partir maintenant.",
+      "en": "You must leave now."
+    },
+    {
+      "fr": "Ils prennent le train de huit heures.",
+      "en": "They take the eight o’clock train."
+    },
+    {
+      "fr": "Je viens de Johannesbourg.",
+      "en": "I come from Johannesburg."
+    },
+    {
+      "fr": "Vous buvez du vin ?",
+      "en": "Do you drink wine?"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Voir les dix verbes au complet",
+      "collapsed": true,
+      "headers": [
+        "Infinitif",
+        "je",
+        "tu",
+        "il/elle",
+        "nous",
+        "vous",
+        "ils/elles"
+      ],
+      "rows": [
+        [
+          "pouvoir",
+          "peux",
+          "peux",
+          "peut",
+          "pouvons",
+          "pouvez",
+          "peuvent"
+        ],
+        [
+          "vouloir",
+          "veux",
+          "veux",
+          "veut",
+          "voulons",
+          "voulez",
+          "veulent"
+        ],
+        [
+          "devoir",
+          "dois",
+          "dois",
+          "doit",
+          "devons",
+          "devez",
+          "doivent"
+        ],
+        [
+          "prendre",
+          "prends",
+          "prends",
+          "prend",
+          "prenons",
+          "prenez",
+          "prennent"
+        ],
+        [
+          "venir",
+          "viens",
+          "viens",
+          "vient",
+          "venons",
+          "venez",
+          "viennent"
+        ],
+        [
+          "boire",
+          "bois",
+          "bois",
+          "boit",
+          "buvons",
+          "buvez",
+          "boivent"
+        ],
+        [
+          "dormir",
+          "dors",
+          "dors",
+          "dort",
+          "dormons",
+          "dormez",
+          "dorment"
+        ],
+        [
+          "sortir",
+          "sors",
+          "sors",
+          "sort",
+          "sortons",
+          "sortez",
+          "sortent"
+        ],
+        [
+          "lire",
+          "lis",
+          "lis",
+          "lit",
+          "lisons",
+          "lisez",
+          "lisent"
+        ],
+        [
+          "écrire",
+          "écris",
+          "écris",
+          "écrit",
+          "écrivons",
+          "écrivez",
+          "écrivent"
+        ]
+      ]
+    }
+  ],
+  "culture": {
+    "icon": "⚡",
+    "title": "Les plus irréguliers sont les plus fréquents",
+    "text": "Ce n’est pas un hasard : les verbes très utilisés résistent au changement. Les dix verbes de cette leçon représentent une énorme part du français parlé — les apprendre rapporte beaucoup."
+  },
+  "exercices": [
+    {
+      "type": "trou",
+      "consigne": "Complète avec le verbe indiqué.",
+      "items": [
+        {
+          "before": "Je ne ",
+          "after": " pas venir ce soir. (pouvoir)",
+          "answer": "peux",
+          "why": "[fr]je peux[/fr] — radical court."
+        },
+        {
+          "before": "Nous ",
+          "after": " un café. (prendre)",
+          "answer": "prenons",
+          "why": "[fr]nous prenons[/fr] — radical long, un seul [fr]n[/fr]."
+        },
+        {
+          "before": "Ils ",
+          "after": " du thé. (boire)",
+          "answer": "boivent",
+          "why": "[fr]ils boivent[/fr] — retour au radical court."
+        },
+        {
+          "before": "Tu ",
+          "after": " rentrer avant minuit. (devoir)",
+          "answer": "dois",
+          "why": "[fr]tu dois[/fr]."
+        },
+        {
+          "before": "Vous ",
+          "after": " d’où ? (venir)",
+          "answer": "venez",
+          "why": "[fr]vous venez[/fr] — radical long."
+        },
+        {
+          "before": "Elle ",
+          "after": " un roman. (lire)",
+          "answer": "lit",
+          "why": "[fr]elle lit[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe le sujet à sa forme verbale.",
+      "labelLeft": "Sujet + verbe",
+      "labelRight": "Traduction",
+      "pairs": [
+        [
+          "je veux",
+          "I want"
+        ],
+        [
+          "nous voulons",
+          "we want"
+        ],
+        [
+          "ils prennent",
+          "they take"
+        ],
+        [
+          "vous écrivez",
+          "you write"
+        ],
+        [
+          "elle dort",
+          "she sleeps"
+        ],
+        [
+          "tu sors",
+          "you go out"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Choisis la forme correcte.",
+      "items": [
+        {
+          "q": "Nous ___ partir tôt.",
+          "options": [
+            "devons",
+            "doivons",
+            "devez"
+          ],
+          "answer": 0,
+          "why": "[fr]nous devons[/fr]."
+        },
+        {
+          "q": "Ils ___ toujours en retard.",
+          "options": [
+            "vient",
+            "viennent",
+            "venez"
+          ],
+          "answer": 1,
+          "why": "[fr]ils viennent[/fr] — double [fr]n[/fr]."
+        },
+        {
+          "q": "Je ___ un message.",
+          "options": [
+            "écris",
+            "écrit",
+            "écrivons"
+          ],
+          "answer": 0,
+          "why": "[fr]j’écris[/fr]."
+        },
+        {
+          "q": "Vous ___ du café ?",
+          "options": [
+            "boivez",
+            "buvez",
+            "boivent"
+          ],
+          "answer": 1,
+          "why": "[fr]vous buvez[/fr] — radical [fr]buv-[/fr]."
+        },
+        {
+          "q": "Elle ___ le bus.",
+          "options": [
+            "prends",
+            "prend",
+            "prennent"
+          ],
+          "answer": 1,
+          "why": "3e personne du singulier : [fr]prend[/fr], sans [fr]s[/fr]."
+        }
+      ]
+    }
+  ]
+}

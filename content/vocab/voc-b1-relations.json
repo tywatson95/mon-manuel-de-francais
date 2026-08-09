@@ -1,0 +1,249 @@
+{
+  "id": "voc-b1-relations",
+  "title": "Relations & sentiments nuancés",
+  "level": "B1",
+  "order": 450,
+  "summary": "Les liens humains, au-delà de « content » et « triste ».",
+  "items": [
+    {
+      "fr": "une relation",
+      "ipa": "ʁə.la.sjɔ̃",
+      "en": "a relationship",
+      "ex": "Une relation de confiance."
+    },
+    {
+      "fr": "la confiance",
+      "ipa": "kɔ̃.fjɑ̃s",
+      "en": "trust",
+      "ex": "J’ai confiance en lui."
+    },
+    {
+      "fr": "la méfiance",
+      "ipa": "me.fjɑ̃s",
+      "en": "distrust",
+      "ex": "Une certaine méfiance s’installe."
+    },
+    {
+      "fr": "le respect",
+      "ipa": "ʁɛs.pɛ",
+      "en": "respect",
+      "ex": "Le respect mutuel est essentiel."
+    },
+    {
+      "fr": "la complicité",
+      "ipa": "kɔ̃.pli.si.te",
+      "en": "closeness",
+      "ex": "Il y a une belle complicité."
+    },
+    {
+      "fr": "un malentendu",
+      "ipa": "mal.ɑ̃.tɑ̃.dy",
+      "en": "a misunderstanding",
+      "ex": "C’était un simple malentendu."
+    },
+    {
+      "fr": "une dispute",
+      "ipa": "dis.pyt",
+      "en": "an argument",
+      "ex": "Une dispute sans importance."
+    },
+    {
+      "fr": "se disputer",
+      "ipa": "sə dis.py.te",
+      "en": "to argue",
+      "ex": "Ils se disputent souvent."
+    },
+    {
+      "fr": "se réconcilier",
+      "ipa": "ʁe.kɔ̃.si.lje",
+      "en": "to make up",
+      "ex": "Ils se sont réconciliés."
+    },
+    {
+      "fr": "pardonner",
+      "ipa": "paʁ.dɔ.ne",
+      "en": "to forgive",
+      "ex": "Je lui ai pardonné."
+    },
+    {
+      "fr": "en vouloir à",
+      "ipa": "ɑ̃ vu.lwaʁ",
+      "en": "to hold a grudge",
+      "ex": "Je ne t’en veux pas."
+    },
+    {
+      "fr": "être touché(e)",
+      "ipa": "tu.ʃe",
+      "en": "to be moved",
+      "ex": "J’ai été très touché."
+    },
+    {
+      "fr": "être ému(e)",
+      "ipa": "e.my",
+      "en": "to be moved",
+      "ex": "Elle était très émue."
+    },
+    {
+      "fr": "agacé(e)",
+      "ipa": "a.ɡa.se",
+      "en": "irritated",
+      "ex": "Ce bruit m’agace."
+    },
+    {
+      "fr": "frustré(e)",
+      "ipa": "fʁys.tʁe",
+      "en": "frustrated",
+      "ex": "Je me sens frustré."
+    },
+    {
+      "fr": "soulagé(e)",
+      "ipa": "su.la.ʒe",
+      "en": "relieved",
+      "ex": "Quel soulagement !"
+    },
+    {
+      "fr": "nostalgique",
+      "ipa": "nɔs.tal.ʒik",
+      "en": "nostalgic",
+      "ex": "Je suis nostalgique de cette époque."
+    },
+    {
+      "fr": "fier, fière",
+      "ipa": "fjɛʁ",
+      "en": "proud",
+      "ex": "Je suis fier de toi."
+    },
+    {
+      "fr": "reconnaissant(e)",
+      "ipa": "ʁə.kɔ.nɛ.sɑ̃",
+      "en": "grateful",
+      "ex": "Je vous suis reconnaissant."
+    },
+    {
+      "fr": "déçu(e)",
+      "ipa": "de.sy",
+      "en": "disappointed",
+      "ex": "J’ai été déçu du résultat."
+    },
+    {
+      "fr": "mal à l’aise",
+      "ipa": "mal a lɛz",
+      "en": "uncomfortable",
+      "ex": "Je me sens mal à l’aise."
+    },
+    {
+      "fr": "à l’aise",
+      "ipa": "a lɛz",
+      "en": "at ease",
+      "ex": "Mettez-vous à l’aise."
+    },
+    {
+      "fr": "s’entendre bien",
+      "ipa": "sɑ̃.tɑ̃dʁ",
+      "en": "to get on well",
+      "ex": "On s’entend très bien."
+    },
+    {
+      "fr": "un(e) proche",
+      "ipa": "pʁɔʃ",
+      "en": "a close relative or friend",
+      "ex": "Mes proches me soutiennent."
+    },
+    {
+      "fr": "soutenir",
+      "ipa": "su.tə.niʁ",
+      "en": "to support",
+      "ex": "Elle m’a beaucoup soutenu."
+    },
+    {
+      "fr": "un soutien",
+      "ipa": "su.tjɛ̃",
+      "en": "support",
+      "ex": "Merci de ton soutien."
+    },
+    {
+      "fr": "une rupture",
+      "ipa": "ʁyp.tyʁ",
+      "en": "a break-up",
+      "ex": "La rupture a été difficile."
+    },
+    {
+      "fr": "tomber amoureux",
+      "ipa": "a.mu.ʁø",
+      "en": "to fall in love",
+      "ex": "Il est tombé amoureux."
+    },
+    {
+      "fr": "un couple",
+      "ipa": "kupl",
+      "en": "a couple",
+      "ex": "Un couple heureux."
+    },
+    {
+      "fr": "la jalousie",
+      "ipa": "ʒa.lu.zi",
+      "en": "jealousy",
+      "ex": "Un peu de jalousie."
+    },
+    {
+      "fr": "l’amitié (f)",
+      "ipa": "a.mi.tje",
+      "en": "friendship",
+      "ex": "Une amitié de vingt ans."
+    },
+    {
+      "fr": "un lien",
+      "ipa": "ljɛ̃",
+      "en": "a bond",
+      "ex": "Un lien très fort."
+    },
+    {
+      "fr": "la solitude",
+      "ipa": "sɔ.li.tyd",
+      "en": "loneliness",
+      "ex": "La solitude lui pèse."
+    },
+    {
+      "fr": "se confier",
+      "ipa": "sə kɔ̃.fje",
+      "en": "to confide",
+      "ex": "Je me confie rarement."
+    },
+    {
+      "fr": "franchement",
+      "ipa": "fʁɑ̃ʃ.mɑ̃",
+      "en": "frankly",
+      "ex": "Franchement, ça m’étonne."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe le sentiment à sa situation.",
+      "labelLeft": "Français",
+      "labelRight": "Sens",
+      "pairs": [
+        [
+          "reconnaissant",
+          "on vous a rendu service"
+        ],
+        [
+          "frustré",
+          "on n’obtient pas ce qu’on veut"
+        ],
+        [
+          "nostalgique",
+          "on regrette une époque"
+        ],
+        [
+          "soulagé",
+          "le danger est passé"
+        ],
+        [
+          "mal à l’aise",
+          "la situation est gênante"
+        ]
+      ]
+    }
+  ]
+}

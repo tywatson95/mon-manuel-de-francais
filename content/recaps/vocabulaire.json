@@ -1,0 +1,60 @@
+{
+  "id": "vocabulaire",
+  "title": "Récap express — Vocabulaire",
+  "level": "B1",
+  "summary": "Comment ce thème est organisé, et comment l’utiliser pour réviser.",
+  "blocks": [
+    {
+      "level": "A1",
+      "title": "Comment ça marche",
+      "points": [
+        "Chaque thème a une **liste complète** (mot, prononciation, traduction, exemple) et un **paquet de cartes**.",
+        "Rien n’est enregistré : le marquage « je sais / à revoir » vit le temps de la session.",
+        "Le sens des cartes se retourne : **FR → EN** ou **EN → FR**.",
+        "Le bouton haut-parleur lit la phrase d’exemple en français."
+      ]
+    },
+    {
+      "level": "A1",
+      "title": "Les thèmes A1",
+      "points": [
+        "Salutations · nombres, dates et heure · famille · nationalités et professions · décrire une personne",
+        "Couleurs · nourriture et boissons · café et restaurant · maison et meubles · ville et directions",
+        "Vêtements · météo et saisons · routine · loisirs et sports · objets du quotidien"
+      ]
+    },
+    {
+      "level": "A2",
+      "title": "Les thèmes A2",
+      "points": [
+        "Voyage et transports · hôtels et vacances · santé et le corps · travail et métiers · études",
+        "Cuisine et recettes · logement · services du quotidien · sentiments · fêtes · médias · environnement"
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Les thèmes B1",
+      "points": [
+        "Candidature et entretien · médias et presse · technologie · incidents de voyage",
+        "Relations nuancées · argent et consommation · cinéma, livres et musique · société et engagement · santé et mode de vie"
+      ]
+    },
+    {
+      "level": "B2",
+      "title": "Les thèmes B2 (domaines du DELF)",
+      "points": [
+        "Politique et institutions · économie · environnement et climat · justice et droit · sciences",
+        "Santé et médecine · systèmes éducatifs · immigration · culture et arts · famille et mouvements sociaux · laïcité, histoire et mode de vie"
+      ]
+    },
+    {
+      "level": "B1",
+      "title": "Trois conseils de révision",
+      "points": [
+        "Commence par le sens **FR → EN** : c’est la reconnaissance. Passe à **EN → FR** quand tu veux produire.",
+        "Utilise le filtre « à revoir » pour ne travailler que la pile difficile.",
+        "Lis la phrase d’exemple à voix haute : un mot appris dans une phrase se retient mieux qu’un mot seul."
+      ]
+    }
+  ]
+}

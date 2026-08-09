@@ -1,0 +1,281 @@
+{
+  "id": "voc-a2-travail",
+  "title": "Travail & métiers",
+  "level": "A2",
+  "order": 240,
+  "summary": "Le monde du travail au quotidien.",
+  "items": [
+    {
+      "fr": "le travail",
+      "ipa": "tʁa.vaj",
+      "en": "work",
+      "ex": "Le travail commence à 9 h."
+    },
+    {
+      "fr": "un emploi",
+      "ipa": "ɑ̃.plwa",
+      "en": "a job",
+      "ex": "Il cherche un emploi."
+    },
+    {
+      "fr": "un poste",
+      "ipa": "pɔst",
+      "en": "a position",
+      "ex": "Un poste de responsable."
+    },
+    {
+      "fr": "un(e) collègue",
+      "ipa": "kɔ.lɛɡ",
+      "en": "a colleague",
+      "ex": "Mes collègues sont sympas."
+    },
+    {
+      "fr": "un(e) patron(ne)",
+      "ipa": "pa.tʁɔ̃",
+      "en": "a boss",
+      "ex": "Mon patron est exigeant."
+    },
+    {
+      "fr": "un(e) employé(e)",
+      "ipa": "ɑ̃.plwa.je",
+      "en": "an employee",
+      "ex": "L’entreprise a 50 employés."
+    },
+    {
+      "fr": "une entreprise",
+      "ipa": "ɑ̃.tʁə.pʁiz",
+      "en": "a company",
+      "ex": "Une entreprise familiale."
+    },
+    {
+      "fr": "un bureau",
+      "ipa": "by.ʁo",
+      "en": "an office, a desk",
+      "ex": "Je travaille au bureau."
+    },
+    {
+      "fr": "une réunion",
+      "ipa": "ʁe.y.njɔ̃",
+      "en": "a meeting",
+      "ex": "La réunion dure une heure."
+    },
+    {
+      "fr": "un contrat",
+      "ipa": "kɔ̃.tʁa",
+      "en": "a contract",
+      "ex": "J’ai signé mon contrat."
+    },
+    {
+      "fr": "un CDI",
+      "ipa": "se de i",
+      "en": "a permanent contract",
+      "ex": "Il a décroché un CDI."
+    },
+    {
+      "fr": "un CDD",
+      "ipa": "se de de",
+      "en": "a fixed-term contract",
+      "ex": "Un CDD de six mois."
+    },
+    {
+      "fr": "un stage",
+      "ipa": "staʒ",
+      "en": "an internship",
+      "ex": "Je fais un stage de trois mois."
+    },
+    {
+      "fr": "le salaire",
+      "ipa": "sa.lɛʁ",
+      "en": "the salary",
+      "ex": "Le salaire est correct."
+    },
+    {
+      "fr": "les horaires (m)",
+      "ipa": "ɔ.ʁɛʁ",
+      "en": "the hours",
+      "ex": "Les horaires sont flexibles."
+    },
+    {
+      "fr": "à temps plein",
+      "ipa": "tɑ̃ plɛ̃",
+      "en": "full-time",
+      "ex": "Je travaille à temps plein."
+    },
+    {
+      "fr": "à mi-temps",
+      "ipa": "mi tɑ̃",
+      "en": "part-time",
+      "ex": "Elle travaille à mi-temps."
+    },
+    {
+      "fr": "le télétravail",
+      "ipa": "te.le.tʁa.vaj",
+      "en": "remote work",
+      "ex": "Je fais du télétravail le vendredi."
+    },
+    {
+      "fr": "les congés (m)",
+      "ipa": "kɔ̃.ʒe",
+      "en": "leave, holidays",
+      "ex": "Je pose mes congés en août."
+    },
+    {
+      "fr": "un jour férié",
+      "ipa": "fe.ʁje",
+      "en": "a public holiday",
+      "ex": "Le 14 juillet est férié."
+    },
+    {
+      "fr": "une pause",
+      "ipa": "poz",
+      "en": "a break",
+      "ex": "On fait une pause ?"
+    },
+    {
+      "fr": "une tâche",
+      "ipa": "tɑʃ",
+      "en": "a task",
+      "ex": "J’ai plusieurs tâches à finir."
+    },
+    {
+      "fr": "un projet",
+      "ipa": "pʁɔ.ʒɛ",
+      "en": "a project",
+      "ex": "Le projet avance bien."
+    },
+    {
+      "fr": "une échéance",
+      "ipa": "e.ʃe.ɑ̃s",
+      "en": "a deadline",
+      "ex": "L’échéance est vendredi."
+    },
+    {
+      "fr": "un dossier",
+      "ipa": "do.sje",
+      "en": "a file",
+      "ex": "Le dossier est complet."
+    },
+    {
+      "fr": "une formation",
+      "ipa": "fɔʁ.ma.sjɔ̃",
+      "en": "training",
+      "ex": "Je suis une formation en ligne."
+    },
+    {
+      "fr": "une candidature",
+      "ipa": "kɑ̃.di.da.tyʁ",
+      "en": "an application",
+      "ex": "J’ai envoyé ma candidature."
+    },
+    {
+      "fr": "un CV",
+      "ipa": "se ve",
+      "en": "a CV",
+      "ex": "Mon CV tient sur une page."
+    },
+    {
+      "fr": "une lettre de motivation",
+      "ipa": "mo.ti.va.sjɔ̃",
+      "en": "a cover letter",
+      "ex": "La lettre de motivation est essentielle."
+    },
+    {
+      "fr": "un entretien",
+      "ipa": "ɑ̃.tʁə.tjɛ̃",
+      "en": "an interview",
+      "ex": "J’ai un entretien demain."
+    },
+    {
+      "fr": "embaucher",
+      "ipa": "ɑ̃.bo.ʃe",
+      "en": "to hire",
+      "ex": "Ils embauchent en septembre."
+    },
+    {
+      "fr": "démissionner",
+      "ipa": "de.mi.sjɔ.ne",
+      "en": "to resign",
+      "ex": "Il a démissionné hier."
+    },
+    {
+      "fr": "licencier",
+      "ipa": "li.sɑ̃.sje",
+      "en": "to lay off",
+      "ex": "L’usine a licencié 30 personnes."
+    },
+    {
+      "fr": "le chômage",
+      "ipa": "ʃo.maʒ",
+      "en": "unemployment",
+      "ex": "Le chômage a baissé."
+    },
+    {
+      "fr": "une augmentation",
+      "ipa": "oɡ.mɑ̃.ta.sjɔ̃",
+      "en": "a pay rise",
+      "ex": "J’ai demandé une augmentation."
+    },
+    {
+      "fr": "la retraite",
+      "ipa": "ʁə.tʁɛt",
+      "en": "retirement",
+      "ex": "Il part à la retraite en juin."
+    },
+    {
+      "fr": "une syndicat",
+      "ipa": "sɛ̃.di.ka",
+      "en": "a trade union",
+      "ex": "Le syndicat a appelé à la grève."
+    },
+    {
+      "fr": "une grève",
+      "ipa": "ɡʁɛv",
+      "en": "a strike",
+      "ex": "Il y a une grève des trains."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "Un contrat sans date de fin est un…",
+          "options": [
+            "CDD",
+            "CDI",
+            "stage"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Le document qui résume ton parcours :",
+          "options": [
+            "le CV",
+            "la lettre de motivation",
+            "le contrat"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Poser ses congés » signifie…",
+          "options": [
+            "démissionner",
+            "demander ses vacances",
+            "faire grève"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Le télétravail » se fait…",
+          "options": [
+            "au bureau",
+            "à distance",
+            "à l’étranger"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

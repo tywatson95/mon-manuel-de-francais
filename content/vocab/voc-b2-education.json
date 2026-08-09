@@ -1,0 +1,236 @@
+{
+  "id": "voc-b2-education",
+  "title": "Systèmes éducatifs",
+  "level": "B2",
+  "order": 570,
+  "summary": "L’école comme objet de débat.",
+  "items": [
+    {
+      "fr": "le système éducatif",
+      "ipa": "e.dy.ka.tif",
+      "en": "the education system",
+      "ex": "Un système éducatif inégalitaire."
+    },
+    {
+      "fr": "l’Éducation nationale",
+      "ipa": "e.dy.ka.sjɔ̃",
+      "en": "the state education system",
+      "ex": "L’Éducation nationale emploie un million de personnes."
+    },
+    {
+      "fr": "la scolarité",
+      "ipa": "skɔ.la.ʁi.te",
+      "en": "schooling",
+      "ex": "La scolarité est obligatoire jusqu’à 16 ans."
+    },
+    {
+      "fr": "un établissement",
+      "ipa": "e.ta.blis.mɑ̃",
+      "en": "an institution",
+      "ex": "Un établissement classé."
+    },
+    {
+      "fr": "le public / le privé",
+      "ipa": "py.blik",
+      "en": "state / private",
+      "ex": "Le débat public-privé."
+    },
+    {
+      "fr": "la carte scolaire",
+      "ipa": "kaʁt",
+      "en": "school catchment map",
+      "ex": "La carte scolaire est contestée."
+    },
+    {
+      "fr": "la mixité sociale",
+      "ipa": "mik.si.te",
+      "en": "social mix",
+      "ex": "Favoriser la mixité sociale."
+    },
+    {
+      "fr": "un programme",
+      "ipa": "pʁɔ.ɡʁam",
+      "en": "a curriculum",
+      "ex": "Les programmes sont réformés."
+    },
+    {
+      "fr": "un socle commun",
+      "ipa": "sɔkl",
+      "en": "a common core",
+      "ex": "Le socle commun de connaissances."
+    },
+    {
+      "fr": "une évaluation",
+      "ipa": "e.va.lɥa.sjɔ̃",
+      "en": "an assessment",
+      "ex": "Les évaluations nationales."
+    },
+    {
+      "fr": "un(e) enseignant(e)",
+      "ipa": "ɑ̃.sɛ.ɲɑ̃",
+      "en": "a teacher",
+      "ex": "Le métier d’enseignant attire moins."
+    },
+    {
+      "fr": "un(e) inspecteur(trice)",
+      "ipa": "ɛ̃s.pɛk.tœʁ",
+      "en": "an inspector",
+      "ex": "L’inspectrice a visité la classe."
+    },
+    {
+      "fr": "le décrochage scolaire",
+      "ipa": "de.kʁɔ.ʃaʒ",
+      "en": "dropping out",
+      "ex": "Lutter contre le décrochage scolaire."
+    },
+    {
+      "fr": "un redoublement",
+      "ipa": "ʁə.du.blə.mɑ̃",
+      "en": "repeating a year",
+      "ex": "Le redoublement est en recul."
+    },
+    {
+      "fr": "l’orientation (f)",
+      "ipa": "ɔ.ʁjɑ̃.ta.sjɔ̃",
+      "en": "career guidance",
+      "ex": "L’orientation se décide en seconde."
+    },
+    {
+      "fr": "une filière",
+      "ipa": "fi.ljɛʁ",
+      "en": "a stream, a track",
+      "ex": "La filière générale ou professionnelle."
+    },
+    {
+      "fr": "l’apprentissage (m)",
+      "ipa": "a.pʁɑ̃.ti.saʒ",
+      "en": "apprenticeship",
+      "ex": "L’apprentissage se développe."
+    },
+    {
+      "fr": "un(e) apprenti(e)",
+      "ipa": "a.pʁɑ̃.ti",
+      "en": "an apprentice",
+      "ex": "Un apprenti en pâtisserie."
+    },
+    {
+      "fr": "l’enseignement supérieur",
+      "ipa": "sy.pe.ʁjœʁ",
+      "en": "higher education",
+      "ex": "L’enseignement supérieur est saturé."
+    },
+    {
+      "fr": "une grande école",
+      "ipa": "ɡʁɑ̃.de.kɔl",
+      "en": "an elite school",
+      "ex": "Les grandes écoles recrutent sur concours."
+    },
+    {
+      "fr": "un concours",
+      "ipa": "kɔ̃.kuʁ",
+      "en": "a competitive exam",
+      "ex": "Un concours très sélectif."
+    },
+    {
+      "fr": "une classe préparatoire",
+      "ipa": "pʁe.pa.ʁa.twaʁ",
+      "en": "a preparatory class",
+      "ex": "Deux ans de classe préparatoire."
+    },
+    {
+      "fr": "la sélection",
+      "ipa": "se.lɛk.sjɔ̃",
+      "en": "selection",
+      "ex": "La sélection à l’entrée fait débat."
+    },
+    {
+      "fr": "la gratuité",
+      "ipa": "ɡʁa.tɥi.te",
+      "en": "free provision",
+      "ex": "La gratuité de l’école publique."
+    },
+    {
+      "fr": "une bourse",
+      "ipa": "buʁs",
+      "en": "a grant",
+      "ex": "Une bourse sur critères sociaux."
+    },
+    {
+      "fr": "l’égalité des chances",
+      "ipa": "e.ɡa.li.te",
+      "en": "equal opportunity",
+      "ex": "Promouvoir l’égalité des chances."
+    },
+    {
+      "fr": "la reproduction sociale",
+      "ipa": "ʁə.pʁɔ.dyk.sjɔ̃",
+      "en": "social reproduction",
+      "ex": "L’école reproduit les inégalités."
+    },
+    {
+      "fr": "l’illettrisme (m)",
+      "ipa": "i.le.tʁism",
+      "en": "functional illiteracy",
+      "ex": "L’illettrisme touche 7 % des adultes."
+    },
+    {
+      "fr": "la formation continue",
+      "ipa": "fɔʁ.ma.sjɔ̃",
+      "en": "lifelong learning",
+      "ex": "La formation continue des salariés."
+    },
+    {
+      "fr": "un diplôme reconnu",
+      "ipa": "di.plom",
+      "en": "a recognised qualification",
+      "ex": "Un diplôme reconnu par l’État."
+    },
+    {
+      "fr": "la laïcité à l’école",
+      "ipa": "la.i.si.te",
+      "en": "secularism in schools",
+      "ex": "La laïcité à l’école est un principe."
+    },
+    {
+      "fr": "une réforme",
+      "ipa": "ʁe.fɔʁm",
+      "en": "a reform",
+      "ex": "Une réforme contestée."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la bonne réponse.",
+      "items": [
+        {
+          "q": "« Le décrochage scolaire » désigne…",
+          "options": [
+            "l’abandon des études",
+            "le redoublement",
+            "le changement d’école"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "Une « classe préparatoire » prépare…",
+          "options": [
+            "au bac",
+            "aux concours des grandes écoles",
+            "à l’apprentissage"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« La carte scolaire » détermine…",
+          "options": [
+            "le programme",
+            "l’établissement selon le domicile",
+            "les notes"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

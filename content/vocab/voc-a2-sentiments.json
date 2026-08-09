@@ -1,0 +1,306 @@
+{
+  "id": "voc-a2-sentiments",
+  "title": "Sentiments & réactions",
+  "level": "A2",
+  "order": 290,
+  "summary": "Dire ce qu’on ressent.",
+  "items": [
+    {
+      "fr": "content(e)",
+      "ipa": "kɔ̃.tɑ̃",
+      "en": "pleased",
+      "ex": "Je suis content de te voir."
+    },
+    {
+      "fr": "heureux, heureuse",
+      "ipa": "ø.ʁø",
+      "en": "happy",
+      "ex": "Ils sont très heureux."
+    },
+    {
+      "fr": "triste",
+      "ipa": "tʁist",
+      "en": "sad",
+      "ex": "Elle est triste depuis hier."
+    },
+    {
+      "fr": "déçu(e)",
+      "ipa": "de.sy",
+      "en": "disappointed",
+      "ex": "Je suis un peu déçu."
+    },
+    {
+      "fr": "fâché(e)",
+      "ipa": "fa.ʃe",
+      "en": "angry",
+      "ex": "Il est fâché contre moi."
+    },
+    {
+      "fr": "en colère",
+      "ipa": "ɑ̃ kɔ.lɛʁ",
+      "en": "angry",
+      "ex": "Elle est en colère."
+    },
+    {
+      "fr": "inquiet, inquiète",
+      "ipa": "ɛ̃.kjɛ",
+      "en": "worried",
+      "ex": "Je suis inquiet pour lui."
+    },
+    {
+      "fr": "stressé(e)",
+      "ipa": "stʁe.se",
+      "en": "stressed",
+      "ex": "Je suis stressé avant l’examen."
+    },
+    {
+      "fr": "calme",
+      "ipa": "kalm",
+      "en": "calm",
+      "ex": "Reste calme."
+    },
+    {
+      "fr": "surpris(e)",
+      "ipa": "syʁ.pʁi",
+      "en": "surprised",
+      "ex": "J’ai été très surpris."
+    },
+    {
+      "fr": "étonné(e)",
+      "ipa": "e.tɔ.ne",
+      "en": "astonished",
+      "ex": "Elle a l’air étonnée."
+    },
+    {
+      "fr": "fatigué(e)",
+      "ipa": "fa.ti.ɡe",
+      "en": "tired",
+      "ex": "Je suis fatigué ce soir."
+    },
+    {
+      "fr": "soulagé(e)",
+      "ipa": "su.la.ʒe",
+      "en": "relieved",
+      "ex": "Je suis soulagé, tout va bien."
+    },
+    {
+      "fr": "gêné(e)",
+      "ipa": "ʒɛ.ne",
+      "en": "embarrassed",
+      "ex": "Il était très gêné."
+    },
+    {
+      "fr": "jaloux, jalouse",
+      "ipa": "ʒa.lu",
+      "en": "jealous",
+      "ex": "Elle est un peu jalouse."
+    },
+    {
+      "fr": "amoureux, amoureuse",
+      "ipa": "a.mu.ʁø",
+      "en": "in love",
+      "ex": "Il est amoureux d’elle."
+    },
+    {
+      "fr": "avoir peur",
+      "ipa": "a.vwaʁ pœʁ",
+      "en": "to be afraid",
+      "ex": "J’ai peur de l’avion."
+    },
+    {
+      "fr": "avoir honte",
+      "ipa": "a.vwaʁ ɔ̃t",
+      "en": "to be ashamed",
+      "ex": "J’ai honte de mon erreur."
+    },
+    {
+      "fr": "avoir envie de",
+      "ipa": "ɑ̃.vi",
+      "en": "to feel like",
+      "ex": "J’ai envie de sortir."
+    },
+    {
+      "fr": "avoir besoin de",
+      "ipa": "bə.zwɛ̃",
+      "en": "to need",
+      "ex": "J’ai besoin de repos."
+    },
+    {
+      "fr": "se sentir",
+      "ipa": "sə sɑ̃.tiʁ",
+      "en": "to feel",
+      "ex": "Je me sens mieux."
+    },
+    {
+      "fr": "s’ennuyer",
+      "ipa": "sɑ̃.nɥi.je",
+      "en": "to be bored",
+      "ex": "Je m’ennuie ici."
+    },
+    {
+      "fr": "s’inquiéter",
+      "ipa": "sɛ̃.kje.te",
+      "en": "to worry",
+      "ex": "Ne t’inquiète pas."
+    },
+    {
+      "fr": "se réjouir",
+      "ipa": "sə ʁe.ʒwiʁ",
+      "en": "to be delighted",
+      "ex": "Je me réjouis de te voir."
+    },
+    {
+      "fr": "rire",
+      "ipa": "ʁiʁ",
+      "en": "to laugh",
+      "ex": "On a beaucoup ri."
+    },
+    {
+      "fr": "pleurer",
+      "ipa": "plœ.ʁe",
+      "en": "to cry",
+      "ex": "Elle a pleuré de joie."
+    },
+    {
+      "fr": "sourire",
+      "ipa": "su.ʁiʁ",
+      "en": "to smile",
+      "ex": "Il m’a souri."
+    },
+    {
+      "fr": "la joie",
+      "ipa": "ʒwa",
+      "en": "joy",
+      "ex": "Une grande joie."
+    },
+    {
+      "fr": "la peur",
+      "ipa": "pœʁ",
+      "en": "fear",
+      "ex": "La peur du vide."
+    },
+    {
+      "fr": "la colère",
+      "ipa": "kɔ.lɛʁ",
+      "en": "anger",
+      "ex": "Une colère passagère."
+    },
+    {
+      "fr": "la tristesse",
+      "ipa": "tʁis.tɛs",
+      "en": "sadness",
+      "ex": "Une profonde tristesse."
+    },
+    {
+      "fr": "l’espoir (m)",
+      "ipa": "ɛs.pwaʁ",
+      "en": "hope",
+      "ex": "Il reste de l’espoir."
+    },
+    {
+      "fr": "un sentiment",
+      "ipa": "sɑ̃.ti.mɑ̃",
+      "en": "a feeling",
+      "ex": "C’est un sentiment étrange."
+    },
+    {
+      "fr": "une émotion",
+      "ipa": "e.mo.sjɔ̃",
+      "en": "an emotion",
+      "ex": "Quelle émotion !"
+    },
+    {
+      "fr": "ça m’énerve",
+      "ipa": "se.nɛʁv",
+      "en": "it annoys me",
+      "ex": "Ce bruit m’énerve."
+    },
+    {
+      "fr": "ça me fait plaisir",
+      "ipa": "plɛ.ziʁ",
+      "en": "it makes me happy",
+      "ex": "Ça me fait vraiment plaisir."
+    },
+    {
+      "fr": "c’est dommage",
+      "ipa": "dɔ.maʒ",
+      "en": "that’s a shame",
+      "ex": "C’est dommage que tu partes."
+    },
+    {
+      "fr": "tant mieux",
+      "ipa": "tɑ̃ mjø",
+      "en": "so much the better",
+      "ex": "Tant mieux pour toi !"
+    },
+    {
+      "fr": "tant pis",
+      "ipa": "tɑ̃ pi",
+      "en": "never mind",
+      "ex": "Tant pis, on fera autrement."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "paires",
+      "consigne": "Associe l’émotion à sa situation.",
+      "labelLeft": "Français",
+      "labelRight": "Anglais",
+      "pairs": [
+        [
+          "soulagé",
+          "le problème est réglé"
+        ],
+        [
+          "déçu",
+          "on attendait mieux"
+        ],
+        [
+          "inquiet",
+          "on a peur pour quelqu’un"
+        ],
+        [
+          "gêné",
+          "on est mal à l’aise"
+        ],
+        [
+          "étonné",
+          "on ne s’y attendait pas"
+        ]
+      ]
+    },
+    {
+      "type": "qcm",
+      "consigne": "Quelle expression ?",
+      "items": [
+        {
+          "q": "Ton ami a réussi son examen. Tu dis :",
+          "options": [
+            "Tant pis !",
+            "Tant mieux !",
+            "C’est dommage."
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« J’ai envie de… » exprime…",
+          "options": [
+            "un besoin",
+            "un désir",
+            "une peur"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "« Ne t’inquiète pas » veut dire…",
+          "options": [
+            "don’t worry",
+            "don’t move",
+            "don’t go"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

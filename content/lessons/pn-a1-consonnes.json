@@ -1,0 +1,176 @@
+{
+  "id": "pn-a1-consonnes",
+  "group": "prononciation",
+  "level": "A1",
+  "order": 140,
+  "title": "Les consonnes et les lettres muettes",
+  "summary": "Le h qu’on n’entend jamais, le r du fond de la gorge, et les finales silencieuses.",
+  "essentiel": [
+    "Le [fr]h[/fr] ne se prononce **jamais** — mais il existe un *h aspiré* qui bloque la liaison.",
+    "[fr]c[/fr] et [fr]g[/fr] changent de son devant [fr]e, i, y[/fr] : [fr]cinéma[/fr] {{s}}, [fr]girafe[/fr] {{ʒ}}.",
+    "[fr]ch[/fr] = {{ʃ}} · [fr]gn[/fr] = {{ɲ}} · [fr]qu[/fr] = {{k}} · [fr]th[/fr] = {{t}}."
+  ],
+  "regle": "**Le [fr]r[/fr] français.** Il ne ressemble à aucun *r* anglais. On le produit au fond de la gorge, comme un léger raclement. [fr]Paris[/fr] {{pa.ʁi}}, [fr]rouge[/fr] {{ʁuʒ}}. C’est le son qui « fait français » ; il vaut la peine d’y passer du temps.\n\n**Le [fr]h[/fr] muet.** Il ne se prononce jamais. [fr]hôtel[/fr] {{o.tɛl}}, [fr]heure[/fr] {{œʁ}}.\nMais attention : certains [fr]h[/fr] dits **aspirés** interdisent l’élision et la liaison.\n[fr]l’hôtel[/fr] ((h muet)) contre [fr]le héros[/fr] ((h aspiré — no *l’*))\nAutres mots à [fr]h[/fr] aspiré : [fr]le haricot, la haine, le hall, en haut, la Hollande[/fr].\n\n**[fr]c[/fr] et [fr]g[/fr] : deux sons chacun.**\n[fr]c[/fr] + a, o, u → {{k}} : [fr]café, corps, cuisine[/fr]\n[fr]c[/fr] + e, i, y → {{s}} : [fr]ce, cinéma, cygne[/fr]\n[fr]g[/fr] + a, o, u → {{ɡ}} : [fr]gare, gomme[/fr]\n[fr]g[/fr] + e, i, y → {{ʒ}} : [fr]genre, girafe[/fr]\n\nC’est exactement pour cela que [fr]ç[/fr] et le [fr]e[/fr] de [fr]nous mangeons[/fr] existent : ils rétablissent le son attendu.\n\n**Les groupes.**\n[fr]ch[/fr] → {{ʃ}} ((chat)) · [fr]gn[/fr] → {{ɲ}} ((montagne)) · [fr]qu[/fr] → {{k}} ((qui)) · [fr]ph[/fr] → {{f}} ((photo)) · [fr]th[/fr] → {{t}} ((thé)) · [fr]ill[/fr] → {{ij}} ((fille))\n\n**Les doubles consonnes** se prononcent comme une seule : [fr]elle[/fr] {{ɛl}}, [fr]donner[/fr] {{dɔ.ne}}.",
+  "exemples": [
+    {
+      "fr": "J’habite dans un hôtel près de la gare.",
+      "en": "I live in a hotel near the station."
+    },
+    {
+      "fr": "Le héros du film est très drôle.",
+      "en": "The hero of the film is very funny."
+    },
+    {
+      "fr": "Ce garçon cherche un cinéma.",
+      "en": "This boy is looking for a cinema."
+    },
+    {
+      "fr": "La montagne est magnifique.",
+      "en": "The mountain is magnificent."
+    },
+    {
+      "fr": "Un thé et une photo, s’il vous plaît.",
+      "en": "A tea and a photo, please."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Les groupes de consonnes",
+      "collapsed": false,
+      "headers": [
+        "Écrit",
+        "Son",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "ch",
+          "{{ʃ}}",
+          "chat, chercher"
+        ],
+        [
+          "gn",
+          "{{ɲ}}",
+          "montagne, gagner"
+        ],
+        [
+          "qu",
+          "{{k}}",
+          "qui, quatre"
+        ],
+        [
+          "ph",
+          "{{f}}",
+          "photo, pharmacie"
+        ],
+        [
+          "th",
+          "{{t}}",
+          "thé, théâtre"
+        ],
+        [
+          "ill",
+          "{{ij}}",
+          "fille, travailler"
+        ],
+        [
+          "h",
+          "—",
+          "hôtel *(jamais prononcé)*"
+        ],
+        [
+          "r",
+          "{{ʁ}}",
+          "rouge, Paris"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Comment se prononce la lettre soulignée ?",
+      "items": [
+        {
+          "q": "Le [fr]c[/fr] de « cinéma » se dit…",
+          "options": [
+            "{{k}}",
+            "{{s}}",
+            "{{ʃ}}"
+          ],
+          "answer": 1,
+          "why": "[fr]c[/fr] + [fr]i[/fr] → {{s}}."
+        },
+        {
+          "q": "Le [fr]g[/fr] de « gare » se dit…",
+          "options": [
+            "{{ɡ}}",
+            "{{ʒ}}",
+            "{{ɲ}}"
+          ],
+          "answer": 0,
+          "why": "[fr]g[/fr] + [fr]a[/fr] → {{ɡ}}."
+        },
+        {
+          "q": "Le [fr]h[/fr] de « hôtel » se prononce…",
+          "options": [
+            "comme en anglais",
+            "pas du tout",
+            "comme {{k}}"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Pourquoi dit-on « le héros » et non « l’héros » ?",
+          "options": [
+            "C’est un h aspiré.",
+            "C’est une faute.",
+            "Parce que c’est masculin."
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« fille » se prononce…",
+          "options": [
+            "{{fil}}",
+            "{{fij}}",
+            "{{fiʎ}}"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec « le », « la » ou « l’ ».",
+      "items": [
+        {
+          "before": "",
+          "after": " hôtel est complet.",
+          "answer": "L’",
+          "alt": [
+            "l’"
+          ],
+          "why": "[fr]h[/fr] muet → élision."
+        },
+        {
+          "before": "",
+          "after": " haricot vert est cuit.",
+          "answer": "Le",
+          "alt": [
+            "le"
+          ],
+          "why": "[fr]h[/fr] aspiré → pas d’élision."
+        },
+        {
+          "before": "",
+          "after": " heure du départ approche.",
+          "answer": "L’",
+          "alt": [
+            "l’"
+          ]
+        }
+      ]
+    }
+  ]
+}

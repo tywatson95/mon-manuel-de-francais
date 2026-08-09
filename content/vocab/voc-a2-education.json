@@ -1,0 +1,272 @@
+{
+  "id": "voc-a2-education",
+  "title": "Études & vie étudiante",
+  "level": "A2",
+  "order": 250,
+  "summary": "L’école, l’université et les examens.",
+  "items": [
+    {
+      "fr": "l’école (f)",
+      "ipa": "e.kɔl",
+      "en": "school",
+      "ex": "Les enfants vont à l’école."
+    },
+    {
+      "fr": "le collège",
+      "ipa": "kɔ.lɛʒ",
+      "en": "lower secondary school",
+      "ex": "Le collège dure quatre ans."
+    },
+    {
+      "fr": "le lycée",
+      "ipa": "li.se",
+      "en": "upper secondary school",
+      "ex": "Elle est au lycée."
+    },
+    {
+      "fr": "l’université (f)",
+      "ipa": "y.ni.vɛʁ.si.te",
+      "en": "university",
+      "ex": "J’étudie à l’université."
+    },
+    {
+      "fr": "la fac",
+      "ipa": "fak",
+      "en": "uni (informal)",
+      "ex": "Je vais à la fac le lundi."
+    },
+    {
+      "fr": "un(e) élève",
+      "ipa": "e.lɛv",
+      "en": "a pupil",
+      "ex": "Les élèves sont attentifs."
+    },
+    {
+      "fr": "un(e) étudiant(e)",
+      "ipa": "e.ty.djɑ̃",
+      "en": "a student",
+      "ex": "Je suis étudiante en droit."
+    },
+    {
+      "fr": "un(e) enseignant(e)",
+      "ipa": "ɑ̃.sɛ.ɲɑ̃",
+      "en": "a teacher",
+      "ex": "Les enseignants sont en grève."
+    },
+    {
+      "fr": "un cours",
+      "ipa": "kuʁ",
+      "en": "a class, a course",
+      "ex": "Le cours commence à 8 h."
+    },
+    {
+      "fr": "une matière",
+      "ipa": "ma.tjɛʁ",
+      "en": "a subject",
+      "ex": "Ma matière préférée est l’histoire."
+    },
+    {
+      "fr": "les mathématiques (f)",
+      "ipa": "ma.te.ma.tik",
+      "en": "maths",
+      "ex": "Les maths sont difficiles."
+    },
+    {
+      "fr": "l’histoire (f)",
+      "ipa": "is.twaʁ",
+      "en": "history",
+      "ex": "L’histoire me passionne."
+    },
+    {
+      "fr": "la géographie",
+      "ipa": "ʒe.ɔ.ɡʁa.fi",
+      "en": "geography",
+      "ex": "Un cours de géographie."
+    },
+    {
+      "fr": "les sciences (f)",
+      "ipa": "sjɑ̃s",
+      "en": "science",
+      "ex": "Il est fort en sciences."
+    },
+    {
+      "fr": "une langue vivante",
+      "ipa": "lɑ̃ɡ vi.vɑ̃t",
+      "en": "a modern language",
+      "ex": "Deux langues vivantes obligatoires."
+    },
+    {
+      "fr": "un examen",
+      "ipa": "ɛɡ.za.mɛ̃",
+      "en": "an exam",
+      "ex": "L’examen est en juin."
+    },
+    {
+      "fr": "un devoir",
+      "ipa": "də.vwaʁ",
+      "en": "homework, an assignment",
+      "ex": "Je fais mes devoirs."
+    },
+    {
+      "fr": "réviser",
+      "ipa": "ʁe.vi.ze",
+      "en": "to revise",
+      "ex": "Je révise pour l’examen."
+    },
+    {
+      "fr": "passer un examen",
+      "ipa": "pa.se",
+      "en": "to sit an exam",
+      "ex": "Je passe mon examen demain."
+    },
+    {
+      "fr": "réussir",
+      "ipa": "ʁe.y.siʁ",
+      "en": "to pass, to succeed",
+      "ex": "Elle a réussi son examen."
+    },
+    {
+      "fr": "rater, échouer",
+      "ipa": "ʁa.te",
+      "en": "to fail",
+      "ex": "J’ai raté l’examen."
+    },
+    {
+      "fr": "une note",
+      "ipa": "nɔt",
+      "en": "a mark",
+      "ex": "J’ai eu une bonne note."
+    },
+    {
+      "fr": "la moyenne",
+      "ipa": "mwa.jɛn",
+      "en": "the average, pass mark",
+      "ex": "Il faut 10 sur 20 pour avoir la moyenne."
+    },
+    {
+      "fr": "un diplôme",
+      "ipa": "di.plom",
+      "en": "a diploma",
+      "ex": "Elle a obtenu son diplôme."
+    },
+    {
+      "fr": "le baccalauréat, le bac",
+      "ipa": "bak",
+      "en": "the school-leaving exam",
+      "ex": "Il passe le bac en juin."
+    },
+    {
+      "fr": "une licence",
+      "ipa": "li.sɑ̃s",
+      "en": "a bachelor’s degree",
+      "ex": "Une licence de lettres."
+    },
+    {
+      "fr": "un master",
+      "ipa": "mas.tɛʁ",
+      "en": "a master’s",
+      "ex": "Il prépare un master."
+    },
+    {
+      "fr": "une bourse",
+      "ipa": "buʁs",
+      "en": "a grant",
+      "ex": "J’ai une bourse d’études."
+    },
+    {
+      "fr": "la rentrée",
+      "ipa": "ʁɑ̃.tʁe",
+      "en": "the start of the school year",
+      "ex": "La rentrée est le 2 septembre."
+    },
+    {
+      "fr": "les vacances scolaires",
+      "ipa": "va.kɑ̃s",
+      "en": "school holidays",
+      "ex": "Les vacances scolaires durent deux semaines."
+    },
+    {
+      "fr": "une salle de classe",
+      "ipa": "sal də klas",
+      "en": "a classroom",
+      "ex": "La salle de classe est au premier."
+    },
+    {
+      "fr": "un emploi du temps",
+      "ipa": "ɑ̃.plwa dy tɑ̃",
+      "en": "a timetable",
+      "ex": "Mon emploi du temps est chargé."
+    },
+    {
+      "fr": "une bibliothèque",
+      "ipa": "bi.bli.jɔ.tɛk",
+      "en": "a library",
+      "ex": "Je travaille à la bibliothèque."
+    },
+    {
+      "fr": "un(e) camarade de classe",
+      "ipa": "ka.ma.ʁad",
+      "en": "a classmate",
+      "ex": "Mes camarades de classe m’aident."
+    },
+    {
+      "fr": "une cité universitaire",
+      "ipa": "si.te",
+      "en": "student halls",
+      "ex": "Il vit en cité universitaire."
+    },
+    {
+      "fr": "s’inscrire",
+      "ipa": "sɛ̃s.kʁiʁ",
+      "en": "to enrol",
+      "ex": "Je me suis inscrit en septembre."
+    },
+    {
+      "fr": "assister à un cours",
+      "ipa": "a.sis.te",
+      "en": "to attend a class",
+      "ex": "J’assiste à tous les cours."
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Vrai ou faux ?",
+      "items": [
+        {
+          "q": "Le « bac » se passe à la fin du lycée.",
+          "options": [
+            "vrai",
+            "faux"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« La moyenne » en France est 10 sur 20.",
+          "options": [
+            "vrai",
+            "faux"
+          ],
+          "answer": 0
+        },
+        {
+          "q": "« Rater un examen » veut dire le réussir.",
+          "options": [
+            "vrai",
+            "faux"
+          ],
+          "answer": 1,
+          "why": "[fr]rater[/fr] = échouer."
+        },
+        {
+          "q": "« La rentrée » a lieu en septembre.",
+          "options": [
+            "vrai",
+            "faux"
+          ],
+          "answer": 0
+        }
+      ]
+    }
+  ]
+}

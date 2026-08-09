@@ -1,0 +1,150 @@
+{
+  "id": "co-b2-but",
+  "group": "connecteurs",
+  "level": "B2",
+  "order": 410,
+  "title": "Le but",
+  "summary": "Pour que, afin que, de peur que : dire dans quelle intention.",
+  "essentiel": [
+    "Toutes les conjonctions de but demandent le **subjonctif**.",
+    "Même sujet → préposition + **infinitif** : [fr]pour, afin de, en vue de, de peur de[/fr].",
+    "[fr]de peur que[/fr] et [fr]de crainte que[/fr] prennent souvent un [fr]ne[/fr] explétif."
+  ],
+  "regle": "Le but est toujours **non réalisé** au moment où l’on parle — c’est pourquoi il appelle le subjonctif.\n\n**Deux sujets → conjonction + subjonctif.**\n[fr]**pour que**[/fr] ((so that)) — le plus courant\n[fr]**afin que**[/fr] — équivalent soutenu\n[fr]**de sorte que**, **de manière que**, **de façon que**[/fr] + subjonctif — but ; + indicatif — conséquence\n[fr]**de peur que**, **de crainte que**[/fr] — but négatif\n\n[fr]Je t’explique tout **pour que** tu **comprennes**.[/fr]\n[fr]Parlez plus fort **afin que** chacun vous **entende**.[/fr]\n\n**Un seul sujet → préposition + infinitif.** C’est obligatoire, pas facultatif.\n[fr]Je travaille **pour** réussir.[/fr] ((not *pour que je réussisse*))\n[fr]afin de, en vue de, dans le but de, de peur de, histoire de[/fr] ((the last one is colloquial))\n\n**Le [fr]ne[/fr] explétif.** Après [fr]de peur que[/fr], [fr]de crainte que[/fr], [fr]avant que[/fr], [fr]à moins que[/fr], on ajoute souvent un [fr]ne[/fr] qui **n’est pas une négation**.\n[fr]Je pars tôt **de peur qu’**il **n’**y **ait** des embouteillages.[/fr]\nCe [fr]ne[/fr] est facultatif et appartient au registre soigné.\n\n**Le but négatif direct** : [fr]pour ne pas[/fr] + infinitif → [fr]Je chuchote **pour ne pas** réveiller le bébé.[/fr]",
+  "exemples": [
+    {
+      "fr": "Je vous écris afin que vous soyez informés.",
+      "en": "I am writing so that you are informed."
+    },
+    {
+      "fr": "Elle économise pour pouvoir acheter un appartement.",
+      "en": "She is saving in order to be able to buy a flat."
+    },
+    {
+      "fr": "Prends un parapluie de peur qu’il ne pleuve.",
+      "en": "Take an umbrella in case it rains."
+    },
+    {
+      "fr": "Il a parlé lentement de manière que tout le monde comprenne.",
+      "en": "He spoke slowly so that everyone would understand."
+    },
+    {
+      "fr": "J’ai baissé le son pour ne pas déranger les voisins.",
+      "en": "I turned the sound down so as not to disturb the neighbours."
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Le but : deux sujets ou un seul",
+      "collapsed": false,
+      "headers": [
+        "Deux sujets (+ subjonctif)",
+        "Un seul sujet (+ infinitif)"
+      ],
+      "rows": [
+        [
+          "pour que",
+          "pour"
+        ],
+        [
+          "afin que",
+          "afin de"
+        ],
+        [
+          "de sorte que",
+          "de sorte à *(rare)*"
+        ],
+        [
+          "de peur que",
+          "de peur de"
+        ],
+        [
+          "de crainte que",
+          "de crainte de"
+        ],
+        [
+          "—",
+          "en vue de, dans le but de"
+        ]
+      ]
+    }
+  ],
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis la construction correcte.",
+      "items": [
+        {
+          "q": "Je te préviens pour que tu ___ te préparer.",
+          "options": [
+            "peux",
+            "puisses",
+            "pourras"
+          ],
+          "answer": 1,
+          "why": "[fr]pour que[/fr] → subjonctif."
+        },
+        {
+          "q": "Je travaille dur ___ réussir.",
+          "options": [
+            "pour que je",
+            "pour",
+            "afin que"
+          ],
+          "answer": 1,
+          "why": "Un seul sujet → infinitif."
+        },
+        {
+          "q": "Parlez fort afin que tout le monde vous ___ .",
+          "options": [
+            "entend",
+            "entende",
+            "entendra"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "Il est parti tôt de peur qu’il n’y ___ du monde.",
+          "options": [
+            "a",
+            "ait",
+            "aura"
+          ],
+          "answer": 1,
+          "why": "Subjonctif ; le [fr]ne[/fr] est explétif, pas négatif."
+        },
+        {
+          "q": "« Il parle lentement de sorte qu’on le comprend. » exprime…",
+          "options": [
+            "un but",
+            "une conséquence",
+            "une cause"
+          ],
+          "answer": 1,
+          "why": "Avec l’indicatif, [fr]de sorte que[/fr] exprime la conséquence."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète.",
+      "items": [
+        {
+          "before": "Je t’appelle ",
+          "after": " que tu sois au courant.",
+          "answer": "pour"
+        },
+        {
+          "before": "Elle révise ",
+          "after": " de réussir son examen.",
+          "answer": "afin"
+        },
+        {
+          "before": "Il chuchote pour ne ",
+          "after": " réveiller l’enfant.",
+          "answer": "pas"
+        }
+      ]
+    }
+  ]
+}
