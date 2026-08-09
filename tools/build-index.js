@@ -91,7 +91,7 @@ verbs.forEach(v => {
   docs.push({
     kind: 'verb', href: '#/verbe/' + s,
     title: (v.refl ? 'se ' : '') + v.inf,
-    level: v.lvl, sub: v.en, body: ''
+    level: v.lvl, sub: v.en, body: plain(v.def || '')
   });
 });
 

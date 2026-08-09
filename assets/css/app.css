@@ -696,6 +696,24 @@ details.fold > summary:hover { color: var(--text); }
   background: var(--bg-sunk); color: var(--text-2); border: 1px solid var(--line-soft);
 }
 
+.verb-def {
+  max-width: 62ch; margin: var(--sp-4) 0 0;
+  padding-left: var(--sp-4);
+  border-left: 3px solid color-mix(in srgb, var(--accent) 45%, transparent);
+  font-size: 17px; line-height: 1.6; color: var(--text);
+}
+.verb-en {
+  display: flex; align-items: baseline; gap: var(--sp-2);
+  margin: var(--sp-3) 0 0; padding-left: calc(var(--sp-4) + 3px);
+  font-size: 13.5px; color: var(--text-3);
+}
+.verb-en-label {
+  flex: 0 0 auto;
+  font-size: 10.5px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
+  color: var(--text-2); background: var(--bg-sunk);
+  border-radius: var(--radius-s); padding: 1px 6px;
+}
+
 .tense-grid { display: grid; gap: var(--sp-3); grid-template-columns: repeat(auto-fill, minmax(268px, 1fr)); }
 .tense {
   background: var(--surface); border: 1px solid var(--line-soft);

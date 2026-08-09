@@ -406,9 +406,9 @@
       var list = verbs.filter(function (v) {
         if (lvl && v.lvl !== lvl) return false;
         if (!needle) return true;
-        return U.fold(v.inf).indexOf(needle) === 0
-            || U.fold(v.inf).indexOf(needle) > -1
-            || U.fold(v.en || '').indexOf(needle) > -1;
+        return U.fold(v.inf).indexOf(needle) > -1
+            || U.fold(v.en || '').indexOf(needle) > -1
+            || U.fold(v.def || '').indexOf(needle) > -1;
       });
       list.sort(function (a, b) {
         var an = U.fold(a.inf).indexOf(needle) === 0 ? 0 : 1;
@@ -417,7 +417,7 @@
       });
       hits.innerHTML = '';
       list.slice(0, 200).forEach(function (v) {
-        hits.appendChild(el('a', { class: 'verb-hit', href: '#/verbe/' + w.Verbs.slug(v) }, [
+        hits.appendChild(el('a', { class: 'verb-hit', href: '#/verbe/' + w.Verbs.slug(v), title: v.def || '' }, [
           U.levelTag(v.lvl),
           el('span', { class: 'vh-inf', lang: 'fr', text: (v.refl ? 'se ' : '') + v.inf }),
           el('span', { class: 'vh-en', text: v.en })
@@ -489,11 +489,16 @@
         ]),
         el('div', { class: 'verb-meta' }, [
           U.levelTag(v.lvl, true),
-          el('span', { text: v.en }),
           v.ipa ? el('span', { class: 'ipa', text: '/' + v.ipa + '/' }) : null,
           el('span', { class: 'verb-badge', lang: 'fr', text: w.Verbs.familyLabel(v) }),
           el('span', { class: 'verb-badge', lang: 'fr', text: 'auxiliaire : ' + (v.refl ? 'être' : (v.aux || 'avoir')) })
-        ])
+        ]),
+        // Définition en français d'abord ; l'anglais reste une simple note (§ demande du propriétaire).
+        v.def ? el('p', { class: 'verb-def', lang: 'fr', html: U.inline(v.def) }) : null,
+        v.en ? el('p', { class: 'verb-en' }, [
+          el('span', { class: 'verb-en-label', text: 'en anglais' }),
+          el('span', { lang: 'en', text: v.en })
+        ]) : null
       ])
     ]));
 
