@@ -169,29 +169,29 @@
     },
     {
       "type": "paires",
-      "consigne": "Associe le cas à sa règle.",
+      "consigne": "Associe chaque cas à la règle qui s’applique.",
       "labelLeft": "Cas",
       "labelRight": "Règle",
       "pairs": [
         [
           "nous avons",
-          "obligatoire"
+          "pronom + verbe → obligatoire"
         ],
         [
           "et une femme",
-          "interdite"
+          "après « et » → interdite"
         ],
         [
           "en haut",
-          "interdite"
+          "h aspiré → interdite"
         ],
         [
           "pas encore",
-          "facultative"
+          "adverbe + adverbe → facultative"
         ],
         [
           "très important",
-          "obligatoire"
+          "après « très » → obligatoire"
         ]
       ]
     }

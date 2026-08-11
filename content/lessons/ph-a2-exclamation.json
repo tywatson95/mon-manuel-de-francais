@@ -1,0 +1,298 @@
+{
+  "id": "ph-a2-exclamation",
+  "group": "phrase",
+  "level": "A2",
+  "order": 204,
+  "title": "L’exclamation",
+  "summary": "Quel dommage ! Comme c’est beau ! Qu’est-ce qu’il fait chaud !",
+  "essentiel": [
+    "[fr]**Quel** + nom[/fr], accordé et **sans article** : [fr]**Quelle** chance ! · **Quel** dommage ![/fr]",
+    "[fr]**Comme**[/fr] ou [fr]**Qu’est-ce que**[/fr] + phrase : [fr]Comme c’est beau ! · **Qu’est-ce qu’**il fait chaud ![/fr]",
+    "Le registre monte avec la forme : [fr]Ce que…[/fr] ((familier)) → [fr]Qu’est-ce que…[/fr] ((courant)) → [fr]Que…[/fr] ((soutenu))."
+  ],
+  "regle": "L’exclamation transforme une phrase neutre en réaction. Le français a deux grandes familles de tournures.\n\n**1 · S’exclamer sur un nom : [fr]quel[/fr].**\nLe même [fr]quel[/fr] que l’interrogatif, accordé, mais **sans article** après lui :\n[fr]**Quel** dommage ! · **Quelle** bonne idée ! · **Quels** idiots ! · **Quelle** belle journée ![/fr]\nOn ne dit jamais « quelle une belle journée ».\n\nVariante soutenue avec une quantité : [fr]**Que de** monde ! · **Que de** temps perdu ![/fr]\n\n**2 · S’exclamer sur une phrase entière.** Quatre tournures, même sens, registres différents :\n\n- [fr]**Comme** il fait chaud ![/fr] — neutre, toujours correct, écrit comme oral.\n- [fr]**Qu’est-ce qu’**il fait chaud ![/fr] — la forme de la conversation courante. C’est la même machinerie que la question [fr]qu’est-ce que…?[/fr], mais l’intonation **descend** au lieu de monter.\n- [fr]**Ce qu’**il fait chaud ![/fr] — familier.\n- [fr]**Qu’**il fait chaud ![/fr] — soutenu, littéraire.\n\n**3 · L’intonation fait tout.** À l’oral, [fr]Qu’est-ce que tu manges ?[/fr] ((question — voice up)) et [fr]Qu’est-ce que tu manges ![/fr] ((exclamation: *you eat so much!* — voice down)) ne se distinguent que par la mélodie. À l’écrit, c’est le point d’exclamation qui tranche.\n\n**4 · Les petites exclamations toutes faites.** Elles portent la conversation :\n[fr]Ça alors ! · Oh là là ! · Pas possible ! · Tant mieux ! · Tant pis ! · Bravo ! · Chapeau ![/fr] ((hats off!)) [fr]· N’importe quoi ![/fr] ((nonsense!))",
+  "exemples": [
+    {
+      "fr": "Quelle bonne surprise !",
+      "en": "What a nice surprise!"
+    },
+    {
+      "fr": "Quel temps horrible !",
+      "en": "What horrible weather!"
+    },
+    {
+      "fr": "Comme c’est gentil d’être venu !",
+      "en": "How kind of you to come!"
+    },
+    {
+      "fr": "Qu’est-ce qu’il fait chaud aujourd’hui !",
+      "en": "It’s so hot today!"
+    },
+    {
+      "fr": "Qu’est-ce que tu as grandi !",
+      "en": "How you’ve grown!"
+    },
+    {
+      "fr": "Que de monde ce matin !",
+      "en": "What a crowd this morning!"
+    },
+    {
+      "fr": "Ce que c’est bon !",
+      "en": "This is so good! (informal)"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "La même idée, du plus familier au plus soutenu",
+      "collapsed": false,
+      "headers": [
+        "Registre",
+        "Tournure",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "familier",
+          "Ce que + phrase",
+          "Ce qu’il fait chaud !"
+        ],
+        [
+          "courant (oral)",
+          "Qu’est-ce que + phrase",
+          "Qu’est-ce qu’il fait chaud !"
+        ],
+        [
+          "neutre",
+          "Comme + phrase",
+          "Comme il fait chaud !"
+        ],
+        [
+          "soutenu",
+          "Que + phrase",
+          "Qu’il fait chaud !"
+        ],
+        [
+          "sur un nom",
+          "Quel(le)(s) + nom",
+          "Quelle chaleur !"
+        ],
+        [
+          "quantité, soutenu",
+          "Que de + nom",
+          "Que de chaleur !"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : la canicule",
+    "lines": [
+      {
+        "who": "Emma",
+        "fr": "Qu’est-ce qu’il fait chaud aujourd’hui !",
+        "en": "It’s so hot today!"
+      },
+      {
+        "who": "Lucas",
+        "fr": "Ah oui, quelle chaleur ! On annonce trente-huit degrés.",
+        "en": "Oh yes, what heat! They’re forecasting thirty-eight degrees."
+      },
+      {
+        "who": "Emma",
+        "fr": "Trente-huit ! Ce n’est pas possible !",
+        "en": "Thirty-eight! That’s unbelievable!"
+      },
+      {
+        "who": "Lucas",
+        "fr": "Viens, il y a de l’ombre au parc. Comme c’est agréable ici !",
+        "en": "Come on, there’s shade in the park. How pleasant it is here!"
+      },
+      {
+        "who": "Emma",
+        "fr": "Que de monde ! Tout le quartier a eu la même idée.",
+        "en": "What a crowd! The whole neighbourhood had the same idea."
+      },
+      {
+        "who": "Lucas",
+        "fr": "Tant pis, on s’assoit dans l’herbe. Quelle bonne idée, ce parc !",
+        "en": "Never mind, we’ll sit on the grass. What a good idea this park was!"
+      }
+    ],
+    "check": {
+      "q": "« Qu’est-ce qu’il fait chaud ! » est…",
+      "options": [
+        "une exclamation : l’intonation descend.",
+        "une question : l’intonation monte.",
+        "une négation."
+      ],
+      "answer": 0,
+      "why": "Même forme que la question, mais la mélodie descend et l’écrit prend un point d’exclamation."
+    }
+  },
+  "culture": {
+    "icon": "⌨️",
+    "title": "L’espace avant le point d’exclamation",
+    "text": "En typographie française, [fr]![/fr], [fr]?[/fr], [fr]:[/fr] et [fr];[/fr] sont précédés d’une espace (idéalement insécable) : [fr]Quelle chance ![/fr] C’est un des signes les plus sûrs qu’un texte a été écrit — ou non — par un francophone."
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Choisis l’exclamation correcte.",
+      "items": [
+        {
+          "q": "Comment dire « What a shame! » ?",
+          "options": [
+            "Quel dommage !",
+            "Quelle dommage !",
+            "Quel un dommage !"
+          ],
+          "answer": 0,
+          "why": "[fr]dommage[/fr] est masculin, et jamais d’article après [fr]quel[/fr]."
+        },
+        {
+          "q": "Comment dire « What a beautiful house! » ?",
+          "options": [
+            "Quelle belle maison !",
+            "Quel belle maison !",
+            "Comme belle maison !"
+          ],
+          "answer": 0,
+          "why": "[fr]maison[/fr] est féminin → [fr]quelle[/fr] ; [fr]comme[/fr] exige une phrase complète."
+        },
+        {
+          "q": "La forme la plus courante à l’oral :",
+          "options": [
+            "Qu’il fait froid !",
+            "Qu’est-ce qu’il fait froid !",
+            "Que de froid !"
+          ],
+          "answer": 1
+        },
+        {
+          "q": "La forme la plus soutenue :",
+          "options": [
+            "Ce que c’est beau !",
+            "Qu’est-ce que c’est beau !",
+            "Que c’est beau !"
+          ],
+          "answer": 2
+        },
+        {
+          "q": "« Qu’est-ce que tu as changé ! » exprime…",
+          "options": [
+            "une exclamation admirative",
+            "une vraie question",
+            "un reproche obligatoire"
+          ],
+          "answer": 0,
+          "why": "Point d’exclamation + intonation descendante : *how you’ve changed!*"
+        },
+        {
+          "q": "« ___ monde dans ce magasin ! » (soutenu)",
+          "options": [
+            "Que de",
+            "Quel",
+            "Comme"
+          ],
+          "answer": 0,
+          "why": "[fr]que de + nom[/fr] : la quantité."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec la forme de « quel » accordée.",
+      "items": [
+        {
+          "before": "",
+          "after": " chance tu as ! (féminin)",
+          "answer": "Quelle",
+          "alt": [
+            "quelle"
+          ]
+        },
+        {
+          "before": "",
+          "after": " beau jardin ! (masculin)",
+          "answer": "Quel",
+          "alt": [
+            "quel"
+          ]
+        },
+        {
+          "before": "",
+          "after": " histoires compliquées ! (féminin pluriel)",
+          "answer": "Quelles",
+          "alt": [
+            "quelles"
+          ]
+        },
+        {
+          "before": "",
+          "after": " menteurs, ces deux-là ! (masculin pluriel)",
+          "answer": "Quels",
+          "alt": [
+            "quels"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe l’exclamation à son registre.",
+      "labelLeft": "Exclamation",
+      "labelRight": "Registre",
+      "pairs": [
+        [
+          "Ce qu’il est drôle !",
+          "familier"
+        ],
+        [
+          "Qu’est-ce qu’il est drôle !",
+          "courant, oral"
+        ],
+        [
+          "Comme il est drôle !",
+          "neutre"
+        ],
+        [
+          "Qu’il est drôle !",
+          "soutenu"
+        ]
+      ]
+    },
+    {
+      "type": "ordre",
+      "consigne": "Reconstruis l’exclamation.",
+      "items": [
+        {
+          "tokens": [
+            "Qu’est-ce",
+            "qu’il",
+            "fait",
+            "chaud",
+            "aujourd’hui"
+          ],
+          "answer": "Qu’est-ce qu’il fait chaud aujourd’hui"
+        },
+        {
+          "tokens": [
+            "Quelle",
+            "bonne",
+            "idée"
+          ],
+          "answer": "Quelle bonne idée"
+        },
+        {
+          "tokens": [
+            "Comme",
+            "c’est",
+            "joli",
+            "ici"
+          ],
+          "answer": "Comme c’est joli ici"
+        }
+      ]
+    }
+  ]
+}

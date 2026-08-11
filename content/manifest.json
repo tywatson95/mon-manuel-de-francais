@@ -250,6 +250,22 @@
       "order": 170
     },
     {
+      "id": "ph-a2-quel-lequel",
+      "title": "Quel ou lequel ?",
+      "summary": "Deux interrogatifs pour choisir : l’adjectif qui accompagne le nom, le pronom qui le remplace.",
+      "group": "phrase",
+      "level": "A2",
+      "order": 202
+    },
+    {
+      "id": "ph-a2-exclamation",
+      "title": "L’exclamation",
+      "summary": "Quel dommage ! Comme c’est beau ! Qu’est-ce qu’il fait chaud !",
+      "group": "phrase",
+      "level": "A2",
+      "order": 204
+    },
+    {
       "id": "cm-a2-achats",
       "title": "Faire des achats : tailles, essayage, retours",
       "summary": "Acheter, essayer, changer d’avis — le vocabulaire du magasin.",

@@ -209,12 +209,12 @@
         {
           "q": "Tu ___ combien ?",
           "options": [
+            "paies",
             "paie",
-            "payes bien",
-            "paies"
+            "payons"
           ],
           "answer": 0,
-          "why": "[fr]payer[/fr] → [fr]je paie / tu paies[/fr]. Ici, avec [fr]tu[/fr], on écrirait [fr]paies[/fr] ; la forme donnée est celle de [fr]il[/fr]."
+          "why": "Avec [fr]tu[/fr], jamais sans -s : [fr]tu paies[/fr] (ou [fr]tu payes[/fr] — les deux orthographes existent)."
         },
         {
           "q": "Vous ___ le français.",

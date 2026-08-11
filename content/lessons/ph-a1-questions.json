@@ -128,19 +128,21 @@
         },
         {
           "tokens": [
-            "Parlez-",
-            "vous",
-            "français"
+            "Parlez-vous",
+            "français",
+            "couramment"
           ],
-          "answer": "Parlez- vous français"
+          "answer": "Parlez-vous français couramment"
         },
         {
           "tokens": [
-            "A-t-",
-            "il",
-            "téléphoné"
+            "A-t-il",
+            "téléphoné",
+            "ce",
+            "matin"
           ],
-          "answer": "A-t- il téléphoné"
+          "answer": "A-t-il téléphoné ce matin",
+          "why": "Le [fr]-t-[/fr] de liaison évite deux voyelles qui se suivent."
         }
       ]
     }

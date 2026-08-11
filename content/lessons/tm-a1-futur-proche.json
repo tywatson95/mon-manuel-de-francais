@@ -69,7 +69,7 @@
         },
         {
           "before": "Elle ne ",
-          "after": " pas ce film. (regarder)",
+          "after": " pas regarder ce film.",
           "answer": "va",
           "why": "[fr]ne[/fr] et [fr]pas[/fr] entourent seulement [fr]va[/fr]."
         }

@@ -1,0 +1,277 @@
+{
+  "id": "ph-a2-quel-lequel",
+  "group": "phrase",
+  "level": "A2",
+  "order": 202,
+  "title": "Quel ou lequel ?",
+  "summary": "Deux interrogatifs pour choisir : l’adjectif qui accompagne le nom, le pronom qui le remplace.",
+  "essentiel": [
+    "[fr]**quel**[/fr] accompagne un **nom** et s’accorde : [fr]**Quelle** heure est-il ? · **Quels** livres ?[/fr]",
+    "[fr]**lequel**[/fr] **remplace** [fr]quel + nom[/fr] : [fr]— J’ai deux robes. — **Laquelle** ?[/fr]",
+    "Avec [fr]à[/fr] et [fr]de[/fr], [fr]lequel[/fr] se contracte : [fr]**auquel**, **duquel**, **auxquelles**…[/fr]"
+  ],
+  "regle": "Les deux mots posent la même question — *which?* — mais ne s’emploient jamais au même endroit.\n\n**[fr]quel[/fr] est un adjectif.** Il ne vit qu’avec un nom, et il s’accorde avec lui : [fr]quel, quelle, quels, quelles[/fr]. Les quatre formes se prononcent pareil {{kɛl}} — l’accord ne s’entend qu’à l’écrit.\n\nDeux positions :\n- devant le nom : [fr]**Quel** jour sommes-nous ? · **Quelle** taille faites-vous ? · **Quels** sont vos horaires ?[/fr]\n- avec [fr]être[/fr] : [fr]**Quelle** est votre adresse ? · **Quel** est le problème ?[/fr] ((the French pattern for *what is…?* with a noun))\n\n**[fr]lequel[/fr] est un pronom.** Il reprend un nom déjà mentionné ou évident, pour demander de **choisir dans un ensemble**. Il porte le genre et le nombre du nom qu’il remplace : [fr]lequel, laquelle, lesquels, lesquelles[/fr].\n\n[fr]— Passe-moi le tournevis. — **Lequel** ?[/fr] ((there are several))\n[fr]**Laquelle** de ces photos préfères-tu ?[/fr] ((lequel de + group))\n[fr]Tu prends **lequel** ?[/fr] ((informal — the word can go last, like the other question words))\n\n**Les contractions.** Comme l’article, [fr]lequel[/fr] fusionne avec [fr]à[/fr] et [fr]de[/fr] :\n[fr]Il y a deux projets. **Auquel** penses-tu ?[/fr] ((penser à))\n[fr]**Duquel** de ces livres parles-tu ?[/fr] ((parler de))\nSeul le féminin singulier reste libre : [fr]à laquelle, de laquelle[/fr].\n\n**L’erreur classique.** Employer [fr]quel[/fr] tout seul : « Quel préfères-tu ? » est impossible. Sans nom, il faut le pronom — [fr]**Lequel** préfères-tu ?[/fr] Le test : si le nom est dans la phrase, [fr]quel[/fr] ; s’il n’y est plus, [fr]lequel[/fr].",
+  "exemples": [
+    {
+      "fr": "Quelle est la différence entre les deux ?",
+      "en": "What is the difference between the two?"
+    },
+    {
+      "fr": "Quels jours es-tu libre ?",
+      "en": "Which days are you free?"
+    },
+    {
+      "fr": "Il y a trois menus. Lequel voulez-vous ?",
+      "en": "There are three set menus. Which one would you like?"
+    },
+    {
+      "fr": "Laquelle de ces valises est la tienne ?",
+      "en": "Which of these suitcases is yours?"
+    },
+    {
+      "fr": "Tu parles de quel film ? — Celui d’hier. — Ah, duquel ?",
+      "en": "Which film are you talking about? — Yesterday’s. — Ah, which one?"
+    },
+    {
+      "fr": "Auquel de tes frères ressembles-tu le plus ?",
+      "en": "Which of your brothers do you look like most?"
+    }
+  ],
+  "tableaux": [
+    {
+      "title": "Quel et lequel, forme par forme",
+      "collapsed": false,
+      "headers": [
+        "",
+        "masc. sing.",
+        "fém. sing.",
+        "masc. plur.",
+        "fém. plur."
+      ],
+      "rows": [
+        [
+          "adjectif (+ nom)",
+          "quel",
+          "quelle",
+          "quels",
+          "quelles"
+        ],
+        [
+          "pronom (seul)",
+          "lequel",
+          "laquelle",
+          "lesquels",
+          "lesquelles"
+        ],
+        [
+          "avec à",
+          "auquel",
+          "à laquelle",
+          "auxquels",
+          "auxquelles"
+        ],
+        [
+          "avec de",
+          "duquel",
+          "de laquelle",
+          "desquels",
+          "desquelles"
+        ]
+      ]
+    }
+  ],
+  "dialogue": {
+    "title": "Mini-dialogue : au magasin de vélos",
+    "lines": [
+      {
+        "who": "Cliente",
+        "fr": "Bonjour, je cherche un vélo de ville.",
+        "en": "Hello, I’m looking for a city bike."
+      },
+      {
+        "who": "Vendeur",
+        "fr": "Bien sûr. Quelle taille faites-vous ?",
+        "en": "Of course. What size are you?"
+      },
+      {
+        "who": "Cliente",
+        "fr": "Un mètre soixante-dix. Vous avez plusieurs modèles ?",
+        "en": "One metre seventy. Do you have several models?"
+      },
+      {
+        "who": "Vendeur",
+        "fr": "Trois. Lequel voulez-vous essayer ?",
+        "en": "Three. Which one would you like to try?"
+      },
+      {
+        "who": "Cliente",
+        "fr": "Le bleu. Et entre ces deux selles, laquelle est la plus confortable ?",
+        "en": "The blue one. And of these two saddles, which is the more comfortable?"
+      },
+      {
+        "who": "Vendeur",
+        "fr": "Celle-ci. Quel est votre budget, à peu près ?",
+        "en": "This one. What is your budget, roughly?"
+      }
+    ],
+    "check": {
+      "q": "Pourquoi le vendeur dit « Lequel voulez-vous essayer ? » et non « Quel » ?",
+      "options": [
+        "Le nom « modèle » n’est pas répété : il faut le pronom.",
+        "Parce que c’est plus poli.",
+        "Parce que « vélo » est masculin."
+      ],
+      "answer": 0,
+      "why": "Sans nom exprimé, [fr]quel[/fr] est impossible : on emploie [fr]lequel[/fr]."
+    }
+  },
+  "exercices": [
+    {
+      "type": "qcm",
+      "consigne": "Quel ou lequel ?",
+      "items": [
+        {
+          "q": "___ heure est-il ?",
+          "options": [
+            "Quelle",
+            "Laquelle",
+            "Quel"
+          ],
+          "answer": 0,
+          "why": "[fr]heure[/fr] est là, féminin → adjectif [fr]quelle[/fr]."
+        },
+        {
+          "q": "J’ai deux stylos. ___ veux-tu ?",
+          "options": [
+            "Quel",
+            "Lequel",
+            "Lesquels"
+          ],
+          "answer": 1,
+          "why": "Le nom n’est pas répété → pronom, masculin singulier."
+        },
+        {
+          "q": "___ est votre nationalité ?",
+          "options": [
+            "Quelle",
+            "Laquelle",
+            "Que"
+          ],
+          "answer": 0,
+          "why": "[fr]quel + être + nom[/fr] : le patron de *what is…?*."
+        },
+        {
+          "q": "___ de ces chansons préfères-tu ?",
+          "options": [
+            "Quelle",
+            "Laquelle",
+            "Lequel"
+          ],
+          "answer": 1,
+          "why": "[fr]lequel de + groupe[/fr], accordé avec [fr]chanson[/fr], féminin."
+        },
+        {
+          "q": "Il y a plusieurs bus. ___ penses-tu ? (penser à)",
+          "options": [
+            "Auquel",
+            "Duquel",
+            "À quel"
+          ],
+          "answer": 0,
+          "why": "[fr]à + lequel = auquel[/fr]."
+        },
+        {
+          "q": "___ documents faut-il apporter ?",
+          "options": [
+            "Quels",
+            "Lesquels",
+            "Quel"
+          ],
+          "answer": 0,
+          "why": "Le nom [fr]documents[/fr] est exprimé → adjectif, au pluriel."
+        },
+        {
+          "q": "Quelle phrase est correcte ?",
+          "options": [
+            "Lequel préfères-tu ?",
+            "Quel préfères-tu ?",
+            "Lequel film préfères-tu ?"
+          ],
+          "answer": 0,
+          "why": "Sans nom → [fr]lequel[/fr] ; avec nom → [fr]quel film[/fr]. On ne mélange pas."
+        }
+      ]
+    },
+    {
+      "type": "trou",
+      "consigne": "Complète avec la forme de « quel » ou de « lequel ».",
+      "items": [
+        {
+          "before": "",
+          "after": " âge as-tu ?",
+          "answer": "Quel",
+          "alt": [
+            "quel"
+          ],
+          "why": "[fr]âge[/fr] est masculin singulier."
+        },
+        {
+          "before": "",
+          "after": " sont tes chansons préférées ?",
+          "answer": "Quelles",
+          "alt": [
+            "quelles"
+          ],
+          "why": "[fr]chansons[/fr] : féminin pluriel."
+        },
+        {
+          "before": "Voici deux itinéraires. ",
+          "after": " est le plus rapide ?",
+          "answer": "Lequel",
+          "alt": [
+            "lequel"
+          ]
+        },
+        {
+          "before": "Il y a plusieurs offres. À ",
+          "after": " as-tu répondu ?",
+          "answer": "laquelle",
+          "why": "[fr]offre[/fr] est féminin : [fr]à laquelle[/fr] — pas de contraction au féminin singulier."
+        },
+        {
+          "before": "",
+          "after": " de ces gâteaux veux-tu goûter ? (masculin)",
+          "answer": "Auquel",
+          "alt": [
+            "auquel"
+          ],
+          "why": "[fr]goûter à[/fr] → [fr]auquel[/fr]."
+        }
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe la question à la situation.",
+      "labelLeft": "Question",
+      "labelRight": "Situation",
+      "pairs": [
+        [
+          "Quelle heure est-il ?",
+          "le nom est dans la question"
+        ],
+        [
+          "Lequel est le tien ?",
+          "le nom vient d’être mentionné"
+        ],
+        [
+          "Auxquelles as-tu participé ?",
+          "à + féminin pluriel"
+        ],
+        [
+          "Duquel parlez-vous ?",
+          "de + masculin singulier"
+        ]
+      ]
+    }
+  ]
+}

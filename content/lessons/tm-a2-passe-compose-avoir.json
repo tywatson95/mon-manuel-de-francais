@@ -228,7 +228,7 @@
         },
         {
           "before": "Je n’",
-          "after": " pas venir. (pouvoir)",
+          "after": " venir.",
           "answer": "ai pas pu",
           "why": "[fr]ne… pas[/fr] entoure l’auxiliaire : [fr]je n’ai pas pu[/fr]."
         }
@@ -301,12 +301,12 @@
         {
           "q": "Comment dire « We didn’t see him » ?",
           "options": [
-            "Nous n’avons pas vu.",
-            "Nous avons ne pas vu.",
-            "Nous n’avons vu pas."
+            "Nous ne l’avons pas vu.",
+            "Nous l’avons ne pas vu.",
+            "Nous ne l’avons vu pas."
           ],
           "answer": 0,
-          "why": "[fr]ne[/fr] + auxiliaire + [fr]pas[/fr] + participe."
+          "why": "[fr]ne[/fr] + pronom + auxiliaire + [fr]pas[/fr] + participe : [fr]Nous ne l’avons pas vu.[/fr]"
         }
       ]
     }

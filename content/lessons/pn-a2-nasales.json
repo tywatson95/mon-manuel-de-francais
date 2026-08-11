@@ -119,33 +119,21 @@
     },
     {
       "type": "paires",
-      "consigne": "Associe chaque mot à son son nasal.",
+      "consigne": "Associe les deux mots qui contiennent la même voyelle nasale.",
       "labelLeft": "Mot",
-      "labelRight": "Son",
+      "labelRight": "Même son",
       "pairs": [
         [
           "dans",
-          "{{ɑ̃}}"
+          "temps"
         ],
         [
           "vin",
-          "{{ɛ̃}}"
+          "pain"
         ],
         [
           "bon",
-          "{{ɔ̃}}"
-        ],
-        [
-          "temps",
-          "{{ɑ̃}}"
-        ],
-        [
-          "pain",
-          "{{ɛ̃}}"
-        ],
-        [
-          "nom",
-          "{{ɔ̃}}"
+          "nom"
         ]
       ]
     }
