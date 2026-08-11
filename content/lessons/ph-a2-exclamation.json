@@ -8,9 +8,9 @@
   "essentiel": [
     "[fr]**Quel** + nom[/fr], accordé et **sans article** : [fr]**Quelle** chance ! · **Quel** dommage ![/fr]",
     "[fr]**Comme**[/fr] ou [fr]**Qu’est-ce que**[/fr] + phrase : [fr]Comme c’est beau ! · **Qu’est-ce qu’**il fait chaud ![/fr]",
-    "Le registre monte avec la forme : [fr]Ce que…[/fr] ((familier)) → [fr]Qu’est-ce que…[/fr] ((courant)) → [fr]Que…[/fr] ((soutenu))."
+    "Registres : [fr]Ce que… / Qu’est-ce que…[/fr] ((familier, oral)) · [fr]Comme…[/fr] ((neutre, passe-partout)) · [fr]Que…[/fr] ((plus soigné, plutôt écrit))."
   ],
-  "regle": "L’exclamation transforme une phrase neutre en réaction. Le français a deux grandes familles de tournures.\n\n**1 · S’exclamer sur un nom : [fr]quel[/fr].**\nLe même [fr]quel[/fr] que l’interrogatif, accordé, mais **sans article** après lui :\n[fr]**Quel** dommage ! · **Quelle** bonne idée ! · **Quels** idiots ! · **Quelle** belle journée ![/fr]\nOn ne dit jamais « quelle une belle journée ».\n\nVariante soutenue avec une quantité : [fr]**Que de** monde ! · **Que de** temps perdu ![/fr]\n\n**2 · S’exclamer sur une phrase entière.** Quatre tournures, même sens, registres différents :\n\n- [fr]**Comme** il fait chaud ![/fr] — neutre, toujours correct, écrit comme oral.\n- [fr]**Qu’est-ce qu’**il fait chaud ![/fr] — la forme de la conversation courante. C’est la même machinerie que la question [fr]qu’est-ce que…?[/fr], mais l’intonation **descend** au lieu de monter.\n- [fr]**Ce qu’**il fait chaud ![/fr] — familier.\n- [fr]**Qu’**il fait chaud ![/fr] — soutenu, littéraire.\n\n**3 · L’intonation fait tout.** À l’oral, [fr]Qu’est-ce que tu manges ?[/fr] ((question — voice up)) et [fr]Qu’est-ce que tu manges ![/fr] ((exclamation: *you eat so much!* — voice down)) ne se distinguent que par la mélodie. À l’écrit, c’est le point d’exclamation qui tranche.\n\n**4 · Les petites exclamations toutes faites.** Elles portent la conversation :\n[fr]Ça alors ! · Oh là là ! · Pas possible ! · Tant mieux ! · Tant pis ! · Bravo ! · Chapeau ![/fr] ((hats off!)) [fr]· N’importe quoi ![/fr] ((nonsense!))",
+  "regle": "L’exclamation transforme une phrase neutre en réaction. Le français a deux grandes familles de tournures.\n\n**1 · S’exclamer sur un nom : [fr]quel[/fr].**\nLe même [fr]quel[/fr] que l’interrogatif, accordé, mais **sans article** après lui :\n[fr]**Quel** dommage ! · **Quelle** bonne idée ! · **Quels** idiots ! · **Quelle** belle journée ![/fr]\nOn ne dit jamais « quelle une belle journée ».\n\nVariante pour la quantité : [fr]**Que de** monde ! · **Que de** temps perdu ![/fr] ((la langue écrite connaît aussi [fr]Combien…![/fr], plus rare))\n\n**2 · S’exclamer sur une phrase entière.** Quatre tournures, même sens, registres différents :\n\n- [fr]**Comme** il fait chaud ![/fr] — neutre, toujours correct, écrit comme oral.\n- [fr]**Qu’est-ce qu’**il fait chaud ![/fr] — registre familier, et de loin la forme la plus fréquente de la conversation. C’est la même machinerie que la question [fr]qu’est-ce que…?[/fr], mais l’intonation **descend** au lieu de monter.\n- [fr]**Ce qu’**il fait chaud ![/fr] — familier.\n- [fr]**Qu’**il fait chaud ![/fr] — même valeur que [fr]comme[/fr], un peu plus soigné : c’est la forme qu’on rencontre davantage à l’écrit.\n\n**3 · L’intonation fait tout.** À l’oral, [fr]Qu’est-ce que tu manges ?[/fr] ((question — voice up)) et [fr]Qu’est-ce que tu manges ![/fr] ((exclamation: *you eat so much!* — voice down)) ne se distinguent que par la mélodie. À l’écrit, c’est le point d’exclamation qui tranche.\n\n**4 · Les petites exclamations toutes faites.** Elles portent la conversation :\n[fr]Ça alors ! · Oh là là ! · Pas possible ! · Tant mieux ! · Tant pis ! · Bravo ! · Chapeau ![/fr] ((hats off!)) [fr]· N’importe quoi ![/fr] ((nonsense!))",
   "exemples": [
     {
       "fr": "Quelle bonne surprise !",
@@ -57,17 +57,17 @@
           "Ce qu’il fait chaud !"
         ],
         [
-          "courant (oral)",
+          "familier, très courant à l’oral",
           "Qu’est-ce que + phrase",
           "Qu’est-ce qu’il fait chaud !"
         ],
         [
-          "neutre",
+          "neutre, passe-partout",
           "Comme + phrase",
           "Comme il fait chaud !"
         ],
         [
-          "soutenu",
+          "neutre, plus soigné (écrit)",
           "Que + phrase",
           "Qu’il fait chaud !"
         ],
@@ -77,7 +77,7 @@
           "Quelle chaleur !"
         ],
         [
-          "quantité, soutenu",
+          "quantité",
           "Que de + nom",
           "Que de chaleur !"
         ]
@@ -169,7 +169,7 @@
           "answer": 1
         },
         {
-          "q": "La forme la plus soutenue :",
+          "q": "La forme la plus soignée, typique de l’écrit :",
           "options": [
             "Ce que c’est beau !",
             "Qu’est-ce que c’est beau !",
@@ -249,15 +249,15 @@
         ],
         [
           "Qu’est-ce qu’il est drôle !",
-          "courant, oral"
+          "très courant à l’oral"
         ],
         [
           "Comme il est drôle !",
-          "neutre"
+          "neutre, passe-partout"
         ],
         [
           "Qu’il est drôle !",
-          "soutenu"
+          "plus soigné, plutôt écrit"
         ]
       ]
     },
