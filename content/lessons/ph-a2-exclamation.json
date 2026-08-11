@@ -10,7 +10,7 @@
     "[fr]**Comme**[/fr] ou [fr]**Qu’est-ce que**[/fr] + phrase : [fr]Comme c’est beau ! · **Qu’est-ce qu’**il fait chaud ![/fr]",
     "Registres : [fr]Ce que… / Qu’est-ce que…[/fr] ((familier, oral)) · [fr]Comme…[/fr] ((neutre, passe-partout)) · [fr]Que…[/fr] ((plus soigné, plutôt écrit))."
   ],
-  "regle": "L’exclamation transforme une phrase neutre en réaction. Le français a deux grandes familles de tournures.\n\n**1 · S’exclamer sur un nom : [fr]quel[/fr].**\nLe même [fr]quel[/fr] que l’interrogatif, accordé, mais **sans article** après lui :\n[fr]**Quel** dommage ! · **Quelle** bonne idée ! · **Quels** idiots ! · **Quelle** belle journée ![/fr]\nOn ne dit jamais « quelle une belle journée ».\n\nVariante pour la quantité : [fr]**Que de** monde ! · **Que de** temps perdu ![/fr] ((la langue écrite connaît aussi [fr]Combien…![/fr], plus rare))\n\n**2 · S’exclamer sur une phrase entière.** Quatre tournures, même sens, registres différents :\n\n- [fr]**Comme** il fait chaud ![/fr] — neutre, toujours correct, écrit comme oral.\n- [fr]**Qu’est-ce qu’**il fait chaud ![/fr] — registre familier, et de loin la forme la plus fréquente de la conversation. C’est la même machinerie que la question [fr]qu’est-ce que…?[/fr], mais l’intonation **descend** au lieu de monter.\n- [fr]**Ce qu’**il fait chaud ![/fr] — familier.\n- [fr]**Qu’**il fait chaud ![/fr] — même valeur que [fr]comme[/fr], un peu plus soigné : c’est la forme qu’on rencontre davantage à l’écrit.\n\n**3 · L’intonation fait tout.** À l’oral, [fr]Qu’est-ce que tu manges ?[/fr] ((question — voice up)) et [fr]Qu’est-ce que tu manges ![/fr] ((exclamation: *you eat so much!* — voice down)) ne se distinguent que par la mélodie. À l’écrit, c’est le point d’exclamation qui tranche.\n\n**4 · Les petites exclamations toutes faites.** Elles portent la conversation :\n[fr]Ça alors ! · Oh là là ! · Pas possible ! · Tant mieux ! · Tant pis ! · Bravo ! · Chapeau ![/fr] ((hats off!)) [fr]· N’importe quoi ![/fr] ((nonsense!))",
+  "regle": "L’exclamation transforme une phrase neutre en réaction. Le français a deux grandes familles de tournures.\n\n**1 · S’exclamer sur un nom : [fr]quel[/fr].**\nLe même [fr]quel[/fr] que l’interrogatif, accordé, mais **sans article** après lui :\n[fr]**Quel** dommage ! · **Quelle** bonne idée ! · **Quels** idiots ! · **Quelle** belle journée ![/fr]\nOn ne dit jamais « quelle une belle journée ».\n\nVariante pour la quantité : [fr]**Que de** monde ! · **Que de** temps perdu ![/fr] ((la langue écrite connaît aussi [fr]Combien…![/fr], plus rare))\n\n**2 · S’exclamer sur une phrase entière.** Quatre tournures, même sens, registres différents :\n\n- [fr]**Comme** il fait chaud ![/fr] — neutre, toujours correct, écrit comme oral.\n- [fr]**Qu’est-ce qu’**il fait chaud ![/fr] — registre familier, et de loin la forme la plus fréquente de la conversation. C’est la même machinerie que la question [fr]qu’est-ce que…?[/fr], mais l’intonation **descend** au lieu de monter.\n- [fr]**Ce qu’**il fait chaud ![/fr] — familier.\n- [fr]**Qu’**il fait chaud ![/fr] — même valeur que [fr]comme[/fr], un peu plus soigné : c’est la forme qu’on rencontre davantage à l’écrit.\n\n**3 · Le secret de lecture : traduis le bloc, pas les mots.** Mot à mot, [fr]Qu’est-ce qu’il fait chaud ![/fr] ne veut rien dire — *what is it that it makes hot* n’existe pas. La bonne lecture : le bloc de tête **entier** ([fr]qu’est-ce que, ce que, que, comme[/fr]) est un seul mot d’intensité, l’équivalent de l’anglais *SO* ou *how*.\n\n[fr]**Qu’est-ce qu’**il fait chaud ![/fr] = *it’s **SO** hot!*\n\nPourquoi ce détour ? L’anglais insiste en appuyant sur un mot ((*it’s **SO** hot*)) ; le français ne peut pas accentuer un mot au milieu d’une phrase, alors il colle son intensité **devant**. Et l’anglais fait déjà la même chose avec ses propres mots de question : ***What** a day! · **How** lovely!* Le tableau « décodeur » ci-dessous donne la clé de chaque tournure.\n\n**4 · L’intonation fait tout.** À l’oral, [fr]Qu’est-ce que tu manges ?[/fr] ((question — voice up)) et [fr]Qu’est-ce que tu manges ![/fr] ((exclamation: *you eat so much!* — voice down)) ne se distinguent que par la mélodie. À l’écrit, c’est le point d’exclamation qui tranche.\n\n**5 · Les petites exclamations toutes faites.** Ici, le sens littéral est un fossile — apprends directement le sens réel :\n[fr]Ça alors ![/fr] ((littéralement *that then!* → well I never!)) · [fr]Oh là là ![/fr] ((oh dear! — rien du « ooh-la-la » anglais : les Français le disent surtout pour les ennuis)) · [fr]Pas possible ![/fr] ((you’re kidding!)) · [fr]Tant mieux ![/fr] ((*so much better* → glad to hear it!)) · [fr]Tant pis ![/fr] ((*so much worse* → never mind, too bad)) · [fr]Chapeau ![/fr] ((*hat!* → hats off! — du geste de soulever son chapeau)) · [fr]N’importe quoi ![/fr] ((*no matter what* → nonsense!))\n\n[fr]Tant mieux[/fr] et [fr]tant pis[/fr] sont la paire réflexe de la conversation : la réponse standard à une bonne et à une mauvaise nouvelle.",
   "exemples": [
     {
       "fr": "Quelle bonne surprise !",
@@ -80,6 +80,47 @@
           "quantité",
           "Que de + nom",
           "Que de chaleur !"
+        ]
+      ]
+    },
+    {
+      "title": "Le décodeur : tu vois → lis-le comme",
+      "collapsed": false,
+      "headers": [
+        "Tu vois",
+        "Lis-le comme",
+        "Exemple"
+      ],
+      "rows": [
+        [
+          "Quel(le)… !",
+          "*What a…!*",
+          "Quel dommage ! → What a shame!"
+        ],
+        [
+          "Comme… !",
+          "*How…!*",
+          "Comme c’est beau ! → How beautiful!"
+        ],
+        [
+          "Que… !",
+          "*How…!* (plutôt écrit)",
+          "Qu’il fait chaud !"
+        ],
+        [
+          "Qu’est-ce que… !",
+          "***SO***",
+          "Qu’est-ce qu’il fait chaud ! → It’s SO hot!"
+        ],
+        [
+          "Ce que… !",
+          "***SO*** (familier)",
+          "Ce que c’est bon ! → It’s SO good!"
+        ],
+        [
+          "Que de… !",
+          "*So many / so much…!",
+          "Que de monde ! → So many people!"
         ]
       ]
     }
@@ -258,6 +299,34 @@
         [
           "Qu’il est drôle !",
           "plus soigné, plutôt écrit"
+        ]
+      ]
+    },
+    {
+      "type": "paires",
+      "consigne": "Associe l’exclamation toute faite à son vrai sens.",
+      "labelLeft": "Exclamation",
+      "labelRight": "Sens réel",
+      "pairs": [
+        [
+          "Tant mieux !",
+          "glad to hear it!"
+        ],
+        [
+          "Tant pis !",
+          "never mind"
+        ],
+        [
+          "Ça alors !",
+          "well I never!"
+        ],
+        [
+          "N’importe quoi !",
+          "nonsense!"
+        ],
+        [
+          "Chapeau !",
+          "hats off!"
         ]
       ]
     },
