@@ -99,7 +99,7 @@
 {"inf":"téléphoner","en":"to phone","def":"Communiquer avec quelqu’un au moyen du téléphone.","lvl":"A1","fam":"er","aux":"avoir"},
 {"inf":"visiter","en":"to visit (a place)","def":"Parcourir un lieu pour le découvrir ; se rendre auprès de quelqu’un.","lvl":"A1","fam":"er","aux":"avoir"},
 {"inf":"arriver","en":"to arrive","def":"Parvenir au terme d’un déplacement ; se produire, avoir lieu.","lvl":"A1","fam":"er","aux":"être"},
-{"inf":"entrer","en":"to go in","def":"Passer du dehors au dedans ; pénétrer dans un lieu.","lvl":"A1","fam":"er","aux":"être"},
+{"inf":"entrer","en":"to go in","def":"Passer du dehors au dedans ; pénétrer dans un lieu.","lvl":"A1","fam":"er","aux":"être","note":"Avec un objet direct il prend *avoir* : [fr]J’ai entré mon code.[/fr]"},
 {"inf":"rester","en":"to stay","def":"Demeurer dans un lieu ou dans un état ; ne pas partir.","lvl":"A1","fam":"er","aux":"être"},
 {"inf":"tomber","en":"to fall","def":"Être entraîné vers le sol par son poids ; perdre l’équilibre.","lvl":"A1","fam":"er","aux":"être"},
 {"inf":"rentrer","en":"to go home","def":"Revenir chez soi ; entrer de nouveau.","lvl":"A1","fam":"er","aux":"être","note":"Avec un objet direct il prend *avoir* : [fr]J’ai rentré le linge.[/fr]"},
